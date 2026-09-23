@@ -1,0 +1,31 @@
+body, td     { margin: 0px; padding: 0px; 
+
+background: rgb(11,7,255); /* Old browsers */
+background: -moz-linear-gradient(left, #0b07ff 0%, #5e59ff 40%, #ffffff 100%); /* FFox */
+background: -webkit-gradient(linear, left top, right top, color-stop(0%,rgba(11,7,255,1)), color-stop(40%,rgba(94,89,255,1)), color-stop(100%,rgba(255,255,255,1))); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(left,  rgba(11,7,255,1) 0%,rgba(94,89,255,1) 40%,rgba(255,255,255,1) 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(left,  rgba(11,7,255,1) 0%,rgba(94,89,255,1) 40%,rgba(255,255,255,1) 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(left,  rgba(11,7,255,1) 0%,rgba(94,89,255,1) 40%,rgba(255,255,255,1) 100%); /* IE10+ */
+background: linear-gradient(left,  rgba(11,7,255,1) 0%,rgba(94,89,255,1) 40%,rgba(255,255,255,1) 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#0b07ff', endColorstr='#ffffff',GradientType=1 ); /* IE6-9 */
+
+}
+               
+a            { font-family: Tahoma; font-size: 10pt }
+a:active     { font-family: Tahoma; font-size: 10pt; font-weight: bold; color: #0000FF; text-decoration: none }
+a:visited    { font-family: Tahoma; font-size: 10pt; font-weight: bold; color: #0000FF; text-decoration: none }
+a:link       { font-family: Tahoma; font-size: 10pt; font-weight: bold; color: #0000FF; text-decoration: none }    
+p            { font-family: Tahoma; font-size: 10pt }
+h1           { font-family: Tahoma; font-size: 10pt; font-weight: bold; 
+text-shadow: 3px 2px 2px #41f705; filter: dropshadow(color=#41f705, offx=3, offy=2); }
+
+li           { font-family: Tahoma; font-size: 10pt }
+
+#top         { position: fixed; text-align: center; width: 100%; border: 0px; background-color: green; top: 40px; z-index: 2; }
+
+#content     { position: absolute; top: 50px; left: 10%; width: 50%; text-align: justify; z-index: 1; }
+
+#links       { position: fixed; top: 115px; left: 7%; width: 130px; text-align: center; 
+			   background-color: white; border: 1px; border-color: black; padding: 0px 10px 0px 10px; }
+
+#wb1e27baddcc34a24f59661ef1b94d80c { margin-right: auto; margin-left: auto;	}
