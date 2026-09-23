@@ -1,0 +1,1678 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html><head><title>Bookmarks</title>
+
+<link rel="shortcut icon" href="images/checker.ico"/>
+<style type="text/css">
+<!--
+body, td		{margin-left: auto; margin-right: auto; font-family: Tahoma; font-size: 10pt;
+                background-color: #C6C691; text-align: center; margin: 0; padding: 0; }
+
+black-bold		{font-family: Tahoma; font-size: 10pt; text-decoration: none; font-weight: bold;
+				color:#000000 }
+
+white-bold		{font-family: Tahoma; font-size: 10pt; text-decoration: none; font-weight: bold;
+				color:#FFFFFF }
+
+small-text		{font-family: Tahoma; font-size: 7pt; text-decoration: none; margin-top:-20px }
+
+a               {font-family: Tahoma; font-size: 10pt }
+
+a:link			{font-family: Tahoma; font-size: 10pt; color: #0000FF; text-decoration: none; 
+				font-weight: bold }
+               
+a:visited		{font-family: Tahoma; font-size: 10pt; text-decoration: none; color: #0000FF; 
+				font-weight: bold }
+				
+#Content        {margin-left: auto; margin-right: auto; text-align: center; border: 0px solid #0066FF; padding: 5px; width: 650px; }
+
+#TableContainer {margin-left: auto; margin-right: auto; border: 0px solid #0066FF; padding: 5px; width: 890px; }
+
+#AnyDivIdName	{margin-left: auto; margin-right: auto; border: 1px solid #0066FF; padding: 5px; width: 800px; }
+
+#AnyDivIdName1	{margin-left: auto; margin-right: auto; border: 1px solid #0066FF; padding: 5px; width: 800px; }
+
+#AnyDivIdName2	{margin-left: auto; margin-right: auto; border: 1px solid #0066FF; padding: 5px; width: 800px; }
+
+#AnyDivIdName3	{margin-left: auto; margin-right: auto; border: 1px solid #0066FF; padding: 5px; width: 800px; }
+
+#AnyDivIdName4	{margin-left: auto; margin-right: auto; border: 1px solid #0066FF; padding: 5px; width: 800px; }
+
+#AnyDivIdName5	{margin-left: auto; margin-right: auto; border: 1px solid #0066FF; padding: 5px; width: 800px; }
+
+#AnyDivIdName6	{margin-left: auto; margin-right: auto; border: 1px solid #0066FF; padding: 5px; width: 800px; }
+
+#AnyDivIdName7	{margin-left: auto; margin-right: auto; border: 1px solid #0066FF; padding: 5px; width: 800px; }
+
+#AnyDivIdName8	{margin-left: auto; margin-right: auto; border: 1px solid #0066FF; padding: 5px; width: 800px; }
+
+#AnyDivIdName9	{margin-left: auto; margin-right: auto; border: 1px solid #0066FF; padding: 5px; width: 800px; }
+
+#AnyDivIdName10	{margin-left: auto; margin-right: auto; border: 1px solid #0066FF; padding: 5px; width: 800px; }
+
+#AnyDivIdName11	{margin-left: auto; margin-right: auto; border: 1px solid #0066FF; padding: 5px; width: 800px; }
+
+#AnyDivIdName12	{margin-left: auto; margin-right: auto; border: 1px solid #0066FF; padding: 5px; width: 800px; }
+
+#AnyDivIdName13	{margin-left: auto; margin-right: auto; border: 1px solid #0066FF; padding: 5px; width: 800px; }
+
+#AnyDivIdName14	{margin-left: auto; margin-right: auto; border: 1px solid #0066FF; padding: 5px; width: 800px; }
+
+#AnyDivIdName15	{margin-left: auto; margin-right: auto; border: 1px solid #0066FF; padding: 5px; width: 800px; }
+
+#AnyDivIdName16	{margin-left: auto; margin-right: auto; border: 1px solid #0066FF; padding: 5px; width: 800px; }
+
+#AnyDivIdName17	{margin-left: auto; margin-right: auto; border: 1px solid #0066FF; padding: 5px; width: 800px; }
+
+#AnyDivIdName18	{margin-left: auto; margin-right: auto; border: 1px solid #0066FF; padding: 5px; width: 800px; }
+
+#AnyDivIdName19	{margin-left: auto; margin-right: auto; border: 1px solid #0066FF; padding: 5px; width: 800px; }
+
+#AnyDivIdName20	{margin-left: auto; margin-right: auto; border: 1px solid #0066FF; padding: 5px; width: 800px; }
+
+#AnyDivIdName21	{margin-left: auto; margin-right: auto; border: 1px solid #0066FF; padding: 5px; width: 800px; }
+
+#AnyDivIdName22	{margin-left: auto; margin-right: auto; border: 1px solid #0066FF; padding: 5px; width: 800px; }
+
+#box			{position: relative; width: 150px; text-align: center; 
+				font-family: Tahoma; font-size: 10pt; border-style: solid; border-width: 1px; 
+				padding-left: 0px; padding-right: 0px; padding-top: 0px; 
+				padding-bottom: 0px; background-color: #C0C0C0}
+
+#text-box		{position: relative; width: 150px;
+				font-family: Tahoma; font-size: 10pt; border-style: solid; border-width: 0px; 
+				padding-left: 0px; padding-right: 0px; padding-top: 0px; 
+				padding-bottom: 10px; background-color: #C0C0C0}
+-->
+</style>
+<!-- link rel="stylesheet" type="text/css" href="p[1]w.css" -->
+<script type="text/javascript">
+   function doExpand(DivName) {
+   if (DivName.style.display="none") { DivName.style.display=""; }
+   else { DivName.style.display="none"; }}
+</script>
+</head>
+
+<body>
+<br>  
+<b><font size="4"><img border="0" src="images/checker.gif" width="16" height="16">&nbsp;&nbsp;BOOKMARKS&nbsp;&nbsp;<img border="0" src="images/checker.gif" width="16" height="16"></font></b><p>
+
+<p><span style="background-color: #FFFF00"><font color="#000000">
+<a href="JavaScript:doExpand(AnyDivIdName)">SEARCH ENGINES, PEOPLE SEARCHES, REFERENCES, NEWS, WEATHER</a></font></span><br></p>
+<div id="AnyDivIdName" style="display: none; width:800px;">
+<table border="0" width="100%"><tbody><tr>
+
+<td valign="top" width="25%"><b>SEARCH ENGINES</b><br>
+<a href="https://www.ask.com/?tool=img&o=333#subject:img|pg:1">Ask.Images</a><br>
+<a href="https://www.bing.com/images">Bing</a><br>
+<a href="https://www.search.com/">search.com</a><br>
+<a href="https://www.dogpile.com/">Dogpile</a><br>
+<a href="https://www.webcrawler.com/">Webcrawler</a><br>
+<a href="https://duckduckgo.com/">DuckDuckGo</a><br>
+<a href="https://www.firstgov.gov/">FirstGov</a> (Fed Govt)<br>
+<a href="https://www.archive.org/index.html">Internet Archive</a><br>
+<a href="https://www.wolframalpha.com/">WolframAlpha</a><br>
+<a href="https://neuskool.com/">Neuskool</a><br></td>
+
+<td valign="top" width="24%"><b>PEOPLE SEARCHES</b><br>
+<a href="https://radaris.com/">Radaris</a> (decent categories)<br>
+<a href="https://www.truepeoplesearch.com/">TruePeopleSearch</a><br>
+<a href="https://www.fastpeoplesearch.com/">Fast People Search</a><br>
+<a href="https://www.spokeo.com/">Spokeo</a><br>
+<a href="https://www.whitepages.com/">Whitepages.com</a> (phone)<br>
+<a href="https://websearch.about.com/od/peoplesearch/tp/peoplesearch.htm">10 Ways to Search for People</a><br><br>
+
+<b>REFERENCES</b><br>
+<a href="https://www.infoplease.com/alphabeticalindex.html">www.infoplease.com</a><br>
+<a href="https://www.melissadata.com/lookups/MapCartS.asp">Postal Carrier Routes</a><br>
+<a href="https://maps.huge.info/zip.htm">Zip Code Boundary Maps</a><br>
+<a href="https://apps.nationalmap.gov/downloader/#/">USGS Maps</a></td>
+
+<td valign="top" width="25%"><b>NEWS</b><br>
+<a href="https://abcnews.go.com/">ABCnews.com</a><br>
+<a href="https://www.cbsnews.com/">CBSnews.com</a><br>
+<a href="https://www.msnbc.com/news/">msnbc.com</a><br>
+<a href="https://www.usnews.com/usnews/home.htm">USnews.com</a><br>
+<a href="https://www.foxnews.com/">FoxNews.com</a><br>
+<a href="https://www.katu.com/">KATU</a><br>
+<a href="https://www.koin.com/">KOIN</a><br>
+<a href="https://www.kgw.com/">KGW</a><br><br>
+<a href="https://www.oregonlive.com/">oregonlive</a><br></td>
+
+<td valign="top" width="25%"><b>WEATHER</b><br>
+<a href="https://www.weather.com/weather/local/97229?lswe=97229&lwsa=WeatherLocalUndeclared&from=whatwhere">www.weather.com</a><br>
+<a href="https://www.wunderground.com">wunderground</a><br>
+<a href="https://www.almanac.com/">Farmer's Almanac</a><br>
+<a href="https://forecast.weather.gov/MapClick.php?lat=45.4966&lon=-122.7775&unit=0&lg=english&FcstType=graphical">weather.gov</a><br><br>
+
+<b>OTHER</b><br>
+<a href="https://www.ups.com/content/us/en/index.jsx">UPS</a><br>
+<a href="https://www.usps.com/">USPS</a>
+</td></tr></tbody></table></div><br>
+
+<div align="center">
+<table border="0" cellpadding="0" cellspacing="0" width="880"><table class="center"><tbody><tbody style="margin: auto"><tr>
+
+<td align="center" valign="top" width="170"><div id="box"><b>Web Sites</b><br><br>
+<div id="text-box">
+<a href="https://duckduckgo.com/">DuckDuckGo</a><br><br>
+<a href="https://www.google.com/">Google</a><br><br>
+<a href="https://www.google.com/maps/d/">Google MyMaps</a><br><br>
+<a href="https://www.google.com/android/find/">Find Hub</a><br><br>
+<a href="bookmarks1.shtml">This Page</a><br>(Frontier server)<br><br>
+<a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia</a><br><br>
+<a href="https://wikivisually.com/">WikiVisually</a><br>
+<a href="http://www.thefreedictionary.com/">FreeDictionary</a><br>
+<a href="https://www.refdesk.com/">RefDesk</a><br>
+<a href="https://www.timeanddate.com/calendar/">Perpetual Calendar</a><br>
+<a href="https://web2.0calc.com/">WebCalc</a><br><br>
+<a href="https://www.hillsboro-oregon.gov/our-city/departments/library/about-the-library/volunteer">Volunteer</a>
+</div></div></td>
+
+<td align="center" valign="top" width="170"><div id="box"><b>Books &amp; Stores</b><br><br>
+<div id="text-box">
+<a href="https://www.wellsfargo.com">Wells Fargo</a><br><br>
+<a href="https://www.amazon.com">Amazon</a><br><br>
+<a href="https://www.powells.com/">Powells</a><br><br>
+<a href="https://www.barnesandnoble.com/">Barnes &amp; Noble</a><br>
+<a href="https://www.abebooks.com/">AbeBooks</a><br>
+<a href="https://books.google.com/bkshp?hl=en&tab=wp">Google Books</a><br>
+<a href="https://www.hamiltonbook.com/">HamiltonBooks</a><br>
+<a href="https://www.biblio.com/">Biblio.com</a><br>
+<a href="https://www.bookfinder.com/?ref=bf_alp_hd_1">BookFinder</a><br>
+<a href="https://www.addall.com/">AddALL (books)</a><br>
+<a href="https://www.kisselburgmilitarybooks.com/">Kisselburg Mil Books</a><br>
+<a href="https://www.robertsbookshop.com/">Robert's Book Shop</a><br>
+<a href="https://portland.craigslist.org/wsc/">Craigslist</a><br>
+<a href="https://www.ebay.com/">Ebay</a><br>
+</div></div></td>
+
+<td align="center" valign="top" width="170"><div id="box"><b>Web Sites</b><br><br>
+<div id="text-box">
+<a href="https://www.librarything.com/profile/usma83">LibraryThing</a><br>(profile)<br><br>
+<a href="https://www.zillow.com/homes/for_sale/97225_rb/">Zillow.com</a><br>
+<a href="https://www.redfin.com/city/1432/OR/Beaverton/filter/property-type=house,min-price=650k,
+   max-price=950k,min-sqft=2.5k-sqft,viewport=45.50552:45.49461:-122.76909:-122.78975,no-outline">Redfin</a><br>
+<a href="https://www.realtor.com/realestateandhomes-search/Washington-County_OR?pos=45.4814,-122.809839,45.521405,-122.737741,14">Realtor.com</a><br>
+<a href="https://www.trulia.com/for_sale/97225_zip/3p_beds/2p_baths/700000-1000000_price/2500p_sqft/SINGLE-FAMILY_HOME_type/">Trulia</a><br><br>
+<a href="https://www.reddit.com/r/dayz/new/">Reddit</a><br>
+<a href="https://www.linkedin.com/">Linkedin</a><br>
+<a href="https://sallyport.westpointaog.org/">Sallyport</a><br><br>
+<a href="https://facts.randomhistory.com/">RandomHistory</a><br><br>
+<a href="https://www.estatesale-finder.com/">Estate Sale-Finder</a><br><br>
+<a href="https://www.asus.com/us/support/">ASUS</a><br>
+</div></div></td>
+
+<td align="center" valign="top" width="170"><div id="box"><b>Web Sites</b><br><br>
+<div id="text-box">
+<a href="http://mail.google.com/mail">Gmail</a><br><br>
+<a href="https://www.cnn.com/">CNN</a><br>
+<a href="https://theweek.com/">The Week</a><br><br>
+<a href="https://www.axios.com/newsletters/axios-am">Axios</a><br>
+<a href="https://www.newsweek.com/">Newsweek</a><br>
+<a href="https://www.usnews.com/">US News & WR</a><br>
+<a href="https://apnews.com/">AP News</a><br>
+<a href="https://www.kadaza.com/news">News Site</a><br>
+<a href="https://forecast.weather.gov/MapClick.php?lat=45.4966&lon=-122.7775&unit=0&lg=english&FcstType=graphical">Local Weather.gov</a><br><br>
+<a href="https://www.oregonlottery.org/games/">Lottery</a><br>
+<a href="https://www.usamega.com/powerball/statistics/5/2/2">Powerball Freq</a><br>
+<a href="https://www.trimet.org">TriMet</a><br>
+<a href="https://myhopcard.com/home">My Hop Card</a><br><br>
+<a href="https://www.wgt.com/">WGT</a><br>
+<a href="https://www.pinterest.com/">Pinterest</a><br>
+</div></div></td>
+
+<td align="center" valign="top" width="170"><div id="box"><b>Music/Radio/Video</b><br><br>
+<div id="text-box">
+<a href="https://www.netflix-codes.com/">Netflix Codes</a><br><br>
+<a href="https://www.justwatch.com/">JustWatch</a><br>
+<a href="https://www.kanopy.com/">Kanopy</a><br>
+<a href="https://www.music-map.com/">Music Map</a><br>
+<a href="https://www.secondhandsongs.com/topic/3653">SecondHandSongs</a><br>
+<a href="https://www.songfacts.com/">SongFacts</a><br>
+<a href="https://www.tunefind.com/">TuneFind</a><br><br>
+<a href="https://www.allmovie.com/">AllMovie.com</a><br>
+<a href="https://www.comingsoon.net/">ComingSoon.net</a><br><br>
+
+<a href="https://1067theeagle.iheart.com/schedule/">Eagle 106.7</a><br>
+<a href="https://www.imdb.com/">IMDB</a><br>
+<a href="https://www.sling.com/">Sling TV</a> (Chrome)<br>
+<a href="https://www.netflix.com/">Netflix</a><br>
+<a href="https://www.youtube.com/">YouTube</a>
+</div></div></td></tr></tbody></table></table></div>
+
+
+<p><span style="background-color: #FFFF00"><font color="#000000">
+<a href="JavaScript:doExpand(AnyDivIdName1)">SERVICES</a></font></span><br></p>
+<div id="AnyDivIdName1" style="display: none;">
+<table border="0" width="100%"><tbody><tr>
+
+		<td valign="top" width="43%">
+		<b>UTILITIES (+)</b><br><br>
+
+		<b>ACCOUNTS</b><br><br>
+		
+		<b>OTHER</b><br><br></td>
+
+	<td valign="top" width="56%">
+	<b>HEALTH</b><br><br>
+
+	<b>OTHER</b><br><br>
+	</td></tr></tbody></table></div>
+
+
+<p><span style="background-color: #FFFF00"><font color="#000000">
+<a href="JavaScript:doExpand(AnyDivIdName7)">LOCAL STORES & WORK SITES</a></font></span><br></p>
+<div id="AnyDivIdName7" style="display: none;">
+<table border="0" width="100%"><tbody><tr>
+
+		<td valign="top" width="43%">
+		<b>LOCAL STORES</b><br>
+		<a href="https://www.costco.com/">Costco</a><br>
+		<a href="https://www.fredmeyer.com/stores/grocery/or/portland/raleigh-hills/701/00285">Fred Meyer</a><br>
+		<a href="https://www.homedepot.com/">HomeDepot</a><br>
+		<a href="https://www.lowes.com/">Lowes</a><br>
+		<a href="http://www.walmart.com">Walmart</a><br>
+		<a href="https://www.bestbuy.com/">BestBuy</a><br>
+		<a href="https://www.officedepot.com/">Office Depot</a><br>
+		<a href="https://www.harborfreight.com/">HarborFreight</a><br>
+		<a href="https://www.containerstore.com/locations/showStores.htm?searchType=zip&zipCode=97224">Container Store</a><br>
+		<a href="https://www.rockler.com/retail/stores/or/portland-store">Rockler</a><br>
+		<a href="https://stores.dxl.com/us/or/portland/10250-sw-washington-square-rd">DXL</a> (Todd, 503-603-9841)<br>
+		<a href="https://www.menswearhouse.com/">Men's Warehouse</a><br>
+		<a href="https://www.rei.com/stores/beaverton">REI Co-Op</a><br>
+		Maria Alterations & Accessories (503-935-6349)<br>		<a href="https://www.rei.com/stores/resupply-clackamas">REI Co-OP Resupply</a> (Clackamas)<br>
+		<a href="https://cedarmilllumber.com/">Cedar Mill Landscape Supply</a><br> Barkdust $299/Unit delivered<br></td>
+
+	<td valign="top" width="56%">
+	<b>ONLINE</b><br>
+	<a href="https://grumpymancables.com/">Grumpy Man Cables</a> (formerly PCH Cables)<br>
+	<a href="https://www.jcpenney.com/">JCP</a><br>
+	<a href="https://www.vitasciences.com/">VitaSciences</a><br>
+	<a href="https://www.wayfair.com/">Wayfair</a><br>
+	<a href="https://www.retailmenot.com/blog/how-to-save-at-wayfair.html">7 Ways to Save at Wayfair</a><br><br>
+
+	<b>FOOD</b><br>
+	<a href="https://www.akirasushibeaverton.com/">Akira Sushi</a><br>
+	<a href="https://www.ajisaisushisteak.com/">Ajisai Sushi & Steaki</a><br><br>
+	
+	<a href="http://xxxxxx.com/">XXXXXX</a><br><br>
+	</td></tr></tbody></table></div>
+
+
+<p><span style="background-color: #FFFF00"><font color="#000000">
+<a href="JavaScript:doExpand(AnyDivIdName3)">ASSORTED LINKS & SITES</a></font></span><br></p>
+<div id="AnyDivIdName3" style="display: none;">
+<table border="0" width="100%"><tbody><tr>
+
+		<td valign="top" width="43%">
+		<b>POLITICS</b><br>
+		<a href="https://en.wikipedia.org/wiki/Cascadia_(independence_movement)">Cascadia</a> (Wiki)<br>
+		<a href="https://www.factcheck.org/">FactCheck.org</a><br>
+		<a href="https://www.huffingtonpost.com/politics/">Huffington Post</a><br>
+		<a href="https://www.nationofpacifica.com/">Nation of Pacifica</a><br>
+		<a href="https://politifact.com/">PolitiFact.com</a><br>
+		<a href="https://www.politico.com/">Politico</a><br>
+		<a href="https://www.realclearpolitics.com/">RealClear Politics</a><br>
+		<a href="https://www.theatlantic.com/">The Atlantic</a><br><br>
+
+		<b>ZINES/MAGAZINES</b><br>
+		<a href="https://www.historyanswers.co.uk/">All About History</a><br>
+		<a href="https://www.businessinsider.com/">Business Insider</a><br>
+		<a href="http://www.extremetech.com/">Extreme Tech</a><br>
+		<a href="https://www.thefiscaltimes.com/">Fiscal Times</a><br>
+		<a href="https://www.hollywoodreporter.com/">Hollywood Reporter</a><br>
+		<a href="https://www.ifixit.com/">iFixit</a><br>
+		<a href="https://www.kiplinger.com/">Kiplinger</a><br>
+		<a href="https://www.mensmagazine.com/">Men's Magazine</a><br>
+		<a href="https://mentalfloss.com/">Mental Floss</a><br>
+		<a href="https://www.pdxmonthly.com/">Portland Monthly</a><br>
+		<a href="https://www.ranker.com/">Ranker</a><br>
+		<a href="https://www.rd.com/">Reader's Digest</a><br>
+		<a href="https://www.reviewed.com/">Reviewed.com</a><br>
+		<a href="https://www.stuff.tv/">Stuff (gadgets)</a><br>
+		<a href="https://zergnet.com/">Zergnet</a><br><br>
+
+		<b>INTERESTS</b><br>
+		<a href="https://www.boredpanda.com/">Bored Panda</a><br>
+		<a href="https://www.brainyquote.com/topics">Brainy Quote</a><br><br>
+
+		<b>PLACES</b><br>
+		<a href="http://gosushitown.com/">Sushi Town</a><br>
+		<a href="https://www.beaujos.com/">BeauJo's Pizza</a> (Idaho Springs, CO)<br>
+		<a href="https://www.ringsidesteakhouse.com/">Ringside Steakhouse</a> (Portland, OR)<br>
+		<a href="https://www.johnsmarketplace.com/">John's MarketPlace</a><br>
+		<a href="https://www.belmont-station.com/">Belmont Station</a><br><br>
+		
+		<b>MATH LINKS/SITES</b><br>
+		<a href="https://en.wikipedia.org/wiki/Circular_segment">Wikipedia Circular Segment</a><br>
+		<a href="https://en.wikipedia.org/wiki/Golden_ratio">Wikipedia Golden Ratio</a><br><br></td>
+
+	<td valign="top" width="56%">
+	<b>HISTORY</b><br>
+	<a href="https://uboat.net/">Uboat.net</a><br>
+	<a href="https://www.subsim.com/index.php">SubSim.com</a><br>
+	<a href="https://www.german-navy.de/kriegsmarine/ships/uboats/index.html">Kriegsmarine Ships</a><br>
+	<a href="https://www.ibiblio.org/hyperwar/USA/USA-Div.html">HyperWar-US Army in WWII</a><br>
+	<a href="https://en.wikipedia.org/wiki/List_of_United_States_Army_divisions_during_World_War_II">Wiki: US Army Divisions in WWII</a><br>
+	<a href="https://www.slashgear.com/1961478/every-aircraft-carrier-you-can-visit-as-a-museum-ship/">Aircraft Carrier Museums</a><br>
+	<a href="https://www.generals.dk/">Generals.dk</a><br>
+	<a href="https://www.militaryhistoryonline.com/">MilitaryHistoryOnline.com</a><br>
+	<a href="https://en.wikipedia.org/wiki/Edward_Schulmerich_House">Edward Schulmerich House</a> (Hillsboro)<br>
+	<a href="https://en.wikipedia.org/wiki/Yang_Kyoungjong">Yang Kyoungjong</a><br>
+	<a href="https://www.factretriever.com/native-american-facts">Native American Facts</a><br><br>
+
+	<b>REFERENCE</b><br>
+	<a href="https://www.makeuseof.com/tag/13-alternative-search-engines-that-find-what-google-cant/">11 Alternative Search Engines</a><br>
+	<a href="https://www.acronymfinder.com/">Acronym Finder</a><br>
+	<a href="https://www.khanacademy.org/">Khan Academy</a><br>
+	<a href="https://oyc.yale.edu/">Open Yale Courses</a><br>
+	<a href="https://phrontistery.info/isms.html">Philosophical Isms</a><br>
+	<a href="https://www.phrases.org.uk/index.html">Phrase Finder</a><br>
+	<a href="https://chir.ag/projects/tip-of-my-tongue/">Tip of My Tongue</a><br>
+	<a href="https://www.ted.com/">TED</a><br>
+	<a href="https://www.wisegeek.com/">WiseGeek</a><br><br>
+
+	<b>OTHER</b><br>
+	<a href="https://www.coasttocoastam.com/">Coast to Coast</a><br>
+	<a href="https://www.jackvettriano.com/">Jack Vettriano</a><br>
+	<a href="https://en.wikipedia.org/wiki/Jack_Vettriano">Jack Vettriano</a> (Wikipedia)<br>
+	<a href="https://www.cnn.com/2015/03/26/health/sleep-better-yoga/">Pre-Sleep Yoga</a><br>
+	
+	<b>PLANS</b><br>
+	<a href="https://www.architecturaldesigns.com/house-plans/stunning-prairie-style-home-plan-81312w">ArchitectualDesigns.com</a><br>
+	<a href="https://www.dreamhomesource.com/collection/1-story-house-plans">DreamHoumeSource.com</a><br>
+	<a href="https://www.dfdhouseplans.com/plans/one_story_house_plans/">DFDhouseplans.com</a><br>
+	<a href="https://www.dongardner.com/search/style/one-story-house-plans">DonGardner.com</a><br>
+	<a href="https://www.thehousedesigners.com/one-story-house-plans.asp">TheHouseDesigners.com</a><br>
+	<a href="https://www.houseplans.com/collection/one-story-house-plans">HousePlans.com</a><br><br>
+
+	<b>ZOMBIES</b><br>
+	<a href="https://www.reddit.com/r/dayz/new/">Reddit</a><br>
+	<a href="https://store.steampowered.com/">Steam</a><br>
+	<a href="https://dayz.com/">DayZ Site</a><br>
+	<a href="https://dayz.gamepedia.com/Main_Page">Dayz Wiki</a><br>
+	<a href="https://www.izurvive.com/">iZurvive</a><br><br>
+
+	<b>WEB SITES/TOPICS</b><br><br>
+	
+	<a href="http://xxxxxx.com/">XXXXXX</a><br>
+	</td></tr></tbody></table></div>
+
+
+<p><a href="JavaScript:doExpand(AnyDivIdName6)">
+<span style="background-color: #FFFF00">COMPUTER, TECHNICAL, ANDROID LINKS</span></a><br></p>
+<div id="AnyDivIdName6" style="display: none;">
+<table border="0" width="100%"><tbody><tr>
+
+			<td valign="top" width="33%">
+			<b>COMPUTER/TECHNICAL</b><br>
+			<a href="https://www.cnet.com/">CNET.com</a><br>
+			<a href="https://www.computerworld.com/">Computerworld.com</a><br>
+			<a href="https://www.shortcutworld.com/en/win/Firefox_4.html">Firefox Shortcuts</a><br>
+			<a href="https://www.komando.com/">Kim Komando</a><br>
+			<a href="https://www.makeuseof.com/">Makeuseof</a><br>
+			<a href="https://www.netlingo.com/dictionary/a.php">Netlingo</a><br>
+			<a href="https://www.nndb.com/">nndb</a><br>
+			<a href="https://www.pcmag.com/">PCMag.com</a><br>
+			<a href="https://slashdot.org/">Slashdot.org</a><br>
+			<a href="https://www.slashgear.com/">Slashgear</a><br>
+			<a href="https://www.zdnet.com/">ZDNet.com</a><br></td>
+
+		<td valign="top" width="33%">
+		<b>ANDROID RELATED</b><br>
+		<a href="https://www.appbrain.com/">AppBrain</a><br>
+		<a href="https://www.pocket-lint.com/">Pocket-Lint.com</a><br>
+		<a href="https://www.talkandroid.com/">TalkAndroid.com</a><br>
+		<a href="https://techcrunch.com/tag/android/">TechCrunch.com</a><br></td>
+
+	<td valign="top" width="33%"><b>SOFTWARE</b><br>
+	<a href="https://www.andreaplanet.com/andreamosaic/">AndreaMosaic</a><br>
+	<a href="https://www.collageitfree.com/">CollageIt</a><br>
+	<a href="https://www.indigorenderer.com/sketchup/">Indigo Renderer</a><br>
+		<a href="https://www.povray.org/">POV Ray</a><br>
+	<a href="https://www.techsupportalert.com/">Gizmo's Best Freeware</a><br>
+	<a href="https://sourceforge.net/directory/os:windows/freshness:recently-updated/">SourceForge</a><br><br>
+	</td></tr></tbody></table></div>
+
+	
+<p><a href="JavaScript:doExpand(AnyDivIdName2)">
+<span style="background-color: #FFFF00">STUMBLEUPON LINKS</span></a><br></p>
+<div id="AnyDivIdName2" style="display: none;">
+<table border="0" width="100%"><tbody><tr>
+
+		<td valign="top" width="50%">
+		<b>GENERATORS</b><br>
+		<a href="https://batchgeo.com/">BatchGeo</a><br>
+		<a href="https://www.neoformix.com/Projects/BigSmall/">Big Small</a><br>
+		<a href="https://www.blindtextgenerator.com/lorem-ipsum">BlindTextGenerator</a><br>
+		<a href="https://www.themaninblue.com/experiment/Cubescape/new.php">Cubescape</a><br>
+		<a href="https://www.fakenamegenerator.com/gen-female-us-dk.php">Fake Name Generator</a><br>
+		<a href="https://www.revfad.com/oldflip.html">Flip</a><br>
+		<a href="https://www.onlineocr.net/">Image to Text Converter - OCR Online</a><br>
+		<a href="https://similarminds.com/personality_tests.html">Personality Tests and Tools</a><br>
+		<a href="https://photofunia.com/">Photofunia</a><br>
+		<a href="https://pimeyes.com/en">PimEyes</a><br>
+		<a href="https://speakeasy.net/speedtest/">Speakeasy - Speed Test</a><br>
+		<a href="https://onlinegiftools.com/create-transparent-gif">Transparent GIFs</a><br>
+		<a href="https://tiltshiftmaker.com/">TiltShiftMaker</a><br>
+		<a href="https://clideo.com/dpi-converter">Clideo (300 DPI Converter)</a><br></td>
+		
+	<td valign="top" width="50%">
+	<b>GAMES</b><br>
+	<a href="https://www.google.com/search?hl=en&q=cryptogram">Cryptogram - Google Search</a><br>
+	<a href="https://geoguessr.com/">GeoGuesser</a><br>
+	<a href="https://www.memory-improvement-tips.com/free-cryptogram-puzzles.html">Memory-Improvement-Tips.com</a> - cryptogram<br>
+	<a href="https://www.memory-improvement-tips.com/play-mahjongg-online.html">Mahjongg</a><br>
+	<a href="https://www.grubiks.com/solvers/rubiks-cube-3x3x3/">Rubik's Cube Solver 3x3x3</a><br>
+	<a href="https://rubiks-cube-solver.com/">Rubik's Cube Solver</a><br><br>
+
+	<b>TIPS/HELP</b><br>
+	<a href="https://www.thepokerbank.com/strategy/">Texas Hold Em Tips2</a><br> 
+	<a href="https://www.dailymotion.com/video/x8yxw6_the-final-3-amazing-math-card-trick_lifestyle">Card Trick Video</a> - YouTube<br><br>
+
+	<b>OTHER</b><br>
+	<a href="https://www.howtogeek.com/keyboard-macros-arent-just-for-programmers-heres-how-i-use-them/">Keyboard Macros</a><br>
+	<a href="https://www.slashgear.com/1605366/snapseed-smartphone-photos-pop/">Make photos pop</a><br><br>
+	<a href="https://www.pcworld.com/article/2799680/i-turned-a-browser-tab-into-a-handy-notepad-its-easy.html">Browser tab into a handy notepad</a><br>
+	Paste to address bar:  "<b>data:text/html, &lt;html contenteditable&gt;</b>" (without quotes)<br></td>
+	</tr></tbody></table></div>
+
+	
+<p><a href="JavaScript:doExpand(AnyDivIdName4)">
+<span style="background-color: #FFFF00">FIREFOX TOOLBARS, ADD-ONS &amp; DESKTOP SOFTWARE</span></a><br></p>
+<div id="AnyDivIdName4" style="display: none;">
+<table border="0" width="100%"><tbody><tr>
+
+		<td valign="top" width="50%">
+		<b>Firefox Toolbar</b><br>
+		<a href="https://www.keyboardr.com/">kboardr</a><br>
+		<a href="https://web2.0calc.com/">Web 2.0 Calc</a><br>
+		<a href="https://www.peters1.dk/webtools/conversion.php?sprog=en">Online Converter</a><br>
+		<a href="https://www.bing.com/maps/?FORM=Z9LH4&filt=custom">Bing Maps</a><br>
+		<a href="https://maps.google.com/maps?hl=en&tab=wl">Google Maps</a><br>
+		<a href="https://www.google.com/ig?hl=en&source=iglk">iGoogle</a><br><br>
+		
+		<b>Firefox Add-ons</b><br>
+		<a href="https://addons.mozilla.org/en-US/firefox/addon/tineye-reverse-image-search/">TinEye</a><br>
+		<a href="https://addons.mozilla.org/en-US/firefox/addon/lightshot/">Lightshot</a><br>
+		<a href="https://addons.mozilla.org/en-US/firefox/addon/gmail-watcher/">Gmail Watcher</a><br>
+		<a href="https://www.downloadhelper.net/">Download Helper</a><br>
+		PDF Mage<br>
+		Snap Links<br>
+		Video DownloadHelper<br><br></td>
+
+	<td valign="top" width="50%">
+	<b><span style="background-color: #FFFF00">Desktop Software</span></b><br>
+	<a href="https://4k-video-downloader.en.softonic.com/download">4K Video Downloader+</a> (online)<br>
+	<a href="https://www.7-zip.org/download.html">7-Zip File Manager</a> (online)<br>
+	<a href="https://www.audacityteam.org/">Audacity</a> (online)<br>
+	<a href="https://cdex.mu/">CDex</a> (online)<br>
+	DiskFrontier (CD)<br>
+	<a href="https://www.emclient.com/">eM Client</a> (email) (online)<br>
+	<a href="https://filezilla-project.org/">Filezilla</a> (online)<br>
+	<a href="https://www.firefox.com/en-US/">FireFox</a> (online)<br>
+	Freemake Version 2.2.2.2 - verify (online)<br>
+	<a href="https://handbrake.fr/">Handbrake</a> (online)<br>
+	<a href="https://mp3splt-gtk.en.uptodown.com/windows">mp3slipt-gtk</a> (online)<br>
+	<a href="https://www.mp3tag.de/en/">MP3tag</a> (online)<br>
+	MP4 Splitter (online)<br>
+	MS Flight Simulator (CD)
+	MS Office 2019 (online)<br>
+	<a href="https://notepad-plus-plus.org/">Notepad++</a> (online)<br>
+	Oracle Virtual Box (online)<br>
+	- WindowsXP (CD)<br>
+	- IntelliCAD (CD)<br>
+	PDF Converter/Professional (CD)<br>
+	<a href="http://www.axiomx.com/picsizer.htm">PicSizer</a>PicSizer (online)<br>
+	Polyview (CD)<br>
+	PowerToys (online)<br>
+	Rename (online)<br>
+	Super God Mode (online)<br>
+	TiltShiftEasy (online)<br>
+	<a href="https://visipics.info/">VisiPics</a> (online)<br>
+	VLC (online)<br>
+	Xerox Scanner (CD)<br></td>
+	</tr></tbody></table></div>
+
+<p><a href="JavaScript:doExpand(AnyDivIdName5)">
+<span style="background-color: #FFFF00">TRAVEL LISTS</span></a><br></p>
+<div id="AnyDivIdName5" style="display: none;">
+<table border="0" width="100%"><tbody><tr>
+
+		<td valign="top" width="50%">
+		<b>2027 WESTERN USA ROAD TRIP/ITINERARY</b><br><br>
+		
+		<a href="https://www.google.com/maps/d/">Google My Maps</a> (sign-in)<br><br>
+		
+		<span style="background-color: #FFA500"><a href="https://www.google.com/maps/dir/45.4951492,-122.7779545/Sacramento+International+Airport,+6900+Airport+Blvd,+Sacramento,+CA+95837/Yosemite+Valley+Welcome+Center,+9007+Village+Dr,+YOSEMITE+NATIONAL+PARK,+CA+95389/Best+Western+Plus+Fresno+Inn,+480+E+Shaw+Ave,+Fresno,+CA+93710/Foothills+Visitor+Center,+47050+Generals+Hwy,+Three+Rivers,+CA+93271/Santa+Rosa+Park,+1050+Oak+St,+San+Luis+Obispo,+CA+93405/@36.2920057,-122.4790421,8.08z/data=!4m53!4m52!1m0!1m10!1m1!1s0x809b2b73ce6a70ad:0xa460901228ef4232!2m2!1d-121.5888116!2d38.694402!3m4!1m2!1d-121.4447985!2d38.2462615!3s0x809ab0780a1598ff:0xeaa98321af74fb4!1m5!1m1!1s0x8096f21ec13dfe4f:0xfd6f0dcd0c7fd2b9!2m2!1d-119.5842598!2d37.7465139!1m10!1m1!1s0x80945d6522230803:0xa385990228d7fea8!2m2!1d-119.7802449!2d36.8091945!3m4!1m2!1d-118.8497034!2d36.6728127!3s0x809566187d812289:0x15a65cdfcbe9da51!1m15!1m1!1s0x80955aeffa88799d:0xbd2497e7eef50702!2m2!1d-118.8255293!2d36.4909974!3m4!1m2!1d-121.1366834!2d36.5153163!3s0x80924439d8064975:0x52d36592a0eabbf6!3m4!1m2!1d-121.1461765!2d36.4949745!3s0x8092445e8ce9e09b:0x8525bbeaa19fa39f!1m5!1m1!1s0x80ecf1ab3de0104b:0x9142ba9dee8ec8db!2m2!1d-120.6641398!2d35.2900576!3e0?entry=ttu&g_ep=EgoyMDI2MDkxNC4wIKXMDSoASAFQAw%3D%3D">MAP (Beaverton-San Luis Obispo)</a></span><br>
+		<span style="background-color: #FFA500"><a href="https://www.google.com/maps/dir/Santa+Rosa+Park,+1050+Oak+St,+San+Luis+Obispo,+CA+93405/Best+Western+Plus+Las+Vegas+South+Henderson,+3041+St+Rose+Pkwy,+Henderson,+NV+89052/Hoover+Dam+Visitor+Center+%26+Tours,+81+Hoover+Dam+Access+Rd,+Boulder+City,+NV+89005/36.0588544,-112.1087439/@36.0349471,-112.1060402,14z/data=!4m31!4m30!1m15!1m1!1s0x80ecf1ab3de0104b:0x9142ba9dee8ec8db!2m2!1d-120.6641398!2d35.2900576!3m4!1m2!1d-119.791024!2d34.985907!3s0x80ebe9e08e2985f7:0xc20550b81905f5e9!3m4!1m2!1d-118.9892004!2d35.0593679!3s0x80ea192d0ecd2bd9:0xa31c528709c1ec14!1m5!1m1!1s0x80c8ce724f131ffd:0xe256a846d57c6729!2m2!1d-115.1217783!2d36.0000406!1m5!1m1!1s0x80c92d159e975ed7:0xa7d9d4b003dc555e!2m2!1d-114.7395923!2d36.0162072!1m0!3e0?entry=ttu&g_ep=EgoyMDI2MDgxMC4wIKXMDSoASAFQAw%3D%3D">MAP (San Luis Obispo-Grand Canyon NP)</a></span><br>
+		<span style="background-color: #FFA500"><a href="https://www.google.com/maps/dir/Grandview+Point,+Grand+Canyon+Village,+AZ+86023/Horseshoe+Bend,+Arizona+86040/Antelope+Canyon,+Arizona+86040/Best+Western+Plus+at+Lake+Powell,+208+N+Lake+Powell+Blvd,+Page,+AZ+86040/Carl+Hayden+Visitr+Ctr,+1000+US-89,+Page,+AZ+86040/Zion+Canyon+Visitr+Ctr,+Zion+National+Park,+1+Zion+Park+Blvd,+Springdale,+UT+84767/Big+Yellow+Inn,+234+S+300+W,+Cedar+City,+UT+84720/@36.6283467,-112.9180662,9z/data=!4m44!4m43!1m5!1m1!1s0x8733046f5f02b3a3:0x8ba03dfd7c969c10!2m2!1d-111.9877556!2d35.9984667!1m5!1m1!1s0x87346ced52b21091:0xb623646960566829!2m2!1d-111.5103627!2d36.8790612!1m5!1m1!1s0x873411f49ba00e0b:0x98361608ad6aa79b!2m2!1d-111.3743302!2d36.8619103!1m5!1m1!1s0x873414ba973bfa2f:0x6909607dae01f416!2m2!1d-111.462568!2d36.920544!1m5!1m1!1s0x87346b2fc2cdd7eb:0x6a39cb94854a7ced!2m2!1d-111.4862669!2d36.9356903!1m5!1m1!1s0x80cac2bd35ac0a47:0x8e601e4c459d754d!2m2!1d-112.9869847!2d37.2000925!1m5!1m1!1s0x80b561bed48c5f77:0xf32f58c9d1759631!2m2!1d-113.0671917!2d37.6731167!3e0?entry=ttu&g_ep=EgoyMDI2MDgyNC4wIKXMDSoASAFQAw%3D%3D">MAP (Grand Canyon NP-Cedar City)</a></span><br>
+		<span style="background-color: #FFA500"><a href="https://www.google.com/maps/dir/Big+Yellow+Inn,+234+S+300+W,+Cedar+City,+UT+84720/Bryce+Canyon+National+Park+Visitor+Center,+UT-63,+Bryce+Canyon+City,+UT+84764/Capitol+Reef+National+Park+Visitor+Center,+Torrey,+UT+84775/Arches+National+Park+Visitor+Center,+Moab,+UT+84532/Island+in+the+Sky+Visitor+Center,+Grand+View+Point+Rd,+Moab,+UT+84532/Holiday+Inn+Express+%26+Suites+%E2%80%8Bgreen+River%E2%80%8B+by+IHG,+1050+W+Main+St,+Green+River,+UT+84525/45.4951492,-122.7779545/@45.4955227,-122.7804728,17.21z/data=!4m39!4m38!1m5!1m1!1s0x80b561bed48c5f77:0xf32f58c9d1759631!2m2!1d-113.0671917!2d37.6731167!1m5!1m1!1s0x873568e85ef3be8f:0x547e285253ba0f91!2m2!1d-112.169587!2d37.6404299!1m5!1m1!1s0x874a190985810f23:0x952c0c461b16c29d!2m2!1d-111.261936!2d38.2914474!1m5!1m1!1s0x87480b263e815631:0x98757620e932c562!2m2!1d-109.6198691!2d38.6165786!1m5!1m1!1s0x874810ef978bebfb:0x77aa65ca705c8fa9!2m2!1d-109.8208857!2d38.4597983!1m5!1m1!1s0x8748fa98f6c8e4fd:0xb621a2094f69738!2m2!1d-110.1758346!2d38.9965348!1m0!3e0?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D">MAP (Cedar City-Beaverton)</a></span><br><br>
+		
+		Fly from PDX to Sacramento. Pickup rental car.<br><br>
+		
+		<a href="https://www.animalsaroundtheglobe.com/the-25-national-parks-rangers-say-reward-an-early-start-more-than-anywhere-else-1-409392/">25 NP Rangers Say Reward an Early Start More Than Anywhere Else</a><br>
+		<a href="https://travelbinger.com/8-u-s-national-parks-facing-overcrowding-issues">8 U.S. National Parks Facing Overcrowding Issues</a><br><br>
+		
+		<span style="background-color: #00FF00"><a href="https://www.nps.gov/yose/index.htm">Yosemite NP, CA</a></span><br><br>
+		
+		<font color="FFFFFF"><span style="background-color: #000000"><b>LODGING</b></span></font> at Fresno, CA<br>
+		<a href="https://www.expedia.com/Fresno-Hotels-La-Quinta-Inn-Suites-By-Wyndham-Fresno-Northwest.h2964213.Hotel-Information">La Quinta Inn & Suites by Wyndham</a><br>
+		<a href="https://www.expedia.com/Fresno-Hotels-Courtyard-By-Marriott-Fresno.h22335.Hotel-Information">Courtyard by Marriott Fresno</a> (SW of DT)<br>
+		<a href="https://www.expedia.com/Fresno-Hotels-Fairfield-Inn-Suites-By-Marriott-Fresno-NorthShaw-Avenue.h32926769.Hotel-Information">Fairfield Inn & Suites by Marriott Frensco N/Shaw Ave</a><br>
+		<a href="https://www.bestwestern.com/en_US/book/hotel-rooms.05687.html">Best Western Plus Fresno Inn</a><br><br>
+		
+		<span style="background-color: #00FF00"><a href="https://www.nps.gov/seki/index.htm">Sequoia NP, CA</a></span><br><br>
+		<span style="background-color: #00FF00"><a href="https://www.nps.gov/seki/index.htm">Kings Canyon NP, CA</a></span><br><br>
+		
+		<font color="FFFFFF"><span style="background-color: #000000"><b>LODGING</b></span></font> at Visilia, CA<br>
+		<a href="https://www.nps.gov/seki/index.htm">Comfort Suites Visalia-Convention Center</a><br>
+		<a href="https://www.ihg.com/holidayinnexpress/hotels/us/en/visalia/visex/hoteldetail">Holiday Inn Express Visalia-Sequoia</a><br>
+		<a href="https://">Hotel</a><br><br>
+		
+		<span style="background-color: #00FF00"><a href="https://www.nps.gov/pinn/index.htm">Pinnacles NP, CA</a></span><br><br>
+		
+		<font color="FFFFFF"><span style="background-color: #000000"><b>LODGING</b></span></font> at San Luis Obispo, CA<br>
+		<a href="https://www.expedia.com/San-Luis-Obispo-Hotels-La-Quinta-Inn-Suites-By-Wyndham-San-Luis-Obispo-Downtown.h27194534.Hotel-Information">La Quinta Inn & Suites by Wyndham San Luis Obispo DT</a><br>
+		<a href="https://www.expedia.com/San-Luis-Obispo-Hotels-La-Cuesta-Inn.h14372.Hotel-Information">La Cuesta Inn BW Signature Collection</a> (NE of DT)<br><br>
+
+		<span style="background-color: #FFFF00"><a href="https://XXXXXX.com">Wedding at San Luis Opispo, CA</a></span><br>
+		<a href="https://www.travelandleisure.com/guide-san-luis-obispo-california-11944754">San Luis Obispo</a><br><br>
+		
+		<font color="FFFFFF"><span style="background-color: #000000"><b>LODGING</b></span></font> at San Luis Obispo, CA (above)<br><br>
+		
+		Travel to Henderson, NV<br><br>
+		
+		<font color="FFFFFF"><span style="background-color: #000000"><b>LODGING</b></span></font> at Henderson, NV<br>
+		<a href="https://www.expedia.com/Las-Vegas-Hotels-Hampton-Inn-Suites-Las-Vegas-South.h1604634.Hotel-Information">Hampton Inn & Suites Las Vegas South</a><br>
+		<a href="https://www.expedia.com/Las-Vegas-Hotels-Residence-Inn-By-Marriott-Las-Vegas-SouthHenderson.h36438391.Hotel-Information">Residence Inn by Marriott Las Vegas South/Henderson</a><br>
+		<a href="https://www.bestwestern.com/en_US/book/hotel-rooms.29088.html">Best Western Plus Las Vegas South</a><br><br>
+		
+		<span style="background-color: #00FF00"><a href="https://www.usbr.gov/lc/hooverdam/">Hoover Dam, CA/NV</a></span><br><br>
+		
+		<span style="background-color: #00FF00"><a href="https://www.nps.gov/grca/index.htm">Grand Canyon NP, AZ</a></span><br><br>
+		
+		<font color="FFFFFF"><span style="background-color: #000000"><b>LODGING</b></span></font> at Page, NV<br>
+		<a href="https://www.expedia.com/Page-Hotels-Sleep-Inn-Suites-Page-At-Lake-Powell.h10118752.Hotel-Information">Sleep Inn & Suites Page at Lake Powell</a><br>
+		<a href="https://www.expedia.com/Page-Hotels-La-Quinta-Inn-Suites-By-Wyndham-Page-At-Lake-Powell.h15612848.Hotel-Information">La Quinta Inn & Suites by Wyndham Page at Lake Powell</a><br>
+		<a href="https://www.expedia.com/Page-Hotels-Best-Western-View-Of-Lake-Powell-Hotel.h6422793.Hotel-Information">Best Western View of Lake Powell</a><br><br>
+		
+		<span style="background-color: #00FF00"><a href="https://www.nps.gov/glca/planyourvisit/horseshoe-bend.htm">Horseshoe Bend, AZ</a></span><br><br>
+		<span style="background-color: #00FF00"><a href="https://wereintherockies.com/antelope-canyon/">Antelope Canyon, AZ</a></span><br>
+		<span style="background-color: #00FF00"><a href="https://www.viator.com/Arizona-tourism/d271-r21198254531-s258477611">Antelope Canyon</a></span> Tickets and Tours<br><br>
+		<span style="background-color: #00FF00"><a href="https://www.utah.com/destinations/recreation-areas/lake-powell/visitor-information/glen-canyon-dam-visitor-center/">Glen Canyon Dam, UT</a></span><br><br>
+		
+		<font color="FFFFFF"><span style="background-color: #000000"><b>LODGING</b></span></font> at Page, NV (above)<br><br>
+		
+		<span style="background-color: #00FF00"><a href="https://www.nps.gov/zion/index.htm">Zion NP, UT</a> (initial)</span><br>
+		<a href="https://ourwanders.com/a-national-park-still-not-famous-enough-zion-utah/">7 Amazing Things To Do In Zion National Park</a><br>
+		<a href="https://thefrugalgirls.com/2015/03/zion-national-park-travel-tips.html">30 Zion National Park Travel Tips</a><br>
+		<a href="https://www.thetravel.com/skip-zion-and-arches-utah-state-parks-hikers-are-flocking-to-instead/">Skip Zion And Arches: 10 Utah State Parks Hikers Are Flocking To Instead</a><br><br>
+		
+		<font color="FFFFFF"><span style="background-color: #000000"><b>LODGING</b></span></font> at Cedar City, UT *<br>
+		<span style="background-color: #FF7900">Consider 1st Zion night at: </span><a href="https://www.hyatt.com/hyatt-place/en-US/sguzz-hyatt-place-springdale-zion-national-park">Hyatt Place Springdale/Zion</a><br>
+		<a href="https://bigyellowinn.com/">Big Yellow Inn</a> 234 S 300W<br>
+		<a href="https://www.expedia.com/Cedar-City-Hotels-Abbey-Inn.h1608236.Hotel-Information">Abbey Inn</a><br>
+		<a href="https://www.expedia.com/Cedar-City-Hotels-Holiday-Inn-Express-Suites-Cedar-City.h1113166.Hotel-Information">Holiday Inn Express & Suites Cedar City</a><br><br>
+
+		<span style="background-color: #00FF00"><a href="https://www.nps.gov/zion/index.htm">Zion (& Kobol Canyons) NP, UT</a></span> (continued)<br><br>
+		
+		<font color="FFFFFF"><span style="background-color: #000000"><b>LODGING</b></span></font> at Cedar City, UT (above)<br><br>
+		
+		<span style="background-color: #00FF00"><a href="https://www.nps.gov/brca/index.htm">Bryce Canyon NP, UT</a></span><br><br>
+		
+		<span style="background-color: #00FF00"><a href="https://www.nps.gov/care/index.htm">Capitol Reef NP, UT</a></span><br><br>
+		
+		<font color="FFFFFF"><span style="background-color: #000000"><b>LODGING</b></span></font> at Green River, UT<br>
+		<a href="https://www.ihg.com/holidayinnexpress/hotels/us/en/green-river/rvrgr/hoteldetail">Holiday Inn Express & Suites Green River</a><br>
+		<a href="https://www.expedia.com/Green-River-Hotels-First-Choice-Inns-At-The-Swell.h29851009.Hotel-Information">First Choice Inns At the Swell</a><br>
+		<a href="https://www.expedia.com/Moab-Hotels-Comfort-Inn-Green-River-National-Park-Area.h16389.Hotel-Information">Comfort Inn Green River National Park Area</a><br><br>
+		
+		<span style="background-color: #00FF00"><a href="https://www.nps.gov/arch/index.htm">Arches NP, UT</a></span><br>
+		<a href="https://www.mensjournal.com/news/arches-national-parks-free-shuttle-lets-visitors-skip-the-entrance-line">Arches Free Shuttle Lets Visitors Skip The Entrance Line</a><br><br>
+		
+		<span style="background-color: #00FF00"><a href="https://www.nps.gov/cany/index.htm">Canyonlands NP, UT</a></span><br><br>
+		
+		<font color="FFFFFF"><span style="background-color: #000000"><b>LODGING</b></span></font> at Green River, UT (above)<br><br>
+		
+		Turn-in rental car at Salt Lake City. Fly from SLC to PDX.<br><br></td>
+		
+	<td valign="top" width="50%">
+	<b>NATIONAL PARKS LINKS</b><br>
+	<a href="https://guessingheadlights.com/most-beautiful-places-in-america-you-need-to-see-before-you-die/">25 Most Beautiful Places</a><br>
+	<a href="https://www.elledecor.com/life-culture/travel/g32390753/most-beautiful-national-parks/">34 Most Beautiful Places</a><br>
+	<a href="https://guessingheadlights.com/national-parks-better-than-yellowstone-according-to-rangers/">National Parks Better Than Yellowstone</a><br>
+	<a href="https://www.contiki.com/six-two/article/best-national-parks-usa/">17 Best National Parks</a><br>
+	<a href="https://www.elledecor.com/life-culture/travel/g32390753/most-beautiful-national-parks/">NatParks Best Views</a><br>
+	<a href="https://travelbinger.com/national-park-rangers-quietly-point-travelers-over-60-to-15-spots-the-trail-maps-leave-off">NP Rangers Quietly Point Travelers Over 60 to 15 Spots the Trail Maps Leave Off</a><br><br>
+		
+	<b>OTHER/PRIOR CA CONSIDERATIONS</b><br>	
+	<a href="https://www.nps.gov/redw/index.htm">Redwoods NP, CA</a><br>
+	<a href="https://www.nps.gov/thingstodo/ferncanyon.htm">Fern Canyon SP, CA</a><br>
+	<a href="https://www.nps.gov/deva/index.htm">Death Valley NP, CA</a><br>
+	<a href="https://www.nps.gov/pinn/index.htm">Pinnacles NP, CA</a><br>
+	<a href="https://www.explore.com/2259707/california-former-army-base-fort-ord-national-monument-86-miles-trails/">CA's Former Army Base Is Now A Vast National Monument With 86 Miles Of Trails</a><br>
+	<a href="https://www.nps.gov/jotr/index.htm">Joshua Tree NP, CA</a><br>
+	<a href="https://www.nps.gov/chis/index.htm">Channel Islands NP, CA</a><br>
+	<a href="https://www.queenmary.com/">Queen Mary, Los Angeles</a><br>
+	<a href="https://pacificbattleship.com/battleshipussiowa/">USS Iowa, Los Angeles</a><br>
+	<a href="https://sdmaritime.org/">Maritime Museum of San Diego</a><br>
+	Big Sur, CA<br><br>
+	
+	<b>USA - West</b><br>
+	<a href="https://www.nps.gov/crla/index.htm">Crater Lake, OR</a><br>
+	<a href="https://www.nps.gov/yell/index.htm">Yellowstone NP, WY/MT/ID</a><br>
+	<a href="https://www.nps.gov/glac/index.htm">Glacier NP, MT</a><br>
+	<a href="https://navajonationparks.org/navajo-tribal-parks/monument-valley/">Monument Valley, UT/AZ</a><br>
+	<a href="https://www.nps.gov/olym/index.htm">Olympic NP, WA</a><br>
+	<a href="https://www.nps.gov/olym/planyourvisit/visiting-the-hoh.htm">Hoh Rain Forest, WA</a><br>
+	<a href="https://www.nps.gov/mora/index.htm">Mt Rainier, WA</a><br>
+	<a href="https://lewisarmymuseum.com/">Fort Lewis Museum</a><br>
+	<a href="https://www.nps.gov/dena/index.htm">Denali NP, AK</a><br>
+	<a href="https://www.attractionsvictoria.com/">Victoria, BC</a><br><br>
+	
+	<b>USA - East</b><br>
+	Niagara Falls, NY<br>
+	<a href="https://www.nps.gov/badl/index.htm">Badlands NP, SD</a><br>
+	<a href="https://www.nps.gov/grsm/index.htm">Great Smokey Mtns NP, TN/NC</a><br>
+	<a href="https://www.nps.gov/acad/index.htm">Acadia NP, ME</a><br>
+	<a href="https://www.nps.gov/maca/index.htm">Mammath Cave NP, KY</a><br>
+	<a href="https://www.visitflorida.com/places-to-go/southeast/florida-keys/">Florida Keys, FL</a><br>
+	<a href="https://www.independent.co.uk/news/world/americas/congress-secret-nuclear-bunker-greenbrier-tour-b2885123.html">Greenbriar Hotel, WV</a><br>
+	<a href="https://www.griffinmsi.org/exhibits/u-505-submarine">U505, Chicago</a><br>
+	<a href="https://www.guggenheim.org/">Guggenheim, NYC</a><br>
+	<a href="https://intrepidmuseum.org/">Intrepid AC, NYC</a><br>
+	<a href="https://www.spymuseum.org/">International Spy Museum, DC</a><br>
+	<a href="https://www.history.navy.mil/content/history/museums/nmusn.html">Secret Navy Museum, DC</a><br>
+	<a href="https://www.nationalww2museum.org/">National WW2 Museum, NO, LA</a><br><br>
+	<a href="https://www.alltrails.com/trail/us/north-carolina/soco-falls-trail">Soco Falls, NC</a><br><br>
+			
+	<b>WORLD SITES</b><br>
+	<a href="https://roamaustria.com/wp-content/uploads/2022/03/Kehlsteinhaus-Eagles-Nest-Trip-from-Salzburg-1024x682.jpg">Berchtesgaden</a><br>
+	<a href="https://upload.wikimedia.org/wikipedia/commons/f/f8/Schloss_Neuschwanstein_2013.jpg">Neuschwanstein</a><br>
+	<a href="https://image.wmsm.co/65fc174ab1236/german-submarine-u-995-laboe-1.webp?quality=80&width=1280">U995 U-boat Memorial</a>, Laboe, Germany<br>
+	New Zealand<br><br>
+	
+	<a href="https://www.XXXXXX.com">XXXXXX</a><br><br></td>
+	</tr></tbody></table></div>
+
+	
+<p><span style="background-color: #FFFF00"><font color="#000000">
+<a href="JavaScript:doExpand(AnyDivIdName9)">FUTURE CRUISE or TRIP INFO/LINKS</a></font></span></p>
+<div id="AnyDivIdName9" style="display: none;">
+<table border="0" width="100%"><tbody><tr>
+
+		<td valign="top" width="50%">
+		<b>CRUISE INFORMATION</b><br>
+		
+		<p>Future <a href="https://www.vikingcruises.com/oceans/cruise-destinations/baltic/british-isles-explorer/index.html#noscroll">Cruise</a>?</p>
+		
+		<b>GENERAL</b><br>
+		Air: <a href="https://www.seatguru.com/charts/longhaul_economy.php">Seat Guru</a><br>
+		Air: <a href="https://guessingheadlights.com/10-airport-mistakes-that-will-ruin-your-flight-before-you-even-board/">10 Airport Mistakes That Will Ruin Your Flight</a><br>
+		Air: <a href="https://www.yardbarker.com/lifestyle/articles/20_tips_to_improve_your_air_travel_experience/s1__41470991">20 Tips to Improve Your Air Travel Experience</a><br>
+		Air: <a href="https://financebuzz.com/things-to-do-board-plane-6?pid=1692">15 Things All Travelers Must Do Before Arriving to the Airport</a><br>
+		Air: <a href="https://www.themirror.com/travel/airline-employees-easy-travel-hack-1215421">Airline staff's 'number one' travel hack</a><br>
+		Air: <a href="https://www.mensjournal.com/travel/tsa-banned-these-7-surprising-snacks-from-carry-on-bags">TSA Just 'Banned' These 7 Surprising Snacks From Carry-On Bags</a><br>
+		Air: <a href="https://www.islands.com/1885648/best-way-disinfect-airplane-seat/">Best Way To Disinfect Your Airplane Seat In 10 Steps</a><br>
+		Air: <a href="https://www.thestreet.com/travel/tsa-warns-this-one-airport-habit-could-ruin-your-trip">TSA warns: This one airport habit could ruin your trip</a><br>
+		Air: <a href="https://www.themanual.com/travel/personal-item-vs-carry-on/">Personal item vs. carry-on differences explained...</a><br>
+		Air: <a href="https://nypost.com/article/best-face-masks-for-long-flights-travel/">The best face masks for long flights in 2025, per experts</a><br>
+		Air: <a href="https://www.popsci.com/science/best-way-to-sleep-on-plane/">The best way to sleep on a plane, according to science</a><br>
+		Air: <a href="https://www.mindbodygreen.com/articles/simple-travel-hacks-i-swear-by-every-time-i-fly">7 Simple Travel Hacks I Swear By Every Time I Fly</a><br>
+		Air: <a href="https://www.businessinsider.com/flying-saga-premium-class-icelandair-review-worth-it-2026-6">I spent over 19 hours in Icelandair's premium class. 
+			The $2,637 flight offered me way more than just a comfier seat.</a><br>
+		Air: <a href="https://www.huffpost.com/entry/tsa-bin-items-airport_l_6a3970bae4b058c5d1c0e52c">7 Items You Should Never, EVER Put In A TSA Bin</a><br>
+		IcelandAir <a href="https://www.icelandair.com/support/on-board/classes-of-service/">Fare types</a><br>
+		IcelandAir <a href="https://www.icelandair.com/support/terms-and-conditions/optional-service-and-fees/">Optional fees and services</a><br>
+		IcelandAir <a href="https://www.icelandair.com/support/on-board/classes-of-service/">Fare types</a><br>
+		IcelandAir <a href="https://www.icelandair.com/support/terms-and-conditions/optional-service-and-fees/">Optional fees and services</a><br>
+		Cruise: <a href="https://www.thestreet.com/travel">ComeCruiseWithMe</a><br>
+		Cruise: <a href="https://www.travelandleisure.com/articles/money-saving-cruise-tips">13 Tips to Save Money on Your Next Cruise</a><br>
+		Cruise: <a href="https://financebuzz.com/cruise-ship-boarding-tips-5?pid=1692">16 Things Every Time You Board a Cruise Ship</a><br>
+		Cruise: <a href="https://www.the-express.com/travel/cruises/165982/cruises-one-day-rule-explained">Cruise Passengers Urged to Follow the One Day Rule</a><br>
+		Cruise: <a href="https://financebuzz.com/news/cruise-mistakes-to-avoid-4?pid=1692">11 Mistakes You Should Never, Ever Make on a Cruise</a><br>
+		Cruise: <a href="https://backroadplanet.com/viking-ocean-cruises-voyage-of-a-lifetime/">Viking Ocean Cruises: A Guide for Planning a Voyage of a Lifetime</a><br>
+		Cruise: <a href="https://www.mccooltravel.com/secret-things-to-do-on-viking-ocean-cruises/">11+ Fantastic Secret Things to Do on Viking Ocean Cruises</a><br><br>
+		<a href="https://www.huffpost.com/entry/slow-travel-might-be-the-key-to-a-better-vacation-heres-what-it-is-goog_l_67c091d0e4b08e33534cd2b7">Slow Travel Might Be The Key To A Better Vacation</a><br>
+		<a href="https://www.makeuseof.com/prepare-phone-for-an-international-trip/">How I Prepare My Phone for an International Trip</a><br>
+		<a href="https://farandwide.com/s/50-years-of-travel-tips/">50 Years of Travel Tips</a><br>
+		<a href="https://www.gobankingrates.com/saving-money/travel/travel-items-retirees-should-always-pack-vacation-save-money/">9 Travel Items Retirees Should Always Pack on Vacation To Save Money</a><br>
+		<a href="https://www.xda-developers.com/tech-tools-every-traveler-needs-next-adventure/">8 tech tools every traveler needs on their next adventure</a><br>
+		<a href="https://www.buzzfeed.com/jenae_sitzes/ways-to-pack-light-for-international-trips-an">42 Ways To Pack Light.. For An International Trip</a><br>
+		<a href="https://www.themanual.com/travel/travel-tips-for-packing/">7 travel tips for packing I swear by</a><br>
+		<a href="https://www.themanual.com/travel/european-travel-information-and-authorization-system-increased-price/">By 2026, you'll need this $23 travel document to visit most of Europe</a><br>
+		<a href="https://www.housebeautiful.com/lifestyle/organizing-tips/a69802647/post-vacation-home-reset-tips/">8 Things Experts Say You Should Do IMMEDIATELY When You Get Home From a Trip</a><br>
+		
+		<a href="https://www.XXXXXX.com">XXXXXX</a><br><br></td>
+		
+	<td valign="top" width="50%">
+	Future <a href="https://www.cietours.com/tours/scotland/scottish-isles-glens?package=112301">Scotland Trip</a><br><br>
+	
+	<b>Scotland</b><br>
+	Glasgow<br>
+	Isle of Bute & Mount Stuart House<br>
+	Kyle of Lochalsh<br>
+	Loch Lomond & Eilean Donan Castle<br>
+	<a href="https://aboveusonlyskies.com/wp-content/uploads/2025/02/Old-Man-Of-Storr-Skye-Scotland.webp">Isle of Skye</a><br>
+	Dunvegan Castle & Portree<br>
+	Inverewe & Gairloch<br>
+	Ullapool<br>
+	Kirkwall (Orkney Islands including Ring of Brodgar, Skara Brea & St Magnus Cathedral)<br>
+	Iatlian Chapel & Dunrobin Castle<br>
+	Strathpeffer<br>
+	<a href="https://www.visitscotland.com/binaries/content/gallery/visitscotland/cms-images/2022/07/04/loch-ness">Loch Ness</a><br>
+	Culloden<br>
+	Crieff<br>
+	<a href="https://images.squarespace-cdn.com/content/v1/5efb46cf46fb3d2f36091afa/52a397ef-93e9-4755-850b-dd8739509f24/Edinburgh%2C+Scotland.jpg">Edinburgh</a><br>
+	<a href="https://www.royalyachtbritannia.co.uk/visit/">Royal Yacht Britannia main site</a> (Edinburgh)<br>
+	<a href="https://www.businessinsider.com/scotland-castles-tourists-should-visit-skip-from-local-edinburgh-stirling-2026-8">As a local, I've visited many of Scotland's castles. There are 4 that tourists shouldn't miss</a><br><br>
+		
+<b>England</b><br>
+	<a href="https://www.nationaltrust.org.uk/visit/kent/the-white-cliffs-of-dover">White Cliffs of Dover</a>/Canterbury<br>
+	<a href="https://www.viator.com/tours/London/Windsor-Stonehenge-and-the-Roman-Baths/d737-2452P56">Windsor, Stonehenge, and Bath Trip</a><br>
+	<a href="https://www.iwm.org.uk/visits/iwm-london">Imperial War Museum (IMW)</a><br>
+	<a href="https://www.iwm.org.uk/visits/churchill-war-rooms">Churchill War Rooms</a><br>
+	<a href="https://www.britishmuseum.org/">British Museum</a><br>
+	Big Ben<br>
+	Tower Bridge<br>
+	Tower of London<br>
+	The Shard<br>
+	Westminster Abbey<br>
+	Buckingham Palace<br>
+	St. Paul's Cathedral<br>
+	Palace of Westminster<br>
+	Trafalgar Square<br>
+	London Eye<br>
+	Piccadilly Circus<br>
+	Marble Arch<br>
+	Royal Albert Hall<br>
+	The Sherlock Holmes Museum<br>
+	Notting Hill<br>
+	30 St Mary Axe (The Gherkin)<br><br>
+
+<b>Other site for later</b><br>
+	<s><a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxwulanZGwFYdLNnhNjNK8hcXsf9Fa97VKRTuCTCtyihTBwI5CTba8pzxb&s=10">Kilt Rock</a></s><br>
+	<s><a href="https://www.myhighlands.de/wp-content/uploads/2017/02/Neist-Point-01.jpg">Neist Point</a></s><br>
+	<s><a href="https://live.staticflickr.com/7458/27290341743_778157c1d0_h.jpg">Gelfinnan</a></s><br>
+	<s><a href="https://www.tripsavvy.com/thmb/ByHCkrkYeGxkcBBvwTfh57f4a20=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-477504785-58764e065f9b584db351f033.jpg">Gelcoe</a></s><br>
+	<s><a href="https://nts-production.imgix.net/general/MAIN_Goatfell_0325_facebook.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.4657&fp-y=0.3947&h=630&q=56&w=1200">Goatfell</a></s><br>
+	<s><a href="https://cdn.britannica.com/73/116073-050-1A50DCFF/Castle-Inverness-River-Ness-Scot-Inverness-shire.jpg">Inverness</a></s><br>
+	<s><a href="https://cdn.historichouses.org/app/uploads/2021/01/dunnottar-castle.jpg">Dunottar Castle</a>, Aberdeenshire</s><br>
+	<s><a href="https://crazyaboutcastles.com/wp-content/uploads/2021/04/shutterstock_1805477335.jpg">Dundee</a></s><br>
+	<s><a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaJG1ncs_bq4U5mjFaGysxBRq1cQDHA09pWb3rssMAIqRXdxSdUcv0GUp7&s=10">Stirling Castle</a></s><br>
+	<s><a href="https://www.findingtheuniverse.com/wp-content/uploads/2017/09/Devils2BPulpit2BScotland_by_Laurence2BNorah-5255B3255D.jpg">Devil's Pulpit</a></s><br>
+	<s><a href="https://www.myvoyagescotland.com/wp-content/uploads/2024/05/Jarlshof-1024x679.jpg">Jarlshof Prehistoric and Norse Settlement</a> (Shetland Islands)</s><br><br>
+		
+	<a href="https://www.XXXXXX.com">XXXXXX</a><br><br></td>
+	</tr></tbody></table></div>
+
+<table border="0" width="500px" align="center"><tbody>
+
+		<td valign="top" width="50%">
+		<a href="jan24-storm2.shtml">Jan 2024 Storm</a><br><br>
+
+		<a href="nw-travel1.shtml">NW Travel</a><br><br>
+				
+		<a href="photos/map-travel-washington.JPG">Washington State Map</a><br>
+		<a href="photos/map-travel-GB.jpg">Great Britain Map</a><br>
+		<a href="photos/map-travel-iceland.jpg">Iceland Map</a><br>
+		<a href="photos/map-travel-svalbard.jpg">Svalbard Map</a><br>
+		<a href="photos/map-travel-norway.JPG">Norway Map</a><br></td>
+	<td valign="top" width="50%">
+	<a href="https://adaychic.com/products/geometry-mens-shirts-with-pocket-10?variant=46184257290513">Geometry Men's Shirts With Pocket</a><br>
+	<a href="https://www.veown.com/products/abstract-painting-piet-mondrian-checkered-printing-mens-short-sleeve-shirt">Abstract Painting Men's Short Sleeve Shirt </a><br><br>
+	
+	<a href="https://maxoakes.github.io/photography/">Max's Photo Web Site</a><br><br>
+	
+	<a href="https://www.XXXXXX.com">XXXXXX</a><br></td>
+	</tr></tbody></table></div>
+
+
+<p><a href="JavaScript:doExpand(AnyDivIdName21)">
+<font color="#FFFFFF"><span style="font-weight: 700; background-color: #000000">BU Generators/Batteries</span></font></a><br></p>
+<div id="AnyDivIdName21" style="display: none;">
+<table border="0" width="100%"><tbody><tr>
+
+<td valign="top" width="74%">
+<a href="https://www.primalsurvivor.net/what-size-generator/">Generator Sizing1</a><br>
+<a href="https://persurvive.com/home-family/what-size-generator-do-i-need/">Generator Sizing2</a><br>
+<a href="https://www.howtogeek.com/i-ditched-my-gas-generator-for-battery-backup-and-im-never-looking-back/">Battery BU Article</a><br><br>
+	
+<a href="https://us.ecoflow.com/products/ecoflow-delta-3-ultra-plus-portable-power-station-3072wh?ref=navi&variant=55612118597705">EcoFlow DELTA 3 Ultra Plus (3072Wh) + Delta Max Plus Extra Battery + 400W Solar Panel</a><br>
+<a href="https://us.ecoflow.com/products/delta-3-series-smart-extra-battery?variant=41631849971785">EcoFlow Delta Series Smart Extra Battery</a> (above)<br>
+<a href="https://us.ecoflow.com/products/transfer-switch?variant=40515604512841">EcoFlow Home Backup Kit: Transfer Switch</a> <u>306A1</u><br>
+<a href="https://manuals.ecoflow.com/us/product/delta-3-ultra-plus?lang=en_US">EcoFlow Delta 3 Ultra Plus User Manual</a><br>
+<a href="https://support.satellitephonestore.com/hc/en-us/articles/13921326014868-EcoFlow-400W-Portable-Solar-Panel-User-Manual">EcoFlow 400W Portable Solar Panel User Manual</a><br><br>
+Future purchases?<br>
+<a href="https://www.homedepot.com/p/parkworld-25-ft-10-3-30-Amp-125V-Twist-Lock-NEMA-L5-30-Indoor-Outdoor-Generator-Extension-Cord-L5-30P-to-L5-30R-Yellow-UL-Listed-62114/332069890">10/3 30 Amp 125V Twist Lock NEMA L5-30 Indoor/Outdoor Generator Extension Cord (25 ft)</a><br>
+<a href="https://us.ecoflow.com/products/smart-generator-4000-dual-fuel?_pos=2&_sid=d31fbb5d4&_ss=r&variant=41434656637001">EcoFlow Smart Generator 4000 (Dual Fuel)</a><br></td>
+</tr></tbody></table></div>
+
+
+<p><a href="JavaScript:doExpand(AnyDivIdName11)">
+<span style="background-color: #FFFF00">ADVICE/TIPS/IDEAS - ARCHITECTURE - BEER</span></a><br></p>
+<div id="AnyDivIdName11" style="display: none;">
+<table border="0" width="100%"><tbody><tr>
+
+<td valign="top" width="74%">
+<b><font color="#FFFFFF"><span style="background-color: #000000">ADVICE/TIPS/IDEAS</span></font></b><br><br>
+
+<a href="https://www.pinterest.com/pin/743797694681539083/">10 Smart Ideas To Keep Things Running...</a><br>
+<a href="https://www.foxnews.com/tech/15-insanely-useful-sites-youll-wish-you-knew-earlier">15 insanely useful sites you’ll wish you knew earlier</a><br>
+<a href="https://www.buzzfeed.com/colingorenstein/brilliant-storage-products-kicking">17 Brilliant Storage Products</a><br>
+<a href="https://www.buzzfeed.com/racheldunkel/helpful-things-that-will-basically-pay-for-themselves">29 Helpful Things That Are Likely To Pay For Themselves</a><br>
+<a href="https://www.buzzfeed.com/jasminsuknanan/cheap-things-that-pay-for-themselves-and-more-tx0czcsak">29 Affordable Things That Pretty Much...</a><br>
+<a href="https://www.ebaumsworld.com/pictures/42-life-hacks-for-a-healthier-you/83774669/">42 Life Hacks For A Healthier You</a><br>
+<a href="https://www.familyhandyman.com/storage-organization/the-50-organizing-tips-youll-regret-you-didnt-know-sooner/">19 Organizing Tips</a><br>
+<a href="https://www.familyhandyman.com/list/56-brilliant-woodworking-tips-for-beginners/">56 Brilliant Woodworking Tips for Beginners</a><br>
+<a href="https://www.fatherly.com/love-money/100-small-nice-things-wife-marriage-love/">100 Small, Nice Things to Do</a> - gift ideas<br>
+<a href="https://www.familyhandyman.com/list/organizing-hacks-for-cheapskates/">50 Organizing Hacks for Cheapskates</a><br>
+<a href="http://www.businessinsider.com/whistle-fingers-loud-2014-6">How To Whistle With Your Fingers</a><br>
+<a href="https://www.rd.com/article/how-to-wash-hat/">How to Wash a Baseball Cap Without Ruining It</a><br>
+<a href="https://www.hunker.com/12342802/how-to-open-a-four-digit-combination-lock">How to Open a Four-Digit Combination Lock</a><br>
+<a href="https://www.insider.com/collapsible-furniture-pieces-made-for-small-spaces-2020-3">Collapsible furniture pieces made for small spaces</a><br>
+<a href="https://www.familyhandyman.com/">Family Handyman</a><br>
+<a href="https://gethuman.com/">GetHuman: Call Companies and Fix Customer</a><br>
+<a href="https://www.theladders.com/career-advice/if-you-write-your-emails-exactly-like-this-you-will-always-get-a-reply">If you write your emails exactly like this</a><br>
+<a href="https://www.rd.com/advice/travel/kitty-litter-car-windows-fog/">Kitty Litter Can Keep Your Car Windows</a><br>
+<a href="http://www.createjigsawpuzzles.com/promotional/large-custom-puzzle.html">Make Large Custom Puzzles with Photo</a><br>
+<a href="https://www.rd.com/list/photos-you-should-carry/">Photos You Should Always Have On Your Smartphone</a><br>
+<a href="https://www.thisisinsider.com/shop-collects-antique-transforming-furniture-2018-9">Shop collects antique transforming furniture</a><br>
+<a href="https://www.boredpanda.com/easy-useful-everyday-psychological-tricks/">These 28 Psychological Tricks</a><br>
+<a href="https://www.theladders.com/career-advice/what-50-year-olds-know-that-20-year-olds-dont">What 50-year-olds know that 20-year-olds-dont</a><br>
+<a href="https://www.purewow.com/home/toe-kick-drawer-storage">Why You Should Install Toe-Kick Drawers</a><br><br>
+
+<b><font color="#FFFFFF"><span style="background-color: #000000">ARCHITECTURE</span></font></b><br><br>
+
+<a href="https://www.archdaily.com/874474/10-exemplary-ways-to-represent-architectonic-construction-details">10 Exemplary Ways to Represent Architectonic Construction Details</a><br>
+<a href="https://www.atlasobscura.com/articles/real-fairy-tale-castles">16 Real Castles</a><br>
+<a href="http://www.dreamhomesource.com/house-plans/dhs/styles/colonial-house-plans-colonial-floor-plans/dutch-house-plans/dhsw077051.html">Dutch Colonial House Plan with 2387 Square Ft</a><br>
+<a href="http://www.architecturaldesigns.com/prairie-style-home-plan-81312w.asp">Plan W81312W: Prairie Style House Plans</a><br>
+<a href="http://blog.woodvertising.com/2013/11/25-of-worlds-most-amazing-libraries.html">Libraries</a><br><br>
+
+<b><font color="#FFFFFF"><span style="background-color: #000000">BEER</span></font></b><br><br>
+
+<a href="http://en.wikipedia.org/wiki/Beer_style">Types beer</a><br>
+<a href="https://en.wikipedia.org/wiki/List_of_brewing_companies_in_Germany">Germany Breweries</a><br>
+<a href="https://manofmany.com/lifestyle/drinks/world-beer-award-winners-2021">World Beer Award Winners 2021</a><br>
+<a href="https://www.foodandwine.com/oktoberfest-beer-ranked-12116667">Tasted and Ranked 10 Oktoberfest Beers — the Best Wasn’t From Germany</a><br>
+<a href="https://www.tasteatlas.com/best-rated-lagers-in-the-world">Best Lagers in the World</a><br><br>
+
+<a href="https://www.XXXXXX.com">XXXXXX</a><br><br></td>
+</tr></tbody></table></div>
+
+
+<p><a href="JavaScript:doExpand(AnyDivIdName8)">
+<span style="background-color: #FFFF00">BOOKS - BUDGET - CABLE - CAD</span></a><br></p>
+<div id="AnyDivIdName8" style="display: none;">
+<table border="0" width="100%"><tbody><tr>
+
+<td valign="top" width="74%">
+<b><font color="#FFFFFF"><span style="background-color: #000000">BOOKS</span></font></b><br><br>
+
+<a href="https://theculturetrip.com/north-america/usa/oregon/articles/8-of-the-best-independent-bookstores-in-portland-oregon/">8 of the Best Independent Bookstores in Portland, Oregon</a><br>
+<a href="https://www.huffingtonpost.com/entry/book-hoarding-pride_us_56d70cf8e4b0bf0dab340ded">16 Reasons To Be Proud Of Being A Book Hoarder</a><br>
+<a href="https://www.librarything.com/list/9/all/Best-Time-Travel-Novels">Best Time Travel Novels | LibraryThing</a><br>
+<a href="http://www.goodreads.com/list/show/8997.Best_Zombie_Books">Best Zombie Books (1082 books)</a><br>
+<a href="http://bloomsburyashland.com/">Bloomsbury Books Ashland Oregon</a><br>
+<a href="http://www.librarything.com/profile/Deltatank6">Deltatank6 | LibraryThing</a><br>
+<a href="https://www.independent.co.uk/life-style/marie-kondo-bibliophiles-books-decluttering-tidying-a8864926.html">Going against the decluttering craze: The book hoarders who defy Marie Kondo</a><br>
+<a href="https://www.polygon.com/21516173/best-new-science-fiction-books-scifi-last-15-years">Most important science fiction books of the last 15 years</a><br>
+<a href="https://wccls.bibliocommons.com/">Washington County Cooperative Library Services</a><br><br>
+
+<b><font color="#FFFFFF"><span style="background-color: #000000">BOOK REPAIR</span></font></b><br><br>
+
+Dartmouth College Library <a href="https://www.dartmouth.edu/~library/preservation/repair/index.html">Simple Book Repair Manual</a> 
+	&amp; <a href="http://www.dartmouth.edu/~library/preservation/faq.html">FAQs</a><br>
+University Products <a href="http://www.universityproducts.com/">book repair supplies</a><br>
+<a href="https://www.dickblick.com/">Blick Art Supply</a><br><br>
+
+<b><font color="#FFFFFF"><span style="background-color: #000000">BUDGET</span></font></b><br><br>
+
+<a href="https://www.wellsfargo.com/mobile/payments/digital-wallet-basics/">Digital Wallet &amp; Payment App Basics</a><br>
+<a href="https://wallethub.com/answers/cc/wells-fargo-virtual-credit-card-2140708738/">How to Get a Virtual Credit Card</a><br>
+<a href="http://www.savespendsplurge.com/the-ideal-household-budget-for-spending/">Ideal Household Budget for Spending...</a><br>
+<a href="https://wallethub.com/edu/cc/virtual-credit-card/65981">Virtual Credit Cards</a><br>
+<a href="https://www.theladders.com/career-advice/youre-losing-out-on-a-lot-of-money-by-not-doing-these-things">You are losing out on a lot of money by not doing these 11 things</a><br>
+<a href="https://www.thepennyhoarder.com/save-money/virtual-credit-card/?aff_sub2=frugality-fails">What Is a Virtual Credit Card and How...</a><br><br>
+
+<b><font color="#FFFFFF"><span style="background-color: #000000">CABLE</span></font></b><br><br>
+
+<a href="https://reelrundown.com/tv/best-korean-dramas-you-should-watch">15 Best Korean Dramas You Should Watch...</a><br>
+<a href="https://www.ranker.com/list/best-korean-dramas/onlysuy?ref=trivia&amp;a=0&amp;ltype=l&amp;l=2755437&amp;g=US">100+ Best Korean Drama TV Series...</a><br>
+<a href="https://www.listchallenges.com/top-korean-dramas-you-must-watch">Amazing Top Korean Dramas of All Time</a><br>
+<a href="https://www.netflix.com/browse/genre/1492">Best Sci-Fi Movies | Netflix Official Site</a><br>
+<a href="https://www.cosmopolitan.com/entertainment/movies/a30447571/best-movies-streaming-netflix/">Best Movies Streaming on Netflix</a><br>
+<a href="https://www.vulture.com/article/best-netflix-original-movies.html">Best Netflix Original Movies, Ranked (2015-2020)</a><br>
+<a href="https://www.whats-on-netflix.com/what-to-watch/the-full-list-and-best-of-korean-dramas-on-netflix/">Full List and Best of Korean Dramas...</a><br>
+<a href="https://www.independent.co.uk/arts-entertainment/films/news/netflix-secret-codes-movies-tv-shows-b1912584.html">Netflix secret codes: How to access hidden...</a><br>
+<a href="https://www.buzzfeed.com/jonmichaelpoff/netflix-tips-hacks">Netflix Tips And Tricks Every User Should Know</a><br>
+<a href="https://www.google.com/search?ei=7A5FW-WrM7OQ0PEPifepgAs&q=taiwan+romance+tv+shows&oq=taiwan+romance+tv+shows&gs_l=psy-ab.3..
+0i30k1.2594.2594.0.2867.1.1.0.0.0.0.83.83.1.1.0....0...1c.1.64.psy-ab..0.1.81....0.fOOB_d6XNfE">Taiwan TV shows - Google Search</a><br>
+<a href="https://bgr.com/2018/11/02/best-netflix-series-how-to-find-easier-secret-categories/">There is a new way to browse Netflix secret categories</a><br>
+<a href="https://www.looper.com/217543/the-most-underappreciated-sci-fi-and-fantasy-movies-on-netflix-right-now/">Underappreciated sci-fi and fantasy movies on Netflix</a><br>
+<a href="https://wccls.kanopy.com/video/scandal-makers">Watch Scandal Makers now | Kanopy</a><br><br>
+
+<b><font color="#FFFFFF"><span style="background-color: #000000">CAD</span></font></b><br><br>
+
+<a href="https://freecadtipsandtricks.com/index.php/2019/01/24/top-20-webites-to-download-free-cad-blocks-autocad-blocks-download/">20 Websites to Download Free CAD Blocks</a><br>
+<a href="http://cadecorner.blogspot.com/2006/08/using-scripts-to-automate-layer.html">CAD-e-Corner: Using Scripts to Automate...</a><br>
+<a href="https://www.google.com/search?source=hp&ei=3pLRXZ7sIaLi9AP65434AQ&q=how+to+load+autolisp+automatically&oq=
+   how+to+load+autol&gs_l=psy-ab.3.6.0l6j0i22i30l4.2298.8435..16610...1.0..0.249.1322.17j1j1......0....1..gws-wiz.....	
+	6..0i362i308i154i357j0i131.NbcFlaw6fWY">How to load autolisp automatically</a><br><br>
+
+<a href="https://www.XXXXXX.com">XXXXXX</a><br><br></td>
+</tr></tbody></table></div>
+
+
+<p><a href="JavaScript:doExpand(AnyDivIdName12)">
+<span style="background-color: #FFFF00">COFFEE - CRYPTOGRAM - FOOD - GAMES - GENERAL SITES/ZINES</span></a><br></p>
+<div id="AnyDivIdName12" style="display: none;">
+<table border="0" width="100%"><tbody><tr>
+
+<td valign="top" width="74%">
+<b><font color="#FFFFFF"><span style="background-color: #000000">COFFEE</span></font></b><br><br>
+
+<a href="https://www.eatthis.com/most-popular-packaged-coffee-brands/">8 Most Popular Packaged Coffee Brands</a><br>
+<a href="https://www.esquire.com/food-drink/g22255855/best-coffee-beans-brands-to-buy-now/">14 Best Coffee Bean Brands 2020 - What...</a><br>
+<a href="https://www.eatthis.com/coffee-quotes/">20 Coffee Quotes You Will Want to Live...</a><br>
+<a href="https://bestlifeonline.com/coffee-quotes/">30 Coffee Quotes for Anyone Who Just...</a><br>
+<a href="https://theconversation.com/the-biology-of-coffee-one-of-the-worlds-most-popular-drinks-129179">The biology of coffee, one of the...</a><br>
+<a href="https://www.thekitchn.com/how-to-make-aeropress-coffee-two-ways-cooking-lessons-from-the-kitchn-210815">How To Make AeroPress Coffee (Two Ways!)</a><br>
+<a href="https://www.nbcnews.com/better/lifestyle/how-make-better-cup-coffee-according-mark-bittman-ncna1078846">How to make a better cup of coffee, according...</a><br>
+<a href="https://www.thelist.com/412381/the-biggest-coffee-myth-youre-still-falling-for/">Biggest Coffee Myth You Are Still Falling For</a><br>
+<a href="https://www.insider.com/bulletproof-coffee-benefits-makes-me-feel-more-productive-2021-6">Buttery Bulletproof Coffee Gives Me Energy and Focus: Review</a><br>
+<a href="https://www.theladders.com/career-advice/if-you-do-this-while-drinking-coffee-it-can-completely-ruin-the-taste">If you do this while drinking coffee, it can completely ruin the taste</a><br>
+<a href="https://thenextweb.com/syndication/2020/01/24/scientists-have-cracked-the-formula-for-a-perfect-cup-of-coffee/">Scientists have cracked the formula for...</a><br>
+<a href="https://thetakeout.com/this-trick-might-just-convert-you-to-black-coffee-1845775543">This trick might just convert you to black coffee</a><br>
+<a href="https://www.eatthis.com/news-easiest-hack-drinking-coffee/">We Just Discovered The Easiest Hack for Drinking Coffee</a><br>
+<a href="https://www.thelist.com/412591/youve-been-drinking-coffee-wrong-all-along/">You Have Been Drinking Coffee Wrong All Along</a><br>
+<a href="https://www.mashed.com/185049/youve-been-making-coffee-wrong-your-whole-life/">You Have Been Making Coffee Wrong Your Whole Life</a><br>
+<a href="https://www.tasteofhome.com/article/types-of-coffee/">Your Ultimate Guide to Different Types of Coffee</a><br>
+<a href="https://thenextweb.com/syndication/2020/01/24/scientists-have-cracked-the-formula-for-a-perfect-cup-of-coffee/">Scientists have cracked the formula for...</a><br><br>
+
+<b><font color="#FFFFFF"><span style="background-color: #000000">CRYPTOGRAM</span></font></b><br><br>
+
+<a href="https://cryptograms.puzzlebaron.com/">Cryptogram Puzzles</a><br>
+<a href="https://www.boxentriq.com/code-breaking/cipher-identifier">Cipher Identifier (online tool)</a><br>
+<a href="http://rumkin.com/tools/cipher/cryptogram-solver.php">Cryptogram Solver</a><br>
+<a href="https://www.cryptogram.org/resource-area/solve-a-cipher/">Solve A Cipher - American Cryptogram Association</a><br>
+<a href="https://www.wordplays.com/cryptogram">Cryptogram Cracker</a><br>
+<a href="https://api.razzlepuzzles.com/cryptogram">Cryptograms - Solve Free Cryptoquote Puzzles</a><br>
+<a href="https://www.quipqiup.com/">Cryptoquip and cryptogram solver</a><br><br>
+
+<b><font color="#FFFFFF"><span style="background-color: #000000">FOOD</span></font></b><br><br>
+
+<a href="https://www.tasteofhome.com/article/how-to-make-fudgy-brownies/">How to Make Fudgy Brownies from Scratch</a> (tasteofhome.com)<br>
+<a href="https://www.mashed.com/408397/heres-what-happens-when-you-add-an-extra-egg-yolk-to-chocolate-chip-cookies/">What Happens When You Add An Extra Egg Yolk To Choco Chip Cookies</a> (mashed.com)<br>
+<a href="https://www.mashed.com/327203/the-best-brownie-recipe-on-the-internet/">Best Brownie Recipe On The Internet</a> (mashed.com)<br>
+<a href="https://www.popsugar.com/food/cooling-chocolate-chip-cookies-on-paper-bag-48120517">Why You Should Cool Chocolate Chip Cookies on a Paper Bag</a> (popsugar.com)<br>
+<a href="https://www.eater.com/22276743/best-chocolate-chip-cookie-recipes-easy-baking">Best Chocolate Chip Cookie Recipes</a> (eater.com)<br>
+<a href="https://www.thekitchn.com/best-boxed-chocolate-cake-mix-23124017">Best Grocery Store Chocolate Cake Mix - Taste Test</a> (thekitchn.com)<br>
+<a href="https://www.taraobrady.com/recipes-in-full/2019/5/1/tara-obradys-basic-great-chocolate-chip-cookies">Great Chocolate Chip Cookies</a> (taraobrady.com)<br>
+<a href="https://www.thekitchn.com/chocolate-gifts-23234905">Chocolate</a> (kitchn.com)<br>
+<a href="https://rumblytumbly.com/2014/03/19/life-changing-brownies/">Life Changing Brownies</a> (rumblytumbly.com)<br>
+<a href="https://designbakerun.blogspot.com/2014/04/martha-stewarts-outrageous-chocolate.html">Outrageous Chocolate Cookies</a> (designbakerun.blogspot.com)<br>
+<a href="https://99easyrecipes.com/gooey-brownie-pie/">Gooey Brownie Pie</a> (99easyrecipes.com)<br>
+<a href="https://kitchenfunwithmy3sons.com/best-brownie-recipe-fudgy-chewy/">Best Brownie Recipe</a> (kitchenfunwithmy3sons.com)<br>
+<a href="https://www.munchkintime.com/best-giant-chocolate-chip-cookie/">Best Giant Chocolate Chip Cookie</a> (munchkintime.com)<br>
+<a href="https://kitchenfunwithmy3sons.com/thick-chocolate-chip-cookies/">Thick Chocolate Chip Cookies</a> (kitchenfunwithmy3sons.com)<br>
+<a href="https://tastyfoods.allthatinspires.me/2019/07/chocolate-spoonful-cake-recipe.html">Chocolate Spoonful Cake Recipe</a> (tastyfoods.allthatinspires.me)<br>
+<a href="https://www.smartschoolhouse.com/easy-recipe/chocolate-chip-cookies">Chocolate Chip Cookies</a> (smartschoolhouse.com)<br>
+<a href="https://thestayathomechef.com/the-most-amazing-chocolate-cake/#wprm-recipe-container-10660">Most Amazing Chocolate Cake</a> (thestayathomechef.com)<br>
+<a href="https://theviewfromgreatisland.com/ina-gartens-chocolate-cake-recipe/">Ina Garten's Chocolate Cake Recipe</a> (theviewfromgreatisland.com)<br>
+<a href="https://foodess.com/moist-chocolate-cake/">Moist Chocolate Cake (The BEST Simple Recipe!)</a> (foodness.com)<br>
+<a href="https://thestayathomechef.com/the-most-amazing-chocolate-cake/">The Most Amazing Chocolate Cake</a> (thestayathomechef.com)<br>
+<a href="https://cafedelites.com/best-fudgy-cocoa-brownies/">Fudgy Cocoa Brownies</a> (cafedelites.com)<br>
+<a href="https://bluebowlrecipes.com/ultra-fudgy-brown-butter-brownies">Fudgy Brown Butter Brownies</a> (bluebowlrecipes.com)<br>
+<a href="https://food.menuphd.com/the-best-classic-chocolate-cake/">Best Classic Chocolate Cake</a> (food.menuphd.com)<br>
+<a href="https://cozypeachkitchen.com/fudgy-dark-chocolate-brownies/">Fudgy Dark Chocolate Brownies</a> (cozypeachkitchen.com)<br>
+<a href="https://chelsweets.com/death-by-chocolate-cake/">Death by Chocolate Cake</a> (chelsweets.com)<br>
+<a href="https://cookiesfordays.com/chocolate-chip-cookie-recipe/">Best Chocolate Chip Cookie Recipe</a> (cookiesfordays.com)<br>
+<a href="https://krollskorner.com/recipes/desserts/krolls-kookies/">Kroll's Kookies: Giant Chocolate Chip Cookies</a> (krollskorner.com)<br>
+<a href="https://thestayathomechef.com/the-most-amazing-chocolate-cake/">Most Amazing Chocolate Cake Recipe</a> (thestayathomechef.com)<br>
+<a href="https://food.menuphd.com/chocolate-spoonful-cake/">Chocolate Spoonful Cake</a><br>
+<a href="https://delishably.com/desserts/Easy-Chocolate-Fudge-Cake-Recipe">Recipe: Easy Chocolate Fudge Cake</a><br>
+<a href="https://foodess.com/moist-chocolate-cake/">Moist Chocolate Cake</a><br>
+<a href="https://bexskitchen.com/costco-chocolate-cake-recipe/">Costco chocolate cake recipe</a> (bexskitchen.com)<br><br>
+
+<a href="https://tatyanaseverydayfood.com/lemon-buttercream/">The Best Lemon Buttercream Recipe</a> (tatyanaseverydayfood.com)<br>
+<a href="https://spaceshipsandlaserbeams.com/lemon-buttercream/">Lemon Buttercream</a> (spaceshipsandlaserbeams.com)<br>
+<a href="https://spaceshipsandlaserbeams.com/lemon-cake/">Lemon Cake</a> (spaceshipsandlaserbeams.com)<br>
+<a href="https://www.mashed.com/314672/lemon-cake">Lemon Cake</a> (mashed.com)<br>
+<a href="https://www.mycakeschool.com/orange-vanilla-bean-cake/">Orange Vanilla Bean Cake</a> (mycakeschool.com)<br>
+<a href="https://theviewfromgreatisland.com/raspberry-lemon-cake/">Raspberry Cake with Lemon Buttercream</a> (theviewfromgreatisland.com)<br>
+<a href="https://www.lifeloveandsugar.com/lemon-layer-cake/">Lemon Layer Cake</a> (lifeloveandsugar.com)<br>
+<a href="https://www.lifeloveandsugar.com/triple-lemon-cake/print/33939/">Triple Lemon Cake</a> (lifeloveandsugar.com)<br>
+<a href="https://www.lifeloveandsugar.com/lemon-cake-with-lemon-bavarian-cream/">Lemon Cake with Lemon Bavarian Cream</a> (lifeloveandsugar.com)<br>
+<a href="https://www.mycakeschool.com/lemonade-layer-cake/">Lemonade Layer Cake</a> (mycakeschool.com)<br>
+<a href="https://www.bettycrocker.com/recipes/lemon-drop-cake">Lemon Drop Cake</a> (bettycrocker.com)<br>
+<a href="https://cakebycourtney.com/the-best-lemon-cake-recipe/">Best Lemon Cake Recipe</a> (cakebycourtney.com)<br>
+<a href="https://www.spatuladesserts.com/lemon-buttercream-frosting/">Lemon Buttercream Frosting</a> (spatuladesserts.com)<br>
+<a href="https://sugarspiceandglitter.com/easy-lemon-cake/">Easy Lemon Cake</a> (sugarspiceandglitter.com)<br>
+<a href="https://sweetlittlebluebird.com/easy-lemon-lovers-layer-cake-weekend/">Easy Lemon Lovers Layer Cake</a> (sweetlittlebluebird.com)<br>
+<a href="https://tornadoughalli.com/lemon-layer-cake/">Lemon Layer Cake</a> (tornadoughalli.com)<br>
+<a href="https://vintagekitchennotes.com/lemon-cream-cake/">Lemon Cream Cake Recipe</a> (vintagekitchennotes.com)<br>
+<a href="https://www.modernhoney.com/lemon-cake/">Lemon Cake</a> (modernhoney.com)<br>
+<a href="https://www.mycakeschool.com/lemon-cheesecake-cake/">Lemon Cheesecake Cake</a> (mycakeschool.com)<br>
+<a href="https://www.mycakeschool.com/lemonade-layer-cake/">Lemonade Layer Cake</a> (mycakeschool.com)<br>
+<a href="https://tastesbetterfromscratch.com/lemon-cake/">Lemon Cake</a> (tastesbetterfromscratch.com)<br>
+<a href="https://cakesbymk.com/recipe/soft-lemon-cake/">Soft Lemon Cake</a> (cakesbymk.com)<br>
+<a href="https://cakemehometonight.com/lemon-cake/">Lemon Cake</a> (cakehometonight.com)<br>
+<a href="https://optimalrecipes.com/lemon-heaven-cake-recipe-zesty-and-moist-dessert-delight/">Lemon Heaven Cake Recipe</a> (optimalrecipes.com)<br>
+<a href="https://preppykitchen.com/wprm_print/4813">Lemon Cake</a> (preppykitchen.com)<br>
+<a href="https://www.surlatable.com/lemon-butter-cake/REC-288674.html">Lemon Butter Cake</a> (surlatable.com)<br>
+<a href="https://sugareverythingnice.blogspot.com/2009/03/triple-lemon-chiffon-cake.html">Triple Lemon Chiffon Cake</a> (sugareverythingnice.blogspot.com)<br>
+<a href="https://bakeorbreak.com/2015/04/lemon-cream-cake/">Lemon Cream Cake</a> (bakeorbreak.com)<br>
+<a href="https://grandbaby-cakes.com/lemon-layer-cake/">Lemon Layer Cake</a> (grandbaby-cakes.com)<br>
+<a href="https://thedomesticrebel.com/2019/04/22/best-ever-lemon-cake/">Best Ever Lemon Cake</a> (thedomisticrebel.com)<br>
+<a href="https://www.cake-babe.com/light-lemon-cake/">The Most Enjoyable Light Lemon Cake</a> (cake-babe.com)<br>
+<a href="https://thegirlinspired.com/lemon-layer-cake/">Lemon Layer Cake</a> (thegirlinspired.com)<br>
+<a href="https://livforcake.com/lemon-cake/">Lemon Cake</a> (livforcake.com)<br>
+<a href="https://vintagekitchennotes.com/lemon-cream-cake/#tasty-recipes-12154-jump-target">Lemon Cream Cake Recipe</a> (vintagekitchennotes.com)<br>
+<a href="https://www.restlesschipotle.com/lemon-layer-cake/">Moist Lemon Layer Cake</a> (restlesschipotle.com)<br>
+<a href="https://teprod.com/a-lemon-cake-to-die-for-simple-and-delicious-recipe/">A Lemon Cake To Die For – Simple and Delicious Recipe</a> (teprod.com)<br>
+<a href="https://www.greatgrubdelicioustreats.com/zesty-lemon-cake/">Zesty Lemon Cake</a> (greatgrubdelicioustreats.com)<br>
+<a href="https://www.rockrecipes.com/ultimate-lemon-cake/">The Ultimate Lemon Cake</a> (rockrecipes.com)<br><br>
+
+<a href="https://www.tasteofhome.com/article/how-to-make-a-starbucks-cheese-danish-copycat-recipe/">How to Make a Starbucks Cheese Danish Copycat Recipe</a><br>
+<a href="https://www.midwestliving.com/recipe/cakes/white-christmas-butter-cake/">White Three-Layer Butter Cake</a><br>
+<a href="https://mommakesdinner.com/starbucks-copycat-cheese-danish/">Copycat Starbucks cheese danish recipe</a><br>
+<a href="http://m.wikihow.com/Make-Kitty-Litter-Cake">How to Make Kitty Litter Cake: 12 Steps</a><br>
+<a href="https://www.purewow.com/food/sole-water?amphtml=true">What Is Sole Water? 7 Health Benefits Some People Swear By</a><br>
+<a href="https://www.thekitchn.com/collection/grocery-diaries">Grocery Diaries</a><br>
+<a href="https://skillet.lifehacker.com/you-should-add-baking-soda-to-your-ground-meat-1846103865">Brown Ground Meat Faster (and Keep It More Moist) With Baking Soda</a><br>
+<a href="https://www.yourtango.com/health-wellness/cherry-juice-cure-insomnia-how-much-drink-fall-asleep">Does Cherry Juice Cure Insomnia?</a><br>
+<a href="https://www.wideopeneats.com/betty-crocker-cake-mix/">Betty Crocker Cake Mix Hacks That Take Boxed Cake to Bakery Perfection</a><br>
+<a href="https://www.momswhothink.com/see-which-frozen-pizza-reigned-supreme-out-of-these-8-brands/">Which Frozen Pizza Reigned Supreme Out of These 8 Brands</a><br>
+<a href="https://www.chowhound.com/2060107/canned-cinnamon-rolls-ranked-worst-best/">Canned Cinnamon Rolls, Ranked Worst to Best</a><br>
+<a href="https://sallysbakingaddiction.com/easy-homemade-soft-pretzels/">Soft Pretzels</a><br><br>
+
+<b><font color="#FFFFFF"><span style="background-color: #000000">GAME</span></font></b><br><br>
+
+<a href="https://games.usatoday.com/">Online Games Portal</a><br>
+<a href="https://www.grubiks.com/solvers/professors-cube-5x5x5/">Cube Solver 5x5x5</a><br>
+<a href="http://www.gametracker.com/search/dayz/US/?sort=0&amp;order=ASC&amp;searchipp=50#search">DayZ Server List</a> - GameTracker server stats<br>
+<a href="https://worldoftanks.com/">World of Tanks</a><br>
+<a href="http://www.lexicalwordfinder.com/">Lexical Word Finder - Scrabble and Words...</a><br>
+<a href="https://www.windowscentral.com/flight-simulator-features-one-shared-online-world-other-multiplayer-modes">Flight Simulator features one shared...</a><br><br>
+
+<b><font color="#FFFFFF"><span style="background-color: #000000">GENERAL-SITES/ZINES</span></font></b><br><br>
+
+<a href="https://www.buzzfeed.com/hannahmarder/useful-underrated-websites">Underrated Useful Websites</a><br>
+<a href="https://web.archive.org/">Wayback Machine - archived web pages</a><br>
+<a href="https://mapalist.com/">MapAList - Create and Manage Maps of...</a><br>
+<a href="http://www.usdebtclock.org/">U.S. National Debt Clock : Real Time</a><br>
+<a href="https://www.familyhandyman.com/">Do it Yourself Home Improvement: Home Repair</a><br>
+<a href="https://searchinternethistory.com/">Search internet history</a><br>
+<a href="https://www.oregonlive.com/#news">Oregonlive.com</a><br>
+<a href="https://bestlifeonline.com/">Best Life</a><br>
+<a href="https://www.visualcapitalist.com/">Visual Capitalist</a><br>
+<a href="https://www.komando.com/">Kim Komando</a><br>
+<a href="https://www.makeuseof.com//">MakeUSeOf</a><br>
+<a href="https://web.archive.org/">Wayback Machine - archived web pages</a><br><br>
+
+<a href="https://www.XXXXXX.com">XXXXXX</a><br><br></td>
+</tr></tbody></table></div>
+
+
+<p><a href="JavaScript:doExpand(AnyDivIdName13)">
+<span style="background-color: #FFFF00">HEALTH - SLEEP - TINNITUS</span></a><br></p>
+<div id="AnyDivIdName13" style="display: none;">
+<table border="0" width="100%"><tbody><tr>
+
+
+<td valign="top" width="74%">
+<b><font color="#FFFFFF"><span style="background-color: #000000">HEALTH</span></font></b><br><br>
+
+<a href="https://www.youtube.com/watch?v=r7Zy6ieJAHQ">6 Hour Study Music: Studying Music with...</a><br>
+<a href="https://www.inverse.com/article/61261-anxiety-playlist-songs-therapy">8 songs to calm anxiety, from a music therapist</a><br>
+<a href="https://www.ebaumsworld.com/pictures/42-life-hacks-for-a-healthier-you/83774669/">42 Life Hacks For A Healthier You</a><br>
+<a href="https://www.eatthis.com/how-to-lose-4-inches-of-body-fat/">44 Ways To Lose 4 Inches Of Body Fat</a><br>
+<a href="https://www.menshealth.com/weight-loss/a19536817/weight-loss-tips-1/">63 Easy Ways For Men to Lose Weight and Get Rid of Your Belly</a><br>
+<a href="https://www.firstforwomen.com/posts/health/sunlight-morning-energy">How Morning Sunlight Gave Me My Energy Back</a><br>
+<a href="https://www.healthdigest.com/666452/these-tricks-will-help-you-tone-your-belly-fat-much-easier/">Belly Fat</a><br>
+<a href="https://www.businessinsider.com/diy-face-mask-n95-ex-apple-engineer-surgical-masks-fit-2020-6">DIY face-mask brace from ex-Apple engineer gives masks a tighter fit</a><br>
+<a href="https://www.eatthis.com/news-flatter-stomach-morning-exercises/">Flatter Stomach</a><br>
+<a href="https://www.pinterest.com/pin/774124926535052/">Forehead-rub</a><br>
+<a href="http://healthbenefits.live/en/tinnitus/02/">Health Benefits</a><br>
+<a href="https://www.theladders.com/career-advice/i-tried-planking-for-2-minutes-before-work-every-morning-and-something-unexpected-happened">
+	I tried planking for 2 minutes before work every morning and something unexpected happened</a><br>
+<a href="https://www.fitandwell.com/news/increase-metabolism-lose-weight-over-50-1025">Lose Weight Over 50</a><br>
+<a href="https://www.eatthis.com/news-hand-gesture-stress-shima/">Making This One Hand Gesture Instantly Relaxes Your Body, Says Expert</a><br>
+<a href="https://nextshark.com/tabata-workout-abs-5-months/">Man Gets Insane Abs in 5 Months Doing a Japanese Exercise Called Tabata</a><br>
+<a href="https://www.menshealth.com/fitness/a19544669/dont-ask-about-abs-workout/">Workout</a><br>
+<a href="https://www.ted.com/talks/alison_ledgerwood_a_simple_trick_to_improve_positive_thinking">TED: A simple trick to...</a><br>
+<a href="https://www.beautyepic.com/how-to-remove-skin-tags-at-home/">How to Remove Skin Tags Naturally at Home</a><br>
+<a href="https://www.stylecraze.com/trending/benefits-of-mudras/">Hold Your Hand In This Position And You Will Not Believe What Will Happen Next</a><br><br>
+
+<b><font color="#FFFFFF"><span style="background-color: #000000">SLEEP</span></font></b><br><br>
+
+<a href="http://mentalfloss.com/article/550396/expert-tips-for-getting-back-to-sleep">5 Scientific Tips for Getting Back to Sleep After You Have Woken Up in the Middle of the Night</a><br>
+<a href="https://www.youtube.com/watch?v=mDX8QrcDI_o">Lucid Dreaming Sleep Track</a><br>
+<a href="https://www.yourtango.com/2017303743/6-techniques-how-get-best-sleep-your-life-no-pills">6 Techniques For How To Get The Best Sleep Of Your Life</a><br>
+<a href="https://www.fitandwell.com/news/six-stretches-to-do-before-bed-that-will-help-you-fall-asleep-quicker-and-wake-up-feeling-fresh">6 Stretches To Do Before Bed</a><br>
+<a href="https://www.livestrong.com/article/13764484-natural-remedies-for-insomnia/">9 Best Natural Remedies for Insomnia</a><br>
+<a href="https://www.buzzfeed.com/tomvellner/how-to-fall-asleep-faster">13 Tricks To Fall Asleep Faster That...</a><br>
+<a href="https://www.express.co.uk/life-style/health/1510205/how-to-sleep-exercise-brain-tapping">30 Second Sleep</a><br>
+<a href="https://bestlifeonline.com/how-to-sleep-better/">50 Tips for Better Sleep, According to Doctors and Experts</a><br>
+<a href="https://www.thehealthy.com/sleep/easy-ways-to-sleep-better/">50 Easy Ways to Sleep Better</a><br>
+<a href="https://knowridge.com/2020/06/how-to-sleep-well-when-you-work-from-home/">How to sleep well when you work from home</a><br>
+<a href="https://www.purewow.com/wellness/swedish-sleep-trick">Swedish Sleep Trick</a><br>
+<a href="https://www.boredpanda.com/breathing-exercise-trick-sleeping-anxiety-dr-andrew-weil">A Breathing Technique That Helps You Fall Asleep In 60 Seconds</a><br>
+<a href="https://www.upworthy.com/heres-a-military-trick-that-can-help-you-fall-asleep-in-2-minutes">A Navy trick that helps you fall asleep fast</a><br>
+<a href="https://www.thelist.com/584227/oddly-satisfying-things-that-will-relax-you-before-going-to-sleep/">Oddly Satisfying Things That Will Relax You Before Going To Sleep</a><br>
+<a href="http://www.cnn.com/2015/03/26/health/sleep-better-yoga/">Sleep better with six minutes of bedtime...</a><br>
+<a href="https://www.fatherly.com/health/how-men-can-stop-peeing-at-night">How to stop ... at night</a><br>
+<a href="https://www.intheknow.com/2020/03/24/this-military-sleep-hack-can-help-you-fall-asleep-in-2-minutes-flat/">This military sleep hack can help you...</a><br>
+<a href="https://www.youtube.com/watch?v=WPni755-Krg&amp;spfreload=5">Study Music Alpha Waves: Relaxing Studying</a><br>
+<a href="https://futurism.com/restly-sleep-app">This Cutting-Edge Sleep App Will Help You Fall Asleep in Just Two Minutes</a><br>
+<a href="https://www.nzherald.co.nz/lifestyle/sleeping-expert-the-method-that-will-help-you-fall-asleep-in-60-seconds/ZZ3HGBA2ZEFDE3OZQFXPSNP75I/">
+	The method that will help you fall asleep in 60 seconds</a><br>
+<a href="https://www.wellandgood.com/waking-up-at-night/">Waking Up At Night? TCM Might have Answers for You</a><br>
+<a href="https://www.elitedaily.com/p/heres-how-to-sleep-through-the-night-with-anxiety-using-these-11-expert-tips-13099465">Here is How To Sleep Through The Night With Anxiety Using These 11 Expert Tips</a><br>
+<a href="https://www.popsugar.com/fitness/Simple-Trick-Falling-Back-Asleep-During-Night-46169195">Simple Trick For Falling Back Asleep During the Night</a><br>
+<a href="https://www.yourtango.com/health-wellness/cherry-juice-cure-insomnia-how-much-drink-fall-asleep">Does Cherry Juice Cure Insomnia?</a><br>
+<a href="https://www.purewow.com/wellness/doctor-approved-insomnia-trick">Doctor-Approved Insomnia Solution</a><br>
+<a href="https://www.firstforwomen.com/posts/breathing-techniques-to-fall-asleep-faster-168278">Best Breathing Technique to Fall Asleep Faster</a><br>
+<a href="https://futurism.com/sleep-better-qualia-night-supplement">This Sleep Supplement Won't Help You Sleep More</a><br>
+<a href="https://www.independent.co.uk/life-style/what-time-bed-sleep-well-b1837144.html">The right time to go to bed if you want a perfect sleep</a><br>
+<a href="https://thriveglobal.com/stories/the-best-ways-to-fall-asleep-quickly/">The best ways to fall asleep quickly</a><br>
+<a href="https://www.express.co.uk/life-style/health/1501290/how-sleep-in-ten-minutes">To Sleep</a><br>
+<a href="https://www.mirror.co.uk/news/weird-news/doctor-shares-unusual-open-eye-29004958">Unusual Open Eye Sleep Method</a><br>
+<a href="https://brobible.com/culture/article/military-technique-sleep-120-seconds/">Fall Asleep in 120 Seconds</a><br>
+<a href="https://www.the-express.com/lifestyle/life/166258/japanese-sleep-method-drift-off-minutes">Doctor shares Japanese sleep method that will help you drift off in 'just minutes'</a><br>
+<a href="https://www.howtogeek.com/shopping-for-a-new-monitor-mistakes-to-avoid/">Shopping for a New Monitor? 8 Mistakes to Avoid</a><br>
+<a href="https://www.huffingtonpost.co.uk/entry/11-sleepmaxxing-tips-to-try-before-bed_uk_67d420dae4b036ac32ca49d1">Try 'Sleepmaxxing' - 11 Hacks For Your Best Rest Yet</a><br>
+<a href="https://www.tomsguide.com/wellness/sleep/cant-sleep-for-more-than-6-hours-experts-share-3-common-reasons-why-plus-tips-to-sleep-through-the-night">
+	Can't sleep for more than 6 hours?</a><br>
+<a href="https://www.followyourownrhythm.com/blog-1/2018/8/28/a-simple-trick-for-falling-asleep-that-works-every-time">Powerful Trick for Falling Asleep at Night</a><br>
+<a href="https://www.buzzfeed.com/maitlandquitmeyer/products-to-help-go-to-sleep-2025-an">36 Things For Anyone Who's Still Awake At 3 A.M. Chanting "Go To Sleep"</a><br>
+<a href="https://metro.co.uk/2024/12/28/try-this-strange-sleep-hack-drift-off-instantly-22260809/">Try This Strange Sleep Hack</a><br>
+<a href="https://www.tomsguide.com/wellness/sleep-problems/i-fell-back-asleep-fast-at-3-a-m-using-a-brain-researchers-5-minute-trick-heres-why-it-works">Fall Back Asleep at 3am</a><br><br>
+	
+<font color="#FFFFFF"><b><span style="background-color: #000000">TINNITUS</span></b></font><br><br>
+
+<a href="http://www.cnn.com/2017/03/22/health/magnesium-tinnitus-ringing-ears-partner/">Could we trick the brain to stop tinnitus?...</a><br>
+<a href="http://www.top10homeremedies.com/home-remedies/home-remedies-tinnitus.html">Home Remedies for Tinnitus</a><br>
+<a href="https://www.womansworld.com/posts/health/tinnitus-humming-treatment">Tinnitus Humming Treatment</a><br>
+<a href="https://nextthing.co/tinnitus-ear">Best Tinnitus Pills</a><br>
+<a href="https://www.healthyhearing.com/report/52726-My-accidental-triumph-over-tinnitus">My accidental triumph over tinnitus</a><br>
+<a href="https://tinnitusnotch.com/">Free Tinnitus Notch Therapy</a><br>
+<a href="https://www.vitasciences.com/TinniFree">TinniFree | Vitasciences</a><br>
+<a href="https://www.merakilane.com/ringing-ears-6-natural-tinnitus-remedies-that-actually-work/">6 Natural Tinnitus Remedies That Actually Work</a><br>
+<a href="https://constantringingears.com/">Learn How To Make Tinnitus Go Away For Good</a><br>
+<a href="https://www.stylecraze.com/articles/effective-home-remedies-for-tinnitus/">25 Best Home Remedies For Tinnitus</a><br>
+<a href="https://discover.hubpages.com/health/Ways-to-Cope-with-Tinnitus-and-to-Enjoy-Life">How to Cope With Tinnitus: My Experience</a><br>
+<a href="https://clearlifehearing.com/blog/one-minute-exercise-to-reduce-tinnitus-stress">Tinnitus</a><br><br>
+
+<a href="https://www.XXXXXX.com">XXXXXX</a><br><br></td>
+</tr></tbody></table></div>
+
+
+<p><a href="JavaScript:doExpand(AnyDivIdName14)">
+<span style="background-color: #FFFF00">HOUSE - BUGS/INSECTS</span></a><br></p>
+<div id="AnyDivIdName14" style="display: none;">
+<table border="0" width="100%"><tbody><tr>
+
+<td valign="top" width="74%">
+<font color="#FFFFFF"><span style="font-weight: 700; background-color: #000000">HOUSE/CAR</span></font><br><br>
+
+<a href="http://www.justbeeblog.com/5-tips-hosting-overnight-guests/">5 Tips For Hosting Overnight Guests</a><br>
+<a href="https://www.moneytalksnews.com/slideshows/the-2017-home-remodeling-projects-that-pay-back-best/?all">11 Home Upgrades With the Best Payback in 2020</a><br>
+<a href="https://cafemom.com/lifestyle/homeowner-chores-yard-fall">15 Things Homeowners Should Do to Their Yards Before the Fall</a><br>
+<a href="https://www.onegoodthingbyjillee.com/30-uses-for-hydrogen-peroxide-youll-want-to-know-about/">40 Brilliant Uses For Hydrogen Peroxide</a><br>
+<a href="https://www.familyhandyman.com/list/nifty-handy-hints-for-cheapskates/">42 Handy Hints for Frugal Homeowners</a><br>
+<a href="https://bestlifeonline.com/bad-remodeling-ideas/">50 Home Maintenance Mistakes to Stop...</a><br>
+<a href="https://www.familyhandyman.com/list/fall-maintenance-must-dos/">50 Crucial Fall Maintenance Tasks You...</a><br>
+<a href="https://www.familyhandyman.com/list/50-incredible-diy-home-projects/">50 Incredible DIY Home Projects</a> Bed built-in shelves<br>
+<a href="https://www.familyhandyman.com/list/organizing-hacks-for-cheapskates/">50 Organizing Hacks for Cheapskates</a><br>
+<a href="https://www.familyhandyman.com/article/heres-how-often-you-need-to-replace-everything-in-your-home/">How Often You Need to Replace Everything in Your Home</a><br>
+<a href="https://www.digitaltrends.com/home/how-long-do-appliances-last/">How Long Should Your Appliances Last?</a><br>
+<a href="https://www.firstforwomen.com/posts/home/how-to-clean-garbage-disposal">How to Clean a Garbage Disposal With Ice</a><br>
+<a href="http://sewmanyways.blogspot.com/2013/11/how-to-remove-plastic-screw-anchors.html?m=1">Sew Many Ways...: How to Remove Plastic...</a><br>
+<a href="https://www.rd.com/list/weekly-home-maintenance/">Home Maintenance You Should Do Every Week</a><br>
+<a href="https://www.familyhandyman.com/list/home-facts-this-is-how-long-these-parts-of-your-home-should-last/">Home Facts: This is How Long These Parts of Your Home Should Last</a><br>
+<a href="https://www.apartmenttherapy.com/house-square-footage-meaning-36734380">What Does a House Square Footage Include?</a><br>
+<a href="https://www.familyhandyman.com/">Family Handyman | Do it Yourself Home Improvement: Home Repair</a><br>
+<a href="https://www.familyhandyman.com/list/dont-toss-these-things-repurpose-them-instead/">Do not Toss These Things, Repurpose Them Instead</a><br>
+<a href="https://www.thekitchn.com/kitchen-cleaning-hacks-264886">Kitchen Cleaning Hacks</a><br>
+<a href="https://www.housedigest.com/1141559/what-are-the-downsides-of-engineered-wood-flooring/">Downsides of Engineered Wood Flooring</a><br>
+<a href="https://www.rd.com/list/keep-your-home-safe-while-youre-away/">Keep Your Home Safe While You Are Away</a><br>
+<a href="https://www.pinterest.com/pin/433330795392040773/">Home Maintenance Checklist</a><br>
+<a href="http://www.yelp.com/biz/plumbing-craftsman-and-drain-service-beaverton">Plumbing Craftsman and Drain Service...</a><br>
+<a href="https://www.familyhandyman.com/article/home-appliances-lifespan/">Average Life Span of the Appliances in Your Home</a><br>
+<a href="https://www.fool.com/the-ascent/mortgages/articles/58-of-home-buyers-worry-about-maintenance-heres-how-to-budget-for-it/">Home Maintenance</a><br>
+<a href="https://www.pinterest.com/pin/727894358514553444/">Yearly Home Maintenance Checklist</a><br>
+<a href="https://www.jalopnik.com/2256150/how-to-clean-car-windshield-motorcycle-mirrors-with-vinegar/">Vinegar Will Clean Your Car's Windshield And Mirrors, But Avoid These Mistakes</a><br><br>
+
+<font color="#FFFFFF"><span style="font-weight: 700; background-color: #000000">BUGS/INSECTS</span></font><br><br>
+
+<a href="https://www.organiclesson.com/borax-ant-killer/">Borax Ant Killer Recipes: Make Your Own Homemade Ant Killer</a><br>
+<a href="https://www.familyhandyman.com/article/this-trick-will-get-rid-of-most-insects-around-your-home/">Insects Around House</a><br>
+<a href="https://www.themirror.com/lifestyle/ants-can-kept-out-your-1167264">Ants can be kept out of your home using ingredient they can't stand</a><br>
+<a href="https://www.themirror.com/lifestyle/how-rid-ants-1205966">Eliminate ants with 1 method that can kill off colony amid 'population explosion'</a><br>
+<a href="https://www.realhomes.com/news/how-to-get-rid-of-ants-fast-using-natural-repellents">Need to get rid of ants in the house...</a><br>
+<a href="https://diyeverywhere.com/2026/01/12/my-nana-taught-me-this-trick-to-kill-ant-colonies-in-just-3-mins-with-0-effort-heres-how-it-works">Kill ant colonies in just 3 mins</a><br>
+<a href="https://grapesandsplendor.com/2018/10/14/how-to-make-a-weed-killer-that-annihilates-insects-on-spot/">How To Make A Weed Killer That Kills Insects As Well</a><br><br>
+
+<a href="https://www.XXXXXX.com">XXXXXX</a><br><br></td></tr></tbody></table></div>
+
+
+<p><a href="JavaScript:doExpand(AnyDivIdName15)">
+<span style="background-color: #FFFF00">HUMOR - MAPS - MILITARY RELATED - MOVIES</span></a><br></p>
+<div id="AnyDivIdName15" style="display: none;">
+<table border="0" width="100%"><tbody><tr>
+
+<td valign="top" width="74%">
+<b><font color="#FFFFFF"><span style="font-weight: 700; background-color: #000000">HUMOR</span></font></b><br><br>
+
+<a href="https://www.youtube.com/watch?v=GVaQ5aeGiO0">15 Funniest Commercials of All Time - YouTube</a><br>
+<a href="https://thoughtcatalog.com/january-nelson/2019/12/30-hilarious-palindromes-for-literary-nerds/">30 Hilarious Palindromes For Literary...</a><br>
+<a href="https://www.goodreads.com/author/quotes/23041.John_Wooden">John Wooden Quotes</a><br>
+<a href="http://www.thisisinsider.com/funniest-amazon-product-reviews-2017-4#and-finally-autoexecs-attachable-steering-wheel-
+	work-surface-is-the-time-saving-literally-breathtaking-tool-you-never-knew-you-needed-21">Funny reviews of weird Amazon products</a><br>
+<a href="https://www.looper.com/353113/the-untold-truth-of-calvin-and-hobbes/">The Untold Truth Of Calvin And Hobbes</a><br>
+<a href="http://www.gocomics.com/comics/a-to-z">A-Z List | Read Comic Strips at GoComics.com</a><br>
+<a href="https://www.gorillas-world.com/gorilla-social-structure/">Gorilla Social Structure</a><br>
+<a href="https://www.buzzfeed.com/evelinamedina/one-liners">One Liners</a><br><br>
+
+<b><font color="#FFFFFF"><span style="font-weight: 700; background-color: #000000">MAP</span></font></b><br><br>
+
+<a href="https://www.google.com/maps/@45.4986151,-122.4828433,3a,75y,117.41h,59.27t/data=
+	!3m6!1e1!3m4!1swl4otuZL48pUw4yAPRfHYQ!2e0!7i13312!8i6656">3306 SE 175th Pl - Google Maps</a><br>
+<a href="https://www.uncommongoods.com/product/custom-map-coaster-set">Custom Map Coaster Set | customizable...</a><br>
+<a href="https://www.google.com/search?q=Hashima+Island+map&amp;safe=off&amp;biw=1680&amp;bih=925&amp;source=
+	lnms&amp;sa=X&amp;ved=0ahUKEwiVssWG9tfLAhUP2GMKHdkKABIQ_AUIBigA&amp;dpr=1">Hashima Island map - Google Search</a><br>
+<a href="https://www.lifewire.com/find-elevation-on-google-maps-5198524">How to Find Elevation on Google Maps</a><br>
+<a href="http://www.imapbuilder.com/features/import-data-into-map.php#import-zipcode">Import Locations onto Your Map</a><br>
+<a href="http://www.openstreetmap.org/#map=18/45.45387/-122.75821">OpenStreetMap</a>
+<a href="https://mapalist.com/">MapAList - Create and Manage Maps of...</a><br>
+<a href="https://www.google.com/maps/place/Maya+Bay/@7.6860569,98.7681114,15.4z/data=
+	!4m5!3m4!1s0x304e20be94f73363:0x85a4f5bb85cf994f!8m2!3d7.6781764!4d98.7656716">Maya Bay - Google Maps</a><br>
+<a href="https://www.google.com/maps/place/Pituffik+Space+Base/@76.6190566,-69.6508429,8.54z/data=!4m10!1m2!2m1!1spituffik+space+base!
+3m6!1s0x4e3625006e5fac41:0x663d12ec728cfc4c!8m2!3d76.5360254!4d-68.7333718!15sChNwaXR1ZmZpayBzcGFjZSBiYXNlkgEZZmVkZXJhbF9nb3Zlcm5tZW50X29mZmljZeABAA!
+16s%2Fg%2F11m715hfdq?entry=ttu&g_ep=EgoyMDI2MDgyNS4wIKXMDSoASAFQAw%3D%3D">Pituffik Space Base, Greenland - Google Maps</a><br>
+<a href="https://what3words.com/products/what3words-app/">what3words app | Find, share and navigate to precise locations</a><br>
+<a href="https://www.cntraveler.com/story/the-worlds-highest-city-is-in-peru">World's Highest City Is in Peru</a><br>
+<a href="https://www.howtogeek.com/google-maps-tricks-i-wish-id-discovered-years-ago/">7 Google Maps tricks I wish I'd discovered years ago</a><br><br>
+
+<b><font color="#FFFFFF"><span style="font-weight: 700; background-color: #000000">MILITARY-RELATED</span></font></b><br><br>
+
+<a href="https://www.westpointaog.org/gradlink?erid=23024738&amp;trid=1047cdb4-eb7d-4eb8-a9c7-23c8e6aa1a09">Association of Graduates - GradLink</a><br>
+<a href="https://www.nationalww2museum.org/">The National WWII Museum|New Orleans</a><br>
+<a href="https://www.westpointaog.org/news/graduate-guide/">Graduate Guide</a><br><br>
+
+<b><font color="#FFFFFF"><span style="font-weight: 700; background-color: #000000">MOVIES</span></font></b><br><br>
+
+<a href="https://collider.com/best-time-travel-movies/">15 Best Time Travel Movies</a><br>
+<a href="https://247wallst.com/special-report/2021/03/30/23-best-sci-fi-movies-about-time-travel/">23 Best Sci-Fi Movies About Time Travel</a><br>
+<a href="https://www.seventeen.com/celebrity/movies-tv/a45016/best-romantic-movies/">79 Best Rom-Coms of All Time</a><br>
+<a href="https://www.looper.com/225018/time-travel-movies-you-shouldnt-skip/">Time travel movies you should not skip</a><br>
+<a href="https://faroutmagazine.co.uk/stanley-kubrick-explains-2001-space-odyssey-ending-rare-interview/">Stanley Kubrick explains 2001: A Space Odyssey</a><br>
+<a href="https://www.buzzfeed.com/spenceralthouse/clever-movies-thatll-make-you-think">Smart, Clever Movies That You Need To Watch</a><br>
+<a href="https://collider.com/best-80s-movies-that-time-forgot/">Best 80s Movies That Time Forgot</a><br>
+<a href="https://www.youtube.com/watch?v=w75oqvMlXXE&amp;feature=youtu.be">Sci-Fi Short Film "The Beacon" - YouTube</a><br>
+<a href="https://www.wired.com/story/best-time-travel-movies/">Best Time Travel Movies of All Time</a><br>
+<a href="https://en.m.wikipedia.org/wiki/Wild_Mountain_Thyme_(film)">Wild Mountain Thyme (film)</a><br>
+<a href="https://www.menshealth.com/entertainment/g33076201/best-zombie-movies-all-time/">Best Zombie Movies of All Time</a><br>
+<a href="https://www.justwatch.com/">JustWatch</a><br>
+<a href="https://collider.com/best-sci-fi-movies-of-the-21st-century/">Best Sci-Fi Movies of the 21st Century (So Far)</a><br>
+<a href="https://nationalinterest.org/blog/buzz/%E2%80%98-hunt-red-october%E2%80%99-submarine-movie-masterpiece-144037">The Hunt for Red October Is A Submarine Movie Masterpiece</a><br>
+<a href="https://nationalinterest.org/blog/reboot/hunt-red-october-let-me-tell-you-all-about-best-submarine-movie-ever-190412">Hunt for Red October: Let Me Tell You All About the Best Submarine Movie Ever</a><br>
+<a href="https://www.thelist.com/377937/the-absolute-best-free-movies-you-can-watch-on-youtube/">Absolute Best Free Movies You Can Watch On YouTube</a><br>
+<a href="https://www.moviemaker.com/classic-movies-you-can-watch-for-free-movies/">12 Classic Movies You Can Watch for Free Today</a><br>
+<a href="https://movieweb.com/movies-to-watch-if-youre-having-a-bad-day/">Movies to watch if you are having a bad day</a><br>
+<a href="https://www.themirror.com/entertainment/tv/netflix-adds-episodes-best-tv-1193478">Netflix adds all episodes of 'best TV show ever' fans could not stop watching</a><br>
+<a href="https://www.looper.com/1875001/best-mind-bending-movies-ranked/">15 Best Mind-Bending Movies Of All Time</a><br><br>
+
+<a href="https://www.XXXXXX.com">XXXXXX</a><br><br></td>
+</tr></tbody></table></div>
+
+
+<p><a href="JavaScript:doExpand(AnyDivIdName16)">
+<span style="background-color: #FFFF00">MUSIC - PHOTO/VIDEO - POLITICS/ECONOMY - PURCHASE</span></a><br></p>
+<div id="AnyDivIdName16" style="display: none;">
+<table border="0" width="100%"><tbody><tr>
+
+<td valign="top" width="74%">
+<b><font color="#FFFFFF"><span style="font-weight: 700; background-color: #000000">MUSIC</span></font></b><br><br>
+
+<a href="https://www.youtube.com/watch?v=QhJKsZ_5LG8">American Psycho the Musical on The Late Show with Stephen Colbert - YouTube</a><br>
+<a href="https://www.youtube.com/watch?v=a3w8I8boc_I">Best-Selling Music Artists 1969 - 2019 - YouTube</a><br>
+<a href="https://open.spotify.com/playlist/1u3vkSxeDEbLlw8QNETiqB?nd=1">Better Than Us Netflix Soundtracks</a><br>
+<a href="https://convertio.co/webm-mp3/">Convert WEBM to MP3 (Online &amp; Free)</a><br>
+<a href="https://www.youtube.com/watch?v=XrIkPjHLlGU">Easy Street by The Collapsable Hearts Club ft</a><br>
+<a href="http://everynoise.com/">Every Noise at Once</a><br>
+Flamingo sings &quot;Go Your Own Way&quot; by Fleetwood Mac | THE MASKED SINGER YouTube<br>
+<a href="http://www.youtube.com/watch?v=_OLUSELxFok&amp;index=1&amp;list=PLB761C099D3A02CD4">Gwen Stefani - 4 In The Morning - YouTube</a><br>
+<a href="https://handbrake.fr/features.php">HandBrake: Features</a><br>
+<a href="https://www.youtube.com/results?search_query=interrupters+">interrupters - YouTube</a><br>
+<a href="https://www.youtube.com/watch?v=vHeZZ00ku7k">Pat Benatar - Shadows Of The Night - YouTube</a><br>
+<a href="https://www.treehugger.com/pets/music-calms-cats-best-study-finds.html">This music calms cats the best, study finds</a><br><br>
+
+<b><font color="#FFFFFF"><span style="font-weight: 700; background-color: #000000">PHOTO-VIDEO</span></font></b><br><br>
+
+<a href="https://www.google.com/search?safe=off&amp;rlz=1C1GGRV_enUS751US752&amp;q=Aogashima+Island&amp;oq=
+	Aogashima+Island&amp;gs_l=psy-ab.3..0l4.5043.5043.0.5411.1.1.0.0.0.0.96.96.1.1.0....0...1.1.64.
+	psy-ab..0.1.95.b6YjuhoNtho">Aogashima Island - Google Search</a><br>
+<a href="https://www.neatorama.com/2019/06/13/Cat-Confused-by-Card-Trick/">Cat Confused by Card Trick</a><br>
+<a href="https://rare.us/rare-news/cats-see-ghosts/">Family's Cats Terrorized by Ghost</a><br>
+<a href="https://www.boredpanda.com/texas-sandfest-competition-winners-2019/">Here Are The Best 11 Photos Of 2019 Texas SandFest Competition</a><br>
+<a href="https://www.youtube.com/watch?v=dBIMzHevAQs">Mansour Bahrami - Best Wimbledon Trick</a><br>
+<a href="http://www.adweek.com/brand-marketing/what-the-hell-is-joon-an-impeccably-designed-new-airline-says-its-not-all-about-flying/">What the Hell Is Joon?</a><br>
+<a href="http://www.gigapan.com/gigapans/129240">UP grad - Gigapan</a><br><br>
+
+<b><font color="#FFFFFF"><span style="font-weight: 700; background-color: #000000">POLITICS/ECONOMY</span></font></b><br><br>
+
+<a href="https://www.cnn.com/interactive/2019/business/stock-market-by-president/">Stock market performance by president</a><br>
+<a href="https://www.theguardian.com/us-news/2021/jan/29/trump-russia-asset-claims-former-kgb-spy-new-book">The perfect target: Russia cultivated Trump as asset for 40 years - ex-KGB spy</a><br>
+<a href="https://financebuzz.com/news/struggling-companies-facing-closure-2?pid=1692">14 Companies That Could Be Gone by the End of 2026</a><br><br>
+
+<b><font color="#FFFFFF"><span style="font-weight: 700; background-color: #000000">PURCHASE</span></font></b><br><br>
+
+<a href="https://www.bustle.com/life/the-8-best-artificial-christmas-trees-with-led-lights-12630113">8 Best Artificial Christmas Trees With LED Lights</a><br>
+<a href="https://www.buzzfeed.com/alexandranapoli/products-life-less-stressful">28 Things To Make Your Life A Whole Lot Less Stressful</a><br>
+<a href="https://www.buzzfeed.com/jasminsuknanan/cheap-things-that-pay-for-themselves-and-more-tx0czcsak">29 Affordable Things That Pretty Much Pay For Themselves</a><br>
+<a href="https://www.elitedaily.com/p/40-affordable-things-on-amazon-youll-use-over-over-again-17981563">40 Affordable Things On Amazon You will Use Over and Over Again</a><br>
+<a href="https://www.thepennyhoarder.com/save-money/how-to-tell-if-amazon-reviews-are-fake/">How to Tell if Amazon Reviews Are Fake</a><br>
+<a href="https://www.cnn.com/2020/08/18/cnn-underscored/best-puzzles-for-adults/">Best puzzles for adults of 2021</a><br>
+<a href="https://elmersflag.com/">Elmers Flag and Banner</a> (near Lloyd Center)<br>
+<a href="https://guildoforegonwoodworkers.org/Hire-a-Woodworker">Guild of Oregon Woodworkers</a><br>
+<a href="https://www.etsy.com/listing/599617256/marble-and-wood-engraved-coaster-set">Marble and wood Engraved Coaster Set</a> - gift idea<br>
+<a href="https://www.cafepress.com/+norwegian_flag_license_plate_holder,1002483464">Norwegian Flag License Plate Holder</a> - gift idea<br>
+<a href="https://www.cafepress.com/mf/88361486/prayer-doing-nothing-yet-helping_sticker">Prayer: Doing Nothing Yet Helping Sticker</a><br>
+<a href="https://www.makeuseof.com/this-device-is-quietly-replacing-generators/">This device is quietly replacing generators and I finally get why</a><br><br>
+
+<a href="https://www.XXXXXX.com">XXXXXX</a><br><br></td>
+</tr></tbody></table></div>
+
+
+<p><a href="JavaScript:doExpand(AnyDivIdName17)">
+<span style="background-color: #FFFF00">RETIREMENT - REUNION -REVIEWS - SEARCHES - SOFTWARE</span></a><br></p>
+<div id="AnyDivIdName17" style="display: none;">
+<table border="0" width="100%"><tbody><tr>
+
+<td valign="top" width="74%">
+<b><font color="#FFFFFF"><span style="font-weight: 700; background-color: #000000">RETIREMENT</span></font></b><br><br>
+
+<a href="https://www.newretirement.com/retirement/overlooked-retirement-costs/">8 Retirement Costs Overlooked by a Majority of Americans</a><br>
+<a href="https://www.entrepreneur.com/finance/7-tips-for-keeping-harmony-in-your-relationship-if-one/434862">7 Tips For Keeping Harmony</a><br>
+<a href="https://money.usnews.com/money/blogs/on-retirement/articles/2016-05-11/21-fulfilling-ways-to-pass-time-in-retirement">21 Fulfilling Ways to Pass Time in Retirement</a><br>
+<a href="https://money.usnews.com/money/retirement/baby-boomers/articles/things-to-do-when-you-retire">25 Things to Do When You Retire</a><br>
+<a href="https://www.gobankingrates.com/retirement/planning/ugly-truths-retirement/">27 Ugly Truths About Retirement</a><br>
+<a href="https://blog.cheapism.com/retirement-ideas-14233/">49 Retirement Ideas: What to Do With All That Free Time</a><br>
+<a href="https://www.fool.com/investing/2019/11/10/how-much-money-do-i-really-need-to-have-saved-for.aspx">How Much Money Do I Really Need to Have</a><br>
+<a href="https://wealthgang.com/how-much-money-will-it-take-to-retire/">How Much Money Will It Take To Retire? How To Calculate Your Freedom Number</a><br>
+<a href="https://www.gobankingrates.com/retirement/planning/best-expert-money-advice-for-retirees/">Best Expert Money Advice for Retirees</a><br>
+<a href="https://www.newretirement.com/retirement/early-retirement-tips/">Early Retirement: 37 Tips, Tricks and Hacks for Reaching your Goal</a><br>
+<a href="https://www.cnbc.com/2019/04/02/health-care-costs-for-retirees-climb-to-285000.html">Health-care costs for retirees climb to $285,000</a><br>
+<a href="https://hiconsumption.com/best-hobbies-for-men/">Hobbies</a><br>
+<a href="https://www.kiplinger.com/retirement/retirement-planning/602869/retirement-planning-checklist">Retirement Planning Checklist</a><br>
+<a href="https://taxfoundation.org/publications/state-local-tax-burden-rankings/">State-Local Tax Burden Rankings</a><br>
+<a href="https://bestlifeonline.com/money-people-spend-by-age-news/">This Is How Much Money People Your Age Spend Every Day, Data Shows</a><br>
+<a href="https://www.greatseniorliving.com/articles/what-to-do-in-retirement">What to Do in Retirement: 23 Great Ways to Spend Your Time</a><br>
+<a href="https://sixtyandme.com/20-serious-and-fun-things-you-can-do-in-retirement/">What to Do in Retirement: 20 Serious (and Fun!) Things to Keep You Busy!</a><br>
+<a href="https://www.theretirementmanifesto.com/20-steps-to-take-in-the-year-before-retirement/">20 Steps To Take in the Year Before Retirement</a><br>
+<a href="https://www.moneytalksnews.com/slideshows/senior-discounts-so-good-youll-wish-you-turned-sooner/">20 Senior Discounts so Good, You'll Wish You Turned 60 Sooner</a><br>
+<a href="https://www.moneydigest.com/1717124/is-there-a-best-month-to-retire/">Always Consider The Month You're Planning to Retire</a><br>
+<a href="https://thekeystojoy.com/things-to-do-when-you-retire/">100 Fun Things To Do When You Retire You’ll Love To Try</a><br>
+
+<b><font color="#FFFFFF"><span style="font-weight: 700; background-color: #000000">REUNION</span></font></b><br><br>
+
+<a href="https://www.westpointaog.org/gradlink?erid=23024738&amp;trid=1047cdb4-eb7d-4eb8-a9c7-23c8e6aa1a09">GradLink</a><br>
+<a href="https://www.alumniclass.com/sunset-high-school-apollos-portland-or">Sunset High School Apollos Alumni</a><br><br>
+
+<b><font color="#FFFFFF"><span style="font-weight: 700; background-color: #000000">REVIEWS</span></font></b><br><br>
+
+<a href="https://www.amazon.com/gp/profile/amzn1.account.AGKVDZ6FGH4SR75ZJMWZMTKJST7Q?ie=UTF8&amp;ref_=ya_d_l_profile">Amazon Reviews - Profile</a><br>
+<a href="https://www.cruisecritic.com/memberreviews/memberreview.cfm?EntryID=594371">CruiseCritic - review</a><br><br>
+
+<b><font color="#FFFFFF"><span style="font-weight: 700; background-color: #000000">SEARCH</span></font></b><br><br>
+
+<a href="https://www.makeuseof.com/tag/10-search-engines-explore-deep-invisible-web/">Deep web searches</a><br><br>
+
+<b><font color="#FFFFFF"><span style="font-weight: 700; background-color: #000000">SOFTWARE</span></font></b><br><br>
+
+<a href="https://www.rd.com/article/word-shortcuts/">50 Microsoft Word Shortcuts — Word Keyboard Shortcuts with Printables!</a><br>
+<a href="https://excel.tips.net/T007727_An_Average_that_Excludes_Zero_Values.html">An Average that Excludes Zero Values (Microsoft Excel)</a><br>
+<a href="https://www.pcworld.com/article/443089/best-free-software-for-pc.html">Best free software for your PC</a><br>
+<a href="https://www.antennasdirect.com/transmitter-locator.html">Digital stations</a><br>
+<a href="https://erase.bg/">EraseBG</a><br>
+<a href="https://www341.lunapic.com/editor/?action=tilt-shift">Free Online Photo Editor | Tilt Shift</a><br>
+<a href="https://www.makeuseof.com/tag/more-useful-websites/">30 Insanely Useful Websites</a><br>
+<a href="https://www.pcmag.com/picks/best-free-software">Best Free Software for 2024</a><br>
+<a href="https://www.xda-developers.com/classic-windows-feature-bring-back-free-tools/">8 Class Windows Features You Can Bring Back</a><br>
+<a href="https://www.makeuseof.com/make-photos-professional-with-filters/">This One Simple Edit Makes Any Photo Look Professional</a><br>
+<a href="https://www.xda-developers.com/finally-set-up-explorerpatcher-windows-should-have-sooner/">ExplorerPatcher on Windows</a><br>
+<a href="https://www.slashgear.com/1764236/microsoft-powertoys-explained-what-utilities-offered-collection-how-install-windows/">Powertoy Explained: What Utilities Are Included & How To Install Them</a><br>
+<a href="https://www.tagspaces.org/">Tagspaces</a><br>
+<a href="https://www.howtogeek.com/i-ditched-windows-phone-link-for-this-free-open-source-appand-im-never-going-back/">I ditched Windows Phone Link for this free open-source app—and I'm never going back</a><br>
+<a href="https://www.makeuseof.com/obsidian-plugins-visualize-notes/">I didn't realize Obsidian could visualize my notes until I installed these free plugins</a><br>
+<a href="https://www.makeuseof.com/suspicious-of-windows-cleaners-but-this-open-source-app-earned-my-trust/">I’m usually suspicious of Windows cleaners but this open-source app earned a place on my PC (Sifty)</a><br><br>
+
+<a href="https://www.XXXXXX.com">XXXXXX</a><br><br></td>
+</tr></tbody></table></div>
+
+
+<p><a href="JavaScript:doExpand(AnyDivIdName18)">
+<span style="background-color: #FFFF00">TECH</span></a><br></p>
+<div id="AnyDivIdName18" style="display: none;">
+<table border="0" width="100%"><tbody><tr>
+
+<td valign="top" width="74%">
+<b><font color="#FFFFFF"><span style="font-weight: 700; background-color: #000000">TECH</span></font></b><br><br>
+
+<a href="https://www.makeuseof.com/desk-accessory-made-my-workspace-smoother/">This $10 desk accessory made my workspace dramatically smoother</a><br>
+<a href="https://gizmodo.com/5-reasons-not-to-use-google-for-search-1785396969">5 Reasons Not to Use Google for Search</a><br>
+<a href="https://www.xda-developers.com/ways-make-windows-11-boot-faster-no-new-hardware/">5 Ways to Make W11 boot faster</a><br>
+<a href="https://www.digitaltrends.com/computing/7-things-you-didnt-know-you-could-do-gmail/">7 Things You Did not Know You Could Do in Gmail</a><br>
+<a href="https://www.makeuseof.com/tag/8-nifty-windows-folder-tricks-know/">9 Nifty Windows Folder Tricks You Have to Know</a><br>
+<a href="https://www.foxnews.com/tech/10-tricks-doing-effective-google-search">10 Tricks for Effective Google Search</a><br>
+<a href="https://www.geeky-gadgets.com/10-best-free-streaming-websites-for-2023-09-01-2023/">10 Best free streaming websites</a><br>
+<a href="https://www.usatoday.com/story/tech/columnist/komando/2018/02/16/10-incredibly-useful-online-sites-you-didnt-know/344504002/">10 incredibly useful online sites you did not know about</a><br>
+<a href="http://mentalfloss.com/article/532910/14-hacks-improve-your-google-searches">14 Hacks to Improve Your Google Searches...</a><br>
+<a href="https://onehack.us/t/the-101-most-useful-websites-on-the-internet/31927">101 Most Useful Websites on the Internet</a><br>
+<a href="https://bestlifeonline.com/surprising-smartphone-features/">20 Things You Did not Know Your Smartphone Could Do</a><br>
+<a href="http://www.youtube.com/watch?v=OsttkA329Bs">How to reset extend life of Brother HL-3170CD</a><br>
+<a href="https://www.makeuseof.com/how-to-take-screenshots-on-android-when-the-app-doesnt-allow-it/">How to take screenshots on Android when app does not allow it</a><br>
+<a href="https://www.tomsguide.com/how-to/restrict-background-data-on-android">How to Restrict Background on Android</a><br>
+<a href="https://duckduckgo.com/?q=how+to+download+youtube+videos&amp;t=hd&amp;va=u&amp;ia=web">How to download videos at DuckDuckGo</a><br>
+<a href="https://www.tomsguide.com/how-to/how-to-convert-a-pdf-to-word">How to convert a PDF to Word</a><br>
+<a href="https://www.flaticon.com/most-downloaded">Most downloaded free icons chosen by our users</a><br>
+<a href="https://boingboing.net/2019/02/02/functional-rigor.html">An audacious design for a sysadmin-centered...</a><br>
+<a href="https://phandroid.com/2021/11/22/how-to-remove-pre-installed-apps-without-root/">Android Pre-installed Software</a><br>
+<a href="https://www.techrepublic.com/article/how-to-get-better-search-results-in-google/">Better search results</a><br>
+<a href="https://www.techradar.com/news/boost-your-pc-storage-performance-by-30x-with-this-free-trick">Boost your PC storage performance by 30x with this free trick</a><br>
+<a href="https://messages.google.com/web/conversations">Googles Message</a><br>
+<a href="https://myactivity.google.com/myactivity">Google - My Activity</a>  To delete history(+)<br>
+<a href="https://www.makeuseof.com/tag/hidden-key-combo-frozen-computer/">Hidden Key Combo for Frozen Computer</a><br>
+<a href="https://www.makeuseof.com/hide-mac-address/">Hide your MAC address</a><br>
+<a href="http://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers">List of TCP and UDP port numbers</a><br>
+<a href="https://www.patreon.com/PeaceIsland">Open-world adventure game about cats...</a><br>
+<a href="https://lifehacker.com/how-to-get-past-a-paywall-to-read-an-article-for-free-1847800292">Paywall website access</a><br>
+<a href="http://www.angio.net/pi/">Pi-Search Page</a><br>
+<a href="http://spaceengine.org/">Space Engine - the universe simulator</a><br>
+<a href="https://lifehacker.com/turn-your-tv-into-a-digital-art-gallery-with-this-free-1844485792">Turn Your TV Into a Digital Art Gallery With the Enplug App</a><br>
+<a href="https://lifehacker.com/where-to-waste-time-online-1826043076">Where to Waste Time Online</a><br>
+<a href="https://lifehacker.com/watch-age-restricted-youtube-videos-without-signing-in-1529667193">Watch Age Restricted YouTube Videos Without Signing In</a><br>
+<a href="https://lifehacker.com/you-need-to-lock-down-your-routers-remote-management-op-1842525275">You Need to Lock Down Your Router Remote Management Options</a><br>
+<a href="https://www.youtube.com/watch?v=T6NEkJzFIS4">How to use a Laptop a Second Monitor - YouTube</a><br>
+<a href="https://www.makeuseof.com/find-instruction-manuals-free-online/">Find Any Instruction Manual</a><br>
+<a href="https://www.xda-developers.com/creative-ways-to-use-powerpoint-beyond-presentations/">Creative Ways to Use PowerPoint</a><br>
+<a href="https://www.xda-developers.com/windows-features-save-time/">8 Windows Features That Will Save You Time</a><br>
+<a href="https://dev.to/coffmans/beyond-file-explorer-alternatives-for-windows-file-explorer-46c0">Alternatives for Windows File Explorer</a><br>
+<a href="https://www.xda-developers.com/run-commands-work-efficiently-windows/">100+ run commands that can help you work efficiently on Windows</a><br>
+<a href="https://www.makeuseof.com/this-free-windows-mod-tool-unlocks-a-ton-of-new-functions/">Free Windows Mod Tool Unlocks a Ton of New Functions</a><br>
+<a href="https://www.buzzfeed.com/hannahmarder/useful-underrated-websites">39 Actually Useful Websites That You Probably Have Never Heard Of</a><br>
+<a href="https://thoughtcatalog.com/nikhil-charan/2014/06/40-awesome-websites-that-will-totally-ruin-your-productivity/">40 Awesome Websites That Will Totally Ruin Your Productivity</a><br>
+<a href="https://www.pcworld.com/article/2658977/speed-up-your-windows-11-pc-12-must-do-tweaks-and-tips.html">Speed up your Windows 11 PC: 12 must-do tweaks</a><br>
+<a href="https://www.xda-developers.com/stop-trusting-windows-update-heres-why/">I don't trust Windows Update anymore, and you shouldn't either - here's why</a><br>
+<a href="https://www.howtogeek.com/how-to-automatically-clear-temporary-files-on-windows-11/">How to Automatically Clear Temporary Files on Windows 11</a><br>
+<a href="https://www.makeuseof.com/microsoft-office-features-that-feel-like-cheating/">8 Microsoft Office Features That Feel Like Cheating</a><br>
+<a href="https://www.howtogeek.com/how-to-hide-your-windows-folders-behind-a-secret-keyboard-shortcut/">How to Hide Your Windows Folders Behind a Secret Keyboard Shortcut</a><br>
+<a href="https://www.xda-developers.com/tried-self-hosting-apps-cant-live-without-them/">I tried these self-hosting apps and now I can't live without them</a><br>
+<a href="https://www.xda-developers.com/free-tool-find-edit-registrey-values-windows/">This free tool is the best way to find and edit registry values on Windows</a><br>
+<a href="https://www.xda-developers.com/windows-built-in-tools-you-have-never-used/">10 useful Windows built-in tools you've never used</a><br>
+<a href="https://www.makeuseof.com/tag/free-storage-space-android-device/">How to Free Up Storage Space on Your Android Device</a><br>
+<a href="https://tv.garden/us">TV Garden</a><br>
+<a href="https://www.pcmag.com/explainers/microsoft-excel-spreadsheet-tips-tricks">47 Expert Excel Tricks Will Transform You Into a Power User</a><br>
+<a href="https://www.howtogeek.com/how-to-turn-your-phone-into-a-security-camera-for-free/">Don't let your old phones rot in a drawer, turn them into free security cameras</a><br>
+<a href="https://www.pinterest.com/pin/5136987070749728/">Easiest Ways to Take a Screenshot in Windows</a><br>
+<a href="https://www.makeuseof.com/hidden-android-setting-blocks-ads-across-without-vpn/">This hidden Android setting blocks ads across every single app without a VPN</a><br>
+<a href="https://www.makeuseof.com/router-settings-you-should-change/">4 router settings most people never change but absolutely should</a><br>
+<a href="https://www.pcmag.com/explainers/become-spreadsheet-pro-50-top-microsoft-excel-tips-tricks">Try My 50 Favorite Excel Tricks</a><br>
+<a href="https://www.howtogeek.com/microsoft-excel-shortcuts-jump-through-massive-datasets/">I stopped scrolling in Excel once I learned these 4 shortcuts</a><br>
+<a href="https://www.makeuseof.com/i-turned-my-old-tablet-into-a-second-monitor-using-this-free-app/">I turned my old tablet into a second monitor using this free app</a><br>
+<a href="https://www.howtogeek.com/your-wi-fi-router-is-secretly-a-nas-dns-filter-and-vpn-server/">Your router isn't just for Wi-Fi—here's everything else it can do</a><br>
+<a href="https://www.howtogeek.com/rebooting-your-router-doesnt-fix-your-wi-fi-but-these-things-will/">I stopped rebooting my router to fix Wi-Fi, and these 7 tricks worked instead</a><br>
+<a href="https://www.makeuseof.com/the-hash-symbol-in-excel/">There are only 3 things you should use your TV's USB port for</a><br>
+<a href="https://www.pocket-lint.com/only-three-things-you-should-use-your-tvs-usb-port-for/">Excel's # symbol looks like a typo - it's actually one of the most useful things in the app</a><br>
+<a href="https://www.fastcompany.com/91547553/youtube-no-ads-free">This official Google workaround gives you ad-free YouTube anytime</a><br><br>
+
+<a href="https://www.XXXXXX.com">XXXXXX</a><br><br></td>
+</tr></tbody></table></div>
+
+
+<p><a href="JavaScript:doExpand(AnyDivIdName19)">
+<span style="background-color: #FFFF00">TO READ</span></a><br></p>
+<div id="AnyDivIdName19" style="display: none;">
+<table border="0" width="100%"><tbody><tr>
+
+<td valign="top" width="74%">
+<b><font color="#FFFFFF"><span style="font-weight: 700; background-color: #000000">TO READ</span></font></b><br><br>
+<a href="https://www.inc.com/marcel-schwantes/6-questions-interesting-people-ask-to-cut-through-bs.html">6 Questions Interesting People Ask to Cut Through BS</a><br>
+<a href="https://www.marcandangel.com/2011/01/10/10-simple-truths-smart-people-forget/">10 Simple Truths Smart People Forget</a><br>
+<a href="https://cheezburger.com/15565061/12-questions-to-ask-to-fill-the-awkward-silence-on-a-first-date">12 Questions</a><br>
+<a href="https://gamerules.com/best-solo-board-games/">12 Best Solo Board Games</a><br>
+<a href="https://www.boredpanda.com/famous-museums-offering-virtual-tours/">12 Famous Museums And Galleries You Can Visit Virtually From Your Own Couch</a><br>
+<a href="https://www.zmescience.com/science/14-japanese-concepts-that-will-help-you-see-life-in-a-different-light/">14 Japanese Concepts</a><br>
+<a href="https://www.buzzfeed.com/philippjahner/cappuccinos-demystified?bfsource=relatedauto">20 Facts That Will Shatter Your Conception...</a><br>
+<a href="https://www.ebaumsworld.com/pictures/26-random-charts-filled-with-random-knowledge/86522961/">26 Cool Charts Full of Interesting Info</a><br>
+<a href="https://thoughtcatalog.com/january-nelson/2019/12/30-hilarious-palindromes-for-literary-nerds/">30 Hilarious Palindromes For Literary...</a><br>
+<a href="https://www.buzzfeed.com/victoriavouloumanos/best-websites-when-youre-bored">45 Underrated Websites To Visit When You Are Bored</a><br>
+<a href="https://www.marcandangel.com/2009/07/13/50-questions-that-will-free-your-mind/">50 Questions That Will Free Your Mind</a><br>
+<a href="https://parade.com/1240718/kelseypelzer/albert-einstein-quotes/">50 Albert Einstein Quotes</a><br>
+<a href="https://www.gobankingrates.com/saving-money/budgeting/ways-live-big-life-small-budget/">50 Ways To Live the Big Life on a Small Budget</a><br>
+<a href="https://www.familyhandyman.com/list/56-brilliant-woodworking-tips-for-beginners/">56 Brilliant Woodworking Tips for Beginners...</a><br>
+<a href="https://www.mic.com/p/how-do-you-control-your-dreams-mit-scientists-think-theyve-figured-it-out-35482165">How do you control your dreams? MIT scientist...</a><br>
+<a href="https://mymodernmet.com/enrique-bernal-florescent-drawings/">Artist Makes His Pencil Drawings &quot;Shine&quot;</a><br>
+<a href="https://www.space.com/end-of-einstein-space-time">Einstein Wrong?</a><br>
+<a href="https://www.studyfinds.org/generation-helpless-many-millennials-cant-change-a-light-bulb-by-themselves-survey-finds/">Generation H(elpless)?</a><br>
+<a href="https://www.maxim.com/travel/google-offers-virtual-tours-of-museums-2020-3">Google Now Offering Virtual Tours of Over 1,200 Iconic Museums</a><br>
+<a href="https://www.familysearch.org/en/blog/family-crest-coat-of-arms">Heraldry1</a><br>
+<a href="https://www.houseofnames.com/oakes-family-crest">Heraldry2</a><br>
+<a href="https://www.thedrive.com/the-war-zone/32614/heres-what-this-panoramic-windowed-room-does-on-american-aircraft-carriers">Here is What This Panoramic Windowed Room...</a><br>
+<a href="https://newatlas.com/science/best-optical-illusions-year-2021-contest-winner/">Illusions</a></dt><br>
+<a href="https://www.womansworld.com/posts/kansas-state-quarter-error-170202">Kansas State Quarters With an Error Might...</a><br>
+<a href="https://www.rd.com/list/life-changing-quotes/">Life-Changing Quotes You Will Not Forget</a><br>
+<a href="https://www.gobankingrates.com/money/side-gigs/misprinted-dollar-bills-worth-thousands-details/">Misprinted dollar bills worth thousands</a><br>
+<a href="https://www.inc.com/justin-bariso/next-time-you-end-up-in-an-argument-dont-use-facts-do-this-instead.html">Next Time You End up in an Argument, Do not Use Facts. Do This Instead</a><br>
+<a href="https://en.m.wikipedia.org/wiki/Paul_von_Lettow-Vorbeck">Paul von Lettow-Vorbeck</a><br>
+<a href="https://www.psychologytoday.com/us/blog/mental-health-nerd/201911/stop-sexually-frustrating-yourselfand-your-partner">Psychology Today</a><br>
+<a href="https://www.dailymail.co.uk/news/article-8056233/amp/Single-nurse-30-asks-China-assign-boyfriend-helping-Wuhan-fight-coronavirus.html">
+	Single nurse, 30, asks China to assign her a boyfriend for helping Wuhan fight coronavirus </a><br>
+<a href="https://www.rd.com/list/timeless-chinese-proverbs-worth-memorizing/">Timeless Chinese Proverbs Worth Memorizing</a><br>
+<a href="https://www.popularmechanics.com/technology/design/a32434104/worlds-fastest-camera/">World&#39;s Fastest Camera | Most Powerful Camera 10 Trillion FPS</a><br>
+<a href="https://thoughtcatalog.com/january-nelson/2019/11/we-asked-members-of-law-enforcement-about-the-scariest-paranormal-call-theyve-ever-responded-to/">We Asked Members Of Law Enforcement About...</a><br>
+<a href="https://www.yourtango.com/2020334592/questions-ask-spark-conversation-get-know-someone">250 Questions To Get To Know Someone & Spark Conversation</a><br>
+<a href="https://themindsjournal.com/simple-math-trick-guess-age/">Simple Math Trick Will Correctly Guess Your Age</a><br>
+<a href="https://www.behindthename.com/random/">Random Name Generator</a><br>
+<a href="https://wisdomquotes.com/three-word-quotes/">171 Three Word Quotes [Ultimate List]</a><br>
+<a href="https://parade.com/living/trivia-questions">350 Best Trivia Questions and Answers To Jumpstart Your Fun Game Night</a><br>
+<a href="https://edutalktoday.com/trivia-questions-for-adults/">45 Trivia Questions For Adults</a><br>
+<a href="https://www.yourtango.com/self/things-people-say-when-have-no-clue-what-theyre-talking-about">11 Things People Say When They Have No Clue What They're Talking About</a><br>
+<a href="https://youtu.be/CCTlS9_07us">Original Intent of the Constitution : YouTube</a><br>
+<a href="https://www.pinterest.com/pin/338332990766460644/">Make a Sugihara Circle/Square Optical Illusion</a><br>
+<a href="https://www.isc.meiji.ac.jp/~kokichis/Welcomee.html">Sugihara Kokichi</a><br><br>
+
+<a href="https://www.XXXXXX.com">XXXXXX</a><br><br></td>
+</tr></tbody></table></div>
+
+
+<p><a href="JavaScript:doExpand(AnyDivIdName20)">
+<span style="background-color: #FFFF00">TRAVEL/CRUISE - TRAVEL/NON-CRUISE - WEB SITE/FONT - WORK</span></a><br></p>
+<div id="AnyDivIdName20" style="display: none;">
+<table border="0" width="100%"><tbody><tr>
+
+<td valign="top" width="74%">
+<font color="#FFFFFF"><span style="font-weight: 700; background-color: #000000"><b>TRAVEL-CRUISE (Generic)</span></font></b><br><br>
+
+<a href="https://www.vikingcruises.com/oceans/cruise-destinations/baltic/into-the-midnight-sun/">Viking</a><br>
+<a href="https://www.celebritycruises.com/">Celebrity</a><br>
+<a href="https://www.hollandamerica.com/en/us">Holland America</a><br>
+<a href="https://www.ncl.com/">Norwegian Cruise Line</a><br>
+<a href="https://www.virginvoyages.com/">Virgin Voyages</a><br>
+<a href="https://www.australis.com/site/en/">Austalis</a><br>
+<a href="https://www.afar.com/magazine/best-alaska-cruises">Best AK Cruises</a><br>
+<a href="https://thepointsguy.com/guide/best-alaska-cruise-ship-excursions/">6 Coolest Things to do on an Alaska cruise</a><br>
+<a href="https://www.cruisecritic.com/memberreviews/memberreview.cfm?EntryID=594371">CruiseCritic - review</a><br><br>
+
+<font color="#FFFFFF"><span style="font-weight: 700; background-color: #000000"><b>TRAVEL-NON-CRUISE</span></font></b><br><br>
+
+<a href="https://www.travelawaits.com/2561445/small-towns-along-the-oregon-coast/">5 Charming Small Towns To Visit Along The Oregon Coast</a><br>
+<a href="https://guessingheadlights.com/most-beautiful-places-in-europe-that-look-too-good-to-be-real/">20 Most Beautiful Places in Europe That Look Too Good to Be Real</a><br>
+<a href="https://blog.cheapism.com/best-bookstores/">20 Best Independent Bookstores in America</a><br>
+<a href="https://guessingheadlights.com/most-beautiful-places-in-america-you-need-to-see-before-you-die/">25 Most Beautiful Places in America You Need to See Before You Die</a><br>
+<a href="https://bestlifeonline.com/surreal-american-places/">30 Places So Surreal You Won&#39;t Believe They&#39;re in the U.S.</a><br>
+<a href="https://www.louvre.fr/en/online-tours">Lourre Online tours</a><br>
+<a href="https://www.travelawaits.com/2485110/beautiful-towns-in-the-alps/">The 7 Most Beautiful Cities And Towns In The Alps</a><br>
+<a href="http://mentalfloss.com/article/594876/book-lodging-at-lighthouses-around-the-world">Dreaming of Spending a Night in a Lighthouse?...</a><br>
+<a href="http://www.flyingheritage.com/">Flying Heritage Museum</a><br>
+<a href="http://www.fairmont.com/jasper/">Fairmont Jasper Park Lodge - Fairmont Jasper Park Lodge</a><br>
+<a href="https://www.insider.com/frank-lloyd-wright-virtual-tours-2020-4">Take a virtual trip to Frank Lloyd Wright&#39;s famous buildings</a><br>
+<a href="https://www.cnn.com/travel/article/corippo-switzerland-hotel/">Swiss village of Corippo to be turned into big hotel</a><br>
+<a href="https://www.nationalgeographic.com/travel/travel-interests/tips-and-advice/the-most-haunted-places-in-the-united-states/">Most Haunted Places in the United States</a><br>
+<a href="https://www.insider.com/trip-from-london-to-paris-by-train-review-photos">Traveling from London to Paris train instead of plane + photos</a><br>
+<a href="http://www.greenbrier.com/Activities/Bunker-Tours">Bunker Tours at The Greenbrier</a><br>
+<a href="https://nationaldaycalendar.com/virtual-reality-tours/">VIRTUAL REALITY TOURS - National Day Calendar</a><br>
+<a href="https://www.cnn.com/travel/article/ireland-arranmore-island-scli-intl/">Irish island of Arranmore Asks Americans...</a><br>
+<a href="http://www.presidiolodging.com/inn-at-the-presidio/">Inn at The Presidio</a><br>
+<a href="https://gideonsbakehouse.com/bakery-menu/">Disney Bakery</a><br>
+<a href="https://www.travelawaits.com/2549280/best-sea-glass-beaches-in-the-world/">Best Sea Glass Beaches</a><br>
+<a href="https://lifehacker.com/how-to-create-the-ultimate-travel-spreadsheet-and-why-1848623260">Travel spreadsheets</a><br>
+<a href="https://www.islands.com/1739627/best-must-visit-destination-only-time-one-area-switzerland-alps-mountains-rick-steves-lauterbrunnen-valley/">Most Must-Visit Destinations</a><br>
+<a href="https://canadarail.ca/via-rail/">VIA Rail Information</a><br>
+<a href="https://theweek.com/culture-life/travel/a-sleeper-train-across-canada">The Canadian (The Week)</a><br>
+<a href="https://theweek.com/arts-life/travel/960922/rail-travel-the-worlds-best-train-journeys">16 World's Best Train Journeys</a><br>
+<a href="https://cluballiance.aaa.com/the-extra-mile/advice/travel/is-renting-a-car-the-best-choice-for-your-road-trip">Is Renting a Car the Best Choice for Your Road Trip?</a><br>
+<a href="https://momwithamap.com/2019/01/renting-a-car-for-travel-the-pros-cons-and-worst-case-scenario/">Renting A Car For Travel: The Pros, Cons and Worst Case Scenario</a><br><br>
+
+
+<b><font color="#FFFFFF"><span style="font-weight: 700; background-color: #000000">WEB-SITE-FORMAT</span></font></b><br><br>
+
+<a href="http://webdesignledger.com/tutorials/13-pure-css-techniques-for-creating-javascript-like-interactions">13 Pure CSS Techniques for Creating JavaScrip...</a><br>
+<a href="http://www.effectgames.com/demos/canvascycle/">Canvas Cycle: True 8-bit Color Cycling</a><br>
+<a href="http://www.colorzilla.com/gradient-editor/">Ultimate CSS Gradient Generator</a><br><br>
+
+<b><font color="#FFFFFF"><span style="font-weight: 700; background-color: #000000">WORK-RELATED</span></font></b><br><br>
+
+<a href="https://fire.airnow.gov/">Fire and Smoke Map</a><br>
+<a href="http://flashalertportland.net/closures-cats.html">FlashAlertPortland - Emergency Reports</a><br>
+<a href="https://www.portlandgeneral.com/outages/outage-map">Outage Map - Outages | PGE</a><br><br>
+
+<a href="https://www.XXXXXX.com">XXXXXX</a><br><br></td>
+</tr></tbody></table></div>
+
+
+<p><a href="JavaScript:doExpand(AnyDivIdName22)">
+<span style="background-color: #FFFF00">XXXXXX</span></a><br></p>
+<div id="AnyDivIdName22" style="display: none;">
+<table border="0" width="100%"><tbody><tr>
+
+<td valign="top" width="74%">
+<a href="https://www.XXXXXX.com">XXXXXX</a><br><br>
+
+<a href="https://www.XXXXXX.com">XXXXXX</a><br><br></td>
+</tr></tbody></table></div>
+
+
+<p>Verizon FTP Destination: ftpmysite.ncnetwork.net/<br>
+Router address: 192.168.0.1<br><br>
+<a href="x-current-news.shtml">Family Web Page - Current News</a><br></p>
+
+<!-- This is a comment<br><div align="center"><br><br></div> -->
+
+</body>
+</html>
