@@ -1,0 +1,78 @@
+body, td		{margin-left: auto; margin-right: auto; font-family: Tahoma; font-size: 10pt;
+                background-color: #C6C691; text-align: center; margin: 0; padding: 0; }
+
+black-bold		{font-family: Tahoma; font-size: 10pt; text-decoration: none; font-weight: bold;
+				color:#000000 }
+
+white-bold		{font-family: Tahoma; font-size: 10pt; text-decoration: none; font-weight: bold;
+				color:#FFFFFF }
+
+small-text		{font-family: Tahoma; font-size: 7pt; text-decoration: none; margin-top:-20px }
+
+a               {font-family: Tahoma; font-size: 10pt }
+
+a:link			{font-family: Tahoma; font-size: 10pt; color: #0000FF; text-decoration: none; 
+				font-weight: bold }
+               
+a:visited		{font-family: Tahoma; font-size: 10pt; text-decoration: none; color: #0000FF; 
+				font-weight: bold }
+				
+#Content        {margin-left: auto; margin-right: auto; text-align: center; border: 0px solid #0066FF; padding: 5px; width: 650px; }
+
+#TableContainer {margin-left: auto; margin-right: auto; border: 0px solid #0066FF; padding: 5px; width: 890px; }
+
+#AnyDivIdName	{margin-left: auto; margin-right: auto; border: 1px solid #0066FF; padding: 5px; width: 800px; }
+
+#AnyDivIdName1	{margin-left: auto; margin-right: auto; border: 1px solid #0066FF; padding: 5px; width: 800px; }
+
+#AnyDivIdName2	{margin-left: auto; margin-right: auto; border: 1px solid #0066FF; padding: 5px; width: 800px; }
+
+#AnyDivIdName3	{margin-left: auto; margin-right: auto; border: 1px solid #0066FF; padding: 5px; width: 800px; }
+
+#AnyDivIdName4	{margin-left: auto; margin-right: auto; border: 1px solid #0066FF; padding: 5px; width: 800px; }
+
+#AnyDivIdName5	{margin-left: auto; margin-right: auto; border: 1px solid #0066FF; padding: 5px; width: 800px; }
+
+#AnyDivIdName6	{margin-left: auto; margin-right: auto; border: 1px solid #0066FF; padding: 5px; width: 800px; }
+
+#AnyDivIdName7	{margin-left: auto; margin-right: auto; border: 1px solid #0066FF; padding: 5px; width: 800px; }
+
+#AnyDivIdName8	{margin-left: auto; margin-right: auto; border: 1px solid #0066FF; padding: 5px; width: 800px; }
+
+#AnyDivIdName9	{margin-left: auto; margin-right: auto; border: 1px solid #0066FF; padding: 5px; width: 800px; }
+
+#AnyDivIdName10	{margin-left: auto; margin-right: auto; border: 1px solid #0066FF; padding: 5px; width: 800px; }
+
+#AnyDivIdName11	{margin-left: auto; margin-right: auto; border: 1px solid #0066FF; padding: 5px; width: 800px; }
+
+#AnyDivIdName12	{margin-left: auto; margin-right: auto; border: 1px solid #0066FF; padding: 5px; width: 800px; }
+
+#AnyDivIdName13	{margin-left: auto; margin-right: auto; border: 1px solid #0066FF; padding: 5px; width: 800px; }
+
+#AnyDivIdName14	{margin-left: auto; margin-right: auto; border: 1px solid #0066FF; padding: 5px; width: 800px; }
+
+#AnyDivIdName15	{margin-left: auto; margin-right: auto; border: 1px solid #0066FF; padding: 5px; width: 800px; }
+
+#AnyDivIdName16	{margin-left: auto; margin-right: auto; border: 1px solid #0066FF; padding: 5px; width: 800px; }
+
+#AnyDivIdName17	{margin-left: auto; margin-right: auto; border: 1px solid #0066FF; padding: 5px; width: 800px; }
+
+#AnyDivIdName18	{margin-left: auto; margin-right: auto; border: 1px solid #0066FF; padding: 5px; width: 800px; }
+
+#AnyDivIdName19	{margin-left: auto; margin-right: auto; border: 1px solid #0066FF; padding: 5px; width: 800px; }
+
+#AnyDivIdName20	{margin-left: auto; margin-right: auto; border: 1px solid #0066FF; padding: 5px; width: 800px; }
+
+#AnyDivIdName21	{margin-left: auto; margin-right: auto; border: 1px solid #0066FF; padding: 5px; width: 800px; }
+
+#AnyDivIdName22	{margin-left: auto; margin-right: auto; border: 1px solid #0066FF; padding: 5px; width: 800px; }
+
+#box			{position: relative; width: 150px; text-align: center; 
+				font-family: Tahoma; font-size: 10pt; border-style: solid; border-width: 1px; 
+				padding-left: 0px; padding-right: 0px; padding-top: 0px; 
+				padding-bottom: 0px; background-color: #C0C0C0}
+
+#text-box		{position: relative; width: 150px;
+				font-family: Tahoma; font-size: 10pt; border-style: solid; border-width: 0px; 
+				padding-left: 0px; padding-right: 0px; padding-top: 0px; 
+				padding-bottom: 10px; background-color: #C0C0C0}
