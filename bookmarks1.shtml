@@ -261,7 +261,7 @@ a:visited		{font-family: Tahoma; font-size: 10pt; text-decoration: none; color: 
 
 
 <p><span style="background-color: #FFFF00"><font color="#000000">
-<a href="JavaScript:doExpand(AnyDivIdName7)">LOCAL STORES & WORK SITES</a></font></span><br></p>
+<a href="JavaScript:doExpand(AnyDivIdName7)">LOCAL STORES & ONLINE SITES</a></font></span><br></p>
 <div id="AnyDivIdName7" style="display: none;">
 <table border="0" width="100%"><tbody><tr>
 
