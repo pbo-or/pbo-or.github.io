@@ -15,7 +15,7 @@ white-bold		{font-family: Tahoma; font-size: 10pt; text-decoration: none; font-w
 
 small-text		{font-family: Tahoma; font-size: 7pt; text-decoration: none; margin-top:-20px }
 
-a               {font-family: Tahoma; font-size: 10pt }
+a				{font-family: Tahoma; font-size: 10pt }
 
 a:link			{font-family: Tahoma; font-size: 10pt; color: #0000FF; text-decoration: none; 
 				font-weight: bold }
@@ -23,7 +23,7 @@ a:link			{font-family: Tahoma; font-size: 10pt; color: #0000FF; text-decoration:
 a:visited		{font-family: Tahoma; font-size: 10pt; text-decoration: none; color: #0000FF; 
 				font-weight: bold }
 				
-#Content        {margin-left: auto; margin-right: auto; text-align: center; border: 0px solid #0066FF; padding: 5px; width: 650px; }
+#Content		{margin-left: auto; margin-right: auto; text-align: center; border: 0px solid #0066FF; padding: 5px; width: 650px; }
 
 #TableContainer {margin-left: auto; margin-right: auto; border: 0px solid #0066FF; padding: 5px; width: 890px; }
 
@@ -159,7 +159,7 @@ a:visited		{font-family: Tahoma; font-size: 10pt; text-decoration: none; color: 
 <a href="https://www.google.com/maps/d/">Google MyMaps</a><br><br>
 <a href="https://www.google.com/android/find/">Find Hub</a><br><br>
 <a href="bookmarks1.shtml">This Page</a><br>(GitHub server)<br><br>
-<a href="https://github.com/">GitHub</a><br>(root page)<br><br>
+<a href="https://github.com/">GitHub</a><br>(Site page)<br><br>
 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia</a><br><br>
 <a href="https://wikivisually.com/">WikiVisually</a><br>
 <a href="http://www.thefreedictionary.com/">FreeDictionary</a><br>
@@ -191,7 +191,7 @@ a:visited		{font-family: Tahoma; font-size: 10pt; text-decoration: none; color: 
 <a href="https://www.librarything.com/profile/usma83">LibraryThing</a><br>(profile)<br><br>
 <a href="https://www.zillow.com/homes/for_sale/97225_rb/">Zillow.com</a><br>
 <a href="https://www.redfin.com/city/1432/OR/Beaverton/filter/property-type=house,min-price=650k,
-   max-price=950k,min-sqft=2.5k-sqft,viewport=45.50552:45.49461:-122.76909:-122.78975,no-outline">Redfin</a><br>
+max-price=950k,min-sqft=2.5k-sqft,viewport=45.50552:45.49461:-122.76909:-122.78975,no-outline">Redfin</a><br>
 <a href="https://www.realtor.com/realestateandhomes-search/Washington-County_OR?pos=45.4814,-122.809839,45.521405,-122.737741,14">Realtor.com</a><br>
 <a href="https://www.trulia.com/for_sale/97225_zip/3p_beds/2p_baths/700000-1000000_price/2500p_sqft/SINGLE-FAMILY_HOME_type/">Trulia</a><br><br>
 <a href="https://www.reddit.com/r/dayz/new/">Reddit</a><br>
@@ -847,8 +847,7 @@ a:visited		{font-family: Tahoma; font-size: 10pt; text-decoration: none; color: 
 <a href="https://us.ecoflow.com/products/delta-3-series-smart-extra-battery?variant=41631849971785">EcoFlow Delta Series Smart Extra Battery</a> (above)<br>
 <a href="https://us.ecoflow.com/products/transfer-switch?variant=40515604512841">EcoFlow Home Backup Kit: Transfer Switch</a> <u>306A1</u><br>
 <a href="https://manuals.ecoflow.com/us/product/delta-3-ultra-plus?lang=en_US">EcoFlow Delta 3 Ultra Plus User Manual</a><br>
-<a href="https://support.satellitephonestore.com/hc/en-us/articles/13921326014868-EcoFlow-400W-Portable-Solar-Panel-User-Manual">EcoFlow 400W Portable Solar Panel User Manual</a><br><br>
-Future purchases?<br>
+<a href="https://support.satellitephonestore.com/hc/en-us/articles/13921326014868-EcoFlow-400W-Portable-Solar-Panel-User-Manual">EcoFlow 400W Portable Solar Panel User Manual</a><br><br>Future purchases?<br>
 <a href="https://www.homedepot.com/p/parkworld-25-ft-10-3-30-Amp-125V-Twist-Lock-NEMA-L5-30-Indoor-Outdoor-Generator-Extension-Cord-L5-30P-to-L5-30R-Yellow-UL-Listed-62114/332069890">10/3 30 Amp 125V Twist Lock NEMA L5-30 Indoor/Outdoor Generator Extension Cord (25 ft)</a><br>
 <a href="https://us.ecoflow.com/products/smart-generator-4000-dual-fuel?_pos=2&_sid=d31fbb5d4&_ss=r&variant=41434656637001">EcoFlow Smart Generator 4000 (Dual Fuel)</a><br></td>
 </tr></tbody></table></div>
@@ -928,7 +927,7 @@ Future purchases?<br>
 <b><font color="#FFFFFF"><span style="background-color: #000000">BOOK REPAIR</span></font></b><br><br>
 
 Dartmouth College Library <a href="https://www.dartmouth.edu/~library/preservation/repair/index.html">Simple Book Repair Manual</a> 
-	&amp; <a href="http://www.dartmouth.edu/~library/preservation/faq.html">FAQs</a><br>
+&amp; <a href="http://www.dartmouth.edu/~library/preservation/faq.html">FAQs</a><br>
 University Products <a href="http://www.universityproducts.com/">book repair supplies</a><br>
 <a href="https://www.dickblick.com/">Blick Art Supply</a><br><br>
 
@@ -963,8 +962,8 @@ University Products <a href="http://www.universityproducts.com/">book repair sup
 <a href="https://freecadtipsandtricks.com/index.php/2019/01/24/top-20-webites-to-download-free-cad-blocks-autocad-blocks-download/">20 Websites to Download Free CAD Blocks</a><br>
 <a href="http://cadecorner.blogspot.com/2006/08/using-scripts-to-automate-layer.html">CAD-e-Corner: Using Scripts to Automate...</a><br>
 <a href="https://www.google.com/search?source=hp&ei=3pLRXZ7sIaLi9AP65434AQ&q=how+to+load+autolisp+automatically&oq=
-   how+to+load+autol&gs_l=psy-ab.3.6.0l6j0i22i30l4.2298.8435..16610...1.0..0.249.1322.17j1j1......0....1..gws-wiz.....	
-	6..0i362i308i154i357j0i131.NbcFlaw6fWY">How to load autolisp automatically</a><br><br>
+how+to+load+autol&gs_l=psy-ab.3.6.0l6j0i22i30l4.2298.8435..16610...1.0..0.249.1322.17j1j1......0....1..gws-wiz.....	
+6..0i362i308i154i357j0i131.NbcFlaw6fWY">How to load autolisp automatically</a><br><br>
 
 <a href="https://www.XXXXXX.com">XXXXXX</a><br><br></td>
 </tr></tbody></table></div>
@@ -1142,7 +1141,7 @@ University Products <a href="http://www.universityproducts.com/">book repair sup
 <a href="https://www.pinterest.com/pin/774124926535052/">Forehead-rub</a><br>
 <a href="http://healthbenefits.live/en/tinnitus/02/">Health Benefits</a><br>
 <a href="https://www.theladders.com/career-advice/i-tried-planking-for-2-minutes-before-work-every-morning-and-something-unexpected-happened">
-	I tried planking for 2 minutes before work every morning and something unexpected happened</a><br>
+I tried planking for 2 minutes before work every morning and something unexpected happened</a><br>
 <a href="https://www.fitandwell.com/news/increase-metabolism-lose-weight-over-50-1025">Lose Weight Over 50</a><br>
 <a href="https://www.eatthis.com/news-hand-gesture-stress-shima/">Making This One Hand Gesture Instantly Relaxes Your Body, Says Expert</a><br>
 <a href="https://nextshark.com/tabata-workout-abs-5-months/">Man Gets Insane Abs in 5 Months Doing a Japanese Exercise Called Tabata</a><br>
@@ -1173,7 +1172,7 @@ University Products <a href="http://www.universityproducts.com/">book repair sup
 <a href="https://www.youtube.com/watch?v=WPni755-Krg&amp;spfreload=5">Study Music Alpha Waves: Relaxing Studying</a><br>
 <a href="https://futurism.com/restly-sleep-app">This Cutting-Edge Sleep App Will Help You Fall Asleep in Just Two Minutes</a><br>
 <a href="https://www.nzherald.co.nz/lifestyle/sleeping-expert-the-method-that-will-help-you-fall-asleep-in-60-seconds/ZZ3HGBA2ZEFDE3OZQFXPSNP75I/">
-	The method that will help you fall asleep in 60 seconds</a><br>
+The method that will help you fall asleep in 60 seconds</a><br>
 <a href="https://www.wellandgood.com/waking-up-at-night/">Waking Up At Night? TCM Might have Answers for You</a><br>
 <a href="https://www.elitedaily.com/p/heres-how-to-sleep-through-the-night-with-anxiety-using-these-11-expert-tips-13099465">Here is How To Sleep Through The Night With Anxiety Using These 11 Expert Tips</a><br>
 <a href="https://www.popsugar.com/fitness/Simple-Trick-Falling-Back-Asleep-During-Night-46169195">Simple Trick For Falling Back Asleep During the Night</a><br>
@@ -1190,7 +1189,7 @@ University Products <a href="http://www.universityproducts.com/">book repair sup
 <a href="https://www.howtogeek.com/shopping-for-a-new-monitor-mistakes-to-avoid/">Shopping for a New Monitor? 8 Mistakes to Avoid</a><br>
 <a href="https://www.huffingtonpost.co.uk/entry/11-sleepmaxxing-tips-to-try-before-bed_uk_67d420dae4b036ac32ca49d1">Try 'Sleepmaxxing' - 11 Hacks For Your Best Rest Yet</a><br>
 <a href="https://www.tomsguide.com/wellness/sleep/cant-sleep-for-more-than-6-hours-experts-share-3-common-reasons-why-plus-tips-to-sleep-through-the-night">
-	Can't sleep for more than 6 hours?</a><br>
+Can't sleep for more than 6 hours?</a><br>
 <a href="https://www.followyourownrhythm.com/blog-1/2018/8/28/a-simple-trick-for-falling-asleep-that-works-every-time">Powerful Trick for Falling Asleep at Night</a><br>
 <a href="https://www.buzzfeed.com/maitlandquitmeyer/products-to-help-go-to-sleep-2025-an">36 Things For Anyone Who's Still Awake At 3 A.M. Chanting "Go To Sleep"</a><br>
 <a href="https://metro.co.uk/2024/12/28/try-this-strange-sleep-hack-drift-off-instantly-22260809/">Try This Strange Sleep Hack</a><br>
@@ -1276,7 +1275,7 @@ University Products <a href="http://www.universityproducts.com/">book repair sup
 <a href="https://thoughtcatalog.com/january-nelson/2019/12/30-hilarious-palindromes-for-literary-nerds/">30 Hilarious Palindromes For Literary...</a><br>
 <a href="https://www.goodreads.com/author/quotes/23041.John_Wooden">John Wooden Quotes</a><br>
 <a href="http://www.thisisinsider.com/funniest-amazon-product-reviews-2017-4#and-finally-autoexecs-attachable-steering-wheel-
-	work-surface-is-the-time-saving-literally-breathtaking-tool-you-never-knew-you-needed-21">Funny reviews of weird Amazon products</a><br>
+work-surface-is-the-time-saving-literally-breathtaking-tool-you-never-knew-you-needed-21">Funny reviews of weird Amazon products</a><br>
 <a href="https://www.looper.com/353113/the-untold-truth-of-calvin-and-hobbes/">The Untold Truth Of Calvin And Hobbes</a><br>
 <a href="http://www.gocomics.com/comics/a-to-z">A-Z List | Read Comic Strips at GoComics.com</a><br>
 <a href="https://www.gorillas-world.com/gorilla-social-structure/">Gorilla Social Structure</a><br>
@@ -1285,16 +1284,16 @@ University Products <a href="http://www.universityproducts.com/">book repair sup
 <b><font color="#FFFFFF"><span style="font-weight: 700; background-color: #000000">MAP</span></font></b><br><br>
 
 <a href="https://www.google.com/maps/@45.4986151,-122.4828433,3a,75y,117.41h,59.27t/data=
-	!3m6!1e1!3m4!1swl4otuZL48pUw4yAPRfHYQ!2e0!7i13312!8i6656">3306 SE 175th Pl - Google Maps</a><br>
+!3m6!1e1!3m4!1swl4otuZL48pUw4yAPRfHYQ!2e0!7i13312!8i6656">3306 SE 175th Pl - Google Maps</a><br>
 <a href="https://www.uncommongoods.com/product/custom-map-coaster-set">Custom Map Coaster Set | customizable...</a><br>
 <a href="https://www.google.com/search?q=Hashima+Island+map&amp;safe=off&amp;biw=1680&amp;bih=925&amp;source=
-	lnms&amp;sa=X&amp;ved=0ahUKEwiVssWG9tfLAhUP2GMKHdkKABIQ_AUIBigA&amp;dpr=1">Hashima Island map - Google Search</a><br>
+lnms&amp;sa=X&amp;ved=0ahUKEwiVssWG9tfLAhUP2GMKHdkKABIQ_AUIBigA&amp;dpr=1">Hashima Island map - Google Search</a><br>
 <a href="https://www.lifewire.com/find-elevation-on-google-maps-5198524">How to Find Elevation on Google Maps</a><br>
 <a href="http://www.imapbuilder.com/features/import-data-into-map.php#import-zipcode">Import Locations onto Your Map</a><br>
 <a href="http://www.openstreetmap.org/#map=18/45.45387/-122.75821">OpenStreetMap</a>
 <a href="https://mapalist.com/">MapAList - Create and Manage Maps of...</a><br>
 <a href="https://www.google.com/maps/place/Maya+Bay/@7.6860569,98.7681114,15.4z/data=
-	!4m5!3m4!1s0x304e20be94f73363:0x85a4f5bb85cf994f!8m2!3d7.6781764!4d98.7656716">Maya Bay - Google Maps</a><br>
+!4m5!3m4!1s0x304e20be94f73363:0x85a4f5bb85cf994f!8m2!3d7.6781764!4d98.7656716">Maya Bay - Google Maps</a><br>
 <a href="https://www.google.com/maps/place/Pituffik+Space+Base/@76.6190566,-69.6508429,8.54z/data=!4m10!1m2!2m1!1spituffik+space+base!
 3m6!1s0x4e3625006e5fac41:0x663d12ec728cfc4c!8m2!3d76.5360254!4d-68.7333718!15sChNwaXR1ZmZpayBzcGFjZSBiYXNlkgEZZmVkZXJhbF9nb3Zlcm5tZW50X29mZmljZeABAA!
 16s%2Fg%2F11m715hfdq?entry=ttu&g_ep=EgoyMDI2MDgyNS4wIKXMDSoASAFQAw%3D%3D">Pituffik Space Base, Greenland - Google Maps</a><br>
@@ -1576,7 +1575,7 @@ Flamingo sings &quot;Go Your Own Way&quot; by Fleetwood Mac | THE MASKED SINGER 
 <a href="https://en.m.wikipedia.org/wiki/Paul_von_Lettow-Vorbeck">Paul von Lettow-Vorbeck</a><br>
 <a href="https://www.psychologytoday.com/us/blog/mental-health-nerd/201911/stop-sexually-frustrating-yourselfand-your-partner">Psychology Today</a><br>
 <a href="https://www.dailymail.co.uk/news/article-8056233/amp/Single-nurse-30-asks-China-assign-boyfriend-helping-Wuhan-fight-coronavirus.html">
-	Single nurse, 30, asks China to assign her a boyfriend for helping Wuhan fight coronavirus </a><br>
+Single nurse, 30, asks China to assign her a boyfriend for helping Wuhan fight coronavirus </a><br>
 <a href="https://www.rd.com/list/timeless-chinese-proverbs-worth-memorizing/">Timeless Chinese Proverbs Worth Memorizing</a><br>
 <a href="https://www.popularmechanics.com/technology/design/a32434104/worlds-fastest-camera/">World&#39;s Fastest Camera | Most Powerful Camera 10 Trillion FPS</a><br>
 <a href="https://thoughtcatalog.com/january-nelson/2019/11/we-asked-members-of-law-enforcement-about-the-scariest-paranormal-call-theyve-ever-responded-to/">We Asked Members Of Law Enforcement About...</a><br>
