@@ -84,7 +84,7 @@ a:visited		{font-family: Tahoma; font-size: 10pt; text-decoration: none; color: 
 				padding-bottom: 10px; background-color: #C0C0C0}
 -->
 </style>
-<!-- link rel="stylesheet" type="text/css" href="p[1]w.css" -->
+<!-- link rel="stylesheet" type="text/css" href="p[1]w.css" NOT USED WITH THIS PAGE. CSS DATA ABOVE WITHIN THIS PAGE. -->
 <script type="text/javascript">
    function doExpand(DivName) {
    if (DivName.style.display="none") { DivName.style.display=""; }
@@ -94,7 +94,8 @@ a:visited		{font-family: Tahoma; font-size: 10pt; text-decoration: none; color: 
 
 <body>
 <br>  
-<b><font size="4"><img border="0" src="images/checker.gif" width="16" height="16">&nbsp;&nbsp;BOOKMARKS&nbsp;&nbsp;<img border="0" src="images/checker.gif" width="16" height="16"></font></b><p>
+<b><font size="4"><img border="0" src="images/checker.gif" width="16" height="16">&nbsp;&nbsp;
+BOOKMARKS&nbsp;&nbsp;<img border="0" src="images/checker.gif" width="16" height="16"></font></b><p>
 
 <p><span style="background-color: #FFFF00"><font color="#000000">
 <a href="JavaScript:doExpand(AnyDivIdName)">SEARCH ENGINES, PEOPLE SEARCHES, REFERENCES, NEWS, WEATHER</a></font></span><br></p>
@@ -240,7 +241,8 @@ max-price=950k,min-sqft=2.5k-sqft,viewport=45.50552:45.49461:-122.76909:-122.789
 <a href="https://www.sling.com/">Sling TV</a> (Chrome)<br>
 <a href="https://www.netflix.com/">Netflix</a><br>
 <a href="https://www.youtube.com/">YouTube</a>
-</div></div></td></tr></tbody></table></table></div>
+</div></div></td>
+</tr></tbody></table></table></div>
 
 
 <p><span style="background-color: #FFFF00"><font color="#000000">
@@ -258,8 +260,8 @@ max-price=950k,min-sqft=2.5k-sqft,viewport=45.50552:45.49461:-122.76909:-122.789
 	<td valign="top" width="56%">
 	<b>HEALTH</b><br><br>
 
-	<b>OTHER</b><br><br>
-	</td></tr></tbody></table></div>
+	<b>OTHER</b><br><br></td>
+</tr></tbody></table></div>
 
 
 <p><span style="background-color: #FFFF00"><font color="#000000">
@@ -297,8 +299,8 @@ max-price=950k,min-sqft=2.5k-sqft,viewport=45.50552:45.49461:-122.76909:-122.789
 	<a href="https://www.akirasushibeaverton.com/">Akira Sushi</a><br>
 	<a href="https://www.ajisaisushisteak.com/">Ajisai Sushi & Steaki</a><br><br>
 	
-	<a href="http://xxxxxx.com/">XXXXXX</a><br><br>
-	</td></tr></tbody></table></div>
+	<a href="http://xxxxxx.com/">XXXXXX</a><br><br></td>
+</tr></tbody></table></div>
 
 
 <p><span style="background-color: #FFFF00"><font color="#000000">
@@ -397,8 +399,8 @@ max-price=950k,min-sqft=2.5k-sqft,viewport=45.50552:45.49461:-122.76909:-122.789
 
 	<b>WEB SITES/TOPICS</b><br><br>
 	
-	<a href="http://xxxxxx.com/">XXXXXX</a><br>
-	</td></tr></tbody></table></div>
+	<a href="http://xxxxxx.com/">XXXXXX</a><br></td>
+</tr></tbody></table></div>
 
 
 <p><a href="JavaScript:doExpand(AnyDivIdName6)">
@@ -433,8 +435,8 @@ max-price=950k,min-sqft=2.5k-sqft,viewport=45.50552:45.49461:-122.76909:-122.789
 	<a href="https://www.indigorenderer.com/sketchup/">Indigo Renderer</a><br>
 		<a href="https://www.povray.org/">POV Ray</a><br>
 	<a href="https://www.techsupportalert.com/">Gizmo's Best Freeware</a><br>
-	<a href="https://sourceforge.net/directory/os:windows/freshness:recently-updated/">SourceForge</a><br><br>
-	</td></tr></tbody></table></div>
+	<a href="https://sourceforge.net/directory/os:windows/freshness:recently-updated/">SourceForge</a><br><br></td>
+</tr></tbody></table></div>
 
 	
 <p><a href="JavaScript:doExpand(AnyDivIdName2)">
@@ -521,6 +523,8 @@ max-price=950k,min-sqft=2.5k-sqft,viewport=45.50552:45.49461:-122.76909:-122.789
 	MS Flight Simulator (CD)
 	MS Office 2019 (online)<br>
 	<a href="https://notepad-plus-plus.org/">Notepad++</a> (online)<br>
+	<a href="https://desktop.github.com/download/">GitHub Desktop</a> (online)<br>
+	<a href="https://code.visualstudio.com/download?_exp_download=fb315fc982">VS Code</a> (online)<br>
 	Oracle Virtual Box (online)<br>
 	- WindowsXP (CD)<br>
 	- IntelliCAD (CD)<br>
@@ -534,7 +538,7 @@ max-price=950k,min-sqft=2.5k-sqft,viewport=45.50552:45.49461:-122.76909:-122.789
 	<a href="https://visipics.info/">VisiPics</a> (online)<br>
 	VLC (online)<br>
 	Xerox Scanner (CD)<br></td>
-	</tr></tbody></table></div>
+</tr></tbody></table></div>
 
 <p><a href="JavaScript:doExpand(AnyDivIdName5)">
 <span style="background-color: #FFFF00">TRAVEL LISTS</span></a><br></p>
@@ -696,7 +700,7 @@ max-price=950k,min-sqft=2.5k-sqft,viewport=45.50552:45.49461:-122.76909:-122.789
 	New Zealand<br><br>
 	
 	<a href="https://www.XXXXXX.com">XXXXXX</a><br><br></td>
-	</tr></tbody></table></div>
+</tr></tbody></table></div>
 
 	
 <p><span style="background-color: #FFFF00"><font color="#000000">
@@ -723,7 +727,7 @@ max-price=950k,min-sqft=2.5k-sqft,viewport=45.50552:45.49461:-122.76909:-122.789
 		Air: <a href="https://www.popsci.com/science/best-way-to-sleep-on-plane/">The best way to sleep on a plane, according to science</a><br>
 		Air: <a href="https://www.mindbodygreen.com/articles/simple-travel-hacks-i-swear-by-every-time-i-fly">7 Simple Travel Hacks I Swear By Every Time I Fly</a><br>
 		Air: <a href="https://www.businessinsider.com/flying-saga-premium-class-icelandair-review-worth-it-2026-6">I spent over 19 hours in Icelandair's premium class. 
-			The $2,637 flight offered me way more than just a comfier seat.</a><br>
+		The $2,637 flight offered me way more than just a comfier seat.</a><br>
 		Air: <a href="https://www.huffpost.com/entry/tsa-bin-items-airport_l_6a3970bae4b058c5d1c0e52c">7 Items You Should Never, EVER Put In A TSA Bin</a><br>
 		IcelandAir <a href="https://www.icelandair.com/support/on-board/classes-of-service/">Fare types</a><br>
 		IcelandAir <a href="https://www.icelandair.com/support/terms-and-conditions/optional-service-and-fees/">Optional fees and services</a><br>
@@ -743,53 +747,58 @@ max-price=950k,min-sqft=2.5k-sqft,viewport=45.50552:45.49461:-122.76909:-122.789
 		<a href="https://www.xda-developers.com/tech-tools-every-traveler-needs-next-adventure/">8 tech tools every traveler needs on their next adventure</a><br>
 		<a href="https://www.buzzfeed.com/jenae_sitzes/ways-to-pack-light-for-international-trips-an">42 Ways To Pack Light.. For An International Trip</a><br>
 		<a href="https://www.themanual.com/travel/travel-tips-for-packing/">7 travel tips for packing I swear by</a><br>
-		<a href="https://www.themanual.com/travel/european-travel-information-and-authorization-system-increased-price/">By 2026, you'll need this $23 travel document to visit most of Europe</a><br>
-		<a href="https://www.housebeautiful.com/lifestyle/organizing-tips/a69802647/post-vacation-home-reset-tips/">8 Things Experts Say You Should Do IMMEDIATELY When You Get Home From a Trip</a><br>
+		<a href="https://www.themanual.com/travel/european-travel-information-and-authorization-system-increased-price/">
+		By 2026, you'll need this $23 travel document to visit most of Europe</a><br>
+		<a href="https://www.housebeautiful.com/lifestyle/organizing-tips/a69802647/post-vacation-home-reset-tips/">8 Things Experts Say You Should Do IMMEDIATELY When You Get Home From a Trip</a><br><br>
 		
 		<a href="https://www.XXXXXX.com">XXXXXX</a><br><br></td>
 		
 	<td valign="top" width="50%">
-	Future <a href="https://www.cietours.com/tours/scotland/scottish-isles-glens?package=112301">Scotland Trip</a><br><br>
+	Future <a href="https://www.cietours.com/tours/scotland/scottish-isles-glens?package=112301">Scotland Small Group Tour Trip</a><br><br>
 	
 	<b>Scotland</b><br>
 	Glasgow<br>
-	Isle of Bute & Mount Stuart House<br>
+	Isle of Bute & <a href="https://en.wikipedia.org/wiki/Mount_Stuart_House">Mount Stuart House</a><br>
 	Kyle of Lochalsh<br>
-	Loch Lomond & Eilean Donan Castle<br>
+	<a href="https://en.wikipedia.org/wiki/Loch_Lomond">Loch Lomond</a> & <a href="https://www.europeanwaterways.com/blog/icons-of-scotland-eilean-donan-castle/">Eilean Donan Castle</a><br>
 	<a href="https://aboveusonlyskies.com/wp-content/uploads/2025/02/Old-Man-Of-Storr-Skye-Scotland.webp">Isle of Skye</a><br>
-	Dunvegan Castle & Portree<br>
+	<a href="https://www.dunvegancastle.com/">Dunvegan Castle</a> & Portree<br>
 	Inverewe & Gairloch<br>
 	Ullapool<br>
-	Kirkwall (Orkney Islands including Ring of Brodgar, Skara Brea & St Magnus Cathedral)<br>
-	Italian Chapel & Dunrobin Castle<br>
+	Kirkwall (<a href="https://en.wikipedia.org/wiki/Orkney">Orkney Islands</a> including 
+	<a href="https://en.wikipedia.org/wiki/Ring_of_Brodgar">Ring of Brodgar</a>, 
+	<a href="https://www.orkney.com/listings/skara-brae-skaill-house">Skara Brea</a> & 
+	<a href="https://www.stmagnus.org/">St Magnus Cathedral</a>)<br>
+	Italian Chapel & <a href="https://en.wikipedia.org/wiki/Dunrobin_Castle">Dunrobin Castle</a><br>
 	Strathpeffer<br>
 	<a href="https://www.visitscotland.com/binaries/content/gallery/visitscotland/cms-images/2022/07/04/loch-ness">Loch Ness</a><br>
-	Culloden<br>
+	<a href="https://www.nts.org.uk/visit/places/culloden">Culloden</a><br>
 	Crieff<br>
 	<a href="https://images.squarespace-cdn.com/content/v1/5efb46cf46fb3d2f36091afa/52a397ef-93e9-4755-850b-dd8739509f24/Edinburgh%2C+Scotland.jpg">Edinburgh</a><br>
 	<a href="https://www.royalyachtbritannia.co.uk/visit/">Royal Yacht Britannia main site</a> (Edinburgh)<br>
 	<a href="https://www.businessinsider.com/scotland-castles-tourists-should-visit-skip-from-local-edinburgh-stirling-2026-8">As a local, I've visited many of Scotland's castles. There are 4 that tourists shouldn't miss</a><br><br>
 		
 	<b>England</b><br>
+	Hotel: <a href="https://www.thegrandattrafalgarsquare.com/">The Grand at Trafalgar Aquare</a><br>
 	<a href="https://www.nationaltrust.org.uk/visit/kent/the-white-cliffs-of-dover">White Cliffs of Dover</a>/Canterbury<br>
 	<a href="https://www.viator.com/tours/London/Windsor-Stonehenge-and-the-Roman-Baths/d737-2452P56">Windsor, Stonehenge, and Bath Trip</a><br>
 	<a href="https://www.iwm.org.uk/visits/iwm-london">Imperial War Museum (IMW)</a><br>
 	<a href="https://www.iwm.org.uk/visits/churchill-war-rooms">Churchill War Rooms</a><br>
 	<a href="https://www.britishmuseum.org/">British Museum</a><br>
-	Big Ben<br>
-	Tower Bridge<br>
-	Tower of London<br>
-	Westminster Abbey<br>
-	Buckingham Palace<br>
-	St. Paul's Cathedral<br>
-	Palace of Westminster<br>
-	Trafalgar Square<br>
-	London Eye<br>
-	Piccadilly Circus<br>
-	Marble Arch<br>
-	Royal Albert Hall<br>
-	Notting Hill<br>
-	30 St Mary Axe (The Gherkin)<br><br>
+	<a href="https://gocity.com/en/london/attractions/hms-belfast">HMS Belfast</a><br>
+	<a href="https://www.visitlondon.com/things-to-do/sightseeing/london-attraction/big-ben">Big Ben</a><br>
+	<a href="https://en.wikipedia.org/wiki/Tower_Bridge">Tower Bridge</a><br>
+	<a href="https://en.wikipedia.org/wiki/Tower_of_London">Tower of London</a><br>
+	<a href="https://www.westminster-abbey.org">Westminster Abbey</a><br>
+	<a href="https://en.wikipedia.org/wiki/Buckingham_Palace">Buckingham Palace</a><br>
+	<a href="https://www.stpauls.co.uk/">St. Paul's Cathedral</a><br>
+	<a href="https://en.wikipedia.org/wiki/Palace_of_Westminster">Palace of Westminster</a><br>
+	<a href="https://en.wikipedia.org/wiki/Trafalgar_Square">Trafalgar Square</a><br>
+	<a href="https://www.londoneye.com/">London Eye</a><br>
+	<a href="https://www.visitlondon.com/things-to-do/place/77552-piccadilly-circus">Piccadilly Circus</a><br>
+	<a href="https://en.wikipedia.org/wiki/Marble_Arch">Marble Arch</a><br>
+	<a href="https://beyondyellowbrickblog.com/notting-hill-london-guide/">Notting Hill</a><br>
+	<a href="https://en.wikipedia.org/wiki/The_Gherkin">30 St Mary Axe (The Gherkin)</a><br><br>
 
 	<b>Other site for later</b><br>
 	<s><a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxwulanZGwFYdLNnhNjNK8hcXsf9Fa97VKRTuCTCtyihTBwI5CTba8pzxb&s=10">Kilt Rock</a></s><br>
@@ -1260,7 +1269,8 @@ Can't sleep for more than 6 hours?</a><br>
 <a href="https://diyeverywhere.com/2026/01/12/my-nana-taught-me-this-trick-to-kill-ant-colonies-in-just-3-mins-with-0-effort-heres-how-it-works">Kill ant colonies in just 3 mins</a><br>
 <a href="https://grapesandsplendor.com/2018/10/14/how-to-make-a-weed-killer-that-annihilates-insects-on-spot/">How To Make A Weed Killer That Kills Insects As Well</a><br><br>
 
-<a href="https://www.XXXXXX.com">XXXXXX</a><br><br></td></tr></tbody></table></div>
+<a href="https://www.XXXXXX.com">XXXXXX</a><br><br></td>
+</tr></tbody></table></div>
 
 
 <p><a href="JavaScript:doExpand(AnyDivIdName15)">
