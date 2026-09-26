@@ -245,8 +245,8 @@ max-price=950k,min-sqft=2.5k-sqft,viewport=45.50552:45.49461:-122.76909:-122.789
 </tr></tbody></table></table></div>
 
 
-<p><span style="background-color: #FFFF00"><font color="#000000">
-<a href="JavaScript:doExpand(AnyDivIdName1)">SERVICES</a></font></span><br></p>
+<p><span style="background-color: #FFFF00">
+<a href="JavaScript:doExpand(AnyDivIdName1)">SERVICES</a></span><br></p>
 <div id="AnyDivIdName1" style="display: none;">
 <table border="0" width="100%"><tbody><tr>
 
@@ -264,8 +264,8 @@ max-price=950k,min-sqft=2.5k-sqft,viewport=45.50552:45.49461:-122.76909:-122.789
 </tr></tbody></table></div>
 
 
-<p><span style="background-color: #FFFF00"><font color="#000000">
-<a href="JavaScript:doExpand(AnyDivIdName7)">LOCAL STORES & ONLINE SITES</a></font></span><br></p>
+<p><span style="background-color: #FFFF00">
+<a href="JavaScript:doExpand(AnyDivIdName7)">LOCAL STORES & ONLINE SITES</a></span><br></p>
 <div id="AnyDivIdName7" style="display: none;">
 <table border="0" width="100%"><tbody><tr>
 
@@ -303,8 +303,8 @@ max-price=950k,min-sqft=2.5k-sqft,viewport=45.50552:45.49461:-122.76909:-122.789
 </tr></tbody></table></div>
 
 
-<p><span style="background-color: #FFFF00"><font color="#000000">
-<a href="JavaScript:doExpand(AnyDivIdName3)">ASSORTED LINKS & SITES</a></font></span><br></p>
+<p><span style="background-color: #FFFF00">
+<a href="JavaScript:doExpand(AnyDivIdName3)">ASSORTED LINKS & SITES</a></span><br></p>
 <div id="AnyDivIdName3" style="display: none;">
 <table border="0" width="100%"><tbody><tr>
 
@@ -403,8 +403,8 @@ max-price=950k,min-sqft=2.5k-sqft,viewport=45.50552:45.49461:-122.76909:-122.789
 </tr></tbody></table></div>
 
 
-<p><a href="JavaScript:doExpand(AnyDivIdName6)">
-<span style="background-color: #FFFF00">COMPUTER, TECHNICAL, ANDROID LINKS</span></a><br></p>
+<p><span style="background-color: #FFFF00">
+<a href="JavaScript:doExpand(AnyDivIdName6)">COMPUTER, TECHNICAL, ANDROID LINKS</a></span><br></p>
 <div id="AnyDivIdName6" style="display: none;">
 <table border="0" width="100%"><tbody><tr>
 
@@ -439,8 +439,8 @@ max-price=950k,min-sqft=2.5k-sqft,viewport=45.50552:45.49461:-122.76909:-122.789
 </tr></tbody></table></div>
 
 	
-<p><a href="JavaScript:doExpand(AnyDivIdName2)">
-<span style="background-color: #FFFF00">STUMBLEUPON LINKS</span></a><br></p>
+<p><span style="background-color: #FFFF00">
+<a href="JavaScript:doExpand(AnyDivIdName2)">STUMBLEUPON LINKS</a></span><br></p>
 <div id="AnyDivIdName2" style="display: none;">
 <table border="0" width="100%"><tbody><tr>
 
@@ -482,8 +482,8 @@ max-price=950k,min-sqft=2.5k-sqft,viewport=45.50552:45.49461:-122.76909:-122.789
 	</tr></tbody></table></div>
 
 	
-<p><a href="JavaScript:doExpand(AnyDivIdName4)">
-<span style="background-color: #FFFF00">FIREFOX TOOLBARS, ADD-ONS &amp; DESKTOP SOFTWARE</span></a><br></p>
+<p><span style="background-color: #FFFF00">
+<a href="JavaScript:doExpand(AnyDivIdName4)">FIREFOX TOOLBARS, ADD-ONS &amp; DESKTOP SOFTWARE</a></span><br></p>
 <div id="AnyDivIdName4" style="display: none;">
 <table border="0" width="100%"><tbody><tr>
 
@@ -540,8 +540,8 @@ max-price=950k,min-sqft=2.5k-sqft,viewport=45.50552:45.49461:-122.76909:-122.789
 	Xerox Scanner (CD)<br></td>
 </tr></tbody></table></div>
 
-<p><a href="JavaScript:doExpand(AnyDivIdName5)">
-<span style="background-color: #FFFF00">TRAVEL LISTS</span></a><br></p>
+<p><span style="background-color: #FFFF00">
+<a href="JavaScript:doExpand(AnyDivIdName5)">TRAVEL LISTS</a></span><br></p>
 <div id="AnyDivIdName5" style="display: none;">
 <table border="0" width="100%"><tbody><tr>
 
@@ -558,7 +558,8 @@ max-price=950k,min-sqft=2.5k-sqft,viewport=45.50552:45.49461:-122.76909:-122.789
 		Fly from PDX to Sacramento. Pickup rental car.<br><br>
 		
 		<a href="https://www.animalsaroundtheglobe.com/the-25-national-parks-rangers-say-reward-an-early-start-more-than-anywhere-else-1-409392/">25 NP Rangers Say Reward an Early Start More Than Anywhere Else</a><br>
-		<a href="https://travelbinger.com/8-u-s-national-parks-facing-overcrowding-issues">8 U.S. National Parks Facing Overcrowding Issues</a><br><br>
+		<a href="https://travelbinger.com/8-u-s-national-parks-facing-overcrowding-issues">8 U.S. NPs Facing Overcrowding Issues</a><br>
+		<a href="https://travelbinger.com/7-u-s-national-parks-that-have-become-dangerously-overcrowded">7 U.S. NPs That Have Become Dangerously Overcrowded</a><br><br>
 		
 		<span style="background-color: #00FF00"><a href="https://www.nps.gov/yose/index.htm">Yosemite NP, CA</a></span><br><br>
 		
@@ -611,8 +612,8 @@ max-price=950k,min-sqft=2.5k-sqft,viewport=45.50552:45.49461:-122.76909:-122.789
 		<font color="FFFFFF"><span style="background-color: #000000"><b>LODGING</b></span></font> at Page, NV (above)<br><br>
 		
 		<span style="background-color: #00FF00"><a href="https://www.nps.gov/zion/index.htm">Zion NP, UT</a> (initial)</span><br>
-		<a href="https://ourwanders.com/a-national-park-still-not-famous-enough-zion-utah/">7 Amazing Things To Do In Zion National Park</a><br>
-		<a href="https://thefrugalgirls.com/2015/03/zion-national-park-travel-tips.html">30 Zion National Park Travel Tips</a><br>
+		<a href="https://ourwanders.com/a-national-park-still-not-famous-enough-zion-utah/">7 Amazing Things To Do In Zion NP</a><br>
+		<a href="https://thefrugalgirls.com/2015/03/zion-national-park-travel-tips.html">30 Zion NP Travel Tips</a><br>
 		<a href="https://www.thetravel.com/skip-zion-and-arches-utah-state-parks-hikers-are-flocking-to-instead/">Skip Zion And Arches: 10 Utah State Parks Hikers Are Flocking To Instead</a><br><br>
 		
 		<font color="FFFFFF"><span style="background-color: #000000"><b>LODGING</b></span></font> at Cedar City, UT *<br>
@@ -649,8 +650,9 @@ max-price=950k,min-sqft=2.5k-sqft,viewport=45.50552:45.49461:-122.76909:-122.789
 	<a href="https://www.elledecor.com/life-culture/travel/g32390753/most-beautiful-national-parks/">34 Most Beautiful Places</a><br>
 	<a href="https://guessingheadlights.com/national-parks-better-than-yellowstone-according-to-rangers/">National Parks Better Than Yellowstone</a><br>
 	<a href="https://www.contiki.com/six-two/article/best-national-parks-usa/">17 Best National Parks</a><br>
-	<a href="https://www.elledecor.com/life-culture/travel/g32390753/most-beautiful-national-parks/">NatParks Best Views</a><br>
-	<a href="https://travelbinger.com/national-park-rangers-quietly-point-travelers-over-60-to-15-spots-the-trail-maps-leave-off">NP Rangers Quietly Point Travelers Over 60 to 15 Spots the Trail Maps Leave Off</a><br><br>
+	<a href="https://www.elledecor.com/life-culture/travel/g32390753/most-beautiful-national-parks/">National Parks Best Views</a><br>
+	<a href="https://travelbinger.com/national-park-rangers-quietly-point-travelers-over-60-to-15-spots-the-trail-maps-leave-off">NP Rangers Quietly Point Travelers Over 60 to 15 Spots the Trail Maps Leave Off</a><br>
+	<a href="https://travelbinger.com/16-mistakes-people-over-60-make-on-their-first-trip-to-a-national-park">16 Mistakes People Over 60 Make on Their First Trip to a NP</a><br><br>
 		
 	<b>OTHER/PRIOR CA CONSIDERATIONS</b><br>	
 	<a href="https://www.nps.gov/redw/index.htm">Redwoods NP, CA</a><br>
@@ -703,8 +705,8 @@ max-price=950k,min-sqft=2.5k-sqft,viewport=45.50552:45.49461:-122.76909:-122.789
 </tr></tbody></table></div>
 
 	
-<p><span style="background-color: #FFFF00"><font color="#000000">
-<a href="JavaScript:doExpand(AnyDivIdName9)">FUTURE CRUISE or TRIP INFO/LINKS</a></font></span></p>
+<p><span style="background-color: #FFFF00">
+<a href="JavaScript:doExpand(AnyDivIdName9)">FUTURE CRUISE or TRIP INFO/LINKS</a></span></p>
 <div id="AnyDivIdName9" style="display: none;">
 <table border="0" width="100%"><tbody><tr>
 
@@ -723,7 +725,6 @@ max-price=950k,min-sqft=2.5k-sqft,viewport=45.50552:45.49461:-122.76909:-122.789
 		Air: <a href="https://www.islands.com/1885648/best-way-disinfect-airplane-seat/">Best Way To Disinfect Your Airplane Seat In 10 Steps</a><br>
 		Air: <a href="https://www.thestreet.com/travel/tsa-warns-this-one-airport-habit-could-ruin-your-trip">TSA warns: This one airport habit could ruin your trip</a><br>
 		Air: <a href="https://www.themanual.com/travel/personal-item-vs-carry-on/">Personal item vs. carry-on differences explained...</a><br>
-		Air: <a href="https://nypost.com/article/best-face-masks-for-long-flights-travel/">The best face masks for long flights in 2025, per experts</a><br>
 		Air: <a href="https://www.popsci.com/science/best-way-to-sleep-on-plane/">The best way to sleep on a plane, according to science</a><br>
 		Air: <a href="https://www.mindbodygreen.com/articles/simple-travel-hacks-i-swear-by-every-time-i-fly">7 Simple Travel Hacks I Swear By Every Time I Fly</a><br>
 		Air: <a href="https://www.businessinsider.com/flying-saga-premium-class-icelandair-review-worth-it-2026-6">I spent over 19 hours in Icelandair's premium class. 
@@ -738,7 +739,6 @@ max-price=950k,min-sqft=2.5k-sqft,viewport=45.50552:45.49461:-122.76909:-122.789
 		Cruise: <a href="https://financebuzz.com/cruise-ship-boarding-tips-5?pid=1692">16 Things Every Time You Board a Cruise Ship</a><br>
 		Cruise: <a href="https://www.the-express.com/travel/cruises/165982/cruises-one-day-rule-explained">Cruise Passengers Urged to Follow the One Day Rule</a><br>
 		Cruise: <a href="https://financebuzz.com/news/cruise-mistakes-to-avoid-4?pid=1692">11 Mistakes You Should Never, Ever Make on a Cruise</a><br>
-		Cruise: <a href="https://backroadplanet.com/viking-ocean-cruises-voyage-of-a-lifetime/">Viking Ocean Cruises: A Guide for Planning a Voyage of a Lifetime</a><br>
 		Cruise: <a href="https://www.mccooltravel.com/secret-things-to-do-on-viking-ocean-cruises/">11+ Fantastic Secret Things to Do on Viking Ocean Cruises</a><br><br>
 		<a href="https://www.huffpost.com/entry/slow-travel-might-be-the-key-to-a-better-vacation-heres-what-it-is-goog_l_67c091d0e4b08e33534cd2b7">Slow Travel Might Be The Key To A Better Vacation</a><br>
 		<a href="https://www.makeuseof.com/prepare-phone-for-an-international-trip/">How I Prepare My Phone for an International Trip</a><br>
@@ -754,32 +754,33 @@ max-price=950k,min-sqft=2.5k-sqft,viewport=45.50552:45.49461:-122.76909:-122.789
 		<a href="https://www.XXXXXX.com">XXXXXX</a><br><br></td>
 		
 	<td valign="top" width="50%">
-	Future <a href="https://www.cietours.com/tours/scotland/scottish-isles-glens?package=112301">Scotland Small Group Tour Trip</a><br><br>
+	Future <a href="https://www.cietours.com/tours/scotland/scottish-isles-glens?package=112301">CEI Scotland Small Group Tour</a><br><br>
 	
 	<b>Scotland</b><br>
 	Glasgow<br>
-	Isle of Bute & <a href="https://en.wikipedia.org/wiki/Mount_Stuart_House">Mount Stuart House</a><br>
-	Kyle of Lochalsh<br>
+	<a href="https://en.wikipedia.org/wiki/Isle_of_Bute">Isle of Bute</a> & <a href="https://en.wikipedia.org/wiki/Mount_Stuart_House">Mount Stuart House</a><br>
+	<a href="https://en.wikipedia.org/wiki/Kyle_of_Lochalsh">Kyle of Lochalsh</a><br>
 	<a href="https://en.wikipedia.org/wiki/Loch_Lomond">Loch Lomond</a> & <a href="https://www.europeanwaterways.com/blog/icons-of-scotland-eilean-donan-castle/">Eilean Donan Castle</a><br>
 	<a href="https://aboveusonlyskies.com/wp-content/uploads/2025/02/Old-Man-Of-Storr-Skye-Scotland.webp">Isle of Skye</a><br>
-	<a href="https://www.dunvegancastle.com/">Dunvegan Castle</a> & Portree<br>
-	Inverewe & Gairloch<br>
-	Ullapool<br>
-	Kirkwall (<a href="https://en.wikipedia.org/wiki/Orkney">Orkney Islands</a> including 
+	<a href="https://www.dunvegancastle.com/">Dunvegan Castle</a> & <a href="https://en.wikipedia.org/wiki/Portree">Portree</a><br>
+	<a href="https://www.nts.org.uk/visit/places/inverewe">Inverewe Gardens</a> & <a href="https://en.wikipedia.org/wiki/Gairloch">Gairloch</a><br>
+	<a href="https://en.wikipedia.org/wiki/Ullapool">Ullapool</a><br>
+	<a href="https://en.wikipedia.org/wiki/Kirkwall">Kirkwall</a> (<a href="https://en.wikipedia.org/wiki/Orkney">Orkney Islands</a> including 
 	<a href="https://en.wikipedia.org/wiki/Ring_of_Brodgar">Ring of Brodgar</a>, 
 	<a href="https://www.orkney.com/listings/skara-brae-skaill-house">Skara Brea</a> & 
 	<a href="https://www.stmagnus.org/">St Magnus Cathedral</a>)<br>
-	Italian Chapel & <a href="https://en.wikipedia.org/wiki/Dunrobin_Castle">Dunrobin Castle</a><br>
+	<a href="https://www.orkney.com/listings/the-italian-chapel">Italian Chapel</a> & <a href="https://en.wikipedia.org/wiki/Dunrobin_Castle">Dunrobin Castle</a><br>
 	Strathpeffer<br>
 	<a href="https://www.visitscotland.com/binaries/content/gallery/visitscotland/cms-images/2022/07/04/loch-ness">Loch Ness</a><br>
 	<a href="https://www.nts.org.uk/visit/places/culloden">Culloden</a><br>
-	Crieff<br>
+	<a href="https://en.wikipedia.org/wiki/Crieff">Crieff</a><br>
 	<a href="https://images.squarespace-cdn.com/content/v1/5efb46cf46fb3d2f36091afa/52a397ef-93e9-4755-850b-dd8739509f24/Edinburgh%2C+Scotland.jpg">Edinburgh</a><br>
-	<a href="https://www.royalyachtbritannia.co.uk/visit/">Royal Yacht Britannia main site</a> (Edinburgh)<br>
+	<a href="https://www.royalyachtbritannia.co.uk/visit/">Royal Yacht Britannia main site</a> (Edinburgh)<br><br>
 	<a href="https://www.businessinsider.com/scotland-castles-tourists-should-visit-skip-from-local-edinburgh-stirling-2026-8">As a local, I've visited many of Scotland's castles. There are 4 that tourists shouldn't miss</a><br><br>
 		
 	<b>England</b><br>
-	Hotel: <a href="https://www.thegrandattrafalgarsquare.com/">The Grand at Trafalgar Aquare</a><br>
+	Hotel: <a href="https://www.thegrandattrafalgarsquare.com/">The Grand at Trafalgar Aquare</a><br><br>
+	<a href="https://www.visitlondon.com/">Visit London Official Visitor Guide</a><br><br>
 	<a href="https://www.nationaltrust.org.uk/visit/kent/the-white-cliffs-of-dover">White Cliffs of Dover</a>/Canterbury<br>
 	<a href="https://www.viator.com/tours/London/Windsor-Stonehenge-and-the-Roman-Baths/d737-2452P56">Windsor, Stonehenge, and Bath Trip</a><br>
 	<a href="https://www.iwm.org.uk/visits/iwm-london">Imperial War Museum (IMW)</a><br>
@@ -862,8 +863,8 @@ max-price=950k,min-sqft=2.5k-sqft,viewport=45.50552:45.49461:-122.76909:-122.789
 </tr></tbody></table></div>
 
 
-<p><a href="JavaScript:doExpand(AnyDivIdName11)">
-<span style="background-color: #FFFF00">ADVICE/TIPS/IDEAS - ARCHITECTURE - BEER</span></a><br></p>
+<p><span style="background-color: #FFFF00">
+<a href="JavaScript:doExpand(AnyDivIdName11)">ADVICE/TIPS/IDEAS - ARCHITECTURE - BEER</a></span><br></p>
 <div id="AnyDivIdName11" style="display: none;">
 <table border="0" width="100%"><tbody><tr>
 
@@ -915,8 +916,8 @@ max-price=950k,min-sqft=2.5k-sqft,viewport=45.50552:45.49461:-122.76909:-122.789
 </tr></tbody></table></div>
 
 
-<p><a href="JavaScript:doExpand(AnyDivIdName8)">
-<span style="background-color: #FFFF00">BOOKS - BUDGET - CABLE - CAD</span></a><br></p>
+<p><span style="background-color: #FFFF00">
+<a href="JavaScript:doExpand(AnyDivIdName8)">BOOKS - BUDGET - CABLE - CAD</a></span><br></p>
 <div id="AnyDivIdName8" style="display: none;">
 <table border="0" width="100%"><tbody><tr>
 
@@ -978,8 +979,8 @@ how+to+load+autol&gs_l=psy-ab.3.6.0l6j0i22i30l4.2298.8435..16610...1.0..0.249.13
 </tr></tbody></table></div>
 
 
-<p><a href="JavaScript:doExpand(AnyDivIdName12)">
-<span style="background-color: #FFFF00">COFFEE - CRYPTOGRAM - FOOD - GAMES - GENERAL SITES/ZINES</span></a><br></p>
+<p><span style="background-color: #FFFF00">
+<a href="JavaScript:doExpand(AnyDivIdName12)">COFFEE - CRYPTOGRAM - FOOD - GAMES - GENERAL SITES/ZINES</a></span><br></p>
 <div id="AnyDivIdName12" style="display: none;">
 <table border="0" width="100%"><tbody><tr>
 
@@ -1129,8 +1130,8 @@ how+to+load+autol&gs_l=psy-ab.3.6.0l6j0i22i30l4.2298.8435..16610...1.0..0.249.13
 </tr></tbody></table></div>
 
 
-<p><a href="JavaScript:doExpand(AnyDivIdName13)">
-<span style="background-color: #FFFF00">HEALTH - SLEEP - TINNITUS</span></a><br></p>
+<p><span style="background-color: #FFFF00">
+<a href="JavaScript:doExpand(AnyDivIdName13)">HEALTH - SLEEP - TINNITUS</a></span><br></p>
 <div id="AnyDivIdName13" style="display: none;">
 <table border="0" width="100%"><tbody><tr>
 
@@ -1223,8 +1224,8 @@ Can't sleep for more than 6 hours?</a><br>
 </tr></tbody></table></div>
 
 
-<p><a href="JavaScript:doExpand(AnyDivIdName14)">
-<span style="background-color: #FFFF00">HOUSE - BUGS/INSECTS</span></a><br></p>
+<p><span style="background-color: #FFFF00">
+<a href="JavaScript:doExpand(AnyDivIdName14)">HOUSE - BUGS/INSECTS</a></span><br></p>
 <div id="AnyDivIdName14" style="display: none;">
 <table border="0" width="100%"><tbody><tr>
 
@@ -1273,8 +1274,8 @@ Can't sleep for more than 6 hours?</a><br>
 </tr></tbody></table></div>
 
 
-<p><a href="JavaScript:doExpand(AnyDivIdName15)">
-<span style="background-color: #FFFF00">HUMOR - MAPS - MILITARY RELATED - MOVIES</span></a><br></p>
+<p><span style="background-color: #FFFF00">
+<a href="JavaScript:doExpand(AnyDivIdName15)">HUMOR - MAPS - MILITARY RELATED - MOVIES</a></span><br></p>
 <div id="AnyDivIdName15" style="display: none;">
 <table border="0" width="100%"><tbody><tr>
 
@@ -1344,8 +1345,8 @@ lnms&amp;sa=X&amp;ved=0ahUKEwiVssWG9tfLAhUP2GMKHdkKABIQ_AUIBigA&amp;dpr=1">Hashi
 </tr></tbody></table></div>
 
 
-<p><a href="JavaScript:doExpand(AnyDivIdName16)">
-<span style="background-color: #FFFF00">MUSIC - PHOTO/VIDEO - POLITICS/ECONOMY - PURCHASE</span></a><br></p>
+<p><span style="background-color: #FFFF00">
+<a href="JavaScript:doExpand(AnyDivIdName16)">MUSIC - PHOTO/VIDEO - POLITICS/ECONOMY - PURCHASE</a></span><br></p>
 <div id="AnyDivIdName16" style="display: none;">
 <table border="0" width="100%"><tbody><tr>
 
@@ -1402,8 +1403,8 @@ Flamingo sings &quot;Go Your Own Way&quot; by Fleetwood Mac | THE MASKED SINGER 
 </tr></tbody></table></div>
 
 
-<p><a href="JavaScript:doExpand(AnyDivIdName17)">
-<span style="background-color: #FFFF00">RETIREMENT - REUNION -REVIEWS - SEARCHES - SOFTWARE</span></a><br></p>
+<p><span style="background-color: #FFFF00">
+<a href="JavaScript:doExpand(AnyDivIdName17)">RETIREMENT - REUNION -REVIEWS - SEARCHES - SOFTWARE</a></span><br></p>
 <div id="AnyDivIdName17" style="display: none;">
 <table border="0" width="100%"><tbody><tr>
 
@@ -1469,8 +1470,8 @@ Flamingo sings &quot;Go Your Own Way&quot; by Fleetwood Mac | THE MASKED SINGER 
 </tr></tbody></table></div>
 
 
-<p><a href="JavaScript:doExpand(AnyDivIdName18)">
-<span style="background-color: #FFFF00">TECH</span></a><br></p>
+<p><span style="background-color: #FFFF00">
+<a href="JavaScript:doExpand(AnyDivIdName18)">TECH</a></span><br></p>
 <div id="AnyDivIdName18" style="display: none;">
 <table border="0" width="100%"><tbody><tr>
 
@@ -1548,8 +1549,8 @@ Flamingo sings &quot;Go Your Own Way&quot; by Fleetwood Mac | THE MASKED SINGER 
 </tr></tbody></table></div>
 
 
-<p><a href="JavaScript:doExpand(AnyDivIdName19)">
-<span style="background-color: #FFFF00">TO READ</span></a><br></p>
+<p><span style="background-color: #FFFF00">
+<a href="JavaScript:doExpand(AnyDivIdName19)">TO READ</a></span><br></p>
 <div id="AnyDivIdName19" style="display: none;">
 <table border="0" width="100%"><tbody><tr>
 
@@ -1604,8 +1605,8 @@ Single nurse, 30, asks China to assign her a boyfriend for helping Wuhan fight c
 </tr></tbody></table></div>
 
 
-<p><a href="JavaScript:doExpand(AnyDivIdName20)">
-<span style="background-color: #FFFF00">TRAVEL/CRUISE - TRAVEL/NON-CRUISE - WEB SITE/FONT - WORK</span></a><br></p>
+<p><span style="background-color: #FFFF00">
+<a href="JavaScript:doExpand(AnyDivIdName20)">TRAVEL/CRUISE - TRAVEL/NON-CRUISE - WEB SITE/FONT - WORK</a></span><br></p>
 <div id="AnyDivIdName20" style="display: none;">
 <table border="0" width="100%"><tbody><tr>
 
@@ -1669,8 +1670,8 @@ Single nurse, 30, asks China to assign her a boyfriend for helping Wuhan fight c
 </tr></tbody></table></div>
 
 
-<p><a href="JavaScript:doExpand(AnyDivIdName22)">
-<span style="background-color: #FFFF00">XXXXXX</span></a><br></p>
+<p><span style="background-color: #FFFF00">
+<a href="JavaScript:doExpand(AnyDivIdName22)">XXXXXX</a></span><br></p>
 <div id="AnyDivIdName22" style="display: none;">
 <table border="0" width="100%"><tbody><tr>
 
