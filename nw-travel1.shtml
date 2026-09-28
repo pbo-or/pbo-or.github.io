@@ -12,7 +12,7 @@ XXXX = name of the CSS page: link rel="stylesheet" type="text/css" href="XXXX.cs
 <style type="text/css">
 <!--
 body			{margin-left: auto; margin-right: auto; font-family: Tahoma; font-size: 
-				10pt; text-align: left; margin: 0; padding: 25; background-attachment: fixed; 
+				10pt; text-align: left; margin: 0; padding: 25;  
 				background-image: url('images/grid-standard.gif'); }
 
 a               {font-family: Tahoma; font-size: 10pt; }
@@ -79,13 +79,12 @@ td				{margin-left: auto; margin-right: auto; font-size: 10pt; border: 0px solid
 </head>
 
 <body>
-
 <div id="Content">
-<p class="site-header-txt"><a href="https://myplace.frontier.com/~pboakes/nw-travel1.shtml">
+<p class="site-header-txt"><a href="file:///E:/html/github/pbo-or.github.io/nw-travel1.shtml">
 <span class="area-header-txt">Northwest Travel Sites</span></a><br></p>
 
 <p style="text-align: center">
-Last update: September 25, 2026
+Last update: September 28, 2026
 
 <p style="text-align: center">
 <img border="0" src="nw/map-nw-general.jpg" width="608" height="591" 
@@ -1282,7 +1281,7 @@ and Waysides</a></font></span><br>
 		-123.9191477,11.75z/data=!4m6!3m5!1s0x54937b6f23fbed31:0xec013e8e08b18b39!
 		8m2!3d46.1971548!4d-123.7976427!16s/g/1w8w9qq_?hl=en&entry=ttu">Google Maps</a><br><br></td>
 	<td valign="top" width="50%">
-	<a href="http://myplace.frontier.com/~pboakes/nw/coast-coffee-girl.jpg">
+	<a href="nw/coast-coffee-girl.jpg">
 	<img border="0" src="nw/coast-coffee-girl.jpg" width="440" height="292"></a></td>
 </table></div>
 
