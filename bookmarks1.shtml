@@ -1,7 +1,7 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
 <html><head><title>Bookmarks</title>
 
-<link rel="shortcut icon" href="images/checker.ico"/>
+<link rel="shortcut icon" href="images-general/checker.ico"/>
 <style type="text/css">
 <!--
 body, td		{margin-left: auto; margin-right: auto; font-family: Tahoma; font-size: 10pt;
@@ -94,8 +94,8 @@ a:visited		{font-family: Tahoma; font-size: 10pt; text-decoration: none; color: 
 
 <body>
 <br>  
-<b><font size="4"><img border="0" src="images/checker.gif" width="16" height="16">&nbsp;&nbsp;
-BOOKMARKS&nbsp;&nbsp;<img border="0" src="images/checker.gif" width="16" height="16"></font></b><p>
+<b><font size="4"><img border="0" src="images-general/checker.gif" width="16" height="16">&nbsp;&nbsp;
+BOOKMARKS&nbsp;&nbsp;<img border="0" src="images-general/checker.gif" width="16" height="16"></font></b><p>
 
 <p><span style="background-color: #FFFF00"><font color="#000000">
 <a href="JavaScript:doExpand(AnyDivIdName)">SEARCH ENGINES, PEOPLE SEARCHES, REFERENCES, NEWS, WEATHER</a></font></span><br></p>
@@ -225,7 +225,7 @@ max-price=950k,min-sqft=2.5k-sqft,viewport=45.50552:45.49461:-122.76909:-122.789
 <td align="center" valign="top" width="170"><div id="box"><b>Music/Radio/Video</b><br><br>
 <div id="text-box">
 <a href="https://www.netflix-codes.com/">Netflix Codes</a><br>
-<a href="images/netflix-codes.jpg">Screenshot</a><br><br>
+<a href="images-general/netflix-codes.jpg">Screenshot</a><br><br>
 <a href="https://www.justwatch.com/">JustWatch</a><br>
 <a href="https://www.kanopy.com/">Kanopy</a><br>
 <a href="https://www.music-map.com/">Music Map</a><br>
@@ -811,7 +811,7 @@ max-price=950k,min-sqft=2.5k-sqft,viewport=45.50552:45.49461:-122.76909:-122.789
 	<a href="https://www.housebeautiful.com/lifestyle/organizing-tips/a69802647/post-vacation-home-reset-tips/">8 Things Experts Say You Should Do IMMEDIATELY When You Get Home From a Trip</a><br><br>
 		
 	<a href="https://www.XXXXXX.com">XXXXXX</a><br><br></td>
-	</tr></tbody></table></div>
+</tr></tbody></table></div>
 
 <table border="0" width="500px" align="center"><tbody>
 
@@ -824,11 +824,11 @@ max-price=950k,min-sqft=2.5k-sqft,viewport=45.50552:45.49461:-122.76909:-122.789
 		
 		<s><a href="https://myplace.frontier.com/~pboakes/bookmarks1.shtml">BM Page</a> Frontier</s><br><br>
 		
-		<a href="photos/map-travel-washington.JPG">Washington State Map</a><br>
-		<a href="photos/map-travel-GB.jpg">Great Britain Map</a><br>
-		<a href="photos/map-travel-iceland.jpg">Iceland Map</a><br>
-		<a href="photos/map-travel-svalbard.jpg">Svalbard Map</a><br>
-		<a href="photos/map-travel-norway.JPG">Norway Map</a><br></td>
+		<a href="images-fern-canyon-travel/map-travel-washington.JPG">Washington State Map</a><br>
+		<a href="images-fern-canyon-travel/map-travel-GB.jpg">Great Britain Map</a><br>
+		<a href="images-fern-canyon-travel/map-travel-iceland.jpg">Iceland Map</a><br>
+		<a href="images-fern-canyon-travel/map-travel-svalbard.jpg">Svalbard Map</a><br>
+		<a href="images-fern-canyon-travel/map-travel-norway.JPG">Norway Map</a><br></td>
 	<td valign="top" width="50%">
 	<a href="https://adaychic.com/products/geometry-mens-shirts-with-pocket-10?variant=46184257290513">Geometry Men's Shirts With Pocket</a><br>
 	<a href="https://www.veown.com/products/abstract-painting-piet-mondrian-checkered-printing-mens-short-sleeve-shirt">Abstract Painting Men's Short Sleeve Shirt </a><br><br>
@@ -836,7 +836,7 @@ max-price=950k,min-sqft=2.5k-sqft,viewport=45.50552:45.49461:-122.76909:-122.789
 	<a href="https://maxoakes.github.io/photography/">Max's Photo Web Site</a><br><br>
 	
 	<a href="https://www.XXXXXX.com">XXXXXX</a><br></td>
-	</tr></tbody></table></div>
+	</tr></tbody></table>
 
 
 <p><a href="JavaScript:doExpand(AnyDivIdName21)">
