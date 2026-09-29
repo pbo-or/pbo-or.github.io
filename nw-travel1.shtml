@@ -13,7 +13,7 @@ XXXX = name of the CSS page: link rel="stylesheet" type="text/css" href="XXXX.cs
 <!--
 body			{margin-left: auto; margin-right: auto; font-family: Tahoma; font-size: 
 				10pt; text-align: left; margin: 0; padding: 25;  
-				background-image: url('images/grid-standard.gif'); }
+				background-image: url('images-general/grid-standard.gif'); }
 
 a               {font-family: Tahoma; font-size: 10pt; }
 
@@ -69,7 +69,7 @@ td				{margin-left: auto; margin-right: auto; font-size: 10pt; border: 0px solid
 </style>
 
 <!-- link rel="stylesheet" type="text/css" href="nw-travel.css" -->
-<link rel="shortcut icon" href="images/oregon.ico"/>
+<link rel="shortcut icon" href="images-general/oregon.ico"/>
 <meta name="Microsoft Border" content="tl, default">
 <script type="text/javascript">
    function doExpand(DivName) {
@@ -87,7 +87,7 @@ td				{margin-left: auto; margin-right: auto; font-size: 10pt; border: 0px solid
 Last update: September 28, 2026
 
 <p style="text-align: center">
-<img border="0" src="nw/map-nw-general.jpg" width="608" height="591" 
+<img border="0" src="images-nw/map-nw-general.jpg" width="608" height="591" 
 style="border: 0px solid black; box-shadow: 8px 8px 12px #999"></p><br>
 
 <!-- to create a shadow border to image: inside <img > add the following: 
@@ -111,7 +111,7 @@ business or profiting from my interest in collecting and sharing information. If
 problems, don't hesitate to send me an email so I can make any needed updates. PBO<br><br><br>
 
 Below are more 100 unique site boxes corresponding with the above map areas. Another 
-<a href="nw/map-or-boxes.JPG">map</a> with specific sites.<br><br>
+<a href="images-nw/map-or-boxes.JPG">map</a> with specific sites.<br><br>
 
 During a week long visit to Oregon, there is obviously no way to see all of these sites. So by refining 
 your preferences and interests, we can tailor a more focused causal week of visiting desired sites in the 
@@ -133,13 +133,13 @@ and the Space Needle.<br><br>
 	<p>This web page uses HTML CSS coding. I have not mastered various aspects of the language so page 
 	functionality is pretty basic. I have not yet figured out to make it friendly to all Smart phones 
 	and some tablet browsers. So it is best viewed with a laptop or PC screen with a mainstream browser.<br><br>
-	<img border="0" src="nw/symbol-binos.gif" width="20" height="20">&nbsp;&nbsp;&nbsp;=&nbsp; Bring binoculars<br><br>
-	<img border="0" src="nw/boot-print.gif" width="20" height="20">&nbsp;&nbsp;&nbsp;=&nbsp; Bring hiking boots or comfortable hiking shoes<br><br>
-	<img border="0" src="nw/symbol-subway.gif" width="21" height="20">&nbsp;&nbsp;&nbsp;=&nbsp; Accessible by MAX Light 
+	<img border="0" src="images-nw/symbol-binos.gif" width="20" height="20">&nbsp;&nbsp;&nbsp;=&nbsp; Bring binoculars<br><br>
+	<img border="0" src="images-nw/boot-print.gif" width="20" height="20">&nbsp;&nbsp;&nbsp;=&nbsp; Bring hiking boots or comfortable hiking shoes<br><br>
+	<img border="0" src="images-nw/symbol-subway.gif" width="21" height="20">&nbsp;&nbsp;&nbsp;=&nbsp; Accessible by MAX Light 
 	Rail and/or Portland Streetcar<br><br>
-	<img border="0" src="nw/symbol-stopwatch.gif" width="20" height="22">&nbsp;&nbsp;&nbsp;=&nbsp; Not a destination, 
+	<img border="0" src="images-nw/symbol-stopwatch.gif" width="20" height="22">&nbsp;&nbsp;&nbsp;=&nbsp; Not a destination, 
 	but worth a quick stop if traveling near<br><br>
-	<img border="0" src="nw/symbol-ticket.gif" width="21" height="21">&nbsp;&nbsp;&nbsp;=&nbsp; Can use an OR State Parks 
+	<img border="0" src="images-nw/symbol-ticket.gif" width="21" height="21">&nbsp;&nbsp;&nbsp;=&nbsp; Can use an OR State Parks 
 	cover parking pass. If we know you would like to visit various State Parks, us buying an annual SP pass is a big cost 
 	saver. We just got a National Parks Lifetime Pass that provides free car entry to NPs and other national monuments, etc.
 	Already recouped half of the Pass cost during a recent road trip.<br><br>
@@ -159,7 +159,7 @@ and the Space Needle.<br><br>
    <div id="WeatherBox" style="display: none">
    Oregon weather can be hit and miss. Generally summer is decent but, that comes with crowds and lines. Visiting Oregon during 
    off-prime weather season does have benefits: fewer crowds and lines. Just  increased risk of rain and clouds.<br>
-   <p style="text-align: center"><img border="0" src="nw/weather.jpg" width="802" height="288"></p>
+   <p style="text-align: center"><img border="0" src="images-nw/weather.jpg" width="802" height="288"></p>
    More weather information at:<br>
    <a href="https://weatherspark.com/y/721/Average-Weather-in-Beaverton-Oregon-United-States-Year-Round">
    weatherspark.com/y/721/Average-Weather-in-Beaverton-Oregon-United-States-Year-Round</a></div>
@@ -178,7 +178,7 @@ and the Space Needle.<br><br>
 	After I worked up the below list of Portland sites, I found this web page. Again reaffirms many of my site choices:<br>
 	<a href="https://citybop.com/things-to-do-in-portland-oregon">citybop.com/things-to-do-in-portland-oregon</a><br><br>
 	I thought this map with some exaggerated relief really helped define the topography in the Northwest:<br>
-	<a href="nw/map-relief.JPG">NW Relief Map</a><br></div>
+	<a href="images-nw/map-relief.JPG">NW Relief Map</a><br></div>
 
 <p style="text-align: center"><span style="background-color: #FFFF00"><font color="#000000">
 <a href="JavaScript:doExpand(MAXBox)">What is the MAX?</a></font></span></p>
@@ -187,9 +187,9 @@ and the Space Needle.<br><br>
 	<p style="text-align: center">MAX is the light rail transportation system that serves the Portland Metro Area including Beaverton (left).<br>
 	The Portland Streetcars serve the downtown only (right).<br>
 	<a href="https://upload.wikimedia.org/wikipedia/commons/4/4f/Portland_MAX_train_of_Type_2_+_Type_1_cars_at_5th_&_Mill_(2015).jpg">
-	<img border="0" src="nw/pdx-max.JPG" width="343" height="280"></a>
+	<img border="0" src="images-nw/pdx-max.JPG" width="343" height="280"></a>
 	<a href="https://okcfox.com/resources/media2/16x9/full/1015/center/80/9f43ffce-1630-4057-aa54-4ea9417d2de6-large16x9_PortlandStreetcarGNUImageMGN.jpg">
-	<img border="0" src="nw/pdx-streetcar.JPG" width="399" height="280"></a></p></div>
+	<img border="0" src="images-nw/pdx-streetcar.JPG" width="399" height="280"></a></p></div>
 
 <p style="text-align: center"><span style="background-color: #FFFF00"><font color="#000000">
 <a href="JavaScript:doExpand(StateParksBox)">Oregon and Washington State Parks</a></font></span></p>
@@ -209,7 +209,7 @@ and the Space Needle.<br><br>
 	<a href="https://stateparks.com/washington_parks_and_recreation_destinations.html">Washington State Parks</a><br>
 	<a href="https://en.wikipedia.org/wiki/List_of_Washington_state_parks">Wikipedia-List of Washington state parks</a><br>
 	<a href="https://waparks.org/interactive-state-park-map/">State Parks of Washington</a><br></p></div>
-	<p style="text-align: center"><a href="nw/NW-fall-festivals.pdf">NW Fall Festivals</a></span> (published Fall 2026)<br>
+	<p style="text-align: center"><a href="images-nw/NW-fall-festivals.pdf">NW Fall Festivals</a></span> (published Fall 2026)<br>
 	
 &nbsp;<hr size="4" noshade color="#0000FF"><br>
 
@@ -217,14 +217,14 @@ and the Space Needle.<br><br>
 <div id="area-table" class="area-table">
 <p><span class="area-header-txt">PORTLAND</span> Area <span class="f1">A</span> 
 - 5 miles East of Beaverton<br><br>
-Many of the Portland and Beaverton sites shown on a single map: <a href="nw/map-pdx.JPG">Portland/Beaverton Reference Map</a><br><br>
+Many of the Portland and Beaverton sites shown on a single map: <a href="images-nw/map-pdx.JPG">Portland/Beaverton Reference Map</a><br><br>
 This <a href="http://www.carolmendelmaps.com/mapor/or5.html">graphic map</a> 
 shows many of the downtown Portland sites listed below. Just missing the Tilikum Bridge and Portland Armory.<br></p></div>
 
 <div id="site-table"><p class="site-header-txt">Powell's City of Books<br></p>
 <table width="100%"><td valign="top" width="50%">
 		Area <span class="f2">A</span> - Downtown Portland 
-		<img border="0" src="nw/symbol-subway.gif" width="21" height="20"><br><br>
+		<img border="0" src="images-nw/symbol-subway.gif" width="21" height="20"><br><br>
 		<a href="https://www.powells.com/locations/powells-city-of-books">
 		powells.com/locations/powells-city-of-books</a><br><br>
 		A must visit for any first timer to the city. You can't spent just 20 minutes here. 
@@ -232,10 +232,10 @@ shows many of the downtown Portland sites listed below. Just missing the Tilikum
 		This is the largest independent used and new book store in the country covering a 
 		city block. And one of the largest bookstores in the world. This is where I go periodically to escape.<br><br>
 		<a href="https://truthpraiseandhelp.files.wordpress.com/2009/11/powells-map.jpg">
-		<img border="0" src="nw/pdx-powells-map.jpg" width="398" height="252"></a></td>
+		<img border="0" src="images-nw/pdx-powells-map.jpg" width="398" height="252"></a></td>
 	<td valign="top" width="50%"><a href="https://c8.alamy.com/comp/CFK0YX/powells-
 	city-of-books-bookstore-in-portland-oregon-CFK0YX.jpg">
-	<img border="0" src="nw/pdx-powells-shelves.jpg" width="440" height="293"></a><br><br>
+	<img border="0" src="images-nw/pdx-powells-shelves.jpg" width="440" height="293"></a><br><br>
 	The Pearl Room includes a <a href="https://a.travel-assets.com/findyours-php/viewfinder/
 	images/res70/347000/347732-Powells-City-Of-Books.jpg">special access room</a> with 
 	antiquarian and rare (high value) books. Interesting to walk thru looking at the selection.<br><br>
@@ -252,7 +252,7 @@ shows many of the downtown Portland sites listed below. Just missing the Tilikum
 aka Portland International Rose Test Garden<br></p>
 <table width="100%"><td valign="top" width="50%">
 		Area <span class="f2">A</span> - Portland West Hills 
-		<img border="0" src="nw/symbol-binos.gif" width="20" height="20"><br><br>
+		<img border="0" src="images-nw/symbol-binos.gif" width="20" height="20"><br><br>
 		<a href="https://www.portland.gov/parks/washington-park-international-rose-test-garden">
 		portland.gov/parks/washington-park-international-rose-test-garden</a><br><br>
 		The Rose Garden has been in existence for over 100 years. The Garden is best viewed when most roses 
@@ -265,7 +265,7 @@ aka Portland International Rose Test Garden<br></p>
 		-122.7440989,12.33z/data=!4m6!3m5!1s0x5495098a88c9aa7d:0x91fbfe94968fdfc6!8m2!
 		3d45.5189524!4d-122.7052687!16zL20vMDI3amtm?hl=en&entry=ttu">Google Maps</a><br></td>
 	<td valign="top" width="50%"><a href="https://upload.wikimedia.org/wikipedia/commons/7/70/Portland_Rose_Garden.JPG">
-	<img border="0" src="nw/pdx-rose-garden.jpg" width="440" height="305"></a></td>
+	<img border="0" src="images-nw/pdx-rose-garden.jpg" width="440" height="305"></a></td>
 </table></div>
 
 <div id="site-table"><p class="site-header-txt">Japanese Garden<br></p>
@@ -282,14 +282,14 @@ aka Portland International Rose Test Garden<br></p>
 		-122.7575608,12.33z/data=!4m6!3m5!1s0x5495098a15edc679:0x9e8cc03627015eed!8m2!
 		3d45.5188634!4d-122.7080355!16zL20vMDZyaHZx?hl=en&entry=ttu">Google Maps</a><br><br></td>
 	<td valign="top" width="50%"><a href="https://japanesegarden.org/wp-content/uploads/
-	2020/12/Moon-Bridge-edit-web.jpg"><img border="0" src="nw/pdx-jap-garden.jpg" 
+	2020/12/Moon-Bridge-edit-web.jpg"><img border="0" src="images-nw/pdx-jap-garden.jpg" 
 	width="440" height="298"></a></td>
 </table></div>
 
 <div id="site-table"><p class="site-header-txt">Pittock Mansion<br></p>
 <table width="100%"><td valign="top" width="50%">
 		Area <span class="f2">A</span> - Portland West Hills 
-		<img border="0" src="nw/symbol-binos.gif" width="20" height="20"><br><br>
+		<img border="0" src="images-nw/symbol-binos.gif" width="20" height="20"><br><br>
 		<a href="https://pittockmansion.org">pittockmansion.org</a><br><br>
 		Home of the first owner of The Oregonian newspaper. Views of the north side of the city. 
 		Minutes away from the International Rose Test Garden.<br><br>
@@ -301,7 +301,7 @@ aka Portland International Rose Test Garden<br></p>
 		An interesting note: Mary is a docent for Pittock Mansion giving architecture tours.</td>
 	<td valign="top" width="50%"><a href="https://images.squarespace-cdn.com/content/v1/
 	5665d770df40f3d958f69fd2/1594100853191-X29ULE3EDQCHB2N2CDFG/1+-+mansionSummer_June2019
-	_cityGardens.jpg"><img border="0" src="nw/pdx-pittock.jpg" width="440" height="292"></a></td>
+	_cityGardens.jpg"><img border="0" src="images-nw/pdx-pittock.jpg" width="440" height="292"></a></td>
 </table></div>
 
 <div id="site-table"><p class="site-header-txt">Portland International Airport (PDX)<br></p>
@@ -319,13 +319,13 @@ aka Portland International Rose Test Garden<br></p>
 		(this link is provided for reference of where the airport is in relation to the city). 
 		Our home is about 11 miles Southwest of the airport just outside of Beaverton.<br><br></td>
 	<td valign="top" width="50%"><a href="https://portlandtribune.com/wp-content/uploads/sites/20/2025/
-	06/671e86b6649bc.image_.jpg"><img border="0" src="nw/pdx-airport1.jpg" width="440" height="297"></a></td>
+	06/671e86b6649bc.image_.jpg"><img border="0" src="images-nw/pdx-airport1.jpg" width="440" height="297"></a></td>
 </table></div>
 
 <div id="site-table"><p class="site-header-txt">Portland Waterfront along the Willamette River<br></p>
 <table width="100%"><td valign="top" width="50%">
 		Area <span class="f2">A</span> - Downtown Portland 
-		<img border="0" src="nw/symbol-subway.gif" width="21" height="20"><br><br>
+		<img border="0" src="images-nw/symbol-subway.gif" width="21" height="20"><br><br>
 		The waterfront along the Willamette River can be very scenic especially in season when the 
 		cherry blossoms bloom.&nbsp; They bloom for 2-3 weeks between mid-March to early April.<br><br>
 		In short walks from the waterfront you can see various things. Some from this list have their own site boxes below:<br>
@@ -343,30 +343,30 @@ aka Portland International Rose Test Garden<br></p>
 		<a href="https://www.google.com/maps/@45.5212028,-122.6742346,15z?hl=en&entry=ttu">Google Maps</a><br><br>
 		<a href="https://cdn14.picryl.com/photo/2010/06/03/sailors-man-the-rails-aboard-the-
 		guided-missile-destroyer-uss-sampson-ddg-102-0c9fa9-1024.jpg">
-		<img border="0" src="nw/pdx-fleet-week.JPG" width="440" height="286"></a></td>
+		<img border="0" src="images-nw/pdx-fleet-week.JPG" width="440" height="286"></a></td>
 	<td valign="top" width="50%">
 	<a href="https://upload.wikimedia.org/wikipedia/commons/8/86/Waterfront_Park,_Portland.jpg">
-	<img border="0" src="nw/pdx-waterfront.JPG" width="440" height="320"></a><br><br>
+	<img border="0" src="images-nw/pdx-waterfront.JPG" width="440" height="320"></a><br><br>
 	Left/Below: The Rose Festival each June including Fleet Week is very popular with visiting US and Canadian naval ships 
 	and that of the US Coast Guard. Their arrival and departure for the Rose Festival is the big news story every year.<br><br>
 	<a href="https://i.pinimg.com/originals/ca/a6/42/caa642cd5818b2edb2241f132bedd0ed.jpg">
-	<img border="0" src="nw/pdx-fleet-week2.JPG" width="440" height="229"></a></td>
+	<img border="0" src="images-nw/pdx-fleet-week2.JPG" width="440" height="229"></a></td>
 </table></div>
 
 <div id="site-table"><p class="site-header-txt">The Portland Armory<br></p>
 <table width="100%"><td valign="top" width="50%">
 		Area <span class="f2">A</span> - Downtown Portland 
-		<img border="0" src="nw/symbol-subway.gif" width="21" height="20">
-		<img border="0" src="nw/symbol-stopwatch.gif" width="20" height="22"><br><br>
+		<img border="0" src="images-nw/symbol-subway.gif" width="21" height="20">
+		<img border="0" src="images-nw/symbol-stopwatch.gif" width="20" height="22"><br><br>
 		<a href="https://citybop.com/portland-oregon/armory-portland">
 		citybop.com/portland-oregon/armory-portland</a><br><br>
 		This downtown Portland building used to be Portland's Oregon National Guard 
 		Armory. In 2006 it was sold and converted into a playhouse theater.<br><br>
 		One block north of Powell's.<br><br>
 		<a href="https://www.gbdarchitects.com/wp-content/uploads/2012/11/The-Armory-4-1424x838.jpg">
-		<img border="0" src="nw/pdx-armory2.JPG" width="440" height="271"></a><br></td>
+		<img border="0" src="images-nw/pdx-armory2.JPG" width="440" height="271"></a><br></td>
 	<td valign="top" width="50%"><a href="https://www.unitedfundadvisors.com/wp-content/
-	uploads/2018/02/armoryfi.jpg"><img border="0" src="nw/pdx-armory.jpg" 
+	uploads/2018/02/armoryfi.jpg"><img border="0" src="images-nw/pdx-armory.jpg" 
 	width="440" height="293"></a><br><br>
 	Free public tours are available twice a month. Interesting looking building, but have yet to do the tour.<br><br>
 	<a href="https://www.google.com/maps/place/Portland+Center+Stage/@45.5317657,
@@ -378,8 +378,8 @@ aka Portland International Rose Test Garden<br></p>
 <div id="site-table"><p class="site-header-txt">Lan Su Chinese Garden<br></p>
 <table width="100%"><td valign="top" width="50%">
 		Area <span class="f2">A</span> - North Downtown Portland 
-		<img border="0" src="nw/symbol-subway.gif" width="21" height="20">
-		<img border="0" src="nw/symbol-stopwatch.gif" width="20" height="22"><br><br>
+		<img border="0" src="images-nw/symbol-subway.gif" width="21" height="20">
+		<img border="0" src="images-nw/symbol-stopwatch.gif" width="20" height="22"><br><br>
 		<a href="https://www.portland.gov/parks/lan-su-chinese-garden">
 		portland.gov/parks/lan-su-chinese-garden</a><br><br>
 		This sealed off oriental garden occupies one city block about 8 blocks NE of Powell's City of Books<br><br>
@@ -391,14 +391,14 @@ aka Portland International Rose Test Garden<br></p>
 		3d45.5256321!4d-122.6729955!16zL20vMDQxaGwx?hl=en&entry=ttu">Google Maps</a><br><br></td>
 	<td valign="top" width="50%"><a href="https://www.oregonlive.com/resizer/2SdEtGu4KGsCxnYg_Y33tTmF66s=/1280x0/
 	smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/NFUYHDTYVVFSZDL4RXOR3JRMUY.jpg">
-	<img border="0" src="nw/pdx-lan-su.JPG" width="440" height="318"></a></td>
+	<img border="0" src="images-nw/pdx-lan-su.JPG" width="440" height="318"></a></td>
 </table></div>
 
 <div id="site-table"><p class="site-header-txt">Mox Boarding House<br></p>
 <table width="100%"><td valign="top" width="50%">
 		Area <span class="f2">A</span> - Downtown Portland (near Powell's) 
-		<img border="0" src="nw/symbol-subway.gif" width="21" height="20">
-		<img border="0" src="nw/symbol-stopwatch.gif" width="20" height="22"><br><br>
+		<img border="0" src="images-nw/symbol-subway.gif" width="21" height="20">
+		<img border="0" src="images-nw/symbol-stopwatch.gif" width="20" height="22"><br><br>
 		<a href="https://www.moxboardinghouse.com/portland/">moxboardinghouse.com</a><br><br>
 		A game store and game house. Worth a stop if traveling by/near. Games either 
 		new or to borrow at nice setting. Food. Right by the Timbers Soccer Stadium.<br><br>
@@ -408,7 +408,7 @@ aka Portland International Rose Test Garden<br></p>
 		ea44ea!8m2!3d45.5228943!4d-122.6909013!16s/g/11h5rys6zq?hl=en&entry=ttu">Google Maps</a><br><br></td>
 	<td valign="top" width="50%">
 	<p style="text-align: center"><a href="https://cdn11.bigcommerce.com/s-7eepw5u9z2/
-	product_images/uploaded_images/mox-portland-gallery.jpg"><img border="0" src="nw/pdx-mox.jpg" 
+	product_images/uploaded_images/mox-portland-gallery.jpg"><img border="0" src="images-nw/pdx-mox.jpg" 
 	width="333" height="330"></a></td>
 </table></div>
 
@@ -416,8 +416,8 @@ aka Portland International Rose Test Garden<br></p>
 <div id="site-table"><p class="site-header-txt">Multnomah County Central Library<br></p>
 <table width="100%"><td valign="top" width="50%">
 		Area <span class="f2">A</span> - Downtown Portland 
-		<img border="0" src="nw/symbol-subway.gif" width="21" height="20">
-		<img border="0" src="nw/symbol-stopwatch.gif" width="20" height="22"><br><br>
+		<img border="0" src="images-nw/symbol-subway.gif" width="21" height="20">
+		<img border="0" src="images-nw/symbol-stopwatch.gif" width="20" height="22"><br><br>
 		<a href="https://www.oregon.com/attractions/portland-central-library">
 		oregon.com/attractions/portland-central-library</a><br><br>
 		The largest library in the Portland area. Historic, open building.<br><br>
@@ -429,14 +429,14 @@ aka Portland International Rose Test Garden<br></p>
 		03wfzsm?hl=en&entry=ttu">Google Maps</a><br></td>
 	<td valign="top" width="50%"><a href="https://upload.wikimedia.org/wikipedia/
 	commons/e/e5/Central_Library_(Portland,_Oregon).jpg">
-	<img border="0" src="nw/pdx-library.jpg" width="440" height="322"></a></td>
+	<img border="0" src="images-nw/pdx-library.jpg" width="440" height="322"></a></td>
 </table></div>
 -->
 
 <div id="site-table"><p class="site-header-txt">Oregon Museum of Science and Industry (OMSI)<br></p>
 <table width="100%"><td valign="top" width="50%">
 		Area <span class="f2">A</span> - East side of the Willamette River from 
-		Downtown Portland <img border="0" src="nw/symbol-subway.gif" width="21" height="20"><br><br>
+		Downtown Portland <img border="0" src="images-nw/symbol-subway.gif" width="21" height="20"><br><br>
 		<a href="https://www.hereisoregon.com/places/2024/03/the-countrys-best-science-museum-is-in-portland-
 		newsweek-readers-say.html">www.hereisoregon.com/places/2024/03/the-countrys-best-science-museum-is-in-
 		portland-newsweek-readers-say.html</a><br><br>
@@ -454,34 +454,33 @@ aka Portland International Rose Test Garden<br></p>
 		4d-122.6660355!16zL20vMDFzam1y?hl=en&entry=ttu">Google Maps</a><br></td>
 	<td valign="top" width="50%"><a href="https://dynamic-media-cdn.tripadvisor.com/
 	media/photo-o/1b/12/6a/38/omsi-from-the-river.jpg?w=1200&h=-1&s=1">
-	<img border="0" src="nw/pdx-omsi.jpg" width="440" height="323"></a></td>
+	<img border="0" src="images-nw/pdx-omsi.jpg" width="440" height="323"></a></td>
 </table></div>
 
 <div id="site-table"><p class="site-header-txt">Tilikum Crossing Bridge<br></p>
 <table width="100%"><td valign="top" width="50%">
 		Area <span class="f2">A</span> - Downtown Portland
-		<img border="0" src="nw/symbol-subway.gif" width="21" height="20">
-		<img border="0" src="nw/symbol-binos.gif" width="20" height="20"><br><br>
+		<img border="0" src="images-nw/symbol-subway.gif" width="21" height="20">
+		<img border="0" src="images-nw/symbol-binos.gif" width="20" height="20"><br><br>
 		<a href="https://trimet.org/tilikum/#about">trimet.org/tilikum</a><br><br>
 		Portland's newest bridge across the Willamette River. Combined ped/bike 
 		crossing with transit MAX. No autos allowed.<br><br>
 		The bridge east side is a short walking distance to OMSI.<br><br>
 		<a href="https://news.trimet.org/wordpress/wp-content/uploads/2019/03/Tilikum_crossing.png">
-		<img border="0" src="nw/pdx-tillicum-bridge.jpg" width="440" height="294"></a></td>
-	<td valign="top" width="50%"><img border="0" src="nw/pdx-sub-view-tillikum.JPG" width="440" height="260"><br><br>
+		<img border="0" src="images-nw/pdx-tillicum-bridge.jpg" width="440" height="294"></a></td>
+	<td valign="top" width="50%"><img border="0" src="images-nw/pdx-sub-view-tillikum.JPG" width="440" height="260"><br><br>
 	The above pic of the OMSI submarine docked in the Willamette River was taken from the Tilikum 
 	Crossing Bridge looking north.<br><br>
 	<a href="https://www.google.com/maps/place/Tilikum+Crossing+Bridge/@45.5171275,-122.6963396,13.21z/
 	data=!4m6!3m5!1s0x54950a6ddd94b151:0x40f5de053433ee8b!8m2!3d45.5049202!4d-122.6670299!16s/m/04f0pbr?
-	hl=en&entry=ttu">Google Maps</a><br>
-</td>
+	hl=en&entry=ttu">Google Maps</a><br></td>
 </table></div>
 
 <div id="site-table"><p class="site-header-txt">Portland Aerial Tram<br></p>
 <table width="100%"><td valign="top" width="50%">
 		Area <span class="f2">A</span> - Downtown Portland 
-		<img border="0" src="nw/symbol-subway.gif" width="21" height="20">
-		<img border="0" src="nw/symbol-binos.gif" width="20" height="20"><br><br>
+		<img border="0" src="images-nw/symbol-subway.gif" width="21" height="20">
+		<img border="0" src="images-nw/symbol-binos.gif" width="20" height="20"><br><br>
 		<a href="http://www.gobytram.com/">gobytram.com</a><br><br>
 		The tram accesses Oregon Health Sciences University on top of the hill (which 
 		is known for terrible parking). A nice viewpoint of the city from the top.<br><br>
@@ -493,13 +492,13 @@ aka Portland International Rose Test Garden<br></p>
 		4m6!3m5!1s0x54950b7e8cffd625:0x2d4ba3b3f60092cc!8m2!3d45.4992783!4d-122.6709577!
 		16s/g/11jkppwjqy?hl">Google Maps</a><br><br></td>
 	<td valign="top" width="50%"><a href="https://pbs.twimg.com/media/Db-kjRhWkAE3zBH.jpg:large">
-	<img border="0" src="nw/pdx-aerial-tram.jpg" width="440" height="337"></a></td>
+	<img border="0" src="images-nw/pdx-aerial-tram.jpg" width="440" height="337"></a></td>
 </table></div>
 
 <div id="site-table"><p class="site-header-txt">Voodoo Doughnut<br></p>
 <table width="100%"><td valign="top" width="50%">
 		Area <span class="f2">A</span> - Downtown Portland <img border="0" 
-		src="nw/symbol-stopwatch.gif" width="20" height="22"><br><br>
+		src="images-nw/symbol-stopwatch.gif" width="20" height="22"><br><br>
 		<a href="https://www.voodoodoughnut.com/doughnuts/">voodoodoughnut.com</a><br><br>
 		Somehow this shop has become a Portland legend. Several stores in the Portland area.<br><br>
 		There are probably better doughnuts elsewhere, but you have to give Voodoo 
@@ -513,13 +512,13 @@ aka Portland International Rose Test Garden<br></p>
 		(downtown Portland store)<br><br></td>
 	<td valign="top" width="50%"><p style="text-align: left">
 	<a href="https://d1ralsognjng37.cloudfront.net/d5191a1c-53ad-476d-9552-9fb0a4f89c66.jpeg">
-	<img border="0" src="nw/pdx-voodoo-donuts.JPG" width="440" height="313"></a></td>
+	<img border="0" src="images-nw/pdx-voodoo-donuts.JPG" width="440" height="313"></a></td>
 </table></div>
 
 <div id="site-table"><p class="site-header-txt">Forest Park<br></p>
 <table width="100%"><td valign="top" width="50%">
 		Area <span class="f2">A</span> - Portland West Hills - 4 miles 
-		East of Beaverton <img border="0" src="nw/boot-print.gif" width="20" height="20"><br><br>
+		East of Beaverton <img border="0" src="images-nw/boot-print.gif" width="20" height="20"><br><br>
 		Within the City of Portland, this is one of the largest city parks in 
 		the country. About 8 miles long in the west hills above Portland.<br><br>
 		Local features include:<br>
@@ -544,7 +543,7 @@ aka Portland International Rose Test Garden<br></p>
 		8m2!3d45.582969!4d-122.7994574!16zL20vMGR6Y2M4?hl=en&entry=ttu">Google Maps</a><br></td>
 	<td valign="top" width="50%"><a href="https://images.squarespace-cdn.com/content/v1/
 	57ab97d4bebafb5f25bea357/1559338031984-I2S5WC5YQKFY9E9IAG7U/FP_04.jpg?format=1000w">
-	<img border="0" src="nw/pdx-forest-park.jpg" width="440" height="298"></a></td>
+	<img border="0" src="images-nw/pdx-forest-park.jpg" width="440" height="298"></a></td>
 </table></div>
 
 
@@ -552,7 +551,7 @@ aka Portland International Rose Test Garden<br></p>
 <div id="site-table"><p class="site-header-txt">Local Festivals and Events<br></p>
 <table width="100%"><td valign="top" width="50%">
 		<a href="https://live.staticflickr.com/1628/24545696776_0b6c245f24_b.jpg">
-		<img border="0" src="nw/pdx-festivals.JPG" width="440" height="286"></a></td>
+		<img border="0" src="images-nw/pdx-festivals.JPG" width="440" height="286"></a></td>
 		<td valign="top" width="50%">Areas <span class="f2">A</span> &amp; 
 		<span class="f2">B</span> - Portland/Beaverton (and Astoria)<br>
 	<p>There are various local festivals throughout the year around the 
@@ -596,7 +595,7 @@ aka Portland International Rose Test Garden<br></p>
 	<td valign="top" width="50%"><a href="https://www.statesmanjournal.com/gcdn/-mm-/
 	5f05378b30c2de2908e142ad6eb6c80b73daccef/c=0-140-2800-1715/local/-/media/Salem/
 	2014/09/13/sal0913-oktoberfestarsecondary.jpg20140912.jpg?width=2800&height=1575&
-	fit=crop&format=pjpg&auto=webp"><img border="0" src="nw/pdx-mt-angel.JPG" 
+	fit=crop&format=pjpg&auto=webp"><img border="0" src="images-nw/pdx-mt-angel.JPG" 
 	width="440" height="306"></a></td>
 </table></div>
 
@@ -650,14 +649,14 @@ aka Portland International Rose Test Garden<br></p>
 		the Monastery as roughly equivalent to visiting the Japanese Garden in the West Hills above downtown 
 		Portland (above).</td>
 	<td valign="top" width="50%"><a href="https://sdra.com/wp-content/uploads/2017/08/mt-angel-abbey-bell-tower-01.jpg">
-	<img border="0" src="nw/pdx-mt-angel-abbey.JPG" width="440" height="293"></a><br><br>
+	<img border="0" src="images-nw/pdx-mt-angel-abbey.JPG" width="440" height="293"></a><br><br>
 	<a href="https://www.atomic-ranch.com/wp-content/uploads/2021/12/9541040204_d9f9e8dfdc_k.jpg">
-	<img border="0" src="nw/pdx-mt-angel-library.JPG" width="440" height="293"></a><br><br>
+	<img border="0" src="images-nw/pdx-mt-angel-library.JPG" width="440" height="293"></a><br><br>
 	<a href="https://www.mountangelabbey.org/library/the-aalto-architecture/">mountangelabbey.org/library</a><br><br>
 	An interesting recent article: <a href="https://www.islands.com/1911635/hidden-oregon-
 	monastery-breathtaking-masterpiece-alvar-aalto-library-modern-architecture-free-visit/">
 	Oregon's Free-To-Visit Architectural Masterpiece Is A Famous, Striking Library Hidden In A Monastery</a></td>
-	</table></div>
+</table></div>
 
 <div id="site-table"><p class="site-header-txt">The Gordon House<br></p>
 <table width="100%"><td valign="top" width="50%">
@@ -677,7 +676,7 @@ aka Portland International Rose Test Garden<br></p>
 		8m2!3d44.9963753!4d-122.7917399!16s/m/03gzdwl?hl=en&entry=ttu">Google Maps</a><br></td>
 	<td valign="top" width="50%">
 	<a href="https://franklloydwright.org/wp-content/uploads/2017/02/gordon-house.jpg">
-	<img border="0" src="nw/pdx-gordon-hse.jpg" width="440" height="292"></a></td>
+	<img border="0" src="images-nw/pdx-gordon-hse.jpg" width="440" height="292"></a></td>
 </table></div>
 
 <div id="site-table"><p class="site-header-txt">The Oregon Garden<br></p>
@@ -693,13 +692,13 @@ aka Portland International Rose Test Garden<br></p>
 		3d44.9950179!4d-122.7885873!16zL20vMDdyeWt4?hl=en&entry=ttu">Google Maps</a><br></td>
 	<td valign="top" width="50%">
 	<a href="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/3e/49/af/oregon-garden.jpg?
-	w=1200&h=1200&s=1"><img border="0" src="nw/pdx-or-garden.jpg" width="440" height="321"></a></td>
+	w=1200&h=1200&s=1"><img border="0" src="images-nw/pdx-or-garden.jpg" width="440" height="321"></a></td>
 </table></div>
 
 <div id="site-table"><p class="site-header-txt">Silver Falls State Park<br></p>
 <table width="100%"><td valign="top" width="50%">
 		Area <span class="f2">A</span> - 52 miles South of Beaverton
-		<img border="0" src="nw/boot-print.gif" width="20" height="20"> <img border="0" src="nw/symbol-binos.gif" 
+		<img border="0" src="images-nw/boot-print.gif" width="20" height="20"> <img border="0" src="images-nw/symbol-binos.gif" 
 		width="20" height="20"><br><br>
 		<a href="https://stateparks.oregon.gov/index.cfm?do=park.profile&parkId=151">
 		stateparks.oregon.gov</a><br><br>
@@ -707,12 +706,12 @@ aka Portland International Rose Test Garden<br></p>
 		alltrails.com/parks/us/oregon/silver-falls-state-park</a><br><br>
 		<a href="https://media.cntraveler.com/photos/627d6d9d711456a8bef300e0/16:9/w_1920,
 		c_limit/Silver%2520Falls%2520State%2520Park_GettyImages-977850572.jpg">
-		<img border="0" src="nw/pdx-sliver-falls2.jpg" width="440" height="305"></a><br></td>
+		<img border="0" src="images-nw/pdx-sliver-falls2.jpg" width="440" height="305"></a><br></td>
 	<td valign="top" width="50%">
 	<a href="https://www.registerguard.com/gcdn/-mm-/bffa432f834a1943d9e2e4f9f7d456be8537fe0a/
 	c=0-300-3200-2100/local/-/media/2020/08/17/Eugene/ghows-CK-200619750-7db34c35.jpg">
-	<img border="0" src="nw/pdx-sliver-falls.jpg" width="440" height="248"></a><br><br>
-	Parking permit charge <img border="0" src="nw/symbol-ticket.gif" width="21" height="21"><br><br>
+	<img border="0" src="images-nw/pdx-sliver-falls.jpg" width="440" height="248"></a><br><br>
+	Parking permit charge <img border="0" src="images-nw/symbol-ticket.gif" width="21" height="21"><br><br>
 	There is one hike combo of 7.2 miles to view ten different waterfalls. I understand there are varying 
 	hike lengths for those with less endurance.<br><br>
 	<a href="https://www.google.com/maps/place/Silver+Falls+State+Park/@45.418786,
@@ -723,8 +722,8 @@ aka Portland International Rose Test Garden<br></p>
 <div id="site-table"><p class="site-header-txt">Abiqua Falls<br></p>
 <table width="100%"><td valign="top" width="50%">
 		Area <span class="f2">A</span> - 40 miles Southeast of Beaverton
-		<img border="0" src="nw/boot-print.gif" width="20" height="20"> <img border="0" src=
-		"nw/symbol-binos.gif" width="20" height="20"><br><br>
+		<img border="0" src="images-nw/boot-print.gif" width="20" height="20"> <img border="0" src=
+		"images-nw/symbol-binos.gif" width="20" height="20"><br><br>
 		<a href="https://www.oregonhikers.org/field_guide/abiqua_falls_hike">www.oregonhikers.org</a><br><br>
 		Private park owned by the Mount Angel Abbey (above).<br><br>
 		This falls is a challenge to get to. About 15 road miles from the Abbey (part gravel road). As the gravel 
@@ -733,9 +732,9 @@ aka Portland International Rose Test Garden<br></p>
 		were not successful when we realized we actually needed an afternoon and drinking water to carry. We 
 		understand there is a rope guide to assist down the steep trail slope to the falls.<br><br>
 		<a href="https://i0.wp.com/www.spintheglobeproject.com/wp-content/uploads/2017/10/IMG_1077.jpg">
-		<img border="0" src="nw/pdx-abiqua-falls1.JPG" width="440" height="297"></a></td>
+		<img border="0" src="images-nw/pdx-abiqua-falls1.JPG" width="440" height="297"></a></td>
 	<td valign="top" width="50%"><a href="https://www.splintercat.org/PortlandHikers/140613AbiquaButteCreek05.jpg">
-	<img border="0" src="nw/pdx-abiqua-falls2.JPG" width="440" height="328"></a><br><br>
+	<img border="0" src="images-nw/pdx-abiqua-falls2.JPG" width="440" height="328"></a><br><br>
 	<a href="https://www.google.com/maps/place/Abiqua+Falls/@45.1500561,-122.8042925,9.75z/data=
 	!4m6!3m5!1s0x54bfe9059749242b:0xccf8e862bd6baa65!8m2!3d44.9265111!4d-122.5667521!16s%2Fg%2F1tj32vxg?hl=
 	en&entry=ttu&g_ep=EgoyMDI1MDUyMS4wIKXMDSoASAFQAw%3D%3D">Google Maps</a><br><br>
@@ -745,7 +744,7 @@ aka Portland International Rose Test Garden<br></p>
 	by the rutted gravel road. Over $1000 to recently repair!<br><br>
 	A rumor of the state will possibly acquire Abique Falls. If they ever improve the access road, we might try another visit.<br><br>
 	If waterfalls intrigue you, we have a lot of them here. Check out the Waterfalls dropdown at the bottom of this page.</td>
-	</table></div>
+</table></div>
 
 <div id="site-table"><p class="site-header-txt">Northwest Bridges<br></p>
 <table width="100%"><td valign="top" width="50%">
@@ -753,20 +752,20 @@ aka Portland International Rose Test Garden<br></p>
 		the Eugene area (about 100 miles south of Beaverton):<br><br>
 		<a href="https://bestofthenorthwest.com/12-covered-bridges-to-tour-in-autumn/">
 		12 Covered Bridges to Tour in Autumn</a><br><br>
-		<img border="0" src="nw/pdx-covered-bridge.JPG" width="440" height="295"></td>
+		<img border="0" src="images-nw/pdx-covered-bridge.JPG" width="440" height="295"></td>
 	<td valign="top" width="50%">
 	This web page is a collection of photographic bridges around Oregon and Washington:<br><br>
 	<a href="https://bestofthenorthwest.com/northwest-travel-ideas/15-of-the-most-beautiful-bridges-to-
 	photograph-in-the-pacific-northwest/">15 of the Most Beautiful Bridges to Photograph in the Pacific 
 	Northwest</a><br><br>
-	<img border="0" src="nw/pdx-st-johns-bridge.JPG" width="440" height="579"></td>
+	<img border="0" src="images-nw/pdx-st-johns-bridge.JPG" width="440" height="579"></td>
 </table></div>
 
 <h2 id="Beaverton"> </h2>
 <div id="area-table" class="area-table">
 <p><span class="area-header-txt">BEAVERTON-TUALATIN VALLEY AREA</span> - Area <span class="f1">B</span><br><br>
 Many of the Portland and Beaverton sites shown on a single map: 
-<a href="nw/map-pdx.JPG">Portland/Beaverton Reference Map</a><br></p></div>
+<a href="images-nw/map-pdx.JPG">Portland/Beaverton Reference Map</a><br></p></div>
 
 <div id="site-table"><p class="site-header-txt">Local Wine Region Overview 
 in the Northwest Oregon Area<br></p>
@@ -791,16 +790,16 @@ in the Northwest Oregon Area<br></p>
 			<a href="https://www.allorovineyard.com">allorovineyard.com</a>
 		</ul>
 		<a href="https://www.goodfoodrevolution.com/wp-content/uploads/2020/11/Oregon-vines-600.jpg">
-		<img border="0" src="nw/bvtn-vineyard2.jpg" width="439" height="363"></a><br><br>
+		<img border="0" src="images-nw/bvtn-vineyard2.jpg" width="439" height="363"></a><br><br>
 		Several years ago we went to one of local vineyards from some sampling. Got to talking with 
 		the sommelier about his experiences and where he learned about wines. From under the counter, 
-		he produced this <a href="nw/book-wine-folly.JPG">book</a>. Actually quite interesting graphic 
+		he produced this <a href="images-nw/book-wine-folly.JPG">book</a>. Actually quite interesting graphic 
 		cheat guide with all sorts of wine facts and tasting hints. Since then we purchased this book 
 		to compliment our vineyard wine tasting visits.</td>
-	<td valign="top" width="50%"><a href="nw/map-vineyards-large.jpg">
-	<img border="0" src="nw/map-vineyards.jpg" width="440" height="312"></a><br><br>
+	<td valign="top" width="50%"><a href="images-nw/map-vineyards-large.jpg">
+	<img border="0" src="images-nw/map-vineyards.jpg" width="440" height="312"></a><br><br>
 	<a href="https://tualatinvalley.org/content/uploads/2016/07/davidhill.jpg">
-	<img border="0" src="nw/bvtn-vineyard1.jpg" width="440" height="294"></a><br><br>
+	<img border="0" src="images-nw/bvtn-vineyard1.jpg" width="440" height="294"></a><br><br>
 	* Looked all over for a detailed list online. Most published lists ask the vineyards to pay for 
 	their name to be on the list. The really good vineyards don't need to advertise (they are always 
 	busy). The lesser known and small (but sometimes the most interesting) vineyards don't have the 
@@ -821,11 +820,11 @@ in the Northwest Oregon Area<br></p>
 		8m2!3d45.4955583!4d-122.8114583!16s/g/11h0b8chp?hl=en&entry=ttu">Google Maps</a><br><br>
 		<!--
 		<a href="https://images.contentstack.io/v3/assets/bltb207d0665725d072/bltbea4d489d35b270a/
-		67c242d3938bf5bea7f9cef0/cedar_hills_1440x720.jpg"><img border="0" src="nw/bvtn-powells2.jpg" width="440" height="168"></a>
+		67c242d3938bf5bea7f9cef0/cedar_hills_1440x720.jpg"><img border="0" src="images-nw/bvtn-powells2.jpg" width="440" height="168"></a>
 		--></td>
 	<td valign="top" width="50%"><a href="https://images.squarespace-cdn.com/content/
 	5ba3e3df1516ba05fbbe1801/1548130175757-MAO2QLA41012BIJ9WOP5/Z1A6520-1.jpg">
-	<img border="0" src="nw/bvtn-powells.jpg" width="440" height="291"></a></td>
+	<img border="0" src="images-nw/bvtn-powells.jpg" width="440" height="291"></a></td>
 </table></div>
 
 <div id="site-table"><p class="site-header-txt">Rice Northwest Museum of Rocks and Minerals<br></p>
@@ -847,7 +846,7 @@ in the Northwest Oregon Area<br></p>
 		8m2!3d45.5743096!4d-122.9477025!16s/m/05fbl8s?hl=en&entry=ttu">Google Maps</a><br></td>
 	<td valign="top" width="50%"><a href="https://ricenorthwestmuseum.org/wp-content/uploads/2014/07/
 	rice-northwest-museum-of-rocks-and-minerals-main-gallery-02.jpg">
-	<img border="0" src="nw/bvtn-rice-museum.jpg" width="440" height="252"></a></td>
+	<img border="0" src="images-nw/bvtn-rice-museum.jpg" width="440" height="252"></a></td>
 </table></div>
 
 <div id="site-table"><p class="site-header-txt">Evergreen Aviation and Space Museum<br>
@@ -870,7 +869,7 @@ in the Northwest Oregon Area<br></p>
 		(including lunch at the cafeteria). During my most recent visit, I found the food selection decent.<br></td>
 	<td valign="top" width="50%">
 	<a href="https://newsregister.com/pub/photo/thumb/080817-evergreenBW_fitbox_800x600.jpg">
-	<img border="0" src="nw/bvtn-evergreen-a&s.jpg" width="440" height="287"></a><br><br>
+	<img border="0" src="images-nw/bvtn-evergreen-a&s.jpg" width="440" height="287"></a><br><br>
 	<a href="https://www.google.com/maps/place/Evergreen+Aviation+&+Space+Museum/
 	@45.5109105,-123.7884016,8.83z/data=!4m6!3m5!1s0x54954f522bd317f5:0xcf98b5bc38f4befc!
 	8m2!3d45.204304!4d-123.14543!16zL20vMDI1Zmg0?hl=en&entry=ttu">Google Maps</a>. About an hour drive from Beaverton.<br></td>
@@ -894,14 +893,14 @@ in the Northwest Oregon Area<br></p>
 		13.38z/data=!4m6!3m5!1s0x54950e9f61082425:0xb967e6b4f75f1b6f!8m2!3d45.4892645!4d-122.8081145!
 		16s%2Fg%2F11gfjsyqmd?entry=ttu&g_ep=EgoyMDI1MDkxMC4wIKXMDSoASAFQAw%3D%3D">Google Maps</a><br>
 		<a href="https://platform.pdx.eater.com/wp-content/uploads/sites/29/chorus/uploads/chorus_asset/
-		file/10472287/Lindy_C._Yelp.jpg"><img border="0" src="nw/bvtn-food-carts.JPG" width="440" height=
+		file/10472287/Lindy_C._Yelp.jpg"><img border="0" src="images-nw/bvtn-food-carts.JPG" width="440" height=
 		"289"></a></td>	
 	<td valign="top" width="50%">
 	Hillsboro: <a href="https://www.google.com/maps/place/Hillsboro+Downtown+Station/@45.5231742,-122.
 	9764116,12.92z/data=!4m6!3m5!1s0x54951b7eb6d234e5:0x92b5a1c69a7e4d36!8m2!3d45.5199199!4d-122.9856063!
 	16s%2Fg%2F11kp9nbxcr?entry=ttu&g_ep=EgoyMDI1MDkxMC4wIKXMDSoASAFQAw%3D%3D">Google Maps</a><br>
 	<a href="https://tualatinvalley.org/wp-content/uploads/2023/10/downtown-station-hillsboro.jpg">
-	<img border="0" src="nw/bvtn-hillsboro-food-carts.JPG" width="440" height="296"></a><br><br>
+	<img border="0" src="images-nw/bvtn-hillsboro-food-carts.JPG" width="440" height="296"></a><br><br>
 	Another option is sushi track. 2 decent local places we have been to:
 	<ul>
 			<li><a href="https://www.akirasushibeaverton.com/gallery">Akira Sushi</a>. Simple setting. 
@@ -926,8 +925,8 @@ in the Northwest Oregon Area<br></p>
 
 <div id="site-table"><p class="site-header-txt">North Oregon Coastal Loop Trips<br></p>
 <table width="100%"><td valign="top" width="50%">
-		<a href="nw/map-coast-loops-large.JPG">
-		<img border="0" src="nw/map-coast-loops.jpg" width="440" height="443"></a><br></td>
+		<a href="images-nw/map-coast-loops-large.JPG">
+		<img border="0" src="images-nw/map-coast-loops.jpg" width="440" height="443"></a><br></td>
 	<td valign="top" width="50%">The yellow <b>North Loop</b> is a car day trip 
 	of about 224 miles not including stops at classic sites or choice off-route stops. 
 	Often broken down to 2 separate day trips:<br><br>
@@ -947,7 +946,7 @@ and Waysides</a></font></span><br>
 
 	<div id="Hwy101Box" style="display: none">
 	Area C - 60-90 miles West of Beaverton
-	<img border="0" src="nw/symbol-binos.gif" width="20" height="20"><br><br>
+	<img border="0" src="images-nw/symbol-binos.gif" width="20" height="20"><br><br>
 	This list has some overlaps with other site boxes in this coastal section. Driving from Astoria 
 	South toward Newport on Hwy 101 (about 100+ miles), there are numerous 	stop points for breaks, 
 	photos or to just hike/look around. All beaches are public property and free access.<br><br>
@@ -966,65 +965,65 @@ and Waysides</a></font></span><br>
 	<a href="http://www.dickndebbietravels.com/wp-content/uploads/2016/07/
 	South-Jetty-at-the-Mouth-of-the-Columbia-River-b-Fort-Stevens-State-Park-
 	Hammond-OR-2016-07-27.jpg">
-	<img border="0" src="nw/coast-small-fort-stevens-jetty.JPG" width="200" height="138"></a><br><br>
+	<img border="0" src="images-nw/coast-small-fort-stevens-jetty.JPG" width="200" height="138"></a><br><br>
 
 	All of the parking areas at Fort Stevens each lead to beach access.<br>
 	<a href="https://wracklineblog.com/images/beaches_ft_stevens_view_jetty_area_c.jpg">
-	<img border="0" src="nw/coast-small-fort-stevens-viewstand.JPG" width="200" height="134"></a><br><br>
+	<img border="0" src="images-nw/coast-small-fort-stevens-viewstand.JPG" width="200" height="134"></a><br><br>
 
 	Seaside is a decent tourist town. The main street turnaround at the beach is well known. 
 	The promenade along the beach is over a mile long.<br>
 	<a href="https://cloudfront.traillink.com/photos/seaside-promenade_53488_sc.jpg">
-	<img border="0" src="nw/coast-small-seaside-promenade.JPG" width="200" height="133"></a><br><br>
+	<img border="0" src="images-nw/coast-small-seaside-promenade.JPG" width="200" height="133"></a><br><br>
 
 	Ecola Point. Great post card viewpoint of the beach. Winding road to get there from Hwy 101.
 	See the <b>Cannon Beach</b> site box below.<br>
 	<a href="https://images.squarespace-cdn.com/content/v1/50f189dde4b07e77c464e9f3/
 	1514820900691-0DQ7Z1FW5TCWN4HY4N6M/Cannon+Beach+View.jpg">
-	<img border="0" src="nw/coast-small-ecola.JPG" width="200" height="133"></a><br><br>
+	<img border="0" src="images-nw/coast-small-ecola.JPG" width="200" height="133"></a><br><br>
 
 	Cannon Beach is a folksy small town with numerous shops to attract you.	See the site box below.<br>
 	<a href="https://sfstrawberrylee.files.wordpress.com/2022/11/img_1387.jpg">
-	<img border="0" src="nw/coast-small-haystack.JPG" width="200" height="131"></a><br><br>
+	<img border="0" src="images-nw/coast-small-haystack.JPG" width="200" height="131"></a><br><br>
 
 	Arcadia State Park. Decent highway wayside with beach access.<br>
 	<a href="https://mikeandlauratravel.com/wp-content/uploads/2021/10/oregon-coast-towns-9.webp">
-	<img border="0" src="nw/coast-small-arcadia.JPG" width="200" height="132"></a><br><br>
+	<img border="0" src="images-nw/coast-small-arcadia.JPG" width="200" height="132"></a><br><br>
 
 	Hug Point State Park. Small park with beach access. At low tide, you can see the wagon 
 	wheel ruts in the exposed beach rock from when the beach was used as the local highway.<br>
 	<a href="https://img-aws.ehowcdn.com/1280x/www.onlyinyourstate.com/
 	wp-content/uploads/2021/06/GettyImages-1280581674.jpg">
-	<img border="0" src="nw/coast-small-hug-point.JPG" width="200" height="128"></a><br><br>
+	<img border="0" src="images-nw/coast-small-hug-point.JPG" width="200" height="128"></a><br><br>
 
 	Oswald West State Park<br>Couple mile downhill hike down to the beach.<br>
 	<a href="https://www.outdoorproject.com/sites/default/files/styles/
 	hero_image_desktop/public/features/DSC_0392.JPG?itok=JSdxGd1Y">
-	<img border="0" src="nw/coast-small-oswald-west.JPG" width="200" height="126"></a><br><br>
+	<img border="0" src="images-nw/coast-small-oswald-west.JPG" width="200" height="126"></a><br><br>
 
 	Neahkahnie Mountain<br>
 	See the site box below.<br>
 	<a href="https://wp.inews.co.uk/wp-content/uploads/2021/04/SEI_76801587.jpg">
-	<img border="0" src="nw/coast-small-nkn-mtn.JPG" width="200" height="132"></a><br><br>
+	<img border="0" src="images-nw/coast-small-nkn-mtn.JPG" width="200" height="132"></a><br><br>
 
 	Manzanita. Small town in northern Tillamook County. Nice shops. Well known beach <br>
-	adjacent at Nehalem Bay State Park. <img border="0" src="nw/symbol-ticket.gif" width="21" height="21"><br>
+	adjacent at Nehalem Bay State Park. <img border="0" src="images-nw/symbol-ticket.gif" width="21" height="21"><br>
 	<a href="https://i.vimeocdn.com/video/938287819-2d01eef4ed577b7
 	a8385f4bc538124e252e86ce80cefba8749d6155404790b27-d_640?f=webp">
-	<img border="0" src="nw/coast-small-manzanita.JPG" width="200" height="130"></a><br><br>
+	<img border="0" src="images-nw/coast-small-manzanita.JPG" width="200" height="130"></a><br><br>
 
 	Rockaway Beach. Coast town spread along Hwy 101. Lots of stores. Beach access.<br>
 	<a href="https://www.worldbeachguide.com/photos/rockaway-beach-oregon.jpg">
-	<img border="0" src="nw/coast-small-rockway-beach.JPG" width="200" height="137"></a><br><br>
+	<img border="0" src="images-nw/coast-small-rockway-beach.JPG" width="200" height="137"></a><br><br>
 
 	Barview Jetty County Campground. From here you can walk down the 
 	north side of the Barview Jetty and entry to Tillamook Bay.
-	<img border="0" src="nw/boot-print.gif" width="20" height="20"><br>
+	<img border="0" src="images-nw/boot-print.gif" width="20" height="20"><br>
 	<a href="https://www.oregonlive.com/resizer/zJtLExqGemT1R1fQ8B5s0nFk7uc=
 	/1280x0/smart/advancelocal-adapter-image-uploads.s3.amazonaws.com/
 	image.oregonlive.com/home/olive-media/width2048/img/pacific-northwest-news
 	/photo/jetty1jpg-8456bf80c081beff.jpg">
-	<img border="0" src="nw/coast-small-barview-jetty.JPG" width="200" height="137"></a><br><br>
+	<img border="0" src="images-nw/coast-small-barview-jetty.JPG" width="200" height="137"></a><br><br>
 
 	Bayocean Peninsula Park is on the south side of the Barview Jetty. 
 	Location of a <a href="https://www.opb.org/news/article/oregon-bayocean-ghost-town-resort-
@@ -1034,43 +1033,43 @@ and Waysides</a></font></span><br>
 	<a href="https://en.wikipedia.org/wiki/	Bayocean,_Oregon">Wikipedia</a>. 
 	Three mile hike from the last parking lot to the jetty.	This access road 
 	was the site of a lot of road damage from the 1996 flood event.
-	<img border="0" src="nw/boot-print.gif" width="20" height="20"><br>
+	<img border="0" src="images-nw/boot-print.gif" width="20" height="20"><br>
 	<a href="https://upload.travelawaits.com/ta/uploads/2021/04/aerial-view-of-bayocean-penin3ed98b.jpg">
-	<img border="0" src="nw/coast-small-bayocean.JPG" width="200" height="125"></a><br><br>
+	<img border="0" src="images-nw/coast-small-bayocean.JPG" width="200" height="125"></a><br><br>
 
 	3 Capes Scenic Loop is comprised of a windy road with great beach views passing by Cape Meares (see the site 
 	box below), Cape Lookout (couple mile hike to nice coastal panorama to the south) and Cape Kiwanda at Pacific City.<br>
 	<a href="https://images.squarespace-cdn.com/content/v1/5f21e241ada24a4943158fdc/
 	1602890375687-FWWP69I4P9USXXFSYLHS/DSC_0237+(2).JPG">
-	<img border="0" src="nw/coast-small-3capes.JPG" width="200" height="144"></a><br><br>
+	<img border="0" src="images-nw/coast-small-3capes.JPG" width="200" height="144"></a><br><br>
 
 	Neskowin is a small community of beach vacation homes in Southern Tillamook 
 	County. The beach is very nice and picturesque.<br>
 	<a href="https://tripsaroundme.com/wp-content/uploads/2023/05/2019-07-19_09-29-18_024_R-scaled.jpeg">
-	<img border="0" src="nw/coast-small-newskowin.JPG" width="200" height="125"></a><br><br>
+	<img border="0" src="images-nw/coast-small-newskowin.JPG" width="200" height="125"></a><br><br>
 
 	Lincoln City is a well known tourist town.<br>
 	See the site box below.<br>
 	<a href="https://1.bp.blogspot.com/-b2pPQfO2vdw/Ui-xwabfwYI/AAAAAAAAAa4/
 	7l5nwDIKzsU/s1600/64511_10151495029816324_1671456495_n.jpg">
-	<img border="0" src="nw/coast-small-lincoln-city.JPG" width="200" height="113"></a><br><br>
+	<img border="0" src="images-nw/coast-small-lincoln-city.JPG" width="200" height="113"></a><br><br>
 
 	Depoe Bay is a small town spread along Hwy 101. Known for the smallest 
 	navigable bay in the world. Also called the "whale watch capital of the Oregon Coast".<br>
 	<a href="https://jetsetway.com/wp-content/uploads/2021/05/Depoe-bridge.jpg">
-	<img border="0" src="nw/coast-small-depoe-bay.JPG" width="200" height="129"></a><br><br>
+	<img border="0" src="images-nw/coast-small-depoe-bay.JPG" width="200" height="129"></a><br><br>
 
 	Devil's Punchbowl is small rest area just south <br>
 	of Depoe Bay. See the site box below.<br>
 	<a href="https://images.fineartamerica.com/images/artworkimages/
 	mediumlarge/1/devils-punchbowl-oregon-shannon-louder.jpg">
-	<img border="0" src="nw/coast-small-devils-punchbowl.jpg" width="200" height="137"></a></a><br><br>
+	<img border="0" src="images-nw/coast-small-devils-punchbowl.jpg" width="200" height="137"></a></a><br><br>
 
 	Beverly Beach State Park. Beach access. Known for the "ghost forest": stumps of trees 
 	that were consumed by sand preventing their decay. Periodically strong winds and storms 
 	move the sand around revealing remnants of the ancient trees that are from 1000 to 7000 years old.<br>
 	<a href="https://yachatsnews.com/wp-content/uploads/2021/11/51069150061_ea88188c78_k-1024x342.jpg">	
-	<img border="0" src="nw/coast-small-beverly-beach.JPG" width="200" height="118"></a><br><br>
+	<img border="0" src="images-nw/coast-small-beverly-beach.JPG" width="200" height="118"></a><br><br>
 
 	Then you pass through Newport.<br>
 	See the site box below.<br><br>
@@ -1078,17 +1077,17 @@ and Waysides</a></font></span><br>
 	Yachats State Park. See the site box below.
 	<a href="https://www.onlyinyourstate.com/wp-content/uploads/2022/07/15676535_
 	10154736704495396_6364813896884982597_o.jpg"><img border="0" src=
-	"nw/coast-small-yachats.jpg" width="200" height="136"></a></a><br><br>
+	"images-nw/coast-small-yachats.jpg" width="200" height="136"></a></a><br><br>
 
 	Thor's Well. See the site box below.
 	<a href="https://hips.hearstapps.com/housebeautiful/assets/17/11/1489593643-
-	index-thors-well-final.jpg"><img border="0" src="nw/coast-small-thors-well.jpg" 
+	index-thors-well-final.jpg"><img border="0" src="images-nw/coast-small-thors-well.jpg" 
 	width="200" height="129"></a></a><br><br>
 
 	Refresh browser to collapse this box<br><br>
 	<i>Note: When this box collapses, you might have to<br>
 	scroll up some to return to the cursor original location.</i>
-	</div>
+</div>
 
 <p style="text-align: center"><span style="background-color: #FFFF00"><font color="#000000">
 <a href="JavaScript:doExpand(LighthouseBox)">OREGON LIGHTHOUSES</a></font></span><br>
@@ -1096,11 +1095,11 @@ and Waysides</a></font></span><br>
 
 	<div id="LighthouseBox" style="display: none">
 	Area C - 50-200 miles West/Southwest of Beaverton
-	<img border="0" src="nw/symbol-binos.gif" width="20" height="20"><br><br>
+	<img border="0" src="images-nw/symbol-binos.gif" width="20" height="20"><br><br>
 	This list has some overlaps with other site boxes in this coastal section.<br><br>
 	Back in the late 90's, we made a week long family trip of casually driving down 
 	the coast and visiting all of the Oregon lighthouses taking lots of photos.<br><br>
-	<img border="0" src="nw/coast-lh-map.JPG" width="330" height="327"><br><br>
+	<img border="0" src="images-nw/coast-lh-map.JPG" width="330" height="327"><br><br>
 	All the above lighthouses are public owned except for Cleft of the Rock (not listed below)<br><br>
 	Click on each pic below for a larger version online.<br><br>
 	
@@ -1112,66 +1111,66 @@ and Waysides</a></font></span><br>
 	Center</b> site box below)<br>
 	<a href="https://upload.wikimedia.org/wikipedia/commons/b/bf/
 	North_Head_Lighthouse_at_Cape_Disappointment.jpg"><img border="0" 
-	src="nw/coast-small-lh-01cape-disappointment.JPG" width="200" height="149"></a><br><br>
+	src="images-nw/coast-small-lh-01cape-disappointment.JPG" width="200" height="149"></a><br><br>
 
 	Columbia Lightship<br>
 	is a retired &quot;floating&quot; light house.<br>
 	(See <b>Astoria Maritime Museum</b> site box below)<br>
 	<a href="https://img-aws.ehowcdn.com/1280x/www.onlyinyourstate.com/wp-content/uploads/
 	2020/10/117655873_10158688181773189_325802792861320919_o-1.jpg">
-	<img border="0" src="nw/coast-small-lh-02columbia-lightship.JPG" width="200" height="139"></a><br><br>
+	<img border="0" src="images-nw/coast-small-lh-02columbia-lightship.JPG" width="200" height="139"></a><br><br>
 
 	Warrior Rock<br>
 	Located up the Columbia River closer to Portland.<br>
 	<a href="https://mediaim.expedia.com/destination/2/6a439a381f825f395f368747d1896338.jpg">
-	<img border="0" src="nw/coast-small-lh-03warrior-rock.JPG" width="200" height="147"></a><br><br>
+	<img border="0" src="images-nw/coast-small-lh-03warrior-rock.JPG" width="200" height="147"></a><br><br>
 
 	Tillamook Rock<br>
 	(see <b>Cannon Beach</b> site box below)<br>
 	<a href="https://i.ytimg.com/vi/WBQ7NMKzmWM/maxresdefault.jpg">
-	<img border="0" src="nw/coast-small-lh-04till-rock.JPG" width="200" height="143"></a><br><br>
+	<img border="0" src="images-nw/coast-small-lh-04till-rock.JPG" width="200" height="143"></a><br><br>
 
 	Cape Meares<br>
 	(see site box below)<br>
 	<a href="https://oregonisforadventure.com/wp-content/uploads/2021/02/lighthouse-cape-meares-1024x683.jpg">
-	<img border="0" src="nw/coast-small-lh-05cape-meares.JPG" width="200" height="148"></a><br><br>
+	<img border="0" src="images-nw/coast-small-lh-05cape-meares.JPG" width="200" height="148"></a><br><br>
 
 	Yaquina Head<br>
 	(see <b>Newport</b> site box below)<br>
 	<a href="https://images.squarespace-cdn.com/content/v1/61eb640f60360a71b6ced4e7
 	/85f071f6-45e2-432c-acfd-86f3c17feea5/IMG_8861.jpg">
-	<img border="0" src="nw/coast-small-lh-07yaquina-head.JPG" width="200" height="155"></a><br><br>
+	<img border="0" src="images-nw/coast-small-lh-07yaquina-head.JPG" width="200" height="155"></a><br><br>
 
 	Yaquina Bay<br>
 	(see <b>Newport</b> site box below)<br>
 	<a href="https://storage.googleapis.com/wzukusers/user-31563038/images/c7dbfa48adc945ae8c418c648fa61e7a/
 	Copyright-Kristy-Mcmorlan-Photography-Yaquina-Bay-Lighthouse-With-Name.jpg">
-	<img border="0" src="nw/coast-small-lh-06yaquina-bay.JPG" width="200" height="194"></a><br><br>
+	<img border="0" src="images-nw/coast-small-lh-06yaquina-bay.JPG" width="200" height="194"></a><br><br>
 
 	Heceta Head<br>
 	(see site box below)<br>
 	<a href="https://www.hecetalighthouse.com/wp-content/uploads/2020/10/Scenic-Viewpoint.jpeg">
-	<img border="0" src="nw/coast-small-lh-08heceta-head.JPG" width="200" height="148"></a><br><br>
+	<img border="0" src="images-nw/coast-small-lh-08heceta-head.JPG" width="200" height="148"></a><br><br>
 
 	Umpqua River<br>
 	<a href="https://www.statesmanjournal.com/gcdn/-mm-/a5076e7a43a0cec6129489319d0fb728e2cd1814/c=
 	0-264-5184-3193/local/-/media/2018/01/17/Salem/Salem/636517943133850922-Umpqua-Lighthouse3.jpg">
-	<img border="0" src="nw/coast-small-lh-09umpqua-river.JPG" width="200" height="138"></a><br><br>
+	<img border="0" src="images-nw/coast-small-lh-09umpqua-river.JPG" width="200" height="138"></a><br><br>
 
 	Cape Arago<br>
-	<img border="0" src="nw/coast-small-lh-10capearago.JPG" width="200" height="128"><br><br>
+	<img border="0" src="images-nw/coast-small-lh-10capearago.JPG" width="200" height="128"><br><br>
 
 	Coquille River<br>
 	<a href="https://images.fineartamerica.com/images/artworkimages/mediumlarge/2/coquille-
 	river-lighthouse-jerry-fornarotto.jpg">
-	<img border="0" src="nw/coast-small-lh-11coquille-river.JPG" width="200" height="134"></a><br><br>
+	<img border="0" src="images-nw/coast-small-lh-11coquille-river.JPG" width="200" height="134"></a><br><br>
 
 	Cape Blanco<br>
-	<img border="0" src="nw/coast-small-lh-12cape-blanco.JPG" width="200" height="130"><br><br>
+	<img border="0" src="images-nw/coast-small-lh-12cape-blanco.JPG" width="200" height="130"><br><br>
 
 	Refresh browser to collapse this box<br><br>
-	<i>Note: When this box collapses, you might have to	scroll up some to return to the cursor original location.</i>
-	<br><br></div>
+	<i>Note: When this box collapses, you might have to	scroll up some to return to the cursor original location.</i><br><br>
+</div>
 <br>
 
 <div id="site-table"><p class="site-header-txt">Astoria<br></p>
@@ -1197,7 +1196,7 @@ and Waysides</a></font></span><br>
 		8m2!3d46.1878841!4d-123.8312534!16zL20vMHRzcw?hl=en&entry=ttu">Google Maps</a></td>
 	<td valign="top" width="50%"><a href="https://a.travel-assets.com/findyours-php/
 	viewfinder/images/res40/483000/483209-astoria-column.jpg">
-	<img border="0" src="nw/coast-astoria.jpg" width="440" height="300"></a><br><br>
+	<img border="0" src="images-nw/coast-astoria.jpg" width="440" height="300"></a><br><br>
 	In this <a href="https://www.thetravel.com/most-beautfiul-towns-to-retire-to-in-the-us/">
 	article</a>, Astoria is touted as one of the most beautiful towns to retire in the United States (in the top 10).</td>
 </table></div>
@@ -1205,14 +1204,14 @@ and Waysides</a></font></span><br>
 <div id="site-table"><p class="site-header-txt">Astoria Column<br></p>
 <table width="100%"><td valign="top" width="50%">
 		Area <span class="f2">C</span> - In Astoria
-		<img border="0" src="nw/symbol-binos.gif" width="20" height="20"><br><br>
+		<img border="0" src="images-nw/symbol-binos.gif" width="20" height="20"><br><br>
 		<a href="https://astoriacolumn.org">astoriacolumn.org</a><br><br>
 		The Astoria Column was built in 1926. 125 feet tall with 164 steps in the circular stairs going to the 
 		top. The mural on the outside of the column depicts major history events in Oregon and the region.<br><br>
 		<a href="https://oregonisforadventure.com/wp-content/uploads/2020/12/astoria-column.jpg">
-		<img border="0" src="nw/coast-astor-column2.jpg" width="440" height="240"></a><br></td>
+		<img border="0" src="images-nw/coast-astor-column2.jpg" width="440" height="240"></a><br></td>
 	<td valign="top" width="50%"><a href="https://i.ytimg.com/vi/MTuMFKlUyG8/maxresdefault.jpg">
-	<img border="0" src="nw/coast-astor-column.jpg" width="440" height="269"></a><br><br>
+	<img border="0" src="images-nw/coast-astor-column.jpg" width="440" height="269"></a><br><br>
 	Best view of the Astoria area including Columbia River entering the 
 	Pacific Ocean (less foggy or rainy days).<br><br>
 	$5 parking pass per vehicle<br><br>
@@ -1234,10 +1233,10 @@ and Waysides</a></font></span><br>
 		<a href="https://www.oregonlive.com/resizer/3RyPN5Zr5rL4eloMgQowoc57YR0=/
 		1280x0/smart/advancelocal-adapter-image-uploads.s3.amazonaws.com/expo.advance.net
 		/img/652e267bb5/width2048/542_maritimemuseum04.jpeg">
-		<img border="0" src="nw/coast-columbia-maritime2.jpg" width="440" height="293"></a></td>
+		<img border="0" src="images-nw/coast-columbia-maritime2.jpg" width="440" height="293"></a></td>
 	<td valign="top" width="50%"><a href="https://www.crmm.org/uploads/1/3/1/7/131731615/published/
 	lshipbuoy.jpg?1657832623">
-	<img border="0" src="nw/coast-columbia-maritime1.jpg" width="440" height="311"></a><br><br>
+	<img border="0" src="images-nw/coast-columbia-maritime1.jpg" width="440" height="311"></a><br><br>
 	Includes admission to the Columbia Lightship docked right outside on the Columbia River. 
 	Self-guided tour.<br><br>
 	The active duty US Coast Guard cutter serving the Northern Oregon coast area is docked 
@@ -1261,13 +1260,13 @@ and Waysides</a></font></span><br>
 		-123.9215173,12.17z/data=!4m6!3m5!1s0x54937b4b04929a11:0x4619218fb34bc9fc!
 		8m2!3d46.187873!4d-123.8355395!16s/m/06_52zl?hl=en&entry=ttu">Google Maps</a><br><br></td>
 	<td valign="top" width="50%"><a href="https://media.oregonlive.com/terryrichard/photo/15223789-mmmain.jpg">
-	<img border="0" src="nw/coast-flavel-hse.jpg" width="440" height="323"></a></td>
+	<img border="0" src="images-nw/coast-flavel-hse.jpg" width="440" height="323"></a></td>
 </table></div>
 
 <div id="site-table"><p class="site-header-txt">Coffee Girl<br></p>
 <table width="100%"><td valign="top" width="50%">
 		Area <span class="f2">C</span> - Coffee shop (in Astoria)
-		<img border="0" src="nw/symbol-stopwatch.gif" width="20" height="22"><br><br>
+		<img border="0" src="images-nw/symbol-stopwatch.gif" width="20" height="22"><br><br>
 		<a href="http://www.thecoffeegirl.com/">thecoffeegirl.com</a><br><br>
 		Nice place to stop for a break and coffee after driving. Located on piers 
 		on a former fish cannery dock on the Columbia River.<br><br>
@@ -1280,13 +1279,13 @@ and Waysides</a></font></span><br>
 		-123.9191477,11.75z/data=!4m6!3m5!1s0x54937b6f23fbed31:0xec013e8e08b18b39!
 		8m2!3d46.1971548!4d-123.7976427!16s/g/1w8w9qq_?hl=en&entry=ttu">Google Maps</a><br><br></td>
 	<td valign="top" width="50%">
-	<a href="nw/coast-coffee-girl.jpg">
-	<img border="0" src="nw/coast-coffee-girl.jpg" width="440" height="292"></a></td>
+	<a href="images-nw/coast-coffee-girl.jpg">
+	<img border="0" src="images-nw/coast-coffee-girl.jpg" width="440" height="292"></a></td>
 </table></div>
 
 <div id="site-table"><p class="site-header-txt">Cannery Pier Hotel<br></p>
 <table width="100%"><td valign="top" width="50%">
-		<img border="0" src="nw/coast-cannery-pier.jpg" width="440" height="325"><br><br>
+		<img border="0" src="images-nw/coast-cannery-pier.jpg" width="440" height="325"><br><br>
 		We have stayed here a couple of times during Winter coastal storms. Surprising how easy 
 		it is to fall asleep to the heavy rain and wind. An interesting experience watching a 
 		distant tanker or container ship in the dark with its navigation lights on rumbling up 
@@ -1302,7 +1301,7 @@ and Waysides</a></font></span><br>
 	food. Access to the river front, trolley.<br><br>
 	<a href="https://lewisandclark.s3.amazonaws.com/wp-content/uploads/2021/05/20091128/
 	Screen-Shot-2021-05-10-at-8.29.14-AM-e1674205885833.png">
-	<img border="0" src="nw/coast-trolley.jpg" width="440" height="278"></a></td>
+	<img border="0" src="images-nw/coast-trolley.jpg" width="440" height="278"></a></td>
 </table></div>
 
 <div id="site-table"><p class="site-header-txt">Fort Clatsop National Historic Park<br></p>
@@ -1313,21 +1312,21 @@ and Waysides</a></font></span><br>
 		Replica fort. End of the trail for Lewis and Clark in 1804-06.<br><br>
 		The Visitor Center includes a museum and bookstore.<br><br>
 		Some interesting historical displays<br><br>
-		$10/pp <img border="0" src="nw/symbol-ticket.gif" width="21" height="21"><br><br>
+		$10/pp <img border="0" src="images-nw/symbol-ticket.gif" width="21" height="21"><br><br>
 		<a href="https://www.google.com/maps/place/Fort+Clatsop/@46.16796,-123.9498825,
 		12.04z/data=!4m6!3m5!1s0x54ead8fdee7c0001:0x5fc1df035029d5a1!8m2!
 		3d46.1366944!4d-123.8783871!16zL20vMDM5azYz?hl=en&entry=ttu">Google Maps</a><br></td>
 	<td valign="top" width="50%"><a href="https://images.theoutbound.com/uploads/1464712511994/
 	0alfdyy23de/456999407e185dec99114be0e56de416?w=1200&h=630&fit=crop&dpr=1&q=60&s=
 	1ef835861ece3c0c7b53efe09fe3024c">
-	<img border="0" src="nw/coast-fort-clatsop.jpg" width="440" height="239"></a></td>
+	<img border="0" src="images-nw/coast-fort-clatsop.jpg" width="440" height="239"></a></td>
 </table></div>
 
 <div id="site-table"><p class="site-header-txt">Fort Stevens State Park<br></p>
 <table width="100%"><td valign="top" width="50%">
 		Area <span class="f2">C</span> - 6 miles West of Astoria
-		<img border="0" src="nw/boot-print.gif" width="20" height="20"> <img border="0" src=
-		"nw/symbol-binos.gif" width="20" height="20"><br><br>
+		<img border="0" src="images-nw/boot-print.gif" width="20" height="20"> <img border="0" src=
+		"images-nw/symbol-binos.gif" width="20" height="20"><br><br>
 		<a href="https://stateparks.oregon.gov/index.cfm?do=park.profile&parkId=129">
 		stateparks.oregon.gov</a><br><br>
 		State Park including campground, beach access, coastal and Columbia River viewpoints (below), 
@@ -1336,12 +1335,12 @@ and Waysides</a></font></span><br>
 		an enemy sub actually fired upon the fort. They missed their target a long ways off. They were 
 		aiming at a supposed submarine base on the other side of Astoria (that was never built) and 
 		hit ground 10 miles away. Good intelligence from High Command!<br><br>
-		$5 day-use pass per car <img border="0" src="nw/symbol-ticket.gif" width="21" height="21"><br><br>
+		$5 day-use pass per car <img border="0" src="images-nw/symbol-ticket.gif" width="21" height="21"><br><br>
 		<a href="https://media.defense.gov/2021/Apr/07/2002615923/-1/-1/0/200831-A-ET715-0178.JPG">
-		<img border="0" src="nw/coast-fort-stevens-jetty.jpg" width="440" height="293"></a></td>
+		<img border="0" src="images-nw/coast-fort-stevens-jetty.jpg" width="440" height="293"></a></td>
 	<td valign="top" width="50%"><a href="https://stateparks.oregon.gov/index.cfm?do=image.
 	get&name=IMG_9569034026.JPG&park=129&fit=cover&w=1200&h=600"><img border="0" 
-	src="nw/coast-fort-stevens.jpg" width="440" height="291"></a><br><br>
+	src="images-nw/coast-fort-stevens.jpg" width="440" height="291"></a><br><br>
 	The old military post housing is now a public residential area, but in a drive-thru you can see 
 	the outlines of the former officer housing and parade ground.<br><br>
 	In 1906 the	<a href="https://www.oregonhistoryproject.org/media/uploads/Wreck-of-Peter-Iredale-
@@ -1360,17 +1359,17 @@ and Waysides</a></font></span><br>
 <div id="site-table"><p class="site-header-txt">Lewis &amp; Clark Interpretive Center<br></p>
 <table width="100%"><td valign="top" width="50%">
 		Area <span class="f2">C</span> - Cape Disappointment, WA - 13 miles NW of Astoria
-		<img border="0" src="nw/symbol-binos.gif" width="20" height="20"><br><br>
+		<img border="0" src="images-nw/symbol-binos.gif" width="20" height="20"><br><br>
 		<a href="https://www.lewisandclark.travel/listing/cape-disappointment-state-park-lewis-and-clark-interpretive-center">
 		lewisandclark.travel/listing/cape-disappointment-state-park-lewis-and-clark-interpretive-center/</a><br><br>
 		Decent museum dedicated to the Lewis and Clark Voyage of Discovery (8000 mile round trip to/from St. Louis).<br><br>
 		Cape Disappointment Lighthouse is a short hiking distance away (half mile 15 minute hike).<br><br>
 		$5/pp<br><br>
 		<a href="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Cape_Disappointment_and_Cape_Disappointment_
-		Light.jpg/1200px-Cape_Disappointment_and_Cape_Disappointment_Light.jpg"><img border="0" src="nw/coast-cape-
+		Light.jpg/1200px-Cape_Disappointment_and_Cape_Disappointment_Light.jpg"><img border="0" src="images-nw/coast-cape-
 		disappointment-view.jpg" width="440" height="325"></a></td>
 	<td valign="top" width="50%"><a href="https://parks.wa.gov/sites/default/files/styles/square_600/public/2023-03/
-	CapeDisappointment_InterpretiveCenterOutside.JPG?itok=2gdWvdLD"><img border="0" src="nw/coast-L&C-interpret-center.jpg" 
+	CapeDisappointment_InterpretiveCenterOutside.JPG?itok=2gdWvdLD"><img border="0" src="images-nw/coast-L&C-interpret-center.jpg" 
 	width="440" height="335"></a><br><br>
 	<a href="https://www.google.com/maps/place/Lewis+&+Clark+Interpretive+Center/@45.5516584,-124.0574651,8.25z/data=!4m6!
 	3m5!1s0x54936c4a881f8acf:0xf4976d6b5bf7ba7e!8m2!3d46.277879!4d-124.0537129!16s/g/125_vk6fz?hl=en&entry=ttu">Google Maps</a></td>
@@ -1379,7 +1378,7 @@ and Waysides</a></font></span><br>
 <div id="site-table"><p class="site-header-txt">Fort Columbia State Park<br></p>
 <table width="100%"><td valign="top" width="50%">
 		Area <span class="f2">C</span> - 5 miles NW of Astoria
-		<img border="0" src="nw/symbol-binos.gif" width="20" height="20"><br><br>
+		<img border="0" src="images-nw/symbol-binos.gif" width="20" height="20"><br><br>
 		<a href="https://parks.wa.gov/find-parks/state-parks/fort-columbia-state-park">parks.wa.gov/find-parks/
 		state-parks/fort-columbia-state-park</a><br><br>
 		Fort Columbia is located on the north side of the Columbia River almost opposite of Astoria. The highway goes 
@@ -1390,12 +1389,12 @@ and Waysides</a></font></span><br>
 		buildings due to their proximity.<br><br>
 		Fees vary<br><br>
 		<a href="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/1c/f3/43/the-higher-you-climb.jpg?
-		w=1200&h=-1&s=1"><img border="0" src="nw/coast-fort-columbia1.jpg" width="440" height="282"></a></td>
+		w=1200&h=-1&s=1"><img border="0" src="images-nw/coast-fort-columbia1.jpg" width="440" height="282"></a></td>
 	<td valign="top" width="50%"><a href="https://images.squarespace-cdn.com/content/v1/56c14e2307eaa0ed26a63daf/
 	1466547140261-GJAW86ISHAHZBRJP49T5/Historical+Buildings+and+Battery+at+Fort+Columbia+State+Park">
-	<img border="0" src="nw/coast-fort-columbia2.jpg" width="440" height="270"></a><br><br>
+	<img border="0" src="images-nw/coast-fort-columbia2.jpg" width="440" height="270"></a><br><br>
 	<a href="https://images.squarespace-cdn.com/content/v1/56c14e2307eaa0ed26a63daf/1509174627894-DPG5B0REX9KMDW62WUDZ/
-	Fort+Columbia+Historical+State+Park+-+Pacific+North+Wanderers.jpg"><img border="0" src="nw/coast-fort-columbia3.jpg" 
+	Fort+Columbia+Historical+State+Park+-+Pacific+North+Wanderers.jpg"><img border="0" src="images-nw/coast-fort-columbia3.jpg" 
 	width="440" height="263"></a><br><br>
 	A decent <a href="https://i0.wp.com/www.wheelingit.us/wp-content/uploads/2016/06/Fort-Columbia-JPG.jpg">map</a> 
 	of the park.<br><br>
@@ -1407,7 +1406,7 @@ and Waysides</a></font></span><br>
 <div id="site-table"><p class="site-header-txt">Cannon Beach<br></p>
 <table width="100%"><td valign="top" width="50%">
 		Area <span class="f2">C</span> - 60 miles NW of Beaverton
-		<img border="0" src="nw/boot-print.gif" width="20" height="20"> <img border="0" src="nw/symbol-binos.gif" 
+		<img border="0" src="images-nw/boot-print.gif" width="20" height="20"> <img border="0" src="images-nw/symbol-binos.gif" 
 		width="20" height="20"><br><br>
 		<a href="https://www.cannonbeach.org">cannonbeach.org</a><br><br>
 		Very picturesque tourist town. Very well known to Oregon residents. Haystack Rock (right) 
@@ -1421,7 +1420,7 @@ and Waysides</a></font></span><br>
 		Bruce's Candy Kitchen</a> at the north end of the main street for all sorts of salt water taffy and other sweets.</td>
 	<td valign="top" width="50%"><a href="https://assets.goaaa.com/image/upload/c_fill,g_auto,w_1170,h_593,
 	q_auto:best/v1647562566/singularity-migrated-images/cannon-beach-haystack-rock-via-magazine.jpg.jpg">
-	<img border="0" src="nw/coast-cannon-beach.jpg" width="440" height="259"></a><br><br>
+	<img border="0" src="images-nw/coast-cannon-beach.jpg" width="440" height="259"></a><br><br>
 	<a href="https://www.google.com/maps/place/Cannon+Beach,+OR/@45.8859808,-124.0507125,11.38z/data=!4m6!3m5!
 	1s0x5494a52740cfce5d:0x1bfe4f4cea593a21!8m2!3d45.8917738!4d-123.9615274!16zL20vMHpjNjE?hl=en&entry=ttu">
 	Google Maps</a></td>
@@ -1430,15 +1429,15 @@ and Waysides</a></font></span><br>
 <div id="site-table"><p class="site-header-txt">Ecola State Park<br></p>
 <table width="100%"><td valign="top" width="50%">
 		Area <span class="f2">C</span> - 60 miles West of Beaverton 
-		<img border="0" src="nw/symbol-binos.gif" width="20" height="20"><br><br>
+		<img border="0" src="images-nw/symbol-binos.gif" width="20" height="20"><br><br>
 		<a href="https://stateparks.oregon.gov/index.cfm?do=park.profile&parkId=136">stateparks.oregon.gov</a><br><br>
 		Ecola State Park is as well known as Cannon Beach located several miles from the town on a very curvy road 
 		surrounded with lush green ferns and vegetation.<br><br>
 		$5 daily parking permit<br><br>
 		<a href="https://images.squarespace-cdn.com/content/v1/61eb640f60360a71b6ced4e7/b6dbce28-3cfa-4340-a7a8-
-		d3852d1fc951/IMG_0608.jpg"><img border="0" src="nw/coast-ecola-SP.JPG" width="440" height="291"></a></td>
+		d3852d1fc951/IMG_0608.jpg"><img border="0" src="images-nw/coast-ecola-SP.JPG" width="440" height="291"></a></td>
 	<td valign="top" width="50%"><a href="https://www.historic-structures.com/or/seaside/images/tlh007.jpg">
-	<img border="0" src="nw/coast-tillamook-lighthouse.JPG" width="440" height="301"></a><br><br>
+	<img border="0" src="images-nw/coast-tillamook-lighthouse.JPG" width="440" height="301"></a><br><br>
 	You can see the old Tillamook Rock Light (a former deactivated lighthouse) about 2 miles off shore. Nicknamed &quot;
 	Terrible Tilly&quot; due to big storms and poor access.<br><br>
 	<a href="https://www.google.com/maps/place/Hug+Point+State+Recreation+Site/@45.8222044,-124.0688472,11.29z/
@@ -1449,7 +1448,7 @@ and Waysides</a></font></span><br>
 <div id="site-table"><p class="site-header-txt">Hug Point State Park<br></p>
 <table width="100%"><td valign="top" width="50%">
 		Area <span class="f2">C</span> - 60 miles West of Beaverton 
-		<img border="0" src="nw/symbol-binos.gif" width="20" height="20"><br><br>
+		<img border="0" src="images-nw/symbol-binos.gif" width="20" height="20"><br><br>
 		<a href="https://stateparks.oregon.gov/index.cfm?do=park.profile&parkId=137">stateparks.oregon.gov</a><br><br>
 		This very small state park is about 4 miles south of Cannon Beach. It is more of a wayside. Parking 
 		can be limited.<br><br>
@@ -1460,15 +1459,15 @@ and Waysides</a></font></span><br>
 		data=!4m6!3m5!1s0x5494b07f5ed4c25b:0xe1b8dfe318e5264c!8m2!3d45.8287018!4d-123.9625061!16s%2Fm%2F047rl62?
 		entry=ttu&g_ep=EgoyMDI1MDkwMy4wIKXMDSoASAFQAw%3D%3D">Google Maps</a></td>
 	<td valign="top" width="50%"><a href="https://images.squarespace-cdn.com/content/v1/50305c7684ae7fae2e65756a/
-	1399342198573-A1UEJBA313EVB50CIREH/image-asset.jpeg"><img border="0" src="nw/coast-hug-point.JPG" width=
+	1399342198573-A1UEJBA313EVB50CIREH/image-asset.jpeg"><img border="0" src="images-nw/coast-hug-point.JPG" width=
 	"440" height="291"></a></td>
 </table></div>
 
 <div id="site-table"><p class="site-header-txt">Oswald West State Park<br></p>
 <table width="100%"><td valign="top" width="50%">
 		Area <span class="f2">C</span> - 60 miles West of Beaverton 
-		<img border="0" src="nw/boot-print.gif" width="20" height="20"> 
-		<img border="0" src="nw/symbol-binos.gif" width="20" height="20"><br><br>
+		<img border="0" src="images-nw/boot-print.gif" width="20" height="20"> 
+		<img border="0" src="images-nw/symbol-binos.gif" width="20" height="20"><br><br>
 		<a href="https://stateparks.oregon.gov/index.cfm?do=park.profile&parkId=139">stateparks.oregon.gov</a><br><br>
 		About 10 miles south of Cannon Beach. This park appears to be just a coast highway 
 		wayside park. But there are actually some good activities and hikes available here.<br><br>
@@ -1478,21 +1477,21 @@ and Waysides</a></font></span><br>
 		4m6!3m5!1s0x5494b7275b623447:0x16dbb0def2ebd907!8m2!3d45.769811!4d-123.9590931!16zL20vMGRmNXZ2?entry=
 		ttu&g_ep=EgoyMDI1MDcyMy4wIKXMDSoASAFQAw%3D%3D">Google Maps</a></td>
 	<td valign="top" width="50%"><a href="https://mediaim.expedia.com/destination/2/13fc51de2cd43b458a83a45128de5ac1.jpg">
-	<img border="0" src="nw/coast-oswald-west-SP.JPG" width="440" height="291"></a></td>
+	<img border="0" src="images-nw/coast-oswald-west-SP.JPG" width="440" height="291"></a></td>
 </table></div>
 
 <div id="site-table"><p class="site-header-txt">Neahkahnie Mountain Viewpoints<br></p>
 <table width="100%"><td valign="top" width="50%">
 		Area <span class="f2">C</span> - 60 miles West of Beaverton 
-		<img border="0" src="nw/symbol-stopwatch.gif" width="20" height="22">
-		<img border="0" src="nw/symbol-binos.gif" width="20" height="20"><br><br>
+		<img border="0" src="images-nw/symbol-stopwatch.gif" width="20" height="22">
+		<img border="0" src="images-nw/symbol-binos.gif" width="20" height="20"><br><br>
 		About mid-way between Cannon Beach and Tillamook is Neahkahnie Mountain.<br><br>
 		The viewpoints from the Hwy 101 roadside pullouts are breathtaking and worthy of postcard photos.<br><br>
 		<a href="https://www.google.com/maps/search/Neahkahnie+Mountain+Trail+Viewpoint,+Neah-
 		Kah-Nie+Mountain,+OR/@45.7620929,-124.0197445,12.38z?hl=en&entry=ttu">Google Maps</a></td>
 	<td valign="top" width="50%"><a href="https://www.madetoexplore.ca/wp-content/
 	uploads/2023/05/oregon-coast-road-trip-3-1024x683.jpg">
-	<img border="0" src="nw/coast-nkn-mtn-pullout.JPG" width="440" height="291"></a></td>
+	<img border="0" src="images-nw/coast-nkn-mtn-pullout.JPG" width="440" height="291"></a></td>
 </table></div>
 
 <div id="site-table"><p class="site-header-txt">Tillamook Creamery<br></p>
@@ -1509,19 +1508,19 @@ and Waysides</a></font></span><br>
 		4839833!4d-123.8442545!16s/g/1233pgxl3?hl=en&entry=ttu">Google Maps</a><br><br>
 		See the cheese making factory floor:<br>
 		<a href="https://media-cdn.tripadvisor.com/media/photo-s/01/15/c0/a3/cheese-factory-floor.jpg">
-		<img border="0" src="nw/coast-till-cheese-factory-floor.jpg" width="359" height="355"></a><br><br>
+		<img border="0" src="images-nw/coast-till-cheese-factory-floor.jpg" width="359" height="355"></a><br><br>
 		Some other things to do in the Tillamook area:<br><br>
 		<a href="https://52perfectdays.com/articles/savoring-tillamooks-cheese-and-coastal-beauty/">
 		52perfectdays.com/articles/savoring-tillamooks-cheese-and-coastal-beauty</a></td>
 	<td valign="top" width="49%">
 	<a href="https://d3uw6f38ocgirn.cloudfront.net/media/up/116/
 	b2ffab338a4bbd209a7382659418949a_TillamookCheeseFactory.jpg">
-	<img border="0" src="nw/coast-till-creamery.jpg" width="440" height="330"></a><br><br>
+	<img border="0" src="images-nw/coast-till-creamery.jpg" width="440" height="330"></a><br><br>
 	Below: Mary swears by the Blue Heron French Cheese Company for a stop (if you prefer 
 	Brie over Cheddar cheese). She says that they have very good sandwiches.<br><br>
 	<a href="https://bloximages.chicago2.vip.townnews.com/tillamookheadlightherald.com/
 	content/tncms/assets/v3/editorial/7/b2/7b252a34-e6e8-11e9-b85b-176ed239b473/5d97b08f92ebb.
-	image.jpg?resize=667,500"><img src="nw/coast-till-blue-heron.JPG" width="354" height="285"></a><br></td>
+	image.jpg?resize=667,500"><img src="images-nw/coast-till-blue-heron.JPG" width="354" height="285"></a><br></td>
 </table></div>
 
 <div id="site-table"><p class="site-header-txt">Tillamook Air Museum<br>
@@ -1551,26 +1550,26 @@ Former Tillamook Naval Air Station (aka Blimp Base)<br></p>
 		!4m6!3m5!1s0x54eb2a71a7678487:0x549b9af997c2141!8m2!3d45.4206976!4d-123.8035761!16zL20vMDVfMW53?hl=
 		en&entry=ttu">Google Maps</a><br></td>
 	<td valign="top" width="50%">
-	<img border="0" src="nw/coast-tillamook-blimp-hanger.JPG" width="440" height="212"><br><br>
-	<img border="0" src="nw/coast-tillamook-blimp-aircraft.JPG" width="440" height="272"></td>
+	<img border="0" src="images-nw/coast-tillamook-blimp-hanger.JPG" width="440" height="212"><br><br>
+	<img border="0" src="images-nw/coast-tillamook-blimp-aircraft.JPG" width="440" height="272"></td>
 </table></div>
 
 <div id="site-table"><p class="site-header-txt">Munson Creek Falls State Natural Site<br></p>
 <table width="100%"><td valign="top" width="50%">
 		Area <span class="f2">C</span> - South the Tillamook Air Station about 3 miles. Then about 1.5 miles 
-		East of Hwy 101 <img border="0" src="nw/boot-print.gif" width="20" height="20"> <img border="0" src=
-		"nw/symbol-binos.gif" width="20" height="20"><br><br>
+		East of Hwy 101 <img border="0" src="images-nw/boot-print.gif" width="20" height="20"> <img border="0" src=
+		"images-nw/symbol-binos.gif" width="20" height="20"><br><br>
 		<a href="https://stateparks.oregon.gov/index.cfm?do=park.profile&parkId=175">stateparks.oregon.gov</a><br><br>
 		Munson Creek Falls is a very picturesque falls. Only about a 1/4 mile from the parking lot.<br><br>
 		<a href="https://www.google.com/maps/place/Munson+Creek+Falls+State+Natural+Site/@45.362468,-123.7796847,
 		15z/data=!3m1!4b1!4m6!3m5!1s0x54ead4217fbbd64b:0x1ae9a5807701766e!8m2!3d45.362469!4d-123.7693635!16s%
 		2Fm%2F04q2xy_?hl=en&entry=ttu&g_ep=EgoyMDI1MDQxNi4xIKXMDSoJLDEwMjExNjQwSAFQAw%3D%3D">Google Maps</a><br><br>
 		<a href="https://wandering-through-time-and-place.com/wp-content/uploads/2017/12/top-of-munson-creek-falls.jpg">
-		<img border="0" src="nw/coast-munson-ck-falls2.JPG" width="440" height="296"></a><br><br>
+		<img border="0" src="images-nw/coast-munson-ck-falls2.JPG" width="440" height="296"></a><br><br>
 		<a href="https://www.iheartpacificnorthwest.com/wp-content/uploads/2023/03/Munson-Creek-Falls-March-2023-01.jpg">
-		<img border="0" src="nw/coast-munson-ck-falls3.JPG" width="440" height="191"></a></td>
+		<img border="0" src="images-nw/coast-munson-ck-falls3.JPG" width="440" height="191"></a></td>
 	<td valign="top" width="50%"><a href="https://www.willhiteweb.com/oregon_travel/
-	munson_creek_falls/munson-creek-oregon-coast.jpg"><img border="0" src="nw/coast-munson-ck-falls.JPG" width="440" 
+	munson_creek_falls/munson-creek-oregon-coast.jpg"><img border="0" src="images-nw/coast-munson-ck-falls.JPG" width="440" 
 	height="635"></a></td>
 </table></div>
 
@@ -1578,7 +1577,7 @@ Former Tillamook Naval Air Station (aka Blimp Base)<br></p>
 <table width="100%"><td valign="top" width="50%">
 		Area <span class="f2">C</span> - 60 miles West of Beaverton (about 
 		10 road miles West of Tillamook) 
-		<img border="0" src="nw/symbol-binos.gif" width="20" height="20"><br><br>
+		<img border="0" src="images-nw/symbol-binos.gif" width="20" height="20"><br><br>
 		<a href="https://stateparks.oregon.gov/index.cfm?do=park.profile&parkId=131">
 		stateparks.oregon.gov</a><br><br>
 		Built/activated in 1890. The original lighthouse stayed in operation until 1963.<br><br>
@@ -1595,7 +1594,7 @@ Former Tillamook Naval Air Station (aka Blimp Base)<br></p>
 		en&entry=ttu">Google Maps</a></td>
 	<td valign="top" width="50%"><a href="https://thumb.spokesman.com/Ok6IzSZnd1KsjacJ-h4tNGbZQzU=/
 	2500x1875/smart/media.spokesman.com/photos/2015/04/19/trv_19Cape_Meares2.jpg"><img border="0" src=
-	"nw/coast-cape-meares.jpg" width="440" height="330"></a></td>
+	"images-nw/coast-cape-meares.jpg" width="440" height="330"></a></td>
 </table></div>
 
 <div id="site-table"><p class="site-header-txt">Lincoln City<br></p>
@@ -1613,32 +1612,32 @@ Former Tillamook Naval Air Station (aka Blimp Base)<br></p>
 	<td valign="top" width="50%"><a href="https://bloximages.newyork1.vip.townnews.com/
 	newportnewstimes.com/content/tncms/assets/v3/editorial/f/84/f84149ac-0b02-11ee-aa3d-
 	5ff54ccb7778/648a3f5bc1f54.image.jpg?resize=1200,800">
-	<img border="0" src="nw/coast-lincoln-city.jpg" width="440" height="282"></a></td>
+	<img border="0" src="images-nw/coast-lincoln-city.jpg" width="440" height="282"></a></td>
 </table></div>
 
 <div id="site-table"><p class="site-header-txt">Robert's Bookshop<br></p>
 <table width="100%"><td valign="top" width="50%">
 		Area <span class="f2">C</span> - Just South Lincoln City <img border="0" 
-		src="nw/symbol-stopwatch.gif" width="20" height="22"><br><br>
+		src="images-nw/symbol-stopwatch.gif" width="20" height="22"><br><br>
 		<a href="https://www.robertsbookshop.com">robertsbookshop.com</a><br><br>
 		Hidden jewel used book store on the highway down to Newport. Always worth a stop to check out. 
 		During random past stops while traveling down the coast, I have found some great books for my collection.<br><br>
 		They have a fairly decent collection of local travel books.<br><br>
 		I think this is the best used bookstore along the Oregon coast.<br><br>
-		Recent newsaper <a href="nw/coast-roberts-bookshop.pdf">article</a>.<br><br>
+		Recent newsaper <a href="images-nw/coast-roberts-bookshop.pdf">article</a>.<br><br>
 		<a href="https://www.google.com/maps/place/Robert's+Bookshop/@44.9757992,
 		-124.1579314,11.17z/data=!4m6!3m5!1s0x54ea8db48c4497b1:0x5ed2eb89dd7a2831!
 		8m2!3d44.9417954!4d-124.0209268!16s/g/1vp6zxvb?hl=en&entry=ttu">Google Maps</a><br></td>
 	<td valign="top" width="50%"><p style="text-align: center"><a href=
 	"https://media-cdn.tripadvisor.com/media/photo-s/16/f0/bb/e9/romance-genre-friendly.jpg">
-	<img border="0" src="nw/coast-roberts-books.jpg" width="329" height="321"></a></p></td>
+	<img border="0" src="images-nw/coast-roberts-books.jpg" width="329" height="321"></a></p></td>
 </table></div>
 
 <div id="site-table"><p class="site-header-txt">Drift Creek Falls Trail<br></p>
 <table width="100%"><td valign="top" width="50%">
 		Area <span class="f2">C</span> - 8 miles East of Lincoln City
-		<img border="0" src="nw/boot-print.gif" width="20" height="20"> <img border="0" src=
-		"nw/symbol-binos.gif" width="20" height="20"><br><br>
+		<img border="0" src="images-nw/boot-print.gif" width="20" height="20"> <img border="0" src=
+		"images-nw/symbol-binos.gif" width="20" height="20"><br><br>
 		<a href="https://www.fs.usda.gov/recarea/siuslaw/recarea/?recid=42683">fs.usda.gov</a><br><br>
 		$5/vehicle<br><br>
 		The 3.1 mile roundtrip hike is considered moderately challenging (about 1.5 hrs). Neat 
@@ -1647,20 +1646,20 @@ Former Tillamook Naval Air Station (aka Blimp Base)<br></p>
 		@45.3871535,-123.9540325,8.54z/data=!4m6!3m5!1s0x54ea9102271d9a81:0xd50c33385381d7b8!
 		8m2!3d44.9355524!4d-123.8555587!16s/g/11h0qkhd_?hl=en&entry=ttu">Google Maps</a></td>
 	<td valign="top" width="50%"><a href="https://recklessroaming.com/wp-content/uploads/2019/10/Blog-Pics-1.png">
-	<img border="0" src="nw/coast-drift-ck-falls.jpg" width="440" height="294"></a></td>
+	<img border="0" src="images-nw/coast-drift-ck-falls.jpg" width="440" height="294"></a></td>
 </table></div>
 
 <div id="site-table"><p class="site-header-txt">Devil's Punchbowl<br></p>
 <table width="100%"><td valign="top" width="50%">
 		Area <span class="f2">C</span> - 15 miles South of Lincoln City
-		<img border="0" src="nw/symbol-stopwatch.gif" width="20" height="22"><br><br>
+		<img border="0" src="images-nw/symbol-stopwatch.gif" width="20" height="22"><br><br>
 		<a href="https://stateparks.oregon.gov/index.cfm?do=park.profile&parkId=156">
 		stateparks.oregon.gov</a><br><br>
 		Free admission<br><br>
 		<a href="https://i.ytimg.com/vi/vFhwPBfn-r8/maxresdefault.jpg">
-		<img border="0" src="nw/coast-devils-punchbowl2.JPG" width="440" height="298"></a></td>
+		<img border="0" src="images-nw/coast-devils-punchbowl2.JPG" width="440" height="298"></a></td>
 	<td valign="top" width="50%"><a href="https://images.fineartamerica.com/images/artworkimages/
-	mediumlarge/1/devils-punchbowl-oregon-shannon-louder.jpg"><img border="0" src="nw/coast-devils-
+	mediumlarge/1/devils-punchbowl-oregon-shannon-louder.jpg"><img border="0" src="images-nw/coast-devils-
 	punchbowl1.JPG" width="440" height="301"></a><br><br>
 	Need to time your visit with the high tide for best experience.<br><br>
 	<a href="https://www.google.com/maps/place/Devils+Punch+Bowl/@45.2594559,-123.3733836,
@@ -1671,13 +1670,13 @@ Former Tillamook Naval Air Station (aka Blimp Base)<br></p>
 <div id="site-table"><p class="site-header-txt">Newport<br></p>
 <table width="100%"><td valign="top" width="50%">
 		Area <span class="f2">C</span> - 85 miles southwest of Beaverton
-		<img border="0" src="nw/symbol-binos.gif" width="20" height="20"><br><br>
+		<img border="0" src="images-nw/symbol-binos.gif" width="20" height="20"><br><br>
 		<a href="https://www.tripadvisor.com/Attractions-g51992-Activities-Newport_Oregon.html">
 		tripadvisor.com/Attractions-g51992-Activities-Newport_Oregon</a><br><br>
-		The lighthouses charge admission <img border="0" src="nw/symbol-ticket.gif" 
+		The lighthouses charge admission <img border="0" src="images-nw/symbol-ticket.gif" 
 		width="21" height="21"><br><br>
-		<img border="0" src="nw/coast-newport2.jpg" width="440" height="337"><br></td>
-	<td valign="top" width="50%"><img border="0" src="nw/coast-newport1.jpg" width="440" height="271"><br><br>
+		<img border="0" src="images-nw/coast-newport2.jpg" width="440" height="337"><br></td>
+	<td valign="top" width="50%"><img border="0" src="images-nw/coast-newport1.jpg" width="440" height="271"><br><br>
 	Various activities include:<br>
 	<ul>
 		<li>2 nearby lighthouses: Yaquina Head (above), Yaquina Bay (left)</li>
@@ -1694,15 +1693,15 @@ Former Tillamook Naval Air Station (aka Blimp Base)<br></p>
 <div id="site-table"><p class="site-header-txt">Yachats<br></p>
 <table width="100%"><td valign="top" width="50%">
 		Area <span class="f2">C</span> - 100 miles SW of Beaverton
-		<img border="0" src="nw/symbol-binos.gif" width="20" height="20">
-		<img border="0" src="nw/symbol-stopwatch.gif" width="20" height="22"><br><br>
+		<img border="0" src="images-nw/symbol-binos.gif" width="20" height="20">
+		<img border="0" src="images-nw/symbol-stopwatch.gif" width="20" height="22"><br><br>
 		About 20 miles south of Newport<br><br>
 		<a href="https://stateparks.oregon.gov/index.cfm?do=park.profile&parkId=94">
 		stateparks.oregon.gov</a><br><br>
 		<a href="https://images.contentstack.io/v3/assets/blt00454ccee8f8fe6b/blt3da8
 		920732acf41e/61810cba8544150f29ab10be/US_Yachats_US_Header.jpg">
-		<img border="0" src="nw/coast-yachats2.JPG" width="440" height="312"></a><br></td>
-	<td valign="top" width="50%"><img border="0" src="nw/coast-yachats1.JPG" width="440" height="300"><br><br>
+		<img border="0" src="images-nw/coast-yachats2.JPG" width="440" height="312"></a><br></td>
+	<td valign="top" width="50%"><img border="0" src="images-nw/coast-yachats1.JPG" width="440" height="300"><br><br>
 	The beaches near the town of Yachats are very picturesque. Worth of 
 	a brief stop if even only to stretch your legs.<br><br>
 	<a href="https://www.google.com/maps/place/Yachats+State+Recreation+Area/@45.0143185,
@@ -1713,7 +1712,7 @@ Former Tillamook Naval Air Station (aka Blimp Base)<br></p>
 <div id="site-table"><p class="site-header-txt">Thor's Well<br></p>
 <table width="100%"><td valign="top" width="50%">
 		Area <span class="f2">C</span> - 105 miles Southwest of Beaverton
-		<img border="0" src="nw/symbol-stopwatch.gif" width="20" height="22"><br><br>
+		<img border="0" src="images-nw/symbol-stopwatch.gif" width="20" height="22"><br><br>
 		About 25 miles south of Newport<br><br>
 		<a href="https://www.yachatsoregon.org/295/Thors-Well">yachatsoregon.org/295/Thors-Well</a><br><br>
 		I understand that at high tide this site is amazing to see.<br><br>
@@ -1721,7 +1720,7 @@ Former Tillamook Naval Air Station (aka Blimp Base)<br></p>
 		-124.5387467,8.58z?hl=en&entry=ttu">Google Maps</a></td>
 	<td valign="top" width="50%"><a href="https://hips.hearstapps.com/housebeautiful/
 	assets/17/11/1489593643-index-thors-well-final.jpg">
-	<img border="0" src="nw/coast-south-thors-well.JPG" width="440" height="284"></a></td>
+	<img border="0" src="images-nw/coast-south-thors-well.JPG" width="440" height="284"></a></td>
 </table></div>
 
 <div id="site-table"><p class="site-header-txt">Sea Lion Caves<br></p>
@@ -1739,23 +1738,23 @@ Former Tillamook Naval Air Station (aka Blimp Base)<br></p>
 		-124.3053167,8.25z/data=!4m6!3m5!1s0x54c185ede1a2ad5d:0x6d8ccef87b60c11f!
 		8m2!3d44.1217756!4d-124.1267085!16zL20vMGM1bDE2?hl=en&entry=ttu">Google Maps</a></td>
 	<td valign="top" width="50%"><a href="https://curiocity.com/wp-content/uploads/2023/08/cover-31-1255x600.jpg">
-	<img border="0" src="nw/coast-sealion-caves.JPG" width="440" height="296"></a></td>
+	<img border="0" src="images-nw/coast-sealion-caves.JPG" width="440" height="296"></a></td>
 </table></div>
 
 <div id="site-table"><p class="site-header-txt">Heceta Lighthouse<br></p>
 <table width="100%"><td valign="top" width="50%">
-		Area <span class="f2">C</span> - 125 miles SW of Beaverton <img border="0" src="nw/boot-print.gif" 
-		width="20" height="20"> <img border="0" src="nw/symbol-binos.gif" width="20" height="20"><br><br>
+		Area <span class="f2">C</span> - 125 miles SW of Beaverton <img border="0" src="images-nw/boot-print.gif" 
+		width="20" height="20"> <img border="0" src="images-nw/symbol-binos.gif" width="20" height="20"><br><br>
 		About 45 miles south of Newport<br><br>
 		<a href="https://stateparks.oregon.gov/index.cfm?do=park.profile&parkId=86">stateparks.oregon.gov</a><br></p>
 		<p style="text-align: center">Lighthouse looking North from the highway<br>
 		<a href="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Evening_Light_
 		At_Heceta_Head_(27770099658).jpg/1200px-Evening_Light_At_Heceta_Head_(27770099658).jpg">
-		<img border="0" src="nw/coast-south-heceta-LH-from-hwy.JPG" width="440" height="306"></a></td>
+		<img border="0" src="images-nw/coast-south-heceta-LH-from-hwy.JPG" width="440" height="306"></a></td>
 	<td valign="top" width="50%">
 	<p style="text-align: center">Lighthouse looking South<br>
 	<a href="https://live.staticflickr.com/3652/3626612696_e776ba0eb7_b.jpg">
-	<img border="0" src="nw/coast-south-heceta-LH-ocean-view.JPG" width="440" height="294"></a></p>
+	<img border="0" src="images-nw/coast-south-heceta-LH-ocean-view.JPG" width="440" height="294"></a></p>
 	The hike from the parking lot to the lighthouse is about 1.5 miles (150	ft elevation 
 	gain). Longer hike to some nearby interpretive sites and campground.<br><br>
 	This lighthouse is the subject of many post cards.<br><br>
@@ -1767,14 +1766,14 @@ Former Tillamook Naval Air Station (aka Blimp Base)<br></p>
 <div id="site-table"><p class="site-header-txt">Oregon Dunes<br></p>
 <table width="100%"><td valign="top" width="50%">
 		Area <span class="f2">	C</span> - 150 miles SW of Beaverton
-		<img border="0" src="nw/symbol-binos.gif" width="20" height="20"><br><br>
+		<img border="0" src="images-nw/symbol-binos.gif" width="20" height="20"><br><br>
 		The Oregon Dunes are the largest expanse of coastal sand dunes in North America 
 		and one of the largest expanses of temperate coastal sand dunes in the world.<br><br>
 		<a href="https://www.sandland.com/wp-content/uploads/2014/03/Giant-Dune-Buggy-1.jpg">
-		<img border="0" src="nw/coast-dunes2.JPG" width="440" height="307"></a></td>
+		<img border="0" src="images-nw/coast-dunes2.JPG" width="440" height="307"></a></td>
 	<td valign="top" width="50%"><p style="text-align: left"><a href="https://live.
 	staticflickr.com/838/43176781142_4cfbda5288_b.jpg">
-	<img border="0" src="nw/coast-dunes1.JPG" width="440" height="270"></a></p>
+	<img border="0" src="images-nw/coast-dunes1.JPG" width="440" height="270"></a></p>
 	<a href="https://traveloregon.com/things-to-do/destinations/parks-forests-wildlife-
 	areas/a-locals-guide-to-the-oregon-dunes/">	traveloregon.com/things-to-do/
 	destinations/parks-forests-wildlife-areas/a-locals-guide-to-the-oregon-dunes</a><br><br>
@@ -1807,7 +1806,7 @@ Former Tillamook Naval Air Station (aka Blimp Base)<br></p>
 	<td valign="top" width="50%"><a href="https://assets.simpleviewinc.com/simpleview/
 	image/upload/c_limit,h_1200,q_75,w_1200/v1/clients/vancouverusa/Grant_Street_Pier_
 	waterfront_edit_for_ad_c0292287-d94d-4eef-b7b0-0c5045bf8902.jpg">
-	<img border="0" src="nw/wa-vancouver-waterfront.jpg" width="440" height="325"></a></td>
+	<img border="0" src="images-nw/wa-vancouver-waterfront.jpg" width="440" height="325"></a></td>
 </table></div>
 
 <div id="site-table"><p class="site-header-txt">Fort Vancouver<br></p>
@@ -1822,10 +1821,10 @@ Former Tillamook Naval Air Station (aka Blimp Base)<br></p>
 		<p style="text-align: center">Officers Row
 		<a href="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/c7/65/5a/
 		20190528-161018-largejpg.jpg?w=1200&h=1200&s=1">
-		<img border="0" src="nw/wa-officers-row.jpg" width="440" height="244"></a></p></td>
+		<img border="0" src="images-nw/wa-officers-row.jpg" width="440" height="244"></a></p></td>
 	<td valign="top" width="50%"><a href="https://d3mqmy22owj503.cloudfront.net/05/500005/images
 	/poi/fort-vancouver-national-historic-site/96-fort-vancouver-national-historic-site-1-1.jpg">
-	<img border="0" src="nw/wa-fort-vancouver.jpg" width="440" height="326"></a><br><br>
+	<img border="0" src="images-nw/wa-fort-vancouver.jpg" width="440" height="326"></a><br><br>
 	I am a fan of the Officers Row. Picturesque walk. Includes residence of George Marshall when 
 	he was stationed there 1936-1938 prior to WWII (as the one star general in charge of the 5th 
 	Army Brigade based at Fort Vancouver). During this job he was also in charge of 35 CCC 
@@ -1839,7 +1838,7 @@ Former Tillamook Naval Air Station (aka Blimp Base)<br></p>
 Volcanic Monument Visitor Center <br></p>
 <table width="100%"><td valign="top" width="49%">
 		Area <span class="f2">D</span> - 50 miles NE of Vancouver
-		<img border="0" src="nw/symbol-binos.gif" width="20" height="20"> <br><br>
+		<img border="0" src="images-nw/symbol-binos.gif" width="20" height="20"> <br><br>
 		<a href="https://www.usgs.gov/volcanoes/mount-st.-helens/mount-st-helens-
 		national-volcanic-monument">usgs.gov/volcanoes/mount-st.-helens/
 		mount-st-helens-national-volcanic-monument</a><br><br>
@@ -1847,12 +1846,12 @@ Volcanic Monument Visitor Center <br></p>
 		The highway drive to the site is an achievement in civil engineering and 
 		recovery after the volcano blew in 1980.<br><br>
 		Admission to Visitor Center $5
-		<img border="0" src="nw/symbol-ticket.gif" width="21" height="21"><p style="text-align: center">May 1980<br>
+		<img border="0" src="images-nw/symbol-ticket.gif" width="21" height="21"><p style="text-align: center">May 1980<br>
 		<a href="https://www.oregonlive.com/projects/mount-st-helens/media/helens_page06_09.jpg">
-		<img border="0" src="nw/wa-mt-st-helens1.jpg" width="440" height="359"></a></p></td>
+		<img border="0" src="images-nw/wa-mt-st-helens1.jpg" width="440" height="359"></a></p></td>
 	<td valign="top" width="49%"><a href="https://cdn6.creativecirclemedia.com/lafromboise/
 	original/20230512-091843-news.230508.mount.st.helens.jw.JPG">
-	<img border="0" src="nw/wa-mt-st-helens.jpg" width="440" height="312"></a><br><br>
+	<img border="0" src="images-nw/wa-mt-st-helens.jpg" width="440" height="312"></a><br><br>
 	Short story: Mount St Helens blew in May 1980. For summer break following my Academy plebe year 
 	(a month later), I flew into Seattle and took a bus down to Portland. During the ride south on the 
 	Interstate, I remember looking out the tinted bus windows not thinking anything unusual. When we 
@@ -1873,8 +1872,8 @@ Volcanic Monument Visitor Center <br></p>
 
 <div id="site-table"><p class="site-header-txt">Mount Hood Loop<br></p>
 <table width="100%"><td valign="top" width="50%">
-		<a href="nw/map-mt-hood-loop-large.jpg">
-		<img border="0" src="nw/map-mt-hood-loop.jpg" width="440" height="288"></a><br></td>
+		<a href="images-nw/map-mt-hood-loop-large.jpg">
+		<img border="0" src="images-nw/map-mt-hood-loop.jpg" width="440" height="288"></a><br></td>
 	<td valign="top" width="50%">The yellow loop is about a 170 mile car 
 	trip less stop locations. Worth the time to get the Columbia George and Mount Hood/Timberline Lodge 
 	in a single day.<br><br>
@@ -1885,8 +1884,8 @@ Volcanic Monument Visitor Center <br></p>
 <div id="site-table"><p class="site-header-txt">Vista House at Crown Point<br></p>
 <table width="100%"><td valign="top" width="50%">
 		Area <span class="f2">E</span> - 26 miles East of Beaverton
-		<img border="0" src="nw/symbol-stopwatch.gif" width="20" height="22">
-		<img border="0" src="nw/symbol-binos.gif" width="20" height="20"><br><br>
+		<img border="0" src="images-nw/symbol-stopwatch.gif" width="20" height="22">
+		<img border="0" src="images-nw/symbol-binos.gif" width="20" height="20"><br><br>
 		<a href="https://vistahouse.com">vistahouse.com</a><br><br>
 		View of the Columbia River Gorge<br><br>
 		The building itself is only open very limited hours.<br><br>
@@ -1894,14 +1893,14 @@ Volcanic Monument Visitor Center <br></p>
 		<p style="text-align: center">Rooster Rock<br>
 		<a href="https://www.nps.gov/common/uploads/cropped_image/primary/BF70A694-ECA8-
 		907C-7AD51B39E439FCB8.jpg?width=1600&quality=90&mode=crop">
-		<img border="0" src="nw/east-lp-rooster-rock.JPG" width="440" height="297"></a></p></td>
+		<img border="0" src="images-nw/east-lp-rooster-rock.JPG" width="440" height="297"></a></p></td>
 	<td valign="top" width="50%">
 	<p style="text-align: center">Vista House<br><a href="https://
 	res.cloudinary.com/dragonspell/images/w_1440,h_864,c_scale,
 	dpr_auto,fl_progressive:steep,f_auto/w_1440,h_864/v1571420631/www.travelportland.
 	com/Vista-House-Columbia-River-Gorge-Photo-by-Travel-Oregon-aspect-ratio-5x3/
 	Vista-House-Columbia-River-Gorg">
-	<img border="0" src="nw/east-lp-vista-hse.jpg" width="440" height="355"></a></p>
+	<img border="0" src="images-nw/east-lp-vista-hse.jpg" width="440" height="355"></a></p>
 	Near Vista House is Rooster Rock (left). In 1805 as Lewis and Clark were paddling down the 
 	Columbia River toward the Pacific, this is the point where they noticed that there was a 
 	tidal influence on the river meaning they were getting close to the ocean. The nearby 
@@ -1914,7 +1913,7 @@ Volcanic Monument Visitor Center <br></p>
 <div id="site-table"><p class="site-header-txt">Multnomah Falls<br></p>
 <table width="100%"><td valign="top" width="50%">
 		Area <span class="f2">E</span> - 32 miles East of Beaverton <img border="0" src=
-		"nw/boot-print.gif" width="20" height="20"> <img border="0" src="nw/symbol-binos.gif" 
+		"images-nw/boot-print.gif" width="20" height="20"> <img border="0" src="images-nw/symbol-binos.gif" 
 		width="20" height="20"><br><br>
 		<a href="https://www.oregon.com/attractions/multnomah_falls">
 		oregon.com/attractions/multnomah_falls</a><br><br>
@@ -1923,9 +1922,9 @@ Volcanic Monument Visitor Center <br></p>
 		in the entire United States. Nice hike to first bridge over the falls.<br><br>
 		$2/pp reservations per vehicle (timed use permits).<br><br>
 		<a href="https://notaboutthemiles.com/wp-content/uploads/2021/04/Multnomah-Falls-Columbia-River-Gorge.jpg">
-		<img border="0" src="nw/east-lp-multnomah-falls2.jpg" width="440" height="586"></a><br></td>
+		<img border="0" src="images-nw/east-lp-multnomah-falls2.jpg" width="440" height="586"></a><br></td>
 	<td valign="top" width="50%"><a href="https://carsonridgecabins.com/wp-content/
-	uploads/2017/05/Multnomah-Falls.jpg"><img border="0" src="nw/east-lp-multnomah-falls.jpg" 
+	uploads/2017/05/Multnomah-Falls.jpg"><img border="0" src="images-nw/east-lp-multnomah-falls.jpg" 
 	width="440" height="629"></a><br><br>
 	<a href="https://www.google.com/maps/place/Multnomah+Falls/@45.6416341,
 	-122.5527586,10z/data=!4m6!3m5!1s0x5495eb3601ec5e6b:0xc26bd1e8d3abe27!
@@ -1947,23 +1946,23 @@ Volcanic Monument Visitor Center <br></p>
 	<td valign="top" width="50%"><a href="https://beautifuloregon.com/wp-content/uploads/
 	US-Highway-30-Old-Columbia-River-Gorge-Highway-Multnomah-County-Oregon-landscape-
 	photography-511-177-617.jpg">
-	<img border="0" src="nw/east-lp-columbia-river-hwy.jpg" width="440" height="323"></a></td>
+	<img border="0" src="images-nw/east-lp-columbia-river-hwy.jpg" width="440" height="323"></a></td>
 </table></div>
 
 <div id="site-table"><p class="site-header-txt">Various Columbia River Gorge Day Hikes<br></p>
 <table width="100%"><td valign="top" width="50%">
 		Area <span class="f2">E</span>&nbsp;- 32 to 64 miles East of Beaverton <img border="0" 
-		src="nw/boot-print.gif" width="20" height="20"> <img border="0" src="nw/symbol-binos.gif" width="20" height="20"><br><br>
+		src="images-nw/boot-print.gif" width="20" height="20"> <img border="0" src="images-nw/symbol-binos.gif" width="20" height="20"><br><br>
 		Including Multnomah Falls, there are numerous short and long day hikes along the Historic 
 		Columbia River (Gorge) Hwy. If you have an interest in hiking one or more of the trails, 
 		it is probably more time effective to make a day of just the Gorge. And not the entire 
 		Mount Hood loop shown by the above map in the same day.<br><br>
 		<a href="https://www.google.com/maps/d/viewer?mid=1NcSfaKhIceZWsKAc_
 		McsjOt53X5RDd0&femb=1&ll=45.47123102861248,-122.13735254593922&z=10">
-		<img border="0" src="nw/map-columbia-river-hikes.JPG" width="440" height="244"></a></td>
+		<img border="0" src="images-nw/map-columbia-river-hikes.JPG" width="440" height="244"></a></td>
 	<td valign="top" width="50%"><a href="https://www.territorysupply.com/wp-content/uploads/2019/05/
 	waterfall-hikes-columbia-river-gorge.jpg"><img border="0" src=
-	"nw/east-lp-columbia-rvr-hikes.jpg" width="440" height="291"></a><br><br>
+	"images-nw/east-lp-columbia-rvr-hikes.jpg" width="440" height="291"></a><br><br>
 	<a href="https://oregonobsessed.com/best-columbia-river-gorge-hikes/">
 	oregonobsessed.com/best-columbia-river-gorge-hikes</a><br><br>
 	<a href="https://www.pinesnvines.com/adventures/short-hikes-columbia-gorge">
@@ -1981,14 +1980,14 @@ Volcanic Monument Visitor Center <br></p>
 		<a href="https://www.google.com/maps/search/Bonneville+Dam/Day+Use+Area/Fish+Hatchery/
 		@45.7221679,-122.368245,9.75z?hl=en&entry=ttu">Google Maps</a><br></td>
 	<td valign="top" width="50%"><a href="https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/
-	LCTYOCXMORAMPIYY46IJ7DCIGA.jpg"><img border="0" src="nw/east-lp-bonneville.jpg" 
+	LCTYOCXMORAMPIYY46IJ7DCIGA.jpg"><img border="0" src="images-nw/east-lp-bonneville.jpg" 
 	width="440" height="263"></a></td>
 </table></div>
 
 <div id="site-table"><p class="site-header-txt">Hood River<br></p>
 <table width="100%"><td valign="top" width="50%">
 		Area <span class="f2">E</span> - 60 miles East of Beaverton
-		<img border="0" src="nw/symbol-binos.gif" width="20" height="20"><br><br>
+		<img border="0" src="images-nw/symbol-binos.gif" width="20" height="20"><br><br>
 		<a href="https://thegorgeguide.com/things-to-do-in-hood-river-oregon/">
 		thegorgeguide.com/things-to-do-in-hood-river-oregon</a><br><br>
 		<a href="https://uprootedtraveler.com/things-to-do-in-hood-river/">
@@ -1999,9 +1998,9 @@ Volcanic Monument Visitor Center <br></p>
 		<a href="https://res.cloudinary.com/dragonspell/images/w_1440,h_864,
 		c_fill,dpr_auto,fl_progressive:steep,f_auto/w_1440,h_864/v1571422348/
 		www.travelportland.com/WindSurfing_03/WindSurfing_03.jpg">
-		<img border="0" src="nw/east-lp-hood-river.jpg" width="440" height="408"></a><br></td>
+		<img border="0" src="images-nw/east-lp-hood-river.jpg" width="440" height="408"></a><br></td>
 	<td valign="top" width="50%"><p><a href="https://kitejungle.com/wp-content/uploads/2022/05/Lyle-Sandbar.jpg">
-	<img border="0" src="nw/east-lp-hood-river2.jpg" width="440" height="254"></a><br><br>
+	<img border="0" src="images-nw/east-lp-hood-river2.jpg" width="440" height="254"></a><br><br>
 	Hood River is a small town along the Columbia River. It is the southward turning point 
 	on the Mount Hood Loop drive. There are various things to view/do including:</p>
 	<ul>
@@ -2020,8 +2019,8 @@ Volcanic Monument Visitor Center <br></p>
 <div id="site-table"><p class="site-header-txt">Stonehenge Memorial<br></p>
 <table width="100%"><td valign="top" width="50%">
 		Area <span class="f2">E</span> - 100 miles East of Beaverton
-		<img border="0" src="nw/symbol-stopwatch.gif" width="20" height="22"> 
-		<img border="0" src="nw/symbol-binos.gif" width="20" height="20"><br><br>
+		<img border="0" src="images-nw/symbol-stopwatch.gif" width="20" height="22"> 
+		<img border="0" src="images-nw/symbol-binos.gif" width="20" height="20"><br><br>
 		Located 40 miles beyond Hood River overlooking the Columbia River.<br><br>
 		This is a WWI memorial in the form of a replica Stonehenge.<br>	<br>
 		<a href="https://www.maryhillmuseum.org/outside/stonehenge-memorial">
@@ -2038,24 +2037,24 @@ Volcanic Monument Visitor Center <br></p>
 	myz4x37rY4Ea8Itrw2NYy1XEmh8wLd7lZzJGHM4tlM4/rs:fill:580:580:1/g:ce/
 	q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/
 	cGxvYWRzL3BsYWNl/X2ltYWdlcy8zNTQ0/NjIzODk4XzhlMmM3/NDFjMjhfby5qcGc.jpg">
-	<img border="0" src="nw/wa-stonehenge.JPG" width="440" height="326"></a></td>
+	<img border="0" src="images-nw/wa-stonehenge.JPG" width="440" height="326"></a></td>
 </table></div>
 
 <div id="site-table"><p class="site-header-txt">Parkdale Lava Flow<br></p>
 <table width="100%"><td valign="top" width="50%">
 		Area <span class="f2">E</span> - 60 miles East of Beaverton
-		<img border="0" src="nw/symbol-stopwatch.gif" width="20" height="22"><br><br>
+		<img border="0" src="images-nw/symbol-stopwatch.gif" width="20" height="22"><br><br>
 		<a href="https://wyeastblog.org/2009/03/29/parkdale-lava-flow/">
 		wyeastblog.org/2009/03/29/parkdale-lava-flow</a><br><br>This old lava flow is much 
 		more recent than the formation of Mount Hood itself. Located on the northeastern slope, 
 		I understand it can be assessed from the nearby State Hwy on the Mount Hood Loop.<br><br>
 		Looks interesting. Something you don't envision as part of your Mount Hood experience.<br><br>
 		<a href="https://www.koin.com/wp-content/uploads/sites/10/2023/07/flow.jpg?w=4608">
-		<img border="0" src="nw/east-lp-parkdale-lava-flow2.JPG" width="440" height="329"></a></td>
+		<img border="0" src="images-nw/east-lp-parkdale-lava-flow2.JPG" width="440" height="329"></a></td>
 	<td valign="top" width="50%"><p style="text-align: center"><a href="https://bloximages.
 	newyork1.vip.townnews.com/columbiagorgenews.com/content/tncms/assets/v3/editorial/1/87/
 	18759f78-2a05-5da9-86b5-411d12b623ad/5c5ca27d1d3f4.image.jpg?resize=373,500"><img border="0" 
-	src="nw/east-lp-parkdale-lava-flow.jpg" width="370" height="494"></a></p>
+	src="images-nw/east-lp-parkdale-lava-flow.jpg" width="370" height="494"></a></p>
 	<a href="https://www.google.com/maps/place/Parkdale+Lava+Flow/@45.4364808,-121.7983922,36944m/
 	data=!3m1!1e3!4m6!3m5!1s0x5495fecc3e69780d:0x572807e520a26087!8m2!3d45.4959997!4d-121.6224289!
 	16s/g/1tf7rvn8?hl=en&entry=ttu">Google Maps</a><br><br></td>
@@ -2064,7 +2063,7 @@ Volcanic Monument Visitor Center <br></p>
 <div id="site-table"><p class="site-header-txt">Tamanawas Falls<br></p>
 <table width="100%"><td valign="top" width="50%">
 		Area <span class="f2">E</span> - 60 miles East of Beaverton
-		<img border="0" src="nw/boot-print.gif" width="20" height="20"><br><br>
+		<img border="0" src="images-nw/boot-print.gif" width="20" height="20"><br><br>
 		<a href="https://www.oregonhikers.org/field_guide/tamanawas_falls_hike">
 		oregonhikers.org/field_guide/tamanawas_falls_hike</a><br><br>Nice hiking area between Hood 
 		River and Mt Hood. About a 3.4 mile hikes to the falls from the parking area.<br><br>
@@ -2072,18 +2071,18 @@ Volcanic Monument Visitor Center <br></p>
 		!4m6!3m5!1s0x54be03a16bba0bf5:0x9a61009fcac8a860!8m2!3d45.3971787!4d-121.5715891!16s%2Fg%2F1tfrx6fg?entry=
 		ttu&g_ep=EgoyMDI1MTAyOS4yIKXMDSoASAFQAw%3D%3D">Google Maps</a><br><br>
 		<a href="https://images.world-of-waterfalls.com/Tamanawas_Falls_084_08182017.jpg">
-		<img border="0" src="nw/east-lp-tama-falls1.JPG" width="440" height="295"></a><br>
+		<img border="0" src="images-nw/east-lp-tama-falls1.JPG" width="440" height="295"></a><br>
 		</td>
 	<td valign="top" width="50%"><p style="text-align: center"><a href="https://mlcshio3tyfi.i.optimole.
 	com/w:478/h:750/q:mauto/f:best/https://pdxparent.com/wp-content/uploads/2024/08/tamanawas-falls-
-	trail.jpg"><img border="0" src="nw/east-lp-tama-falls2.JPG" width="330" height="442"></a></p></td>
+	trail.jpg"><img border="0" src="images-nw/east-lp-tama-falls2.JPG" width="330" height="442"></a></p></td>
 </table></div>
 
 <div id="site-table"><p class="site-header-txt">White River Falls<br></p>
 <table width="100%"><td valign="top" width="50%">
 		Area <span class="f2">E</span> - 80 miles East of Beaverton
-		<img border="0" src="nw/symbol-stopwatch.gif" width="20" height="22"> <img border="0" 
-		src="nw/symbol-binos.gif" width="20" height="20"><br><br>
+		<img border="0" src="images-nw/symbol-stopwatch.gif" width="20" height="22"> <img border="0" 
+		src="images-nw/symbol-binos.gif" width="20" height="20"><br><br>
 		<a href="https://stateparks.oregon.gov/index.cfm?do=park.profile&parkId=28">
 		stateparks.oregon.gov</a><br><br>
 		Interesting looking state park with some nice photo opportunities.<br><br>
@@ -2094,24 +2093,24 @@ Volcanic Monument Visitor Center <br></p>
 		0xe2ad2b8b0abaca82!8m2!3d45.2402427!4d-121.0931684!16s/g/11b6zwfdf2?hl=en&entry=ttu&g_ep=
 		EgoyMDI0MTIwNC4wIKXMDSoASAFQ">Google Maps</a><br><br>
 		<a href="https://mindtrip.ai/cdn-cgi/image/format=webp,w=1200/https://iorigin.mindtrip.ai/attractions/17c2/
-		ba8e/5442/d197/d9b1/25ce/11ef/51d6"><img border="0" src="nw/east-lp-white-river-falls2.jpg" width="440" height="392"></a></td>
+		ba8e/5442/d197/d9b1/25ce/11ef/51d6"><img border="0" src="images-nw/east-lp-white-river-falls2.jpg" width="440" height="392"></a></td>
 	<td valign="top" width="50%"><p style="text-align: center"><a href="https://www.colortexturephototours.
 	com/cdn/shop/products/WhiteRiverFalls-2021-1500x1000x150_1024x1024.jpg?v=1644114882">
-	<img border="0" src="nw/east-lp-white-river-falls.jpg" width="367" height="557"></a></p></td>
+	<img border="0" src="images-nw/east-lp-white-river-falls.jpg" width="367" height="557"></a></p></td>
 </table></div>
 
 <div id="site-table"><p class="site-header-txt">Timberline Lodge at Mount Hood<br></p>
 <table width="100%"><td valign="top" width="50%">
-		Area <span class="f2">E</span> - 53 miles East of Beaverton	<img border="0" src="nw/boot-print.gif" 
-		width="20" height="20"> <img border="0" src="nw/symbol-binos.gif" width="20" height="20"><br><br>
+		Area <span class="f2">E</span> - 53 miles East of Beaverton	<img border="0" src="images-nw/boot-print.gif" 
+		width="20" height="20"> <img border="0" src="images-nw/symbol-binos.gif" width="20" height="20"><br><br>
 		<a href="https://traveloregon.com/plan-your-trip/places-to-stay/hotels-motels/timberline-lodge-2/">
 		traveloregon.com/plan-your-trip/places-to-stay/hotels-motels/timberline-lodge-2/</a><br><br>
 		<a href="https://en.wikipedia.org/wiki/Timberline_Lodge">en.wikipedia.org/wiki/Timberline_Lodge</a><br><br>
 		<a href="https://www.thecraftsmanbungalow.com/wp-content/uploads/2013/09/IMG_4775a1.jpg">
-		<img border="0" src="nw/east-lp-timberline-interior.JPG" width="405" height="480"></a><br></td>
+		<img border="0" src="images-nw/east-lp-timberline-interior.JPG" width="405" height="480"></a><br></td>
 	<td valign="top" width="50%"><a href="https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/
 	33950154.jpg?k=dcb2cd31465483242f19ef07645da791ba513935904b544384fcf1bb9019e677&o=&isSkia=true">
-	<img border="0" src="nw/east-lp-timberline-lodge.jpg" width="440" height="290"></a><br><br>
+	<img border="0" src="images-nw/east-lp-timberline-lodge.jpg" width="440" height="290"></a><br><br>
 	This mountain lodge and ski resort is at 6000 ft elevation.<br><br>
 	Outside view of the hotel is part of the movie, The Shining.<br><br>
 	Built in late 1930's at end of the Great Depression as part of the Works Progress Administration 
@@ -2124,8 +2123,8 @@ Volcanic Monument Visitor Center <br></p>
 
 <div id="site-table"><p class="site-header-txt">Trillium Lake at Mount Hood<br></p>
 <table width="100%"><td valign="top" width="50%">
-		Area <span class="f2">E</span> - 50 miles East of Beaverton <img border="0" src="nw/boot-print.gif" 
-		width="20" height="20"> <img border="0" src="nw/symbol-binos.gif" width="20" height="20"><br><br>
+		Area <span class="f2">E</span> - 50 miles East of Beaverton <img border="0" src="images-nw/boot-print.gif" 
+		width="20" height="20"> <img border="0" src="images-nw/symbol-binos.gif" width="20" height="20"><br><br>
 		<a href="https://www.tripadvisor.com/Attraction_Review-g51889-d4513494-Reviews-Trillium_Lake-
 		Government_Camp_Clackamas_County_Oregon.html">www.tripadvisor.com</a><br><br>
 		A nice lake a couple of miles below Timberline Lodge. Easy 2 mile hike around the lake. Views look nice.<br><br>
@@ -2136,12 +2135,12 @@ Volcanic Monument Visitor Center <br></p>
 		8m2!3d45.2670897!4d-121.738463!16s/g/1hc6crk72?entry=ttu">Google Maps</a><br><br></td>
 	<td valign="top" width="50%">
 	<a href="https://www.fs.usda.gov/Internet/FSE_MEDIA/fseprd1001047.png">
-	<img border="0" src="nw/east-trillium-lake.jpg" width="440" height="289"></a><br></td>
+	<img border="0" src="images-nw/east-trillium-lake.jpg" width="440" height="289"></a><br></td>
 </table></div>
 
 <div id="site-table"><p class="site-header-txt">Proxy Falls in the Willamette National Forest<br></p>
 <table width="100%"><td valign="top" width="50%">
-		Area <span class="f2">E</span> - 100 miles SE of Beaverton <img border="0" src="nw/boot-print.gif" width="20" height="20"><br><br>
+		Area <span class="f2">E</span> - 100 miles SE of Beaverton <img border="0" src="images-nw/boot-print.gif" width="20" height="20"><br><br>
 		<a href="https://www.alltrails.com/trail/us/oregon/proxy-falls">
 		www.alltrails.com/trail/us/oregon/proxy-falls</a><br><br>
 		Interesting looking park in the Willamette National Forest enroute to Bend. A 1.6 mile hike to 
@@ -2152,13 +2151,13 @@ Volcanic Monument Visitor Center <br></p>
 		11dd_t8d7b?hl=en&entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw==">Google Maps</a><br><br></td>
 	<td valign="top" width="50%">
 	<a href="https://cdn.prod.website-files.com/667093eeb1bb316e69f0e9c6/66ce440f2d8d7a4e095d2781_Proxy_Falls_065_08192009.jpg">
-	<img border="0" src="nw/east-proxy-falls.JPG" width="440" height="293"></a></td>
+	<img border="0" src="images-nw/east-proxy-falls.JPG" width="440" height="293"></a></td>
 </table></div>
 
 <div id="site-table"><p class="site-header-txt">Scout Lake in the Deschutes National Forest<br></p>
 <table width="100%"><td valign="top" width="50%">
-		Area <span class="f2">E</span> - 150 miles SE of Beaverton <img border="0" src="nw/boot-print.gif" width="20" height="20"> 
-		<img border="0" src="nw/symbol-binos.gif" width="20" height="20"><br><br>
+		Area <span class="f2">E</span> - 150 miles SE of Beaverton <img border="0" src="images-nw/boot-print.gif" width="20" height="20"> 
+		<img border="0" src="images-nw/symbol-binos.gif" width="20" height="20"><br><br>
 		<a href="https://oregondiscovery.com/scout-lake">
 		oregondiscovery.com/scout-lake</a><br><br>
 		Pcituresque park worthy for a break stop enroute to Bend. About a mile off the State Highway.<br><br>
@@ -2168,7 +2167,7 @@ Volcanic Monument Visitor Center <br></p>
 		EgoyMDI2MDYwMy4xIKXMDSoASAFQAw%3D%3D">Google Maps</a><br><br></td>
 	<td valign="top" width="50%">
 	<a href="https://oregondiscovery.com/wp-content/uploads/2016/08/sco3AuthL.jpg">
-	<img border="0" src="nw/east-scout-lake.jpg" width="440" height="278"></a></td>
+	<img border="0" src="images-nw/east-scout-lake.jpg" width="440" height="278"></a></td>
 </table></div>
 
 <div id="site-table"><p class="site-header-txt">Bend<br></p></p>
@@ -2183,7 +2182,7 @@ Volcanic Monument Visitor Center <br></p>
 		8m2!3d44.0581728!4d-121.3153096!16zL20vMHpjaGo?hl=en&entry=ttu">Google Maps</a><br><br></td>
 	<td valign="top" width="50%">
 	<a href="https://a.cdn-hotels.com/gdcs/production162/d1324/c505e095-d2d7-44e1-96ea-b3e77f449ee5.jpg">
-	<img border="0" src="nw/east-bend.jpg" width="440" height="294"></a></td>
+	<img border="0" src="images-nw/east-bend.jpg" width="440" height="294"></a></td>
 </table></div>
 
 <div id="site-table"><p class="site-header-txt">High Desert Museum<br></p>
@@ -2200,42 +2199,42 @@ Volcanic Monument Visitor Center <br></p>
 	<td valign="top" width="50%">
 	<a href="https://www.oregonlive.com/resizer/IFq1XByBwaNDkIPf4nwUgbWjgJ0=/
 	arc-anglerfish-arc2-prod-advancelocal/public/BTUBLZLATRGC3ICTI7DLZYJF5E.JPG">
-	<img border="0" src="nw/east-high-desert-museum.JPG" width="440" height="375"></a></td>
+	<img border="0" src="images-nw/east-high-desert-museum.JPG" width="440" height="375"></a></td>
 </table></div>
 
 <div id="site-table"><p class="site-header-txt">Tumalo Falls<br></p>
 <table width="100%"><td valign="top" width="50%">
 		Area <span class="f2">E</span> - 120 miles SE of Beaverton
-		<img border="0" src="nw/boot-print.gif" width="20" height="20"> <br><br>
+		<img border="0" src="images-nw/boot-print.gif" width="20" height="20"> <br><br>
 		<a href="https://gowanderwild.com/tumalo-falls-hike/">
 		gowanderwild.com/tumalo-falls-hike</a><br><br>
 		Recent <a href="https://www.oregonlive.com/travel/2023/11/tumalo-falls-loop-
 		is-one-of-central-oregons-best-waterfall-hikes.html">article</a><br><br>
 		About 30 minutes West of Bend<br><br>
 		In the Deschutes National Forest. Short hikes from parking lot for views of the Falls.<br><br>
-		$5 per vehicle <img border="0" src="nw/symbol-ticket.gif" width="21" height="21"><br><br>
+		$5 per vehicle <img border="0" src="images-nw/symbol-ticket.gif" width="21" height="21"><br><br>
 		<a href="https://www.google.com/maps/place/Tumalo+Falls/@44.9619712,
 		-123.9568708,7.58z/data=!4m6!3m5!1s0x54b8b10ed248cd3f:0x25fba35d1e66310f!
 		8m2!3d44.0339557!4d-121.5668789!16s/m/0jk_w2g?hl=en&entry=ttu">Google Maps</a><br><br>
 		<a href="https://www.oregonlive.com/resizer/kTpM7mmZeRP0VNNCVwTMdOoDVKk=/800x0/smart/
 		cloudfront-us-east-1.images.arcpublishing.com/advancelocal/G4MCHORKMJHRXPBNAEJXOWZIKE.jpg">
-		<img border="0" src="nw/east-tumalo-falls1.jpg" width="440" height="320"></a></td>
+		<img border="0" src="images-nw/east-tumalo-falls1.jpg" width="440" height="320"></a></td>
 	<td valign="top" width="50%">
 	<a href="https://res.cloudinary.com/sagacity/image/upload/v1436993282/0815-tumalo-falls_qqjhtu.jpg">
-	<img border="0" src="nw/east-tumalo-falls.jpg" width="399" height="535"></a></td>
+	<img border="0" src="images-nw/east-tumalo-falls.jpg" width="399" height="535"></a></td>
 </table></div>
 
 <div id="site-table"><p class="site-header-txt">Newberry National Volcanic Monument<br></p>
 <table width="100%"><td valign="top" width="50%">
 		Area <span class="f2">E</span> - 130 miles SE of Beaverton
-		<img border="0" src="nw/boot-print.gif" width="20" height="20">
-		<img border="0" src="nw/symbol-binos.gif" width="20" height="20"> <br><br>
+		<img border="0" src="images-nw/boot-print.gif" width="20" height="20">
+		<img border="0" src="images-nw/symbol-binos.gif" width="20" height="20"> <br><br>
 		<a href="https://www.fs.usda.gov/visit/destination/newberry-national-volcanic-monument-0">
 		www.fs.usda.gov/visit/destination/newberry-national-volcanic-monument-0</a><br><br>
 		About 25 minutes South of Bend. Within the Deschutes National Forest.<br><br>
-		$5 per vehicle <img border="0" src="nw/symbol-ticket.gif" width="21" height="21"><br><br>
+		$5 per vehicle <img border="0" src="images-nw/symbol-ticket.gif" width="21" height="21"><br><br>
 		<a href="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Newberry_caldera.jpg/1200px-Newberry_
-		caldera.jpg"><img border="0" src="nw/east-newberry-caldera.JPG" width="440" height="294"></a><br><br>
+		caldera.jpg"><img border="0" src="images-nw/east-newberry-caldera.JPG" width="440" height="294"></a><br><br>
 		This is a tough place to describe. The entire eastern Oregon area has a varied geological history. 
 		This site has several unique features in one area:
 		<ul>
@@ -2250,9 +2249,9 @@ Volcanic Monument Visitor Center <br></p>
 			with the two lakes.</li>
 		</ul></td>
 	<td valign="top" width="50%">
-	<img border="0" src="nw/east-lava-butte.JPG" width="440" height="291"><br><br>
+	<img border="0" src="images-nw/east-lava-butte.JPG" width="440" height="291"><br><br>
 	These are several of the rocks I picked up at the site. I am sure there is even more variety present:<br>
-	<img border="0" src="nw/east-rocks.jpg" width="440" height="332"><br><br>
+	<img border="0" src="images-nw/east-rocks.jpg" width="440" height="332"><br><br>
 	<a href="https://www.google.com/maps/place/Newberry+National+Volcanic+Monument/@43.8164453,
 	-121.3313318,11.17z/data=!4m6!3m5!1s0x54b8910feb09419f:0x80f9c3d2a5c2e38a!8m2!3d43.9098549!
 	4d-121.3568955!16zL20vMDFuNWZq?hl=en&entry=ttu">Google Maps</a><br></td>
@@ -2265,8 +2264,8 @@ Volcanic Monument Visitor Center <br></p>
 
 <div id="site-table"><p class="site-header-txt">Crater Lake National Park<br></p>
 <table width="100%"><td valign="top" width="50%">
-		Area <span class="f2">F</span> - 180 miles South of Beaverton <img border="0" src="nw/symbol-binos.gif" 
-		width="20" height="20">	<img border="0" src="nw/boot-print.gif" width="20" height="20"><br><br>
+		Area <span class="f2">F</span> - 180 miles South of Beaverton <img border="0" src="images-nw/symbol-binos.gif" 
+		width="20" height="20">	<img border="0" src="images-nw/boot-print.gif" width="20" height="20"><br><br>
 		<a href="https://www.nps.gov/crla/index.htm">nps.gov/crla</a><br><br>
 		Mount Mazama was typical of mountains in the Cascades. Then during a tremendous eruption about 
 		8,000 years ago, Mazama collapsed into itself. The eruption formed a large caldera that eventually 
@@ -2279,16 +2278,16 @@ Volcanic Monument Visitor Center <br></p>
 		The site is inaccessible and closed during the Winter due to accumulated snow. It reopens late 
 		Spring when the roads can finally be cleared for the public.<br><br>
 		<a href="https://www.kuhl.com/borninthemountains/sites/default/files/styles/article_inline_image/
-		public/2026-08/!6.jpg"><img border="0" src="nw/south-crater-lake1.jpg" width="440" height="295"></a></td>
+		public/2026-08/!6.jpg"><img border="0" src="images-nw/south-crater-lake1.jpg" width="440" height="295"></a></td>
 	<td valign="top" width="50%">
-	<img border="0" src="nw/south-crater-lake.jpg" width="440" height="330"><br><br>
+	<img border="0" src="images-nw/south-crater-lake.jpg" width="440" height="330"><br><br>
 	Above photo was taken during our June 2024 road trip to Eastern OR. They had just opened the park 
 	after clearing snow from the entry roads.<br><br>
-	A <a href="nw/south-crater-lake-mmp-1998.jpg">1998 photo</a> of Mary and the boys at Crater Lake<br><br>
+	A <a href="images-nw/south-crater-lake-mmp-1998.jpg">1998 photo</a> of Mary and the boys at Crater Lake<br><br>
 	On a return trip from Crater Lake, <a href="https://www.thetravel.com/waldo-lake-oregon-dead-ringer-for-
 	crater-lake-national-park/">Waldo Lake</a> might be worth stopping by to compare the 2 lakes.<br><br>
 	<a href="https://www.kuhl.com/borninthemountains/things-to-do-crater-lake-national-park">Best things To Do At Crater Lake</a><br><br>
-	$30 per vehicle <img border="0" src="nw/symbol-ticket.gif" width="21" height="21"><br><br>
+	$30 per vehicle <img border="0" src="images-nw/symbol-ticket.gif" width="21" height="21"><br><br>
 	<a href="https://www.google.com/maps/place/Crater+Lake+National+Park/@44.1186908,-123.8770564,7.21z/
 	data=!4m6!3m5!1s0x54c6170840e5e339:0x902bf2e1452fe3a3!8m2!3d42.9294762!4d-122.1279394!16zL20vMDE3eXk0?
 	hl=en&entry=ttu">Google Maps</a></td>
@@ -2297,26 +2296,26 @@ Volcanic Monument Visitor Center <br></p>
 <!--
 <div id="site-table"><p class="site-header-txt">Alfred A. Loeb State Park<br></p>
 <table width="100%"><td valign="top" width="50%">
-		Area <span class="f2">F</span> - 250 miles South of Beaverton (in Oregon) <img border="0" src="nw/symbol-binos.gif" 
-		width="20" height="20"> <img border="0" src="nw/boot-print.gif" width="20" height="20"> <br><br>
+		Area <span class="f2">F</span> - 250 miles South of Beaverton (in Oregon) <img border="0" src="images-nw/symbol-binos.gif" 
+		width="20" height="20"> <img border="0" src="images-nw/boot-print.gif" width="20" height="20"> <br><br>
 		<a href="https://stateparks.oregon.gov/index.cfm?do=park.profile&parkId=51">Oregon State Park page</a><br><br>
 		Found this site by chance on the web. This park is the only stand of redwoods in Oregon. About 8 miles 
 		north of the Oregon/California border. The redwoods are not as tall as those in California, but it 
 		looks like a nice park to visit if near the southern Oregon coast.<br><br>
-		$10 per vehicle day use fee <img border="0" src="nw/symbol-ticket.gif" width="21" height="21"><br><br>
+		$10 per vehicle day use fee <img border="0" src="images-nw/symbol-ticket.gif" width="21" height="21"><br><br>
 		<a href="https://www.google.com/maps/place/Alfred+A.+Loeb+State+Park/@44.0218395,-122.346049,7.38z/data=
 		!4m6!3m5!1s0x54daa449572bf0c9:0xb182ca475bab7fe1!8m2!3d42.1127554!4d-124.1877237!16s%2Fm%2F04q0g19?entry=
 		ttu&g_ep=EgoyMDI2MDQyMi4wIKXMDSoASAFQAw%3D%3D">Google Maps</a><br><br></td>
 	<td valign="top" width="50%">
 	<a href="https://www.islands.com/img/gallery/oregons-northernmost-redwoods-thrive-in-this-idyllic-state-park-near-the-coast-
-	and-california-border/intro-1776484267.jpg"><img border="0" src="nw/south-OR-redwoods.jpg" width="440" height="248"></a></td>
+	and-california-border/intro-1776484267.jpg"><img border="0" src="images-nw/south-OR-redwoods.jpg" width="440" height="248"></a></td>
 </table></div>
 -->
 
 <div id="site-table"><p class="site-header-txt">Redwood National Park<br></p>
 <table width="100%"><td valign="top" width="50%">
 		Area <span class="f2">F</span> - 290 miles South of Beaverton (in California) <img border="0" 
-		src="nw/boot-print.gif" width="20" height="20"> <br><br>
+		src="images-nw/boot-print.gif" width="20" height="20"> <br><br>
 		<a href="https://www.nps.gov/redw/index.htm">nps.gov/redw</a><br><br>
 		I would recommend going to one of the Visitor Centers to review options of things 
 		to see. That is how we, by chance, found out about the next site box (Fern Canyon).<br><br>
@@ -2326,14 +2325,14 @@ Volcanic Monument Visitor Center <br></p>
 		4d-124.041711!16zL20vMDM4eTIx?hl=en&entry=ttu">Google Maps</a><br><br></td>
 	<td valign="top" width="50%">
 	<a href="https://parksandtrips.com/wp-content/uploads/2022/01/redwoods.jpg">
-	<img border="0" src="nw/south-redwoods.jpg" width="440" height="302"></a></td>
+	<img border="0" src="images-nw/south-redwoods.jpg" width="440" height="302"></a></td>
 </table></div>
 
 <div id="site-table"><p class="site-header-txt">Fern Canyon<br></p>
 <table width="100%"><td valign="top" width="49%">
 		Area <span class="f2">F</span> - 290 miles South of Beaverton<br>
 		40 miles South of the Oregon state border
-		<img border="0" src="nw/boot-print.gif" width="20" height="20"><br><br>
+		<img border="0" src="images-nw/boot-print.gif" width="20" height="20"><br><br>
 		<a href="https://www.nps.gov/thingstodo/ferncanyon.htm">
 		nps.gov/thingstodo/ferncanyon</a><br><br>
 		<a href="https://www.justgotravelstudios.com/blogs/just-go-travel-blog/fern-canyon-
@@ -2349,12 +2348,12 @@ Volcanic Monument Visitor Center <br></p>
 		One neat experience: put your head near the ferns and hear the trickling water behind the plants. 
 		Then push against the ferns to feel the water eventually come up the fern vertical surface.<br><br>
 		$12 per vehicle<br><br>
-		<img border="0" src="nw/south-fern-canyon2.jpg" width="440" height="333"></td>
-	<td valign="top" width="49%"><img border="0" src="nw/south-fern-canyon1.jpg" 
+		<img border="0" src="images-nw/south-fern-canyon2.jpg" width="440" height="333"></td>
+	<td valign="top" width="49%"><img border="0" src="images-nw/south-fern-canyon1.jpg" 
 	width="440" height="330"><br><br>
 	These 2 maps show the route from Hwy 101 to the park entrance:
 	<ul>
-		<li><a href="nw/map-south-fern-canyon.jpg">National Park Service map</a> (partial)</li>
+		<li><a href="images-nw/map-south-fern-canyon.jpg">National Park Service map</a> (partial)</li>
 		<li><a href="https://www.google.com/maps/dir/41.3211935,-124.0392194/
 		41.4004724,-124.0656121/@41.3510852,-124.036575,12.54z/data=!4m2!4m1!
 		3e0?hl=en&entry=ttu">Google Maps</a> This map starts focused on the central 
@@ -2377,7 +2376,7 @@ Volcanic Monument Visitor Center <br></p>
 <div id="site-table"><p class="site-header-txt">Puget Sound<br></p>
 <table width="100%"><td valign="top" width="50%">
 		<p style="text-align: left">Area <span class="f2">G</span> - 160 miles North of Beaverton
-		<img border="0" src="nw/symbol-binos.gif" width="20" height="20"><br><br>
+		<img border="0" src="images-nw/symbol-binos.gif" width="20" height="20"><br><br>
 		Puget Sound area has numerous sites and things to see. Many are outlined 
 		in the below site boxes including:</p>
 		<ul>
@@ -2393,11 +2392,11 @@ Volcanic Monument Visitor Center <br></p>
 			with various coastal artillery forts used during WWII.</li>
 		</ul>
 		<a href="https://assets1.cbsnewsstatic.com/hub/i/2014/09/01/58f238f2-6ccf-429c-
-		ab55-4af9fa60badc/ap165859503435.jpg"><img border="0" src="nw/wa-puget-sound2.JPG" 
+		ab55-4af9fa60badc/ap165859503435.jpg"><img border="0" src="images-nw/wa-puget-sound2.JPG" 
 		width="440" height="284"></a><br></td>
 	<td valign="top" width="50%"><a href="https://media-hofftoseetheworld.s3.us-west-2.amazonaws.com/
 	wp-content/uploads/2021/01/26111249/Puget-Sound-Islands-1024x691.jpg">
-	<img border="0" src="nw/wa-puget-sound1.JPG" width="440" height="295"></a><br><br>
+	<img border="0" src="images-nw/wa-puget-sound1.JPG" width="440" height="295"></a><br><br>
 	Puget Sound is a diverse area with no single web page that really 
 	captures the different things to see.<br><br>
 	<a href="https://www.google.com/maps/place/Puget+Sound/@47.6003131,-123.1109787,9z/data=
@@ -2407,7 +2406,7 @@ Volcanic Monument Visitor Center <br></p>
 
 <div id="site-table"><p class="site-header-txt">Port Townsend<br></p>
 <table width="100%"><td valign="top" width="50%">
-		Area <span class="f2">G</span> - 180 miles North of Beaverton <img border="0" src="nw/symbol-binos.gif" 
+		Area <span class="f2">G</span> - 180 miles North of Beaverton <img border="0" src="images-nw/symbol-binos.gif" 
 		width="20" height="20"><br><br>
 		Puget Sound city, nice location, numerous Victorian houses, ferries to other locations. 
 		Most of the city is on a promontory ledge above the Puget Sound with nice views.<br><br>
@@ -2415,13 +2414,13 @@ Volcanic Monument Visitor Center <br></p>
 		was located to protect the entry of the Puget Sound from enemy subs during WWII. 
 		It includes a parade ground and officers' row housing, concrete bunkers.<br><br>
 		<a href="https://www.realadventures.com/listingimages/1021/1021987/l_1021987d_1024.jpg">
-		<img border="0" src="nw/wa-port-townsend2.jpg" width="440" height="281"></a></td>
+		<img border="0" src="images-nw/wa-port-townsend2.jpg" width="440" height="281"></a></td>
 	<td valign="top" width="50%"><a href="https://i.pinimg.com/originals/68/d8/a0/
-	68d8a0a8d6ea8598c9106c239833c0b2.jpg"><img border="0" src="nw/wa-port-townsend1.jpg" 
+	68d8a0a8d6ea8598c9106c239833c0b2.jpg"><img border="0" src="images-nw/wa-port-townsend1.jpg" 
 	width="440" height="293"></a><br><br>
 	During one of our various trips, we stayed at the Manresa Castle in Port Townsend. 
 	Rumored to be haunted. Unusual experience. In reviewing photos afterwards, it seems 
-	we captured evidence of <a href="nw/wa-port-townsend-manresa-orbs.jpg">orbs</a> 
+	we captured evidence of <a href="images-nw/wa-port-townsend-manresa-orbs.jpg">orbs</a> 
 	while roaming the hallways.<br><br>
 	Whidbey Island and Port Townsend are part of the movie Officer and a Gentleman.<br><br>
 	<a href="https://www.google.com/maps/place/Port+Townsend/@47.017466,-125.0772489,
@@ -2431,7 +2430,7 @@ Volcanic Monument Visitor Center <br></p>
 
 <div id="site-table"><p class="site-header-txt">Glass Beach, Port Townsend<br></p>
 <table width="100%"><td valign="top" width="50%">
-		Area <span class="f2">G</span> - 180 miles North of Beaverton <img border="0" src="nw/symbol-binos.gif" 
+		Area <span class="f2">G</span> - 180 miles North of Beaverton <img border="0" src="images-nw/symbol-binos.gif" 
 		width="20" height="20"><br><br>
 		<a href="https://beachlust.com/glass-beach-port-townsend/">beachlust.com/glass-beach-port-townsend</a><br><br>
 		An <a href="https://travelbinger.com/sea-glass-beaches/">article</a> with more info.<br><br>
@@ -2439,10 +2438,10 @@ Volcanic Monument Visitor Center <br></p>
 		glass from a natural resource. But, alas, years ago the community dumped their trash along 
 		this coast. This is the remants of that trash.<br><br>
 		<a href="https://cdn.shopify.com/s/files/1/0016/6959/5189/files/beachcombing-in-port-townsend-5.jpg?v=1679609241">
-		<img border="0" src="nw/wa-glass-beach2.JPG" width="440" height="227"></a></td>
+		<img border="0" src="images-nw/wa-glass-beach2.JPG" width="440" height="227"></a></td>
 	<td valign="top" width="50%"><a href="https://mlxc2ppl5vs2.i.optimole.com/w:900/h:558/q:mauto/f:best/ig:avif/https://
 	beachlust.com/wp-content/uploads/2021/07/sea-glass-at-glass-beach-port-townsend.jpg"><img border="0" src=
-	"nw/wa-glass-beach1.JPG" width="440" height="272"></a><br><br>
+	"images-nw/wa-glass-beach1.JPG" width="440" height="272"></a><br><br>
 	Not far from Port Townsend itself.<br><br>
 	A parking fee<br><br>
 	<a href="https://www.google.com/maps/place/North+Beach+County+Park/@46.9557425,-124.2070165,7.58z/data=
@@ -2459,9 +2458,9 @@ Volcanic Monument Visitor Center <br></p>
 		the area and the home of the Puget Sound Navy Museum. Neat modern displays.<br><br>
 		Free Admission<br><br>
 		<a href="https://www.navalgazing.net/attach/TurnerJoyOutside.png?v=1662211071.png">
-		<img border="0" src="nw/wa-turner-joy.JPG" width="440" height="277"></a></td>
+		<img border="0" src="images-nw/wa-turner-joy.JPG" width="440" height="277"></a></td>
 	<td valign="top" width="50%"><a href="https://gatetoadventures.com/wp-content/
-	uploads/2015/08/Pudget-Sound-Navy-Museum.jpg"><img border="0" src="nw/wa-navy-museum.JPG" 
+	uploads/2015/08/Pudget-Sound-Navy-Museum.jpg"><img border="0" src="images-nw/wa-navy-museum.JPG" 
 	width="440" height="276"></a><br><br>
 	<a href="https://www.google.com/maps/place/Puget+Sound+Navy+Museum/@47.612848,
 	-122.9249805,9.13z/data=!4m6!3m5!1s0x54903782c64ad5ff:0x9d3d1670ee879f21!8m2!
@@ -2484,12 +2483,12 @@ Volcanic Monument Visitor Center <br></p>
 		-122.678298,9.42z/data=!4m6!3m5!1s0x54902354f609ae69:0x34c3e39e71569a82!8m2!
 		3d47.6999272!4d-122.6248933!16s/m/025vh34?hl=en&entry=ttu">Google Maps</a><br></td>
 	<td valign="top" width="50%"><a href="https://navalunderseamuseum.org/wp-content/uploads/2016/09/num.jpg">
-	<img border="0" src="nw/wa-naval-undersea-museum.JPG" width="440" height="288"></a><br></td>
+	<img border="0" src="images-nw/wa-naval-undersea-museum.JPG" width="440" height="288"></a><br></td>
 </table></div>
 
 <div id="site-table"><p class="site-header-txt">Space Needle in Seattle<br></p>
 <table width="100%"><td valign="top" width="50%">
-		Area <span class="f2">G</span> - 150 miles North of Beaverton <img border="0" src="nw/symbol-binos.gif" 
+		Area <span class="f2">G</span> - 150 miles North of Beaverton <img border="0" src="images-nw/symbol-binos.gif" 
 		width="20" height="20"><br><br>
 		<a href="https://www.spaceneedle.com">spaceneedle.com</a><br><br>
 		<a href="https://en.wikipedia.org/wiki/Space_Needle">wikipedia.org/wiki/Space_Needle</a><br><br>
@@ -2499,10 +2498,10 @@ Volcanic Monument Visitor Center <br></p>
 		the Alaska 9.2 earthquake in 1964.<br><br>
 		<a href="https://media.cntraveler.com/photos/5b4e1678b6801415eae751e8/4:3/w_3448,
 		h_2586,c_limit/Space-Needle_John-Lok_2018_7M7A8665.jpg">
-		<img border="0" src="nw/wa-space-needle2.JPG" width="440" height="334"></a><br></td>
+		<img border="0" src="images-nw/wa-space-needle2.JPG" width="440" height="334"></a><br></td>
 	<td valign="top" width="50%"><a href="https://www.we12travel.com/blog/wp-content/uploads/2018/06/
 	pacific-northwest-rondreis-seattle-space-needle.jpg.webp">
-	<img border="0" src="nw/wa-space-needle.JPG" width="440" height="397"></a><br><br>
+	<img border="0" src="images-nw/wa-space-needle.JPG" width="440" height="397"></a><br><br>
 	Very expensive tickets for a once in a lifetime view.<br><br>
 	Regular $29-$46.50<br>
 	Seniors (65+) $25.50-$36<br><br>
@@ -2524,12 +2523,12 @@ Volcanic Monument Visitor Center <br></p>
 		The Freya Cafe gets some good reviews.<br><br>
 		<a href="https://www.google.com/maps/place/2655+NW+Market+St,+Seattle,+WA+98107/@46.6278295,-121.8862663,8.25z/data=!4m6!3m5!1s0x549015c38f257459:
 		0xc87e5fb097ece605!8m2!3d47.6684231!4d-122.3918345!16s%2Fg%2F11c10p24cn?entry=ttu&g_ep=EgoyMDI2MDcwOC4wIKXMDSoASAFQAw%3D%3D">Google Maps</a><br></td>
-	<td valign="top" width="50%"><a href="https://nordicmuseum.org/asset/62437ef9cc94f?w=1800&fit=max"><img border="0" src="nw/wa-national-nordic.JPG" width="440" height="212"></a><br></td>
+	<td valign="top" width="50%"><a href="https://nordicmuseum.org/asset/62437ef9cc94f?w=1800&fit=max"><img border="0" src="images-nw/wa-national-nordic.JPG" width="440" height="212"></a><br></td>
 </table></div>
 
 <div id="site-table"><p class="site-header-txt">Puget Sound Ferries<br></p>
 <table width="100%"><td valign="top" width="50%">
-		<img border="0" src="nw/symbol-binos.gif" width="20" height="20"><br><br>
+		<img border="0" src="images-nw/symbol-binos.gif" width="20" height="20"><br><br>
 		The ferries criss cross all around the Puget Sound to the West of Seattle. Both for pedestrians and 
 		those taking their car along. We took a vacation about 20 years ago totally dedicated to riding the 
 		ferries to different sites/landings all around the Sound. Lots of different towns and natural 
@@ -2542,12 +2541,12 @@ Volcanic Monument Visitor Center <br></p>
 		Tickets (cost varies). ~$13/car+driver plus ~$5 per passenger (unfortunately this is per trip... not a daily pass).<br><br></td>
 	<td valign="top" width="50%"><a href="https://www.sanjuanjournal.com/wp-content/uploads/
 	2019/10/19099175_web1_GovPR-JSJ-191030_1.jpg">
-	<img border="0" src="nw/wa-ferry.jpg" width="440" height="318"></a></td>
+	<img border="0" src="images-nw/wa-ferry.jpg" width="440" height="318"></a></td>
 </table></div>
 
 <div id="site-table"><p class="site-header-txt">Whale Watching in the Puget Sound<br></p>
 <table width="100%"><td valign="top" width="50%">
-		<img border="0" src="nw/symbol-binos.gif" width="20" height="20"><br><br>
+		<img border="0" src="images-nw/symbol-binos.gif" width="20" height="20"><br><br>
 		<a href="https://www.wainnsiders.com/a-guide-to-whale-watching-in-washington-state/">
 		wainnsiders.com/a-guide-to-whale-watching-in-washington-state</a><br><br>
 		Have never tried it before. All sorts of opportunities for half 
@@ -2558,22 +2557,22 @@ Volcanic Monument Visitor Center <br></p>
 		day trip cost if you don't see any orcas that day.<br><br>
 		There are some whale watching partial day trips available on the Oregon 
 		Coast. But that is mostly seasonal during the grey whale migrations.<br><br>
-		Comparison <a href="nw/wa-car-ferry-vs.whale-watching-boat-tour.pdf">article</a> of whale 
+		Comparison <a href="images-nw/wa-car-ferry-vs.whale-watching-boat-tour.pdf">article</a> of whale 
 		watching excursions versus the Washington State Ferry System.</td>
-		<td valign="top" width="50%"><img border="0" src="nw/wa-whale-orca.jpg" width="412" height="331"></td>
+		<td valign="top" width="50%"><img border="0" src="images-nw/wa-whale-orca.jpg" width="412" height="331"></td>
 </table></div>
 
 <div id="site-table"><p class="site-header-txt">Whidbey Island in the Puget Sound<br></p>
 <table width="100%"><td valign="top" width="50%">
-		Area <span class="f2">G</span> - 175 miles North of Beaverton <img border="0" src="nw/symbol-binos.gif" 
+		Area <span class="f2">G</span> - 175 miles North of Beaverton <img border="0" src="images-nw/symbol-binos.gif" 
 		width="20" height="20"><br><br>
 		Access by ferry and car<br><br>
 		Deception Pass State Park:<br>
 		<a href="https://upload.wikimedia.org/wikipedia/commons/9/9d/Deception_Pass_Bridge_03.jpg">
-		<img border="0" src="nw/wa-whidbey-island2.jpg" width="440" height="306"></a></td>
+		<img border="0" src="images-nw/wa-whidbey-island2.jpg" width="440" height="306"></a></td>
 	<td valign="top" width="50%"><a href="https://images.contentstack.io/v3/assets/blt00454ccee8f8fe6b/
 	blt80a6c9910ec86bef/609132ea1671db1046c1a56a/US_WhidbeyIsland_US_Header.jpg">
-	<img border="0" src="nw/wa-whidbey-island1.jpg" width="440" height="272"></a><br><br>
+	<img border="0" src="images-nw/wa-whidbey-island1.jpg" width="440" height="272"></a><br><br>
 	The western side of the island has various WWII bunkers and coastal artillery sites (including Fort Ebey, Fort Casey).<br><br>
 	<a href="https://www.google.com/maps/place/Whidbey+Island/@48.1573958,-122.8897798,10z/data=!3m1!4b1!4m6!
 	3m5!1s0x548f8a245ab1ca67:0x821486fac51acfa8!8m2!3d47.9982761!4d-122.4395026!16zL20vMDgzY2s?entry=
@@ -2582,7 +2581,7 @@ Volcanic Monument Visitor Center <br></p>
 
 <div id="site-table"><p class="site-header-txt">Sequim<br></p>
 <table width="100%"><td valign="top" width="50%">
-		Area <span class="f2">G</span> - 180 miles North of Beaverton <img border="0" src="nw/symbol-stopwatch.gif" 
+		Area <span class="f2">G</span> - 180 miles North of Beaverton <img border="0" src="images-nw/symbol-stopwatch.gif" 
 		width="20" height="22"><br><br>
 		Interesting <a href="https://dungenessbaycottages.com/wp-content/uploads/2023/03/
 		DJI_0037-1024x556.jpg">	arid town</a> in the rain shadow of Olympic Mountains 
@@ -2593,25 +2592,25 @@ Volcanic Monument Visitor Center <br></p>
 		-124.4221577,7.38z/data=!4m6!3m5!1s0x548fbf5a3804e8a5:0xc54ef49b6563d0d7!8m2!
 		3d48.0808024!4d-123.1038324!16s/g/11c1lm3tz4?hl=en&entry=ttu">Google Maps</a><br><br></td>
 	<td valign="top" width="50%"><a href="https://upload.wikimedia.org/wikipedia/commons/d/d2/John_
-	Wayne_Marina_-_Sequim_Washington.jpg"><img border="0" src="nw/wa-sequim.jpg" 
+	Wayne_Marina_-_Sequim_Washington.jpg"><img border="0" src="images-nw/wa-sequim.jpg" 
 	width="440" height="262"></a></td>
 </table></div>
 
 <div id="site-table"><p class="site-header-txt">Dungeness National Wildlife Refuge<br></p>
 <table width="100%"><td valign="top" width="50%">
 		Area <span class="f2">G</span> - 185 miles North of Beaverton <img border="0" src=
-		"nw/boot-print.gif" width="20" height="20"> <img border="0" src="nw/symbol-binos.gif" 
+		"images-nw/boot-print.gif" width="20" height="20"> <img border="0" src="images-nw/symbol-binos.gif" 
 		width="20" height="20"><br><br>
 		<a href="https://www.wta.org/go-hiking/hikes/dungeness-recreation-area">
 		wta.org/go-hiking/hikes/dungeness-recreation-area</a><br><br>
 		Walk the spit to the New Dungeness Lighthouse (about 4.5 miles).<br><br>
-		$3 per group <img border="0" src="nw/symbol-ticket.gif" width="21" height="21"><br><br>
+		$3 per group <img border="0" src="images-nw/symbol-ticket.gif" width="21" height="21"><br><br>
 		<a href="https://dungenessbaycottages.com/wp-content/uploads/2021/01/bigstock-Wooden-
 		Pier-Washington-State-F-363488755-1024x683.jpg.webp"><img border="0" 
-		src="nw/wa-dungeness-spit2.jpg" width="440" height="260"></a></td>
+		src="images-nw/wa-dungeness-spit2.jpg" width="440" height="260"></a></td>
 	<td valign="top" width="50%"><a href="https://dungenessbaycottages.com/wp-content/
 	uploads/2022/08/shutterstock_1286338393.jpg">
-	<img border="0" src="nw/wa-dungeness-spit.jpg" width="440" height="321"></a><br><br>
+	<img border="0" src="images-nw/wa-dungeness-spit.jpg" width="440" height="321"></a><br><br>
 	<a href="https://www.google.com/maps/place/Dungeness+Spit/@46.5810489,
 	-125.2789725,7.17z/data=!4m6!3m5!1s0x548fbdb909882373:0x96ee15a976eda6f3!
 	8m2!3d48.1748156!4d-123.1476787!16zL20vMDM5Ymo2?hl=en&entry=ttu">Google Maps</a></td>
@@ -2619,7 +2618,7 @@ Volcanic Monument Visitor Center <br></p>
 
 <div id="site-table"><p class="site-header-txt">Olympic National Park<br></p>
 <table width="100%"><td valign="top" width="50%">
-		Area <span class="f2">G</span> - 175 miles North of Beaverton <img border="0" src="nw/boot-print.gif" width="20" height="20"> <br><br>
+		Area <span class="f2">G</span> - 175 miles North of Beaverton <img border="0" src="images-nw/boot-print.gif" width="20" height="20"> <br><br>
 		<a href="https://www.nps.gov/olym/planyourvisit/park-overview-three-parks-in-one.htm">
 		nps.gov/olym</a><br><br>
 		<a href="https://www.planetware.com/seattle/olympic-national-park-us-wa-onp.htm">
@@ -2627,14 +2626,14 @@ Volcanic Monument Visitor Center <br></p>
 		Hurricane Ridge, day hikes. Other areas.<br><br>
 		Unfortunately the main lodge at Hurricane Ridge burned to the ground 
 		May 2023. The site has been closed for a while.<br><br>
-		$25 7-day vehicle day pass <img border="0" src="nw/symbol-ticket.gif" width="21" height="21"><br><br>
+		$25 7-day vehicle day pass <img border="0" src="images-nw/symbol-ticket.gif" width="21" height="21"><br><br>
 		<a href="https://www.oregonlive.com/resizer/dZnOMIa8pcQ9nJCrVNK_m9CtkqA=
 		/800x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/
-		TXQ7VXMIIVC2ZOT6RGLDTM2HJI.jpg"><img border="0" src="nw/wa-olympics-np2.jpg" 
+		TXQ7VXMIIVC2ZOT6RGLDTM2HJI.jpg"><img border="0" src="images-nw/wa-olympics-np2.jpg" 
 		width="440" height="303"></a></td>
 	<td valign="top" width="50%"><a href="https://uploads.visitseattle.org/2016/06/09011810/Olympic-
 	Sol-Duc-Waterfall-Galyna-Andrushko-shutterstock-93808600-scaled.jpg">
-	<img border="0" src="nw/wa-olympics-np1.jpg" width="440" height="299"></a><br><br>
+	<img border="0" src="images-nw/wa-olympics-np1.jpg" width="440" height="299"></a><br><br>
 	This region is actually considered a <a href="https://www.myolympicpark.com/
 	things-to-do/natural-wonders/rainforests/">	rain forest</a> (a description 
 	often reserved for jungles in the tropics). Some photos:<br>
@@ -2660,7 +2659,7 @@ Volcanic Monument Visitor Center <br></p>
 <div id="site-table"><p class="site-header-txt">Ruby Beach<br></p>
 <table width="100%"><td valign="top" width="50%">
 		Area <span class="f2">G</span> - 170 miles NW of Beaverton	<img border="0" 
-		src="nw/boot-print.gif" width="20" height="20"><br><br>
+		src="images-nw/boot-print.gif" width="20" height="20"><br><br>
 		<a href="https://www.allolympicpark.com/beaches/ruby_beach.php">
 		allolympicpark.com/beaches/ruby_beach</a><br><br>
 		Part of the Olympic National Park, this is one of the nicer beaches on the Washington Coast.<br><br>
@@ -2668,7 +2667,7 @@ Volcanic Monument Visitor Center <br></p>
 		7.13z/data=!4m6!3m5!1s0x548ddf3b68ebcbbd:0x6b94341955be96e3!8m2!3d47.7108733!
 		4d-124.4154024!16zL20vMGZ4cGN4?hl=en&entry=ttu">Google Maps</a><br><br></td>
 	<td valign="top" width="50%"><a href="https://live.staticflickr.com/65535/48290811266_1e8c9a6595_b.jpg">
-	<img border="0" src="nw/wa-ruby-beach.JPG" width="440" height="261"></a></td>
+	<img border="0" src="images-nw/wa-ruby-beach.JPG" width="440" height="261"></a></td>
 </table></div>
 
 <div id="site-table"><p class="site-header-txt">Victoria, British Columbia<br></p>
@@ -2683,7 +2682,7 @@ Volcanic Monument Visitor Center <br></p>
 		8m2!3d48.4284207!4d-123.3656444!16zL20vMDd5cHQ?hl=en&entry=ttu">Google Maps</a><br><br></td>
 	<td valign="top" width="50%"><a href="https://assets.vogue.com/photos/645e7b2b71c79dd56bfc38ea/
 	master/w_1600,c_limit/GettyImages-1038549848.jpg">
-	<img border="0" src="nw/wa-victoria-bc.jpg" width="440" height="288"></a></td>
+	<img border="0" src="images-nw/wa-victoria-bc.jpg" width="440" height="288"></a></td>
 </table></div>
 
 <div id="site-table"><p class="site-header-txt">Royal British Columbia Museum<br></p>
@@ -2693,9 +2692,9 @@ Volcanic Monument Visitor Center <br></p>
 		vancouverislandbucketlist.com/experiences/royal-bc-museum</a><br><br>
 		Senior (65+) $19.95<br><br>
 		<a href="https://josiewanders.com/wp-content/uploads/2019/11/Boat.jpg">
-		<img border="0" src="nw/wa-victoria-museum2.JPG" width="440" height="301"></a></td>
+		<img border="0" src="images-nw/wa-victoria-museum2.JPG" width="440" height="301"></a></td>
 	<td valign="top" width="50%">
-	<img border="0" src="nw/wa-victoria-museum1.JPG" width="440" height="325"><br><br>
+	<img border="0" src="images-nw/wa-victoria-museum1.JPG" width="440" height="325"><br><br>
 	Years ago I was very impressed with the Natural History displays at this museum. 
 	I remember the entry escalator going up to the museum hanging over my head 
 	beyond my reach was a huge grey wall. Awe inspiring first impression. But, I 
@@ -2708,15 +2707,15 @@ Volcanic Monument Visitor Center <br></p>
 <div id="site-table"><p class="site-header-txt">San Juan Islands<br></p>
 <table width="100%"><td valign="top" width="50%">
 		Area <span class="f2">G</span> - 200 miles North of Beaverton <img border="0" src=
-		"nw/boot-print.gif" width="20" height="20"> <img border="0" src="nw/symbol-binos.gif" 
+		"images-nw/boot-print.gif" width="20" height="20"> <img border="0" src="images-nw/symbol-binos.gif" 
 		width="20" height="20"><br><br>
 		<a href="https://www.visitsanjuans.com/">visitsanjuans.com</a><br><br>
 		<a href="https://www.pressherald.com/wp-content/uploads/sites/4/2018/11/
 		1678374_US-NEWS-ENV-ORCAS-6-SE.jpg?w=750"><img border="0" 
-		src="nw/wa-san-juan2.jpg" width="440" height="331"></a></p></td>
+		src="images-nw/wa-san-juan2.jpg" width="440" height="331"></a></p></td>
 	<td valign="top" width="50%"><a href="https://sanjuan.objects.liquidweb.services/photos/
 	ferry_at_lopez_island_by_karlena_pickering-2800x800.jpg">
-	<img border="0" src="nw/wa-san-juan-island.jpg" width="440" height="272"></a><br><br>
+	<img border="0" src="images-nw/wa-san-juan-island.jpg" width="440" height="272"></a><br><br>
 	Access only by ferry. Island sites include	Friday Harbor (on San Juan Island). 
 	Nice harbor town.<br><br>
 	Loop drive on the main San Juan Island.<br><br>
@@ -2730,8 +2729,8 @@ Volcanic Monument Visitor Center <br></p>
 <div id="site-table"><p class="site-header-txt">Snoqualmie Falls<br></p>
 <table width="100%"><td valign="top" width="50%">
 		Area <span class="f2">G</span> - 150 miles NW of Beaverton 
-		<img border="0" src="nw/boot-print.gif" width="20" height="20"> <img border="0" src=
-		"nw/symbol-binos.gif" width="20" height="20"><br><br>
+		<img border="0" src="images-nw/boot-print.gif" width="20" height="20"> <img border="0" src=
+		"images-nw/symbol-binos.gif" width="20" height="20"><br><br>
 		Snoqualmie Falls <a href="https://www.snoqualmiefalls.com/">web site</a><br><br>
 		This site is about 20 miles East of downtown Seattle. Worth a stop over if heading 
 		East of Seattle. The scenic view of the falls is shown in the TV mini-series, Twin Peaks.<br><br>
@@ -2740,14 +2739,14 @@ Volcanic Monument Visitor Center <br></p>
 		en&entry=ttu&g_ep=EgoyMDI1MDEyMi4wIKXMDSoASAFQAw%3D%3D">Google Maps</a><br><br></td>
 	<td valign="top" width="50%"><a href="https://www.wta.org/site_images/trip-reports/2016/
 	tripreport.image.2016-01-13.5250331889/@@images/16165f69-1abc-4a3a-a708-e4df20804717.jpeg">
-	<img border="0" src="nw/wa-snoqualmie-falls.jpg" width="440" height="311"></a></td>
+	<img border="0" src="images-nw/wa-snoqualmie-falls.jpg" width="440" height="311"></a></td>
 </table></div>
 
 <div id="site-table"><p class="site-header-txt">Mount Rainier National Park<br></p>
 <table width="100%"><td valign="top" width="50%">
-		Area <span class="f2">G</span> - 100 miles NW of Beaverton <img border="0" src="nw/boot-print.gif" 
-		width="20" height="20"> <img border="0" src="nw/symbol-binos.gif" width="20" height="20"><br><br>
-		$30 per vehicle day pass <img border="0" src="nw/symbol-ticket.gif" width="21" height="21"><br><br>
+		Area <span class="f2">G</span> - 100 miles NW of Beaverton <img border="0" src="images-nw/boot-print.gif" 
+		width="20" height="20"> <img border="0" src="images-nw/symbol-binos.gif" width="20" height="20"><br><br>
+		$30 per vehicle day pass <img border="0" src="images-nw/symbol-ticket.gif" width="21" height="21"><br><br>
 		National Park Service <a href="https://www.nps.gov/mora/planyourvisit/upload/
 		Mount-Rainier-Brochure-final_Combo_508_v2023.pdf">brochure</a><br><br>
 		This is Mary's old stomping grounds when she was stationed in Washington State 
@@ -2757,13 +2756,13 @@ Volcanic Monument Visitor Center <br></p>
 		3d46.8799663!4d-121.7269094!16zL20vMDFiNHM5?hl=en&entry=ttu">Google Maps</a><br><br></td>
 	<td valign="top" width="50%"><a href="https://upload.wikimedia.org/wikipedia/commons/3/32/
 	Mount_Rainier_from_above_Myrtle_Falls_in_August.JPG">
-	<img border="0" src="nw/wa-mt-ranier.jpg" width="440" height="311"></a></td>
+	<img border="0" src="images-nw/wa-mt-ranier.jpg" width="440" height="311"></a></td>
 </table></div>
 
 <div id="site-table"><p class="site-header-txt">North Cascades Towns/Sites<br></p>
 <table width="100%"><td valign="top" width="50%">
-		North and East of Seattle <img border="0" src="nw/boot-print.gif" width="20" height="20"> 
-		<img border="0" src="nw/symbol-binos.gif" width="20" height="20"><br><br>
+		North and East of Seattle <img border="0" src="images-nw/boot-print.gif" width="20" height="20"> 
+		<img border="0" src="images-nw/symbol-binos.gif" width="20" height="20"><br><br>
 		<a href="https://www.thetravel.com/cutest-towns-in-washingtons-cascade-mountains/">
 		www.thetravel.com/cutest-towns-in-washingtons-cascade-mountains</a><br><br>
 		Including:<br>
@@ -2781,7 +2780,7 @@ Volcanic Monument Visitor Center <br></p>
 	<td valign="top" width="50%">View near North Bend:<br>
 	<a href="https://static1.thetravelimages.com/wordpress/wp-content/uploads/
 	2024/03/shutterstock_2261940865.jpg?q=70&fit=contain&w=735&h=480&dpr=1">
-	<img border="0" src="nw/wa-north-bend.JPG" width="440" height="294"></a></td>
+	<img border="0" src="images-nw/wa-north-bend.JPG" width="440" height="294"></a></td>
 </table></div>
 
 <div id="site-table"><p class="site-header-txt">Leavenworth<br></p>
@@ -2798,7 +2797,7 @@ Volcanic Monument Visitor Center <br></p>
 		120.6614765!16s/g/11ptwx4p78?hl=en&entry=ttu">Google Maps</a><br><br></td>
 	<td valign="top" width="50%"><a href="https://images.fineartamerica.com/images/
 	artworkimages/mediumlarge/1/downtown-leavenworth-washington-spencer-mcdonald.jpg">
-	<img border="0" src="nw/wa-leavenworth.JPG" width="440" height="289"></a></td>
+	<img border="0" src="images-nw/wa-leavenworth.JPG" width="440" height="289"></a></td>
 </table></div>
 
 <!--
@@ -2846,18 +2845,18 @@ link rel="stylesheet" type="text/css" href="XXXX.css"
 		</td>
 	<td valign="top" width="50%">
 	<a href="https://lh3.googleusercontent.com/p/AF1QipMup2TnUvDj-78HsX5CVOdPqUJhIDYGi1FqAl0b=s680-w680-h510">
-	<img border="0" src="nw/pdx-bigfoot.JPG" width="374" height="503"></a></td>
+	<img border="0" src="images-nw/pdx-bigfoot.JPG" width="374" height="503"></a></td>
 </table></div>
 
 <div id="site-table"><p class="site-header-txt">Oregon Memorabilia<br></p>
 <table width="100%"><td valign="top" width="50%">
-		<img border="0" src="nw/pdx-madeinoregon.JPG" width="129" height="128"><br><br>
+		<img border="0" src="images-nw/pdx-madeinoregon.JPG" width="129" height="128"><br><br>
 		If you leave Oregon wanting authentic memorabilia, but forgot to get items at sites 
 		visited, the <a href="https://madeinoregon.com/">Made In Oregon</a> store chain can 
 		provide you relief. One store is about 20 minutes away from our house in Beaverton 
 		along with a store at the Portland Airport.</td>
 	<td valign="top" width="50%">
-	<img border="0" src="nw/pdx-hellofromportland.jpg" width="129" height="116"><br><br>
+	<img border="0" src="images-nw/pdx-hellofromportland.jpg" width="129" height="116"><br><br>
 	For hard core tourists there even stores with made-in-Portland products (both of below are 
 	next to the downtown Powell's Books store):
 	<ul>
@@ -2876,21 +2875,21 @@ Was kind of unsure where to put the Waterfalls dropdown. Finally decided at the 
 (dropdown box)</p>
 
 	<div id="WaterfallBox" style="display: none">
-	<img border="0" src="nw/symbol-binos.gif" width="20" height="20"> 
-	<img border="0" src="nw/boot-print.gif" width="20" height="20"><br><br>
+	<img border="0" src="images-nw/symbol-binos.gif" width="20" height="20"> 
+	<img border="0" src="images-nw/boot-print.gif" width="20" height="20"><br><br>
 	I found a decent book reviewing waterfalls in the Northwest (A Waterfall Lover's Guide to the 
 	Pacific Northwest by Gregory Plumb). From this book I culled various waterfalls relatively 
 	close to home for possible visits or drive-bys. The list is pretty detailed, but lacks one of 
 	my new entries above entered in the above travel boxes (Abiqua Falls).<br><br>
 	<b>Index map to the below waterfalls areas and sites</b><br>
-	<img border="0" src="nw/waterfall-index-map.JPG" width="600" height="446"><br><br>
+	<img border="0" src="images-nw/waterfall-index-map.JPG" width="600" height="446"><br><br>
 	Area A - North Coast Range<br>
 	Area B - Columbia (River) Gorge<br>
 	Area C - Middle Cascades (North/Central OR)<br>
 	Area D - Columbia Plateau (Eastern OR)<br><br>
 	
 	<font color="blue"><b>Area A - North Coast Range Waterfalls</b></font>
-	<img style="border:7px solid blue;" src="nw/waterfalls-coast.JPG" width="600" height="943" /><br><br>
+	<img style="border:7px solid blue;" src="images-nw/waterfalls-coast.JPG" width="600" height="943" /><br><br>
 	1. <a href="http://www.oregonhikers.org/field_guide/Bonnie_Falls">Bonnie Falls</a> (Scappoose)<br>
 	2. <a href="http://www.oregonhikers.org/field_guide/Beaver_Falls_Hike">Beaver Falls</a> (Beaver Creek)<br>
 	3. <a href="http://www.nps.gov/places/youngs-river-falls.htm">Young River Falls</a> (Olney) 
@@ -2905,7 +2904,7 @@ Was kind of unsure where to put the Waterfalls dropdown. Finally decided at the 
 	10. <a href="http://waterfallrecord.com/2017/12/11/falls-city-falls-oregon/">Falls City Falls</a> (Falls City)<br><br>
 
 	<font color="red"><b>Area B - Columbia (River) Gorge Waterfalls</b></font>
-	<img style="border:7px solid red;" src="nw/waterfalls-gorge.JPG" width="800" height="219" /><br><br>
+	<img style="border:7px solid red;" src="images-nw/waterfalls-gorge.JPG" width="800" height="219" /><br><br>
 	1. Near Bridal Veil:<br>
 	   <a href="http://www.oregonhikers.org/field_guide/Latourell_Falls_Loop_Hike">Latourell Falls</a><br>
 	   <a href="http://www.world-of-waterfalls.com/waterfalls/pacific-northwest-upper-latourell-falls/">Upper Latourell Falls</a><br>
@@ -2965,7 +2964,7 @@ Was kind of unsure where to put the Waterfalls dropdown. Finally decided at the 
 	17. <a href="http://oregondiscovery.com/dougan-falls">Dougan Falls</a> (Dougan Camp)<br><br>
 
 	<font color="orange"><b>Area C- Upper/Central Oregon Waterfalls</b></font>
-	<img style="border:7px solid orange;" src="nw/waterfalls-upper-central.JPG" width="600" height="694" /><br><br>
+	<img style="border:7px solid orange;" src="images-nw/waterfalls-upper-central.JPG" width="600" height="694" /><br><br>
 	1. <a href="http://www.oregonhikers.org/field_guide/Ramona_Falls_Loop_Hike">Romona Falls</a> (Mt Hood Wilderness)<br>
 	2. Zigzag River Drainage:<br>
 	   <!-- Devil Canyon Falls<a href="https://www.XXXXXXX.com">XXXXXX</a><br> -->
@@ -3019,7 +3018,7 @@ Was kind of unsure where to put the Waterfalls dropdown. Finally decided at the 
 		<a href="https://oregonwaterfalls.wordpress.com/2016/03/04/coal-creek-falls/">Coal Creek Falls</a><br><br>
 
 	<font color="green"><b>Area D - Columbia Plateau (Eastern OR) Waterfalls</b></font>
-	<img style="border:7px solid green;" src="nw/waterfalls-ne-OR.JPG" width="600" height="601" /><br><br>
+	<img style="border:7px solid green;" src="images-nw/waterfalls-ne-OR.JPG" width="600" height="601" /><br><br>
 	1. Tygh Valley:<br>
 	   <a href="https://whatbeautifullight.com/2014/06/08/sherars-falls-oregon-a-historic-native-fishing-ground/">Sherars Falls</a><br>
 	   <a href="https://stateparks.oregon.gov/index.cfm?do=park.profile&parkId=28">White River Falls</a> 
@@ -3076,7 +3075,7 @@ on this web page. But, also includes some new items I have heard about or never 
 		Either place will resolve your regret of not making that last minute purchase.</td>
 	<td valign="top" width="50%">
 	<a href="https://madeinoregon.com/cdn/shop/files/washington_square_location_600x600@2x.jpg">
-	<img border="0" src="nw/pdx-madeinoregon-store.JPG" width="440" height="267"></a><br>
+	<img border="0" src="images-nw/pdx-madeinoregon-store.JPG" width="440" height="267"></a><br>
 	By chance I saw an interesting wine here made of Marion Berries. Nicely priced and not too bad. Good find.</td>
 </table></div><br><br>
 
@@ -3084,15 +3083,15 @@ on this web page. But, also includes some new items I have heard about or never 
 7/22/12 Spent some time trying to describe to a friend at work Fern Canyon just outside of the Redwood National 
 Park in CA and could not do it justice. Decided to post some photos from our 2002 &amp; 2009 trips through the area:<br><br>
 
-<a href="photos/fern-canyon-2009a.jpg">Mary</a><br>
-<a href="photos/fern-canyon-2009b.jpg">Max</a><br>
-<a href="photos/fern-canyon-2009c.jpg">Me &amp; Mary</a><br>
-<a href="photos/fern-canyon-2009d.jpg">The family</a><br><br>
+<a href="images-fern-canyon/fern-canyon-2009a.jpg">Mary</a><br>
+<a href="images-fern-canyon/fern-canyon-2009b.jpg">Max</a><br>
+<a href="images-fern-canyon/fern-canyon-2009c.jpg">Me &amp; Mary</a><br>
+<a href="images-fern-canyon/fern-canyon-2009d.jpg">The family</a><br><br>
 
 This state park is a hidden jewel at the perimeter of the Redwood National Park. It is located right next to the beach. 
-A couple mile drive West from Hwy 101 on a gravel road under <a href="photos/fern-canyon-2009e.jpg">heavy cover canopy</a>. 
+A couple mile drive West from Hwy 101 on a gravel road under <a href="images-fern-canyon/fern-canyon-2009e.jpg">heavy cover canopy</a>. 
 Have to ford at least one small creek with your car. The 1+ mile hiking trail up Fern Canyon starts at the beach.<br><br>
-Watch out for the <a href="photos/vac-2002-fern-valley4.jpg">wildlife</a> walking to the trailhead from the parking lot. 
+Watch out for the <a href="images-fern-canyon/vac-2002-fern-valley4.jpg">wildlife</a> walking to the trailhead from the parking lot. 
 Incredible. Well worth the 2-3 hour stopover visit while heading North from CA to OR.<br><br>
 From the Hwy 101 turnoff to the last parking lot is about 7 miles. This access road has some very thick tree cover so 
 relying on a Smartphone GPS for most of the road trip might not be reliable. The drive itself is worth a leisurely pace. 
@@ -3105,11 +3104,11 @@ A late note: if you think I cherry picked my best pics of Fern Canyon for this w
 2ahUKEwjo7a6ln8eBAxXFOn0KHesQDPsQ_AUoAnoECAYQBA&biw=1255&bih=936&dpr=0.9">Google pic search</a> of the location. 
 Every pic is breathtaking.<br><br>
 
-<p><img border="0" src="nw/dunagin03.gif" width="261" height="285" 
+<p><img border="0" src="images-nw/dunagin03.gif" width="261" height="285" 
 style="border: 0px solid black; box-shadow: 8px 8px 12px #999"></p><br>
 
 
-<a href="https://en.wikipedia.org/wiki/Cascadia_movement"><img border="0" src="nw/flag-cascadia.jpg" 
+<a href="https://en.wikipedia.org/wiki/Cascadia_movement"><img border="0" src="images-nw/flag-cascadia.jpg" 
 width="102" height="64" style="border: 0px solid black; box-shadow: 8px 8px 12px #999"></a><br><br>
 
 Fin
