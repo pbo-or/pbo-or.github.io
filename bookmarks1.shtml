@@ -97,6 +97,7 @@ a:visited		{font-family: Tahoma; font-size: 10pt; text-decoration: none; color: 
 <b><font size="4"><img border="0" src="images-general/checker.gif" width="16" height="16">&nbsp;&nbsp;
 BOOKMARKS&nbsp;&nbsp;<img border="0" src="images-general/checker.gif" width="16" height="16"></font></b><p>
 
+
 <p><span style="background-color: #FFFF00"><font color="#000000">
 <a href="JavaScript:doExpand(AnyDivIdName)">SEARCH ENGINES, PEOPLE SEARCHES, REFERENCES, NEWS, WEATHER</a></font></span><br></p>
 <div id="AnyDivIdName" style="display: none; width:800px;">
@@ -538,6 +539,7 @@ max-price=950k,min-sqft=2.5k-sqft,viewport=45.50552:45.49461:-122.76909:-122.789
 	Xerox Scanner (CD)<br></td>
 </tr></tbody></table></div>
 
+
 <p><span style="background-color: #FFFF00">
 <a href="JavaScript:doExpand(AnyDivIdName5)">TRAVEL LISTS</a></span><br></p>
 <div id="AnyDivIdName5" style="display: none;">
@@ -813,6 +815,7 @@ max-price=950k,min-sqft=2.5k-sqft,viewport=45.50552:45.49461:-122.76909:-122.789
 	<a href="https://www.XXXXXX.com">XXXXXX</a><br><br></td>
 </tr></tbody></table></div>
 
+
 <table border="0" width="500px" align="center"><tbody>
 
 		<td valign="top" width="50%">
@@ -836,7 +839,7 @@ max-price=950k,min-sqft=2.5k-sqft,viewport=45.50552:45.49461:-122.76909:-122.789
 	<a href="https://maxoakes.github.io/photography/">Max's Photo Web Site</a><br><br>
 	
 	<a href="https://www.XXXXXX.com">XXXXXX</a><br></td>
-	</tr></tbody></table>
+</tr></tbody></table>
 
 
 <p><a href="JavaScript:doExpand(AnyDivIdName21)">
@@ -1130,7 +1133,6 @@ how+to+load+autol&gs_l=psy-ab.3.6.0l6j0i22i30l4.2298.8435..16610...1.0..0.249.13
 <a href="JavaScript:doExpand(AnyDivIdName13)">HEALTH - SLEEP - TINNITUS</a></span><br></p>
 <div id="AnyDivIdName13" style="display: none;">
 <table border="0" width="100%"><tbody><tr>
-
 
 <td valign="top" width="74%">
 <b><font color="#FFFFFF"><span style="background-color: #000000">HEALTH</span></font></b><br><br>
