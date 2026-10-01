@@ -134,6 +134,7 @@ Mansion and the Space Needle.<br><br>
 	<p>This web page uses HTML CSS coding. I have not mastered various aspects of the language so page 
 	functionality is pretty basic. I have not yet figured out to make it friendly to all Smart phones 
 	and some tablet browsers. So it is best viewed with a laptop or PC screen with a mainstream browser.<br><br>
+	
 	<img border="0" src="images-nw/symbol-binos.gif" width="20" height="20">&nbsp;&nbsp;&nbsp;=&nbsp; Bring binoculars<br><br>
 	<img border="0" src="images-nw/boot-print.gif" width="20" height="20">&nbsp;&nbsp;&nbsp;=&nbsp; Bring hiking boots or comfortable hiking shoes<br><br>
 	<img border="0" src="images-nw/symbol-subway.gif" width="21" height="20">&nbsp;&nbsp;&nbsp;=&nbsp; Accessible by MAX Light 
@@ -147,12 +148,14 @@ Mansion and the Space Needle.<br><br>
 
 	I found a few online articles that compliment content on this web page. Some times the content either expires or is locked 
 	at the source. So, for more simple viewing and access to the content, I converted them to simple PDF documents.<br><br> 
-	If links do not function, they worked when I set the page up. It the source that changes their link locations. Thus, 
-	breaking my previously valid links. Contact me if you find a broken or incorrect link and I will try to resolve<br><br>
+	
+	If links do not function, they worked when I set the page up. It is the source that changes their link locations. Thus, 
+	breaking my previously valid links. Contact me if you find a broken or incorrect link and I will try to resolve.<br><br>
+	
 	Click on a photo to go to a larger online version of the same photo.<br><br></p>
+</blockquote>
 
 	<p style="text-align: center">Open the below dropdowns for supplemental information. Refresh browser to collapse the boxes.</p>
-</blockquote>
 
 <p style="text-align: center"><span style="background-color: #FFFF00"><font color="#000000">
 <a href="JavaScript:doExpand(WeatherBox)">LOCAL WEATHER</a></font></span></p>
@@ -219,8 +222,8 @@ Mansion and the Space Needle.<br><br>
 <p><span class="area-header-txt">PORTLAND</span> Area <span class="f1">A</span> 
 - 5 miles East of Beaverton<br><br>
 Many of the Portland and Beaverton sites shown on a single map: <a href="images-nw/map-pdx.JPG">Portland/Beaverton Reference Map</a><br><br>
-This <a href="http://www.carolmendelmaps.com/mapor/or5.html">graphic map</a> 
-shows many of the downtown Portland sites listed below. Just missing the Tilikum Bridge and Portland Armory.<br></p></div>
+This <a href="http://www.carolmendelmaps.com/mapor/or5.html">graphic map</a> shows many of the downtown Portland sites listed below. 
+Just missing the Tilikum Bridge and Portland Armory.<br></p></div>
 
 <div id="site-table"><p class="site-header-txt">Powell's City of Books<br></p>
 <table width="100%"><td valign="top" width="50%">
@@ -483,15 +486,13 @@ aka Portland International Rose Test Garden<br></p>
 		<img border="0" src="images-nw/symbol-subway.gif" width="21" height="20">
 		<img border="0" src="images-nw/symbol-binos.gif" width="20" height="20"><br><br>
 		<a href="http://www.gobytram.com/">gobytram.com</a><br><br>
-		The tram accesses Oregon Health Sciences University on top of the hill (which 
-		is known for terrible parking). A nice viewpoint of the city from the top.<br><br>
-		The base of the tram is accessible by Portland Streetcar from downtown. Streetcar 
-		passes by the Tilikum Bridge.<br><br>
+		The tram accesses Oregon Health Sciences University on top of the hill (which is known for terrible parking). 
+		A nice viewpoint of the city from the top.<br><br>
+		The base of the tram is accessible by Portland Streetcar from downtown. Streetcar passes by the Tilikum Bridge.<br><br>
 		Roundtrip Fare $7 (not part of MAX system)<br><br>
-		<a href="https://www.google.com/maps/place/Portland+Aerial+Tram+-+Lower+Terminal/
-		@45.5134578,-122.697036,13.21z/data=!3m1!5s0x54950a686548fdfb:0x7ac22dbbaf8d82c0!
-		4m6!3m5!1s0x54950b7e8cffd625:0x2d4ba3b3f60092cc!8m2!3d45.4992783!4d-122.6709577!
-		16s/g/11jkppwjqy?hl">Google Maps</a><br><br></td>
+		<a href="https://www.google.com/maps/place/Portland+Aerial+Tram+-+Lower+Terminal/@45.5134578,-122.697036,
+		13.21z/data=!3m1!5s0x54950a686548fdfb:0x7ac22dbbaf8d82c0!4m6!3m5!1s0x54950b7e8cffd625:0x2d4ba3b3f60092cc!
+		8m2!3d45.4992783!4d-122.6709577!16s/g/11jkppwjqy?hl">Google Maps</a><br><br></td>
 	<td valign="top" width="50%"><a href="https://pbs.twimg.com/media/Db-kjRhWkAE3zBH.jpg:large">
 	<img border="0" src="images-nw/pdx-aerial-tram.jpg" width="440" height="337"></a></td>
 </table></div>
