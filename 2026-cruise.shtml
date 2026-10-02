@@ -23,7 +23,7 @@ a:visited		{font-family: Tahoma; font-size: 10pt; color: #0000FF; text-decoratio
 #Content        {margin-left: auto; margin-right: auto; text-align: justify; 
 				border: 0px solid #0066FF; padding: 25px; width: 904px; }
 
-.site-header-txt	{text-align: center; font-size: 11pt; font-weight: bold; }
+.site-header-txt	{text-align: center; font-size: 12pt; font-weight: bold; }
 
 .f1 			{font-size: 14pt; font-weight: bold; color: red; }
 
