@@ -23,6 +23,9 @@ a:visited		{font-family: Tahoma; font-size: 10pt; color: #0000FF; text-decoratio
 	
 #Content        {margin-left: auto; margin-right: auto; text-align: justify; border: 0px solid #0066FF; padding: 25px; width: 904px; }
 
+#PERSPECTIVEBox		{border-radius: 8px; margin-left: auto; margin-right: auto; text-align: left; 
+					border: 1px solid #0066FF; padding: 4px; width: 768px; height: auto; }
+
 #HISTORYBox		{border-radius: 8px; margin-left: auto; margin-right: auto; text-align: left; 
 				border: 1px solid #0066FF; padding: 4px; width: 768px; height: auto; }
 
@@ -54,10 +57,31 @@ correspond with # listed in the photo file names.<br><br>
 
 <i>I spent some time trying to figure out best way to show/link the below photos. Ended up chosing to open each photo in a new browser window. 
 To avoid filling up your memory capacity and slowing down your computer. I would recommend closing the photo browser window before moving onto 
-the next photo ("<b>Cntl + W</b>" often saves time versus using a mouse to close the browser photo). On a tablet or phone, in the browser, just 
-click the Back button.</i><br><br><br>
+the next photo ("<b>Control + W</b>" often saves time instead of using a mouse to close each browser photo). On a tablet or phone, in the browser, 
+just click the Back button.</i><br><br><br>
 
-My brother, Greg, and his wife, Renee, joined Mary and I for this vacation trip.<br><br><br>
+My brother, Greg, and his wife, Renee, joined Mary and I for this vacation trip.<br><br>
+
+<font color="#0000FF"><a href="JavaScript:doExpand(PERSPECTIVEBox)">Perspective</a></font>
+	<div id="PERSPECTIVEBox" style="display: none">
+		<span style="text-align: left">To appreciate traveling in the Arctic Circle, a few clarifications...<br><br>
+
+		The above map is not totally to scale. Iceland is the same latitude as central Alaska. Prudoe Bay (where AK oil comes from) is on the 
+		Alaskan North Slope and is at the same latitude as the top of mainland Norway. Svalbard is half way between the top of mainland Norway 
+		and the North Pole.<br><br>
+		
+		Longyearbeyn, the largest settlement in Svalbard and the Spitsberg archipelago, is the furtherest North year-round population center 
+		in the world. It has a population of about 2,500 representing over 50 nationalities.<br><br>
+		
+		Lonyearbeyn is named after the American, John Munroe Longyear, who started a mining camp at the site. The last mine closed in 2025. 
+		Since then Svalbard has	became a remoute hub for Arctic studies by various countries, tourism (like our cruise) and home of the Svalbard 
+		Global Seed Vault.<br><br>
+		
+		BTW the Seed Vault is actually in one of the abandoned original mines.<br><br>
+	
+		Lastly... Arctic comes from the Greek word for bear, while "Antarctic" literally means "opposite to the Arctic" (or "without bear). The Artic 
+		is home to polar bears and puffins. The Antarctic has neither of these. Instead they have penguins that are not found in the Artic.</span>
+	</div><br><br>
 
 <b>Photos</b> (below photos are a sample of the 270 we have in our collection):<br><br>
 
@@ -92,14 +116,16 @@ Norway) to Norway<br>
 	The entire cruise was an imersion in <font color="#0000FF"><a href="JavaScript:doExpand(HISTORYBox)">history</a></font>.
 
 	<div id="HISTORYBox" style="display: none">
-	
-	<span style="text-align: left">Various lectures and tour escorts filled our heads with facts. While the Vikings are the most obvious and well 
-	known history of Norway and Scandanavia, did you know Norway itself was established as a sovereign country only in <b>1905</b>. This was after 
-	the peaceful separation of Norway from Sweden. By a national refereendum, the people confirmed their preference for a monarchy over a republic. 
-	Because none of Norway's noble families could claim royal descent, the government ultimately offered the throne of Norway to the Prince Carl of 
-	Denmark (a distant relative of Norway's medieval kings). His great-grandson, King Harald V, passed away on August 28, 2026 (shortly after our 
-	trip). The new king, Haakon VIII, subsequently took over the throne. Norway is a relatively new country!</span>
+		<span style="text-align: left">Various lectures and tour escorts filled our heads with facts. While the Vikings are the most obvious and well 
+		known history of Norway and Scandanavia, did you know Norway itself was established as a sovereign country only in <b>1905</b>. This was after 
+		the peaceful separation of Norway from Sweden. By a national refereendum, the people confirmed their preference for a monarchy over a republic. 
+		Because none of Norway's noble families could claim royal descent, the government ultimately offered the throne of Norway to the Prince Carl of 
+		Denmark (a distant relative of Norway's medieval kings). His great-grandson, King Harald V, passed away on August 28, 2026 (shortly after our 
+		trip). The new king, Haakon VIII, subsequently took over the throne. So Norway is a relatively new country on the world stage!</span>
 	</div><br><br>
+
+	Yes, we saw whales are various times. But getting a far off whale photo was a challenge. All you see in most photos is a faint dark spot. Sorry, 
+	no whale photos here.<br><br>
 
 	Warning sign in Svalbard. By local law, going beyond these signs at the edge of the town of Longyearbeyn requires an armed escort:<br>
 	<a href="images-2026-cruise/08.cruise-svalbard-bear-sign-072226 (1).jpg" target="_blank" rel="noopener noreferrer">08.cruise-svalbard-bear-sign-
@@ -151,7 +177,7 @@ Norway) to Norway<br>
 	</div><br><br>
 
 	Lofoten is an archipelago in northern Norway. The scenery of its various islands was breathtaking. Unfortunately the entire area 
-	is best seen from the air. Thus we did not get any good photos. This photo is a representative photo from web.<br>
+	is best seen from the air. Thus we did not get any good photos. This photo is a representative photo from web:<br>
 	<a href="images-2026-cruise/14.cruise-lofoten-town.JPG" target="_blank" rel="noopener noreferrer">14.cruise-lofoten-town.JPG</a><br><br>
 
 	Our favorite stop was Geirangerfjord. Incredible views and scenery:<br>
