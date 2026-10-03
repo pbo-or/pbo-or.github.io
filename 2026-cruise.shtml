@@ -3,6 +3,11 @@
 <head>
 <title>Our July 2027 Cruise</title>
 <link rel="stylesheet" type="text/css" href="s[1]tyle.css">
+<script type="text/javascript">
+   function doExpand(DivName) {
+   if (DivName.style.display="none") { DivName.style.display=""; }
+   else { DivName.style.display="none"; }}
+</script>
 </head>
 
 <style type="text/css">
@@ -18,6 +23,12 @@ a:visited		{font-family: Tahoma; font-size: 10pt; color: #0000FF; text-decoratio
 	
 #Content        {margin-left: auto; margin-right: auto; text-align: justify; border: 0px solid #0066FF; padding: 25px; width: 904px; }
 
+#HISTORYBox		{border-radius: 8px; margin-left: auto; margin-right: auto; text-align: left; 
+				border: 1px solid #0066FF; padding: 4px; width: 768px; height: auto; }
+
+#CLIMATEBox		{border-radius: 8px; margin-left: auto; margin-right: auto; text-align: left; 
+				border: 1px solid #0066FF; padding: 4px; width: 768px; height: auto; }
+
 .site-header-txt	{text-align: center; font-size: 12pt; font-weight: bold; }
 
 .f1 			{font-size: 14pt; font-weight: bold; color: red; }
@@ -28,14 +39,12 @@ a:visited		{font-family: Tahoma; font-size: 10pt; color: #0000FF; text-decoratio
 
 <body>
 <div id="Content">
-<p class="site-header-txt"><span class="area-header-txt">Our July 2027 Viking Ocean Cruise to Iceland-Svalbard-Norway</span></p>
+<p style="text-align: center"><span class="site-header-txt">Our July 2027 Viking Ocean Cruise to Iceland-Svalbard-Norway</span><br><br>
 
-<p style="text-align: center">Last update: October 2, 2026</p>
+Last update: October 2, 2026</p>
 
-<p style="text-align: center"><img border="0" src="images-2026-cruise/00-map-2026-viking-cruise.jpg" width="903" height="473" 
+<p style="text-align: center"><img border="0" src="images-2026-cruise/00-map-2026-viking-cruise.jpg" width="903" height="482" 
 style="border: 0px solid black; box-shadow: 8px 8px 12px #999"></p><br>
-
-My brother, Greg, and his wife, Renee, joined Mary and I for this vacation trip.<br><br>
 
 The <span style="background-color: #FFFF00">Day #'s</span> below correspond with the Trip Day #'s indicated on the map. These #'s also 
 correspond with # listed in the photo file names.<br><br>
@@ -44,6 +53,8 @@ correspond with # listed in the photo file names.<br><br>
 To avoid filling up your memory capacity and slowing down your computer. I would recommend closing the photo browser window before moving onto 
 the next photo ("<b>Cntl + W</b>" often saves time versus using a mouse to close the browser photo). On a tablet or phone, in the browser, just 
 click the Back button.</i><br><br><br>
+
+My brother, Greg, and his wife, Renee, joined Mary and I for this vacation trip.<br><br><br>
 
 <b>Photos</b> (below photos are a sample of the 270 we have in our collection):<br><br>
 
@@ -75,12 +86,17 @@ Norway) to Norway<br>
 	View of the our balancy:<br><a href="images-2026-cruise/07.cruise-ship-balcony.jpg" target="_blank" rel="noopener noreferrer">
 	07.cruise-ship-balcony.jpg</a><br><br>
 
-	The entire cruise was an imersion in history. Various lectures and tour escorts filled our heads with facts. While the Vikings are the most 
-	obvious and well known history of Norway and Scandanavia, did you know Norway itself was established as a sovereign country only in <b>1905</b>. 
-	This was after the peaceful separation of Norway from Sweden. By a national refereendum, the people confirmed their preference for a monarchy 
-	over a republic. Because none of Norway's noble families could claim royal descent, the government ultimately offered the throne of Norway to 
-	the Prince Carl of Denmark (a distant relative of Norway's medieval kings). His great-grandson, King Harald V, passed away on August 28, 2026 
-	(shortly after our trip). The new king, Haakon VIII, subsequently took over the throne. Norway is a relatively new country!<br><br>
+	The entire cruise was an imersion in <font color="#0000FF"><a href="JavaScript:doExpand(HISTORYBox)">history</a></font>.
+
+	<div id="HISTORYBox" style="display: none">
+	
+	<span style="text-align: left">Various lectures and tour escorts filled our heads with facts. While the Vikings are the most obvious and well 
+	known history of Norway and Scandanavia, did you know Norway itself was established as a sovereign country only in <b>1905</b>. This was after 
+	the peaceful separation of Norway from Sweden. By a national refereendum, the people confirmed their preference for a monarchy over a republic. 
+	Because none of Norway's noble families could claim royal descent, the government ultimately offered the throne of Norway to the Prince Carl of 
+	Denmark (a distant relative of Norway's medieval kings). His great-grandson, King Harald V, passed away on August 28, 2026 (shortly after our 
+	trip). The new king, Haakon VIII, subsequently took over the throne. Norway is a relatively new country!</span>
+	</div><br><br>
 
 	Warning sign in Svalbard. By local law, going beyond these signs at the edge of the town of Longyearbeyn requires an armed escort:<br>
 	<a href="images-2026-cruise/08.cruise-svalbard-bear-sign-072226 (1).jpg" target="_blank" rel="noopener noreferrer">08.cruise-svalbard-bear-sign-
@@ -106,10 +122,15 @@ Norway) to Norway<br>
 	Of course a troll photo:<br><a href="images-2026-cruise/11.cruise-honningsvag-troll-072526 (2).jpg" target="_blank" rel="noopener noreferrer">
 	11.cruise-honningsvag-troll-072526 (2).jpg</a><br><br>
 
-	Some geography and climate... while it can get very cold in Norway during the Winter, the ports and fjord waterways in Norway up to Svalbard 
-	actually do not freeze over. This is due to the Gulf Stream coming up from the Caribbean Sea. This makes their ports accessible year-round.<br><br>
+	Some geography and <font color="#0000FF"><a href="JavaScript:doExpand(CLIMATEBox)">climate</a></font>...
 
-	Lofoten is a state in Norway consisting of an archipelago. The scenery of the various islands was breathtaking. Unfortunately the entire area 
+	<div id="CLIMATEBox" style="display: none">
+	
+	<span style="text-align: left">While it can get very cold in Norway during the Winter, the ports and fjord waterways in Norway up to Svalbard 
+	actually do not freeze over. This is due to the Gulf Stream coming up from the Caribbean Sea. This makes their ports accessible year-round.</span>
+	</div><br><br>
+
+	Lofoten is an archipelago in northern Norway. The scenery of its various islands was breathtaking. Unfortunately the entire area 
 	is best seen from the air. Thus we did not get any good photos. This photo is a representative photo from web.<br>
 	<a href="images-2026-cruise/14.cruise-lofoten-town.JPG" target="_blank" rel="noopener noreferrer">14.cruise-lofoten-town.JPG</a><br><br>
 
@@ -121,12 +142,13 @@ Norway) to Norway<br>
 	<a href="images-2026-cruise/16.cruise-geiranger-fjord-073026 (23).jpg" target="_blank" rel="noopener noreferrer">16.cruise-geiranger-fjord-073026 (23).jpg</a><br>
 	<a href="images-2026-cruise/16.cruise-geiranger-fjord-073026 (25).jpg" target="_blank" rel="noopener noreferrer">16.cruise-geiranger-fjord-073026 (25).jpg</a><br><br>
 
-	The waterway and fjord reaching to Geiranger is almost 70 miles of turns from the Norwegian Sea. What is interesting is that the water surface at Geiranger 
-	is sea level!<br>
+	The waterway and fjord reaching to Geiranger is almost 70 miles of turns from the Norwegian Sea. What is interesting is that the water surface at 
+	Geiranger is sea level!<br>
 	<a href="images-2026-cruise/16.cruise-geiranger-fjord-map.jpg" target="_blank" rel="noopener noreferrer">16.cruise-geiranger-fjord-map.jpg</a><br><br>
 
 	The road switchbacks to climb the side slope of the fjord were very tight for our tour bus:<br>
-	<a href="images-2026-cruise/16.cruise-geiranger-switchbacks-073026 (2).jpg" target="_blank" rel="noopener noreferrer">16.cruise-geiranger-switchbacks-073026 (2).jpg</a><br><br>
+	<a href="images-2026-cruise/16.cruise-geiranger-switchbacks-073026 (2).jpg" target="_blank" rel="noopener noreferrer">16.cruise-geiranger-switchbacks-
+	073026 (2).jpg</a><br><br>
 
 	The various towns along the fjord were beautiful:<br>
 	<a href="images-2026-cruise/16.cruise-geiranger-fjord-073026 (10).jpg" target="_blank" rel="noopener noreferrer">16.cruise-geiranger-fjord-073026 (10).jpg</a><br><br>
