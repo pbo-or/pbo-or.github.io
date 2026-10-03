@@ -62,9 +62,9 @@ just click the Back button.</i><br><br><br>
 
 My brother, Greg, and his wife, Renee, joined Mary and I for this vacation trip.<br><br>
 
-<font color="#0000FF"><a href="JavaScript:doExpand(PERSPECTIVEBox)">Perspective</a></font>
+<font color="#0000FF"><a href="JavaScript:doExpand(PERSPECTIVEBox)">Some perspective</a></font>
 	<div id="PERSPECTIVEBox" style="display: none">
-		<span style="text-align: left">To appreciate traveling in the Arctic Circle, a few clarifications...<br><br>
+		<span style="text-align: left">To appreciate traveling above the Arctic Circle, a few clarifications...<br><br>
 
 		The above map is not totally to scale. Iceland is the same latitude as central Alaska. Prudoe Bay (where AK oil comes from) is on the 
 		Alaskan North Slope and is at the same latitude as the top of mainland Norway. Svalbard is half way between the top of mainland Norway 
