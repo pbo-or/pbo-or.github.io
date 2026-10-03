@@ -29,6 +29,9 @@ a:visited		{font-family: Tahoma; font-size: 10pt; color: #0000FF; text-decoratio
 #CLIMATEBox		{border-radius: 8px; margin-left: auto; margin-right: auto; text-align: left; 
 				border: 1px solid #0066FF; padding: 4px; width: 768px; height: auto; }
 
+#NARVIKBox		{border-radius: 8px; margin-left: auto; margin-right: auto; text-align: left; 
+				border: 1px solid #0066FF; padding: 4px; width: 768px; height: auto; }
+
 .site-header-txt	{text-align: center; font-size: 12pt; font-weight: bold; }
 
 .f1 			{font-size: 14pt; font-weight: bold; color: red; }
@@ -130,6 +133,23 @@ Norway) to Norway<br>
 	actually do not freeze over. This is due to the Gulf Stream coming up from the Caribbean Sea. This makes their ports accessible year-round.</span>
 	</div><br><br>
 
+	Why <font color="#0000FF"><a href="JavaScript:doExpand(NARVIKBox)">Narvik</a></font>?
+
+	<div id="NARVIKBox" style="display: none">
+	
+	<span style="text-align: left">I was initially puzzled on why the city of Narvik was a scheduled stop? After getting the bus tour guide's history 
+	presentation, reasoning became evident. Above I describe how Norway has year-round accessible ports. On the flip side, Sweden's cities and ports 
+	face the interior Baltic Sea. Thus many of those ports face freezing ice conditions making them inaccessible during the Winter. Here is the twist: 
+	Sweden has iron ore as a natural resource. Its export is a life line to their economy. The only way to keep the iron ore industry a year business 
+	is to transport it by rail to Narvik for ocean shipping to customers. This became a key factor in why the Germans invaded Norway at the start of 
+	World War II (in addition to its proximity to Great Britain and the North Atlantic). The railway ore trains snake 25 miles through Norwegian 
+	mountains from Narkiv to the Swedish border.<br><br>
+
+	This is one of the first iron ore locomotives built in 1882. It stayed in active use until 1942:<br>
+	<a href="images-2026-cruise/13.cruise-narvik-ore-train-072726 (1).jpg" target="_blank" rel="noopener noreferrer">13.cruise-narvik-ore-train-072726 
+	(1).jpg</a></span>
+	</div><br><br>
+
 	Lofoten is an archipelago in northern Norway. The scenery of its various islands was breathtaking. Unfortunately the entire area 
 	is best seen from the air. Thus we did not get any good photos. This photo is a representative photo from web.<br>
 	<a href="images-2026-cruise/14.cruise-lofoten-town.JPG" target="_blank" rel="noopener noreferrer">14.cruise-lofoten-town.JPG</a><br><br>
@@ -150,7 +170,7 @@ Norway) to Norway<br>
 	<a href="images-2026-cruise/16.cruise-geiranger-switchbacks-073026 (2).jpg" target="_blank" rel="noopener noreferrer">16.cruise-geiranger-switchbacks-
 	073026 (2).jpg</a><br><br>
 
-	The various towns along the fjord were beautiful:<br>
+	The various small towns along the fjord were beautiful:<br>
 	<a href="images-2026-cruise/16.cruise-geiranger-fjord-073026 (10).jpg" target="_blank" rel="noopener noreferrer">16.cruise-geiranger-fjord-073026 (10).jpg</a><br><br>
 	
 	This glacier fed river is on a very steep slope going right through the town of Geiranger down to the fjord. Reminded of German towns in the Alps.<br>
