@@ -1,0 +1,291 @@
+<html>
+
+<head>
+<title>Future Trips</title>
+<link rel="stylesheet" type="text/css" href="s[1]tyle.css">
+<script type="text/javascript">
+   function doExpand(DivName) {
+   if (DivName.style.display="none") { DivName.style.display=""; }
+   else { DivName.style.display="none"; }}
+</script>
+</head>
+
+<style type="text/css">
+<!--
+body			{margin-left: auto; margin-right: auto; font-family: Tahoma; font-size: 10pt; text-align: left; margin: 0; 
+				padding: 25; background-image: url('images-general/grid-standard.gif'); }
+
+a				{font-family: Tahoma; font-size: 10pt; }
+
+a:link			{font-family: Tahoma; font-size: 10pt; color: #0000FF; text-decoration: none; font-weight: bold; }
+               
+a:visited		{font-family: Tahoma; font-size: 10pt; color: #0000FF; text-decoration: none; font-weight: normal; }
+	
+#Content        {margin-left: auto; margin-right: auto; text-align: justify; border: 0px solid #0066FF; padding: 25px; width: 780px; }
+
+#PERSPECTIVEBox		{border-radius: 8px; margin-left: auto; margin-right: auto; text-align: left; 
+					border: 1px solid #0066FF; padding: 4px; width: 768px; height: auto; }
+
+#YACHTBox		{border-radius: 8px; margin-left: auto; margin-right: auto; text-align: left; 
+				border: 1px solid #0066FF; padding: 4px; width: 768px; height: auto; }
+
+#MUSEUMBox		{border-radius: 8px; margin-left: auto; margin-right: auto; text-align: left; 
+				border: 1px solid #0066FF; padding: 4px; width: 768px; height: auto; }
+
+#NARVIKBox		{border-radius: 8px; margin-left: auto; margin-right: auto; text-align: left; 
+				border: 1px solid #0066FF; padding: 4px; width: 768px; height: auto; }
+
+.site-header-txt	{text-align: center; font-size: 12pt; font-weight: bold; }
+
+.f1 			{font-size: 14pt; font-weight: bold; color: red; }
+
+.f2				{font-size: 11pt; font-weight: bold; color: red; }
+-->
+</style>
+
+<body>
+<div id="Content">
+<p style="text-align: center"><span class="site-header-txt">Future Vacation Trips</span><br><br>
+
+Last update: October 4, 2026</p><br>
+
+<i>Each link below opens in a new browser window. To avoid filling up your memory capacity and slowing down your computer. I would 
+recommend closing the photo browser window before moving onto the next photo ("<b>Control + W</b>" often saves time instead of using 
+a mouse to close each browser photo). On a tablet or phone, in the browser, just click the Back button.</i><br><br><br>
+
+<b>Scotland/London</b><br>
+
+<p style="text-align: center"><img border="0" src="images-vac/map-scotland-london.jpg" width="773" height="599" 
+style="border: 0px solid black; box-shadow: 8px 8px 12px #999"></p><br>
+
+<p></p>We originally were considering another cruise with Viking Ocean to sail around Great Britain with excursion stops to see desired 
+sites. But all Viking ships are exactly the same and we realized we would be reliving our Iceland-Svalbard-Norway cruise again but with 
+different stops at an even higher price due to inflation. That's when a ground tour of Scotland started to make more sense.</p>
+
+<p>After review of options, a small group CEI tour of Scotland gained our attention. We wanted to add time in Edinburgh and spend several 
+days in London on our own (not with a larger tour group).</p>
+
+<p>Here is what our future trip is starting to look like:</p>
+
+<span style="background-color: #FFFF00">[Day #01]</span> Flight departure from PDX<br>
+<span style="background-color: #FFFF00">[Day #02]</span> Arrive Heathrow. Connecting flight to Glasgow. Glasgow arrival and tranistion day.<br>
+<span style="background-color: #FFFF00">[Days #03-13]</span> Small group tour of Scotland with <a href="https://www.cietours.com/tours/
+scotland/scottish-isles-glens?package=112301" target="_blank" rel="noopener noreferrer">CEI</a>
+
+<blockquote>
+	Glasgow (2 nights)<br>
+	<ul>
+		<li>Walking Tour of <a href="https://www.thesun.co.uk/wp-content/uploads/2026/01/aerial-image-captures-buchanan-street-
+		1051282662.jpg" target="_blank" rel="noopener noreferrer">Glasgow</a></li>
+		<li><a href="https://upload.wikimedia.org/wikipedia/commons/1/1f/Mount_Stuart_House%2C_dining_room_2018-08-25_2.jpg?
+		utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" target="_blank" rel="noopener noreferrer">
+		Mount Stuart House</a></li>
+		<li><a href="https://www.hikescotland.co.uk/wp-content/uploads/2022/07/loch-lomond-glencoe-gallery1.jpg" target="_blank" 
+		rel="noopener noreferrer">Loch Lomond</a></li>
+		<li><a href="https://great-castles.com/photos/castles/eileandonan/eileandonan3.jpg" target="_blank" rel="noopener 
+		noreferrer">Eilean Donan Castle</a></li>
+	</ul>
+	 
+	<a href="https://en.wikipedia.org/wiki/Kyle_of_Lochalsh" target="_blank" rel="noopener noreferrer">Kyle of Lochlash</a> (2 nights) 
+	including:<br>
+	<ul>
+		<li><a href="https://aboveusonlyskies.com/wp-content/uploads/2025/02/Old-Man-Of-Storr-Skye-Scotland.webp" target="_blank" 
+		rel="noopener noreferrer">The Isle of Skye</a></li>
+		<li><a href="https://www.ambaile.org.uk/fe-cdn/highlifehighland/previews/99/29616/0cb309f35faf667de082db3b2c8f706f/5/
+		7944306871d9081b935d09b77b8f4b50/29616.jpg" target="_blank" rel="noopener noreferrer">Dunvegan Castle</a></li>
+		<li><a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNFLlbLvM4ysR7P96EvF2JecHh4LKdLZHCpqH1MPEbM76SYHk0u24kd-
+		RF&s=10" target="_blank" rel="noopener noreferrer">Portree</a></li>
+		<li><a href="https://images-production.gardenvisit.com/uploads/images/16211/inverewe_garden_1124_jpg_original.jpg" 
+		target="_blank" rel="noopener noreferrer">Inerewe Garden</a></li>
+	</ul>
+	 
+	<a href="https://static.wixstatic.com/media/27e765_13944a01d7e242efb9d7625fe7b39f89~mv2.jpg/v1/fill/w_1000,h_562,al_c,q_85,usm_
+	0.66_1.00_0.01/27e765_13944a01d7e242efb9d7625fe7b39f89~mv2.jpg" target="_blank" rel="noopener noreferrer">Gairloch</a><br>
+	<ul>
+		<li><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjdhaNXeE89nj9L_2zOROzqykEGOKFnnajGzP8mQ7zgdp
+		0461onxtz4LZdtEn0C3yMbLySIux8oh8gtU0qTFO4NSu8d60g5KSm6JPt7MW3V9ZWmVJvCVoKleGuGbvRQQavQ-thNzBbNsM/s1600/2003+%25282019+
+		0615+800%2529+%2528Internet%2529+Ullapool.jpg" target="_blank" rel="noopener noreferrer">Ullapool</a></li>
+	</ul>
+
+	<a href="https://a0.muscache.com/im/pictures/INTERNAL/INTERNAL-ImageByPlaceId-ChIJGwS8KR7-mkgR6OhpT5NnI_I-large_background/
+	original/d4d89b33-f434-45e3-b4cf-30018f0b31f5.jpeg" target="_blank" rel="noopener noreferrer">Kirkwall</a> (2 nights) including:<br>
+	<ul>
+		<li><a href="https://i0.wp.com/www.awaywithmaja.com/wp-content/uploads/2022/08/07FA51BC-1685-4D46-B22F-A7662E4506A4_
+		1_105_c.jpeg?resize=768%2C1024&ssl=1" target="_blank" rel="noopener noreferrer">Orkney Island</a></li>
+		<li><a href="https://cdn.eagle-eye.com/wp-content/uploads/2023/03/Ring-Brodgar-dreamstime.jpg" target="_blank" 
+		rel="noopener noreferrer">Ring of Brodgar</a></li>
+		<li><a href="https://cdn.eagle-eye.com/wp-content/uploads/2023/03/Ring-Brodgar-dreamstime.jpg" target="_blank" 
+		rel="noopener noreferrer">Skara Brea</a></li>
+		<li><a href="https://www.historicenvironment.scot/media/x4dpb3ow/hi00203886-st-magnus-church.jpg?rxy=0.692,0.
+		2723059638610617&width=1920&height=1080&v=1dc9b5a8b019190&format=webp&autoorient=true&quality=100" target="_blank" 
+		rel="noopener noreferrer">St Magnus Cathedral</a></li>
+		<li><a href="https://www.orkney.com/listings/the-italian-chapel" target="_blank" rel="noopener noreferrer">Italian Chapel</a></li>
+		<li><a href="https://images.squarespace-cdn.com/content/v1/5efb46cf46fb3d2f36091afa/0e3b2ba0-e93d-4bda-8e3b-57ac604dceff/
+		Dunrobin.jpg" target="_blank" rel="noopener noreferrer">Dunrobin Castle</a></li>
+	</ul>
+	
+	Strathpeffer including:<br>
+	<ul>
+		<li><a href="https://www.visitscotland.com/binaries/content/gallery/visitscotland/cms-images/2022/07/04/loch-ness" target="_blank" 
+		rel="noopener noreferrer">Loch Ness</a> 
+		Cruise</li>
+		<li><a href="https://www.nts.org.uk/visit/places/culloden" target="_blank" rel="noopener noreferrer">Culloden Battelfied</a></li>
+	</ul>
+		
+	<a href="https://en.wikipedia.org/wiki/Crieff" target="_blank" rel="noopener noreferrer">Crieff</a> including Whiskey Tasting<br><br>
+	
+	<a href="https://i.natgeofe.com/n/7fd825e3-3c0a-4d8c-bd74-3f262487e9a6/lane-edinburgh-scotland.jpg" target="_blank" rel="noopener 
+	noreferrer">Edinburgh</a> (2 nights) including:<br>
+	<ul>
+		<li>Panoramic Tour</li>
+		<li><a href="https://images.squarespace-cdn.com/content/v1/5efb46cf46fb3d2f36091afa/52a397ef-93e9-4755-850b-dd8739509f24/
+		Edinburgh%2C+Scotland.jpg" target="_blank" rel="noopener noreferrer">Edinburgh Castle</a></li>
+	</ul>
+</blockquote>
+
+<span style="background-color: #FFFF00">[Days #14]</span> Extra day in Edinburgh including 
+<font color="#0000FF"><a href="JavaScript:doExpand(YACHTBox)">Royal Yacht Britannia</a></font>
+	<div id="YACHTBox" style="display: none">
+		<span style="text-align: left">Over the years I have heard glowing comments about Queen Elizabeth's yacht. This turned into a must 
+		to <a href="https://www.royalyachtbritannia.co.uk/visit/" target="_blank" rel="noopener noreferrer">visit</a>.<br></span>
+	</div><br><br>
+
+<span style="background-color: #FFFF00">[Days #15]</span> Train from Edinburgh to London (360 miles)<br>
+
+<span style="background-color: #FFFF00">[Days #16]</span> London Introduction including:<br>
+
+<blockquote>
+	Morning River Thames cruise (to get an overview of central London)<br>
+	Walking tour of London including (but not limited to):<br>
+	<ul>
+		<li><a href="https://www.londoneye.com/" target="_blank" rel="noopener noreferrer">London Eye</a></li>
+		<li><a href="https://www.visitlondon.com/things-to-do/sightseeing/london-attraction/big-ben" target="_blank" rel="noopener 
+		noreferrer">Big Ben</a></li>
+		<li><a href="https://www.westminster-abbey.org/" target="_blank" rel="noopener noreferrer">Westminster Abbey</a></li>
+		<li><a href="https://ak-d.tripcdn.com/images/1mi1a424x9842gl7f042F.jpg?proc=source/trip" target="_blank" rel="noopener 
+		noreferrer">Horse Guards at Whitewall</a></li>
+		<li><a href="https://media.architecturaldigest.com/photos/58a5e7223f84553147ddc784/16:9/w_2560%2Cc_limit/
+		Buckingham%2520Palace%25201.jpg" target="_blank" rel="noopener noreferrer">Buckingham Palace</a></li>
+		<li><a href="https://mediaassets.cbre.com/uk-resi/-/media/project/cbre/residential/united-kingdom-resi/home/
+		area-guides/cg/covgarden_007.jpg" target="_blank" rel="noopener noreferrer">Covent Garden</a></li>
+		<li><a href="https://upload.wikimedia.org/wikipedia/commons/a/a6/Trafalgar_Square%2C_London_2_-_Jun_2009.jpg?
+		utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" target="_blank" rel="noopener noreferrer">Trafalgar Square</a></li>
+		<li><a href="https://themaritimeexplorer.ca/wp-content/uploads/2016/02/The-White-Tower.jpg" target="_blank" rel="noopener 
+		noreferrer">Tower of London</a></li>
+		<li><a href="https://www.tripsavvy.com/thmb/N8xRZX2VLCE8P4cqOh4hUND5XeY=/1500x0/filters:no_upscale():max_bytes(150000):
+		strip_icc()/Tower-Bridge-at-sunset-58c5d1533df78c353c619ce8.jpg" target="_blank" rel="noopener noreferrer">Tower Bridge</a></li>
+		<li><a href="https://www.tripsavvy.com/thmb/N8xRZX2VLCE8P4cqOh4hUND5XeY=/1500x0/filters:no_upscale():
+		max_bytes(150000):strip_icc()/Tower-Bridge-at-sunset-58c5d1533df78c353c619ce8.jpg" target="_blank" rel="noopener noreferrer">
+		St Paul's Cathedral</a></li>
+		<li><a href="https://hips.hearstapps.com/hmg-prod/images/kensington-palace-in-hyde-park-in-the-centre-of-
+		london-news-photo-1667579240.jpg?crop=0.649xw:1.00xh;0.122xw,0&resize=1200:*" target="_blank" rel="noopener noreferrer">Kensington Place</a></li>
+	</ul>
+</blockquote>
+
+<span style="background-color: #FFFF00">[Days #17]</span> Tour Day<br>
+
+<blockquote>
+	<a href="https://www.nationaltrust.org.uk/visit/kent/the-white-cliffs-of-dover" target="_blank" rel="noopener noreferrer">
+	White Cliffs of Dover</a> (70 miles SE of London)<br>
+	<a href="https://theroad-islife.com/wp-content/uploads/2019/09/Day-Trip-to-Canterbury7-560x700.jpg" target="_blank" rel="noopener 
+	noreferrer">Canterbury</a> (55 miles SE of London)<br>
+</blockquote>
+
+<span style="background-color: #FFFF00">[Days #18]</span> Tour Day<br>
+
+<blockquote>
+	<a href="https://www.worldhistory.org/img/c/p/1200x900/11555.jpg" target="_blank" rel="noopener noreferrer">
+	Windsor Castle</a> (20 miles West of London)<br>
+	<a href="https://upload.wikimedia.org/wikipedia/commons/3/3c/Stonehenge2007_07_30.jpg" target="_blank" rel="noopener noreferrer">
+	Stonehenge</a> (75 miles West of London)<br>
+	<a href="https://static.wixstatic.com/media/fd0dc1_bc886c648ebf4897bee3bd2995382645~mv2.jpg" target="_blank" rel="noopener 
+	noreferrer">Bath</a> (100 miles West of London)<br>
+</blockquote>
+
+<span style="background-color: #FFFF00">[Days #19]</span> Museum Visits (walking)<br>
+
+<blockquote>
+	<font color="#0000FF"><a href="JavaScript:doExpand(MUSEUMBox)">Imperial War Museum</a></font>
+		<div id="MUSEUMBox" style="display: none">
+			<span style="text-align: left">Our neighbor cannot say enough great things about the <a href=
+			"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcC234mc-5YfZaP7iSmC8af8cz7tnyl7PqA1hQfUixv10rqDUQmjjK9Pw&s=10" 
+			target="_blank" rel="noopener noreferrer">Imperial War Museum</a> and the Churchill Wars Rooms. He said a visit to each 
+			is critical for any London visit.<br></span>
+		</div><br>
+	<a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcC234mc-5YfZaP7iSmC8af8cz7tnyl7PqA1hQfUixv10rqDUQmjjK9Pw&s=10" 
+	target="_blank" rel="noopener noreferrer">Churchill War Rooms</a><br>
+	<a href="https://www.davewilsonphotography.com/wp-content/uploads/2017/03/UK_Trip-1938.jpg" target="_blank" 
+	rel="noopener noreferrer">HMS Belfast</a><br>
+</blockquote>
+
+<span style="background-color: #FFFF00">[Days #20]</span> <a href="https://www.britishmuseum.org/sites/default/files/
+styles/16_9_media_huge/public/2024-11/Masterplan_aerial_view_teaser.jpg?h=d1cb525d&itok=yGltR8va" target="_blank" 
+rel="noopener noreferrer">British Museum</a> (walking)<br>
+
+<span style="background-color: #FFFF00">[Days #21]</span> Flight departure from Heathrow to PDX<br><br>
+
+<p><img border="0" src="images-vac/flag-scotland.jpg" width="150" height="100" 
+style="border: 0px solid black; box-shadow: 8px 8px 12px #999">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img border="0" src="images-vac/flag-england.jpg" width="150" height="100" 
+style="border: 0px solid black; box-shadow: 8px 8px 12px #999"></p><br>
+
+&nbsp;<hr size="4" noshade color="#0000FF"><br>
+
+<b>National Parks Road Trip (CA, AZ, UT)</b><br><br>
+
+<p style="text-align: center"><img border="0" src="images-vac/map-roadtrip.jpg" width="773" height="483" 
+style="border: 0px solid black; box-shadow: 8px 8px 12px #999"></p><br>
+
+<span style="background-color: #FFFF00">[Day #1]</span> Fly to Sacramento, CA. Rent car. <a href="https://www.nps.gov/yose/index.htm" 
+target="_blank" rel="noopener noreferrer">Yosemite NP</a>.<br>
+<span style="background-color: #FFFF00">[Day #2]</span> Kings Canyon NP and <a href="https://www.nps.gov/seki/index.htm" target=
+"_blank" rel="noopener noreferrer">Sequoia NP</a><br>
+<span style="background-color: #FFFF00">[Day #3]</span><a href="https://www.nps.gov/pinn/index.htm" target="_blank" rel="noopener 
+noreferrer">Pinnacles NP</a><br>
+<span style="background-color: #FFFF00">[Day #4]</span> San Luis Obispo<br>
+<span style="background-color: #FFFF00">[Day #5]</span> Travel to Henderson, NV<br>
+<span style="background-color: #FFFF00">[Day #6]</span> <a href="https://www.usbr.gov/lc/hooverdam/" target="_blank" rel="noopener 
+noreferrer">Hoover Dam</a>, <a href="https://www.nps.gov/grca/index.htm" target="_blank" rel="noopener noreferrer">
+Grand Canyon South Rim</a><br>
+<span style="background-color: #FFFF00">[Day #7]</span> <a href="https://www.nps.gov/glca/planyourvisit/horseshoe-bend.htm" 
+target="_blank" rel="noopener noreferrer">Horse Shoe Bend</a>, <a href="https://wereintherockies.com/antelope-canyon/" target="_blank" 
+rel="noopener noreferrer">
+Antelope Canyon</a>, <a href="https://www.utah.com/destinations/recreation-areas/lake-powell/visitor-information/glen-canyon-dam-
+visitor-center/" target="_blank" rel="noopener noreferrer">Glen Canyon Dam</a> (Lake Powell), AZ<br>
+<span style="background-color: #FFFF00">[Day #8]</span> <a href="https://www.nps.gov/zion/index.htm" target="_blank" rel="noopener 
+noreferrer">Zion NP</a> (South), UT<br>
+<span style="background-color: #FFFF00">[Day #9]</span> Zion NP (North/Kobol Canyon)<br>
+<span style="background-color: #FFFF00">[Day #10]</span> <a href="https://www.nps.gov/brca/index.htm" target="_blank" rel="noopener 
+noreferrer">
+Bryce Canyon NP</a> and <a href="https://www.nps.gov/care/index.htm" target="_blank" rel="noopener noreferrer">Capital Reef NP</a>, UT<br>
+<span style="background-color: #FFFF00">[Day #11]</span> <a href="https://www.nps.gov/arch/index.htm" target="_blank" rel="noopener 
+noreferrer">Arches NP</a> and <a href="https://www.nps.gov/cany/index.htm" target="_blank" rel="noopener noreferrer">Canyonlands 
+NP</a>, UT<br>
+<span style="background-color: #FFFF00">[Day #12]</span> To Salt Lake City to fly back to PDX<br><br>
+
+
+<img border="0" src="images-vac/logo-nps.jpg" width="150" height="194" 
+style="border: 0px solid black; box-shadow: 8px 8px 12px #999">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img border="0" src="images-vac/flag-ca.jpg" width="150" height="100" 
+style="border: 0px solid black; box-shadow: 8px 8px 12px #999">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img border="0" src="images-vac/flag-az.jpg" width="150" height="100" 
+style="border: 0px solid black; box-shadow: 8px 8px 12px #999">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img border="0" src="images-vac/flag-ut.jpg" width="150" height="100" 
+style="border: 0px solid black; box-shadow: 8px 8px 12px #999"><br><br><br>
+
+<!--
+<font color="#0000FF"><a href="JavaScript:doExpand(PERSPECTIVEBox)">Perspective</a></font>
+	<div id="PERSPECTIVEBox" style="display: none">
+		<span style="text-align: left">XXXXXX<br></span>
+	</div><br><br>
+
+<font color="#0000FF"><a href="JavaScript:doExpand(NARVIKBox)">Narvik</a></font>
+	<div id="NARVIKBox" style="display: none">
+		<span style="text-align: left">XXXXXX<br></span>
+	</div><br><br>
+-->
+
+
+</div>
+</body>
+</html>
