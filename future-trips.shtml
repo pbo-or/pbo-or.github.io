@@ -145,10 +145,10 @@ scotland/scottish-isles-glens?package=112301" target="_blank" rel="noopener nore
 
 <span style="background-color: #FFFF00">[Days #14]</span> Extra day in Edinburgh including 
 <font color="#0000FF"><a href="JavaScript:doExpand(YACHTBox)">Royal Yacht Britannia</a></font>
-	<div id="YACHTBox" style="display: none">
-		<span style="text-align: left">Over the years I have heard glowing comments about Queen Elizabeth's yacht. This turned into a must 
-		to <a href="https://www.royalyachtbritannia.co.uk/visit/" target="_blank" rel="noopener noreferrer">visit</a>.<br></span>
-	</div><br><br>
+<div id="YACHTBox" style="display: none">
+	<span style="text-align: left">Over the years I have heard glowing comments about Queen Elizabeth's yacht. This turned into a must 
+	to <a href="https://www.royalyachtbritannia.co.uk/visit/" target="_blank" rel="noopener noreferrer">visit</a>.<br></span>
+</div><br><br>
 
 <span style="background-color: #FFFF00">[Days #15]</span> Train from Edinburgh to London (360 miles)<br>
 
@@ -207,12 +207,11 @@ scotland/scottish-isles-glens?package=112301" target="_blank" rel="noopener nore
 
 <blockquote>
 	<font color="#0000FF"><a href="JavaScript:doExpand(MUSEUMBox)">Imperial War Museum</a></font>
-		<div id="MUSEUMBox" style="display: none">
-			<span style="text-align: left">Our neighbor cannot say enough great things about the <a href=
-			"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcC234mc-5YfZaP7iSmC8af8cz7tnyl7PqA1hQfUixv10rqDUQmjjK9Pw&s=10" 
-			target="_blank" rel="noopener noreferrer">Imperial War Museum</a> and the Churchill Wars Rooms. He said a visit to each 
-			is critical for any London visit.<br></span>
-		</div><br>
+	<div id="MUSEUMBox" style="display: none">
+		<span style="text-align: left">Our neighbor cannot say enough great things about the <a href="https://encrypted-tbn0.gstatic.com/
+		images?q=tbn:ANd9GcRcC234mc-5YfZaP7iSmC8af8cz7tnyl7PqA1hQfUixv10rqDUQmjjK9Pw&s=10" target="_blank" rel="noopener noreferrer">
+		Imperial War Museum</a> and the Churchill Wars Rooms. He said a visit to each is critical for any London visit.<br></span>
+	</div><br>
 	<a href="https://www.thehistoryreader.com/wp-content/uploads/2023/10/702px-MapRoomCabinetWarRoomsTrim.jpg" target="_blank" 
 	rel="noopener noreferrer">Churchill War Rooms</a><br>
 	<a href="https://www.historyhit.com/app/uploads/bis-images/5149804/HMS-Belfast-788x537.jpg?x67472" target="_blank" 
@@ -223,7 +222,6 @@ scotland/scottish-isles-glens?package=112301" target="_blank" rel="noopener nore
 target="_blank" rel="noopener noreferrer">British Museum</a> (walking)<br>
 
 <span style="background-color: #FFFF00">[Days #21]</span> Flight departure from Heathrow to PDX<br><br>
-
 
 
 
