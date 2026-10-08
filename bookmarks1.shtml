@@ -721,17 +721,12 @@ max-price=950k,min-sqft=2.5k-sqft,viewport=45.50552:45.49461:-122.76909:-122.789
 <table border="0" width="100%"><tbody><tr>
 
 		<td valign="top" width="50%">
-		<p>A future <a href="https://www.vikingcruises.com/oceans/cruise-destinations/baltic/british-isles-explorer/index.html#noscroll">cruise</a> 
-		considered, but soon replaced <br>
-		with the Scotland/London tour below.</p>
-
-		Future <a href="https://www.cietours.com/tours/scotland/scottish-isles-glens?package=112301">
-		CEI Scotland Small Group Tour</a><br><br>
+		Future <a href="https://www.cietours.com/tours/scotland/scottish-isles-glens?package=112301">CEI Scotland Small Group Tour</a><br><br>
+		<a href="https://www.britishairways.com/travel/home/public/en_us/">British Airways</a><br><br>
 	
 		<b>Scotland</b><br>
 		Glasgow<br>
-		<a href="https://en.wikipedia.org/wiki/Isle_of_Bute">Isle of Bute</a> & <a href="https://en.wikipedia.org/wiki/Mount_Stuart_House">
-		Mount Stuart House</a><br>
+		<a href="https://en.wikipedia.org/wiki/Isle_of_Bute">Isle of Bute</a> & <a href="https://en.wikipedia.org/wiki/Mount_Stuart_House">Mount Stuart House</a><br>
 		<a href="https://en.wikipedia.org/wiki/Kyle_of_Lochalsh">Kyle of Lochalsh</a><br>
 		<a href="https://en.wikipedia.org/wiki/Loch_Lomond">Loch Lomond</a> & <a href="https://www.europeanwaterways.com/blog/icons-of-scotland-eilean-
 		donan-castle/">Eilean Donan Castle</a><br>
@@ -748,13 +743,14 @@ max-price=950k,min-sqft=2.5k-sqft,viewport=45.50552:45.49461:-122.76909:-122.789
 		<a href="https://www.visitscotland.com/binaries/content/gallery/visitscotland/cms-images/2022/07/04/loch-ness">Loch Ness</a><br>
 		<a href="https://www.nts.org.uk/visit/places/culloden">Culloden</a><br>
 		<a href="https://en.wikipedia.org/wiki/Crieff">Crieff</a><br>
-		<a href="https://images.squarespace-cdn.com/content/v1/5efb46cf46fb3d2f36091afa/52a397ef-93e9-4755-850b-dd8739509f24/Edinburgh%2C+Scotland.jpg">Edinburgh</a><br>
+		<a href="https://images.squarespace-cdn.com/content/v1/5efb46cf46fb3d2f36091afa/52a397ef-93e9-4755-850b-dd8739509f24/Edinburgh%2C+Scotland.jpg">
+		Edinburgh</a><br>
 		<a href="https://www.royalyachtbritannia.co.uk/visit/">Royal Yacht Britannia main site</a> (Edinburgh)<br><br>
-		<a href="https://www.businessinsider.com/scotland-castles-tourists-should-visit-skip-from-local-edinburgh-stirling-2026-8">As a local, I've visited many of Scotland's castles. <br>
-		There are 4 that tourists shouldn't miss</a><br><br>
+		<a href="https://www.businessinsider.com/scotland-castles-tourists-should-visit-skip-from-local-edinburgh-stirling-2026-8">As a local, I've visited many 
+		of Scotland's castles. There are 4 that tourists shouldn't miss</a><br><br>
 		
 		<b>England</b><br>
-		Hotel: <a href="https://www.thegrandattrafalgarsquare.com/">The Grand at Trafalgar Aquare</a><br><br>
+		Hotel: <a href="https://www.thegrandattrafalgarsquare.com/">The Grand at Trafalgar Square</a><br><br>
 		<a href="https://www.visitlondon.com/">Visit London Official Visitor Guide</a><br><br>
 		<a href="https://www.nationaltrust.org.uk/visit/kent/the-white-cliffs-of-dover">White Cliffs of Dover</a>/Canterbury<br>
 		<a href="https://www.viator.com/tours/London/Windsor-Stonehenge-and-the-Roman-Baths/d737-2452P56">Windsor, Stonehenge, and Bath Trip</a><br>
@@ -771,10 +767,14 @@ max-price=950k,min-sqft=2.5k-sqft,viewport=45.50552:45.49461:-122.76909:-122.789
 		<a href="https://en.wikipedia.org/wiki/Palace_of_Westminster">Palace of Westminster</a><br>
 		<a href="https://en.wikipedia.org/wiki/Trafalgar_Square">Trafalgar Square</a><br>
 		<a href="https://www.londoneye.com/">London Eye</a><br>
-		<a href="https://www.visitlondon.com/things-to-do/place/77552-piccadilly-circus">Piccadilly Circus</a><br>
+		<s><a href="https://www.visitlondon.com/things-to-do/place/77552-piccadilly-circus">Piccadilly Circus</a></s><br>
 		<a href="https://en.wikipedia.org/wiki/Marble_Arch">Marble Arch</a><br>
-		<a href="https://beyondyellowbrickblog.com/notting-hill-london-guide/">Notting Hill</a><br>
-		<a href="https://en.wikipedia.org/wiki/The_Gherkin">30 St Mary Axe (The Gherkin)</a><br><br></td>
+		<s><a href="https://beyondyellowbrickblog.com/notting-hill-london-guide/">Notting Hill</a></s><br>
+		<a href="https://en.wikipedia.org/wiki/The_Gherkin">30 St Mary Axe (The Gherkin)</a><br><br>
+	
+		A future <a href="https://www.vikingcruises.com/oceans/cruise-destinations/baltic/british-isles-explorer/index.html#noscroll">cruise</a> 
+		considered, but soon replaced<br>
+		with the Scotland-London tour above.<br></td>
 		
 	<td valign="top" width="50%">
 	<b>Others sites for later</b><br>
@@ -795,8 +795,10 @@ max-price=950k,min-sqft=2.5k-sqft,viewport=45.50552:45.49461:-122.76909:-122.789
 	
 	<b>GENERAL</b><br>
 	Air: <a href="https://www.seatguru.com/charts/longhaul_economy.php">Seat Guru</a><br>
-	Air: <a href="https://guessingheadlights.com/10-airport-mistakes-that-will-ruin-your-flight-before-you-even-board/">10 Airport Mistakes That Will Ruin Your Flight</a><br>
-	Air: <a href="https://www.yardbarker.com/lifestyle/articles/20_tips_to_improve_your_air_travel_experience/s1__41470991">20 Tips to Improve Your Air Travel Experience</a><br>
+	Air: <a href="https://guessingheadlights.com/10-airport-mistakes-that-will-ruin-your-flight-before-you-even-board/">10 Airport Mistakes That Will 
+	Ruin Your Flight</a><br>
+	Air: <a href="https://www.yardbarker.com/lifestyle/articles/20_tips_to_improve_your_air_travel_experience/s1__41470991">20 Tips to Improve Your Air 
+	Travel Experience</a><br>
 	Air: <a href="https://financebuzz.com/things-to-do-board-plane-6?pid=1692">15 Things All Travelers Must Do Before Arriving to the Airport</a><br>
 	Air: <a href="https://www.themirror.com/travel/airline-employees-easy-travel-hack-1215421">Airline staff's 'number one' travel hack</a><br>
 	Air: <a href="https://www.mensjournal.com/travel/tsa-banned-these-7-surprising-snacks-from-carry-on-bags">
@@ -841,7 +843,6 @@ max-price=950k,min-sqft=2.5k-sqft,viewport=45.50552:45.49461:-122.76909:-122.789
 <table border="0" width="500px" align="center"><tbody>
 
 		<td valign="top" width="50%">
-
 		<a href="nw-travel1.shtml">NW Travel</a> GitHub<br><br>
 
 		<a href="2026-cruise.shtml">2026 Cruise</a> GitHub<br><br>
@@ -853,8 +854,6 @@ max-price=950k,min-sqft=2.5k-sqft,viewport=45.50552:45.49461:-122.76909:-122.789
 		<a href="index.html">Index Page</a> GitHub<br>
 		<s><a href="https://myplace.frontier.com/~pboakes/bookmarks1.shtml">BM Page</a> Frontier</s><br><br>
 		
-		<a href="images-fern-canyon-travel/map-travel-washington.JPG">Washington State Map</a><br>
-		<a href="images-fern-canyon-travel/map-travel-GB.jpg">Great Britain Map</a><br>
 		<a href="images-fern-canyon-travel/map-travel-iceland.jpg">Iceland Map</a><br>
 		<a href="images-fern-canyon-travel/map-travel-svalbard.jpg">Svalbard Map</a><br>
 		<a href="images-fern-canyon-travel/map-travel-norway.JPG">Norway Map</a><br></td>
@@ -886,9 +885,10 @@ EcoFlow DELTA 3 Ultra Plus (3072Wh) + Delta Max Plus Extra Battery + 400W Solar 
 <a href="https://manuals.ecoflow.com/us/product/delta-3-ultra-plus?lang=en_US">EcoFlow Delta 3 Ultra Plus User Manual</a><br>
 <a href="https://support.satellitephonestore.com/hc/en-us/articles/13921326014868-EcoFlow-400W-Portable-Solar-Panel-User-Manual">
 EcoFlow 400W Portable Solar Panel User Manual</a><br><br>Future purchases?<br>
-<a href="https://www.homedepot.com/p/parkworld-25-ft-10-3-30-Amp-125V-Twist-Lock-NEMA-L5-30-Indoor-Outdoor-Generator-Extension-Cord-L5-30P-to-L5-30R-Yellow-
-UL-Listed-62114/332069890">10/3 30 Amp 125V Twist Lock NEMA L5-30 Indoor/Outdoor Generator Extension Cord (25 ft)</a><br>
-<a href="https://us.ecoflow.com/products/smart-generator-4000-dual-fuel?_pos=2&_sid=d31fbb5d4&_ss=r&variant=41434656637001">EcoFlow Smart Generator 4000 (Dual Fuel)</a><br></td>
+<a href="https://www.homedepot.com/p/parkworld-25-ft-10-3-30-Amp-125V-Twist-Lock-NEMA-L5-30-Indoor-Outdoor-Generator-Extension-Cord-L5-30P-to-L5-30R-
+Yellow-UL-Listed-62114/332069890">10/3 30 Amp 125V Twist Lock NEMA L5-30 Indoor/Outdoor Generator Extension Cord (25 ft)</a><br>
+<a href="https://us.ecoflow.com/products/smart-generator-4000-dual-fuel?_pos=2&_sid=d31fbb5d4&_ss=r&variant=41434656637001">EcoFlow Smart Generator 4000 
+(Dual Fuel)</a><br></td>
 </tr></tbody></table></div>
 
 
@@ -1367,8 +1367,8 @@ lnms&amp;sa=X&amp;ved=0ahUKEwiVssWG9tfLAhUP2GMKHdkKABIQ_AUIBigA&amp;dpr=1">Hashi
 <a href="https://www.google.com/maps/place/Maya+Bay/@7.6860569,98.7681114,15.4z/data=
 !4m5!3m4!1s0x304e20be94f73363:0x85a4f5bb85cf994f!8m2!3d7.6781764!4d98.7656716">Maya Bay - Google Maps</a><br>
 <a href="https://www.google.com/maps/place/Pituffik+Space+Base/@76.6190566,-69.6508429,8.54z/data=!4m10!1m2!2m1!1spituffik+space+base!
-3m6!1s0x4e3625006e5fac41:0x663d12ec728cfc4c!8m2!3d76.5360254!4d-68.7333718!15sChNwaXR1ZmZpayBzcGFjZSBiYXNlkgEZZmVkZXJhbF9nb3Zlcm5tZW50X29mZmljZeABAA!
-16s%2Fg%2F11m715hfdq?entry=ttu&g_ep=EgoyMDI2MDgyNS4wIKXMDSoASAFQAw%3D%3D">Pituffik Space Base, Greenland - Google Maps</a><br>
+3m6!1s0x4e3625006e5fac41:0x663d12ec728cfc4c!8m2!3d76.5360254!4d-68.7333718!15sChNwaXR1ZmZpayBzcGFjZSBiYXNlkgEZZmVkZXJhbF9nb3Zlcm5tZW50X29mZ
+mljZeABAA!16s%2Fg%2F11m715hfdq?entry=ttu&g_ep=EgoyMDI2MDgyNS4wIKXMDSoASAFQAw%3D%3D">Pituffik Space Base, Greenland - Google Maps</a><br>
 <a href="https://what3words.com/products/what3words-app/">what3words app | Find, share and navigate to precise locations</a><br>
 <a href="https://www.cntraveler.com/story/the-worlds-highest-city-is-in-peru">World's Highest City Is in Peru</a><br>
 <a href="https://www.howtogeek.com/google-maps-tricks-i-wish-id-discovered-years-ago/">7 Google Maps tricks I wish I'd discovered years ago</a><br><br>
@@ -1432,9 +1432,8 @@ Flamingo sings &quot;Go Your Own Way&quot; by Fleetwood Mac | THE MASKED SINGER 
 
 <b><font color="#FFFFFF"><span style="font-weight: 700; background-color: #000000">PHOTO-VIDEO</span></font></b><br><br>
 
-<a href="https://www.google.com/search?safe=off&amp;rlz=1C1GGRV_enUS751US752&amp;q=Aogashima+Island&amp;oq=
-	Aogashima+Island&amp;gs_l=psy-ab.3..0l4.5043.5043.0.5411.1.1.0.0.0.0.96.96.1.1.0....0...1.1.64.
-	psy-ab..0.1.95.b6YjuhoNtho">Aogashima Island - Google Search</a><br>
+<a href="https://www.google.com/search?safe=off&amp;rlz=1C1GGRV_enUS751US752&amp;q=Aogashima+Island&amp;oq=Aogashima+Island&amp;
+gs_l=psy-ab.3..0l4.5043.5043.0.5411.1.1.0.0.0.0.96.96.1.1.0....0...1.1.64.psy-ab..0.1.95.b6YjuhoNtho">Aogashima Island - Google Search</a><br>
 <a href="https://www.neatorama.com/2019/06/13/Cat-Confused-by-Card-Trick/">Cat Confused by Card Trick</a><br>
 <a href="https://rare.us/rare-news/cats-see-ghosts/">Family's Cats Terrorized by Ghost</a><br>
 <a href="https://www.boredpanda.com/texas-sandfest-competition-winners-2019/">Here Are The Best 11 Photos Of 2019 Texas SandFest Competition</a><br>
