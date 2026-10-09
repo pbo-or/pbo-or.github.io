@@ -23,7 +23,7 @@ a:visited		{font-family: Tahoma; font-size: 10pt; color: #0000FF; text-decoratio
 	
 #Content        {margin-left: auto; margin-right: auto; text-align: justify; border: 0px solid #0066FF; padding: 25px; width: 780px; }
 
-#PERSPECTIVEBox		{border-radius: 8px; margin-left: auto; margin-right: auto; text-align: left; 
+#CULLODENBox		{border-radius: 8px; margin-left: auto; margin-right: auto; text-align: left; 
 					border: 1px solid #0066FF; padding: 4px; width: 768px; height: auto; }
 
 #YACHTBox		{border-radius: 8px; margin-left: auto; margin-right: auto; text-align: left; 
@@ -32,7 +32,7 @@ a:visited		{font-family: Tahoma; font-size: 10pt; color: #0000FF; text-decoratio
 #MUSEUMBox		{border-radius: 8px; margin-left: auto; margin-right: auto; text-align: left; 
 				border: 1px solid #0066FF; padding: 4px; width: 768px; height: auto; }
 
-#NARVIKBox		{border-radius: 8px; margin-left: auto; margin-right: auto; text-align: left; 
+#CHAPELBox		{border-radius: 8px; margin-left: auto; margin-right: auto; text-align: left; 
 				border: 1px solid #0066FF; padding: 4px; width: 768px; height: auto; }
 
 .site-header-txt	{text-align: center; font-size: 12pt; font-weight: bold; }
@@ -70,7 +70,7 @@ Last update: October 4, 2026</p><br>
 	<ul>
 		<li>Walking Tour of <a href="https://www.visitglasgow.com/media/vf0b5ywz/top-10-reasons-to-visit-glasgow-header-george-square.jpg?width=1200&height=630&v=1dc4a47d2edb740" target="_blank" rel="noopener noreferrer">Glasgow</a></li>
 		<li><a href="https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Mount_Stuart_House_2018-08-25.jpg/1280px-Mount_Stuart_House_2018-08-25.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail" target="_blank" rel="noopener noreferrer">Mount Stuart House</a></li>
-		<li><a href="https://cdn.getyourguide.com/image/format=auto%2Cfit=crop%2Cgravity=auto%2Cquality=60%2Cwidth=400%2Cheight=265%2Cdpr=2/tour_img/0de5d87ae312a97bb554e8e229f486e6cdb76148cd508620bcc648990b94ec75.jpg">Loch Lomond</a></li>
+		<li><a href="https://cdn.getyourguide.com/image/format=auto%2Cfit=crop%2Cgravity=auto%2Cquality=60%2Cwidth=400%2Cheight=265%2Cdpr=2/tour_img/0de5d87ae312a97bb554e8e229f486e6cdb76148cd508620bcc648990b94ec75.jpg" target="_blank" rel="noopener noreferrer">Loch Lomond</a></li>
 		<li><a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8q6bFN7SUYkkPMhHgvnbhoqVC5DrxHRQAAH2FGKMDSR8J8i6euZngAtEF&s=10" target="_blank" rel="noopener noreferrer">Eilean Donan Castle</a></li>
 	</ul>
 	 
@@ -94,14 +94,20 @@ Last update: October 4, 2026</p><br>
 		<li><a href="https://cdn.eagle-eye.com/wp-content/uploads/2023/03/Ring-Brodgar-dreamstime.jpg" target="_blank" rel="noopener noreferrer">Ring of Brodgar</a></li>
 		<li><a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwoYU-Qkvc_hAi2OFBtRdrrsmOivZRTcxAyzUpK_652rqjWZUkhnKCjk0&s=10" target="_blank" rel="noopener noreferrer">Skara Brea</a></li>
 		<li><a href="https://thehazeltree.co.uk/wp-content/uploads/2023/11/St-Magnus-1-15-683x1024.jpg" target="_blank" rel="noopener noreferrer">St Magnus Cathedral</a></li>
-		<li><a href="https://www.orkney.com/listings/the-italian-chapel" target="_blank" rel="noopener noreferrer">Italian Chapel</a></li>
+		<li><font color="#0000FF"><a href="JavaScript:doExpand(CHAPELBox)">The Italian Chapel</a></font>
+		<div id="CHAPELBox" style="display: none">
+			<span style="text-align: left">During World War II, Italian prisoners of war on Orkey Islands built this <a href="https://www.northlinkferries.co.uk/wp-content/uploads/2024/11/The-Italian-Chapel-in-Orkney.jpg" target="_blank" rel="noopener noreferrer">chapel</a>. Has become an attraction.<br></span>
+		</div></li>
 		<li><a href="https://www.thecastlesofscotland.co.uk/s/cc_images/teaserbox_2483664623.jpg?t=1568033592" target="_blank" rel="noopener noreferrer">Dunrobin Castle</a></li>
 	</ul>
 	
 	Strathpeffer including:<br>
 	<ul>
 		<li><a href="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/90/5e/ff/beautiful-view-of-loch.jpg?w=500&h=500&s=1" target="_blank" rel="noopener noreferrer">Loch Ness</a> Cruise</li>
-		<li><a href="https://www.nts.org.uk/visit/places/culloden" target="_blank" rel="noopener noreferrer">Culloden Battelfied</a></li>
+		<li><font color="#0000FF"><a href="JavaScript:doExpand(CULLODENBox)">Culloden Battlefield</a></font>
+		<div id="CULLODENBox" style="display: none">
+			<span style="text-align: left">This <a href="https://www.invernesscitysuites.com/wp-content/uploads/2021/07/culloden-battlefield2.jpg" target="_blank" rel="noopener noreferrer">site</a> of the Battle of Culloden in 1746, where the Jacobite cause was decisively defeated. This is an integral part of the Outlander TV series.<br></span>
+		</div></li>
 	</ul>
 		
 	<a href="https://files.holidaycottages.co.uk/assets/images/towns/Crieff%20Castle%20SSP%2001.jpg" target="_blank" rel="noopener noreferrer">Crieff</a> including Whiskey Tasting<br><br>
@@ -116,7 +122,7 @@ Last update: October 4, 2026</p><br>
 <span style="background-color: #FFFF00">[Day #14]</span> Extra day in Edinburgh including 
 <font color="#0000FF"><a href="JavaScript:doExpand(YACHTBox)">Royal Yacht Britannia</a></font>
 <div id="YACHTBox" style="display: none">
-	<span style="text-align: left">Over the years I have heard glowing comments about Queen Elizabeth's yacht. This turned into a must to <a href="https://www.royalyachtbritannia.co.uk/visit/" target="_blank" rel="noopener noreferrer">visit</a>.<br></span>
+	<span style="text-align: left">Over the years I have heard glowing comments about Queen Elizabeth's yacht. Per a few lists, this is the #1 tourist attraction in the world. This turned into a must to <a href="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/33/b0/90/exterior-of-the-royal.jpg?w=900&h=500&s=1" target="_blank" rel="noopener noreferrer">visit</a>.<br></span>
 </div><br><br>
 
 <span style="background-color: #FFFF00">[Day #15]</span> Train from Edinburgh to London (360 miles)<br>
@@ -127,10 +133,10 @@ Last update: October 4, 2026</p><br>
 	Morning River Thames cruise (to get an overview of central London)<br>
 	Walking tour of London including (but not limited to):<br>
 	<ul>
-		<li><a href="https://www.londoneye.com/" target="_blank" rel="noopener noreferrer">London Eye</a></li>
-		<li><a href="https://www.visitlondon.com/things-to-do/sightseeing/london-attraction/big-ben" target="_blank" rel="noopener noreferrer">Big Ben</a></li>
-		<li><a href="https://www.westminster-abbey.org/" target="_blank" rel="noopener noreferrer">Westminster Abbey</a></li>
-		<li><a href="https://ak-d.tripcdn.com/images/1mi1a424x9842gl7f042F.jpg?proc=source/trip" target="_blank" rel="noopener noreferrer">Horse Guards at Whitewall</a></li>
+		<li><a href="https://www.ytravelblog.com/wp-content/uploads/2022/05/eye-of-london-672x1024.jpg" target="_blank" rel="noopener noreferrer">London Eye</a></li>
+		<li><a href="https://cdn.getyourguide.com/image/format=auto%2Cfit=crop%2Cgravity=auto%2Cquality=60%2Cwidth=375%2Cheight=375%2Cdpr=2/tour_img/19b8714207bc6b0d294b7c050a22472b666aa8233507bd872f04207ffb3d7f32.jpg" target="_blank" rel="noopener noreferrer">Big Ben</a></li>
+		<li><a href="https://www.discoverbritain.com/_gatsby/file/33bd3cb4c89ef1dd9f99384d428f2e94/15046_Westminster-Abbey.jpg" target="_blank" rel="noopener noreferrer">Westminster Abbey</a></li>
+		<li><a href="https://cdn.londonandpartners.com/asset/horse-guards-parade_military-ceremony-taking-place-at-horseguards-parade-image-courtesy-of-visitlondoncomjon-reid_be392502a045fe7f1255fcc5f633675d.jpg" target="_blank" rel="noopener noreferrer">Horse Guards at Whitewall</a></li>
 		<li><a href="https://evanevanstours.com/blog/wp-content/uploads/2020/04/buckingham-palace-facts.jpg" target="_blank" rel="noopener noreferrer">Buckingham Palace</a></li>
 		<li><a href="https://i0.wp.com/handluggageonly.co.uk/wp-content/uploads/2015/08/HandLuggageOnly-11.jpg?resize=1000%2C668&ssl=1" target="_blank" rel="noopener noreferrer">Covent Garden</a></li>
 		<li><a href="https://amlanthetramp.com/wp-content/uploads/2026/03/trafalgar-square2.jpg?w=1000" target="_blank" rel="noopener noreferrer">Trafalgar Square</a></li>
