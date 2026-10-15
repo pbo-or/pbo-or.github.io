@@ -38,6 +38,10 @@ a:visited		{font-family: Tahoma; font-size: 10pt; color: #0000FF; text-decoratio
 #NTCBox			{border-radius: 8px; margin-left: auto; margin-right: auto; text-align: left; 
 				border: 1px solid #0066FF; padding: 4px; width: 768px; height: auto; }
 
+#NPROADTRIPBox	{border-radius: 8px; margin-left: auto; margin-right: auto; text-align: left; 
+				border: 1px solid #0066FF; padding: 4px; width: 768px; height: auto; }
+
+
 .site-header-txt	{text-align: center; font-size: 12pt; font-weight: bold; }
 
 .f1 			{font-size: 14pt; font-weight: bold; color: red; }
@@ -198,42 +202,56 @@ Last update: October 14, 2026</p><br>
 
 
 
+<font color="#0000FF"><a href="JavaScript:doExpand(NPROADTRIPpBox)">National Parks Road Trip (CA, AZ, UT)</a></font>
+<div id="NPROADTRIPpBox" style="display: none">
+	<span style="text-align: left">
 
-<b>National Parks Road Trip (CA, AZ, UT)</b><br>
+		<p style="text-align: center"><img border="0" src="images-vac/map-roadtrip.jpg" width="773" height="525" style="border: 0px solid black; box-shadow: 8px 8px 12px #999"></p><br>
 
-<p style="text-align: center"><img border="0" src="images-vac/map-roadtrip.jpg" width="773" height="525" style="border: 0px solid black; box-shadow: 8px 8px 12px #999"></p><br>
+		<span style="background-color: #FFFF00">[Day #1]</span> Fly to Sacramento, CA. Rent car. <a href="https://www.nps.gov/yose/index.htm" target="_blank" rel="noopener noreferrer">Yosemite NP</a>.<br>
+		<span style="background-color: #FFFF00">[Day #2]</span> Kings Canyon NP and <a href="https://www.nps.gov/seki/index.htm" target="_blank" rel="noopener noreferrer">Sequoia NP</a><br>
+		<span style="background-color: #FFFF00">[Day #3]</span> <a href="https://www.nps.gov/pinn/index.htm" target="_blank" rel="noopener noreferrer">Pinnacles NP</a><br>
+		<span style="background-color: #FFFF00">[Day #4]</span> San Luis Obispo<br>
+		<span style="background-color: #FFFF00">[Day #5]</span> Travel to Henderson, NV through the 
+		<font color="#0000FF"><a href="JavaScript:doExpand(NTCBox)">Mojave Desert</a></font>
+		<div id="NTCBox" style="display: none">
+			<span style="text-align: left">Been to the National Training Center at Fort Irwin three times for Army training evaluations with no desire to return. Mary wants to at least drive by the front gate of the <a href="https://burkecgi.com/wp-content/uploads/BurkeCGI_Projects_FortIrwin_003.webp" target="_blank" rel="noopener noreferrer">NTC</a> to see what everyone talks about. The entrance to the NTC at Barstow, CA is about 135 miles SW of Las Vegas (60 miles NW of Los Angeles).</span>
+		</div><br>
+		<span style="background-color: #FFFF00">[Day #6]</span> <a href="https://www.usbr.gov/lc/hooverdam/" target="_blank" rel="noopener noreferrer">Hoover Dam</a>, <a href="https://www.nps.gov/grca/index.htm" target="_blank" rel="noopener noreferrer">Grand Canyon South Rim</a><br>
+		<span style="background-color: #FFFF00">[Day #7]</span> <a href="https://www.nps.gov/glca/planyourvisit/horseshoe-bend.htm" target="_blank" rel="noopener noreferrer">Horse Shoe Bend</a>, <a href="https://wereintherockies.com/antelope-canyon/" target="_blank" rel="noopener noreferrer">Antelope Canyon</a>, <a href="https://www.utah.com/destinations/recreation-areas/lake-powell/visitor-information/glen-canyon-dam-visitor-center/" target="_blank" rel="noopener noreferrer">Glen Canyon Dam</a> (Lake Powell), AZ<br>
+		<span style="background-color: #FFFF00">[Day #8]</span> <a href="https://www.nps.gov/zion/index.htm" target="_blank" rel="noopener noreferrer">Zion NP</a> (South), UT<br>
+		<span style="background-color: #FFFF00">[Day #9]</span> Zion NP (North/<a href="https://i0.wp.com/www.exploringnaturephotos.com/wp-content/uploads/2021/10/Kolob-Canyons-4.jpg?resize=1000%2C574&ssl=1" target="_blank" rel="noopener noreferrer">Kobol Canyon</a>)<br>
+		<span style="background-color: #FFFF00">[Day #10]</span> <a href="https://www.nps.gov/brca/index.htm" target="_blank" rel="noopener noreferrer">Bryce Canyon NP</a> and <a href="https://www.nps.gov/care/index.htm" target="_blank" rel="noopener noreferrer">Capital Reef NP</a>, UT<br>
+		<span style="background-color: #FFFF00">[Day #11]</span> <a href="https://www.nps.gov/arch/index.htm" target="_blank" rel="noopener noreferrer">Arches NP</a> and <a href="https://www.nps.gov/cany/index.htm" target="_blank" rel="noopener noreferrer">Canyonlands NP</a>, UT<br>
+		<span style="background-color: #FFFF00">[Day #12]</span> To Salt Lake City to fly back to PDX<br><br>
 
-<span style="background-color: #FFFF00">[Day #1]</span> Fly to Sacramento, CA. Rent car. <a href="https://www.nps.gov/yose/index.htm" target="_blank" rel="noopener noreferrer">Yosemite NP</a>.<br>
-<span style="background-color: #FFFF00">[Day #2]</span> Kings Canyon NP and <a href="https://www.nps.gov/seki/index.htm" target="_blank" rel="noopener noreferrer">Sequoia NP</a><br>
-<span style="background-color: #FFFF00">[Day #3]</span> <a href="https://www.nps.gov/pinn/index.htm" target="_blank" rel="noopener noreferrer">Pinnacles NP</a><br>
-<span style="background-color: #FFFF00">[Day #4]</span> San Luis Obispo<br>
-<span style="background-color: #FFFF00">[Day #5]</span> Travel to Henderson, NV through the 
-<font color="#0000FF"><a href="JavaScript:doExpand(NTCBox)">Mojave Desert</a></font>
-<div id="NTCBox" style="display: none">
-	<span style="text-align: left">Been to the National Training Center at Fort Irwin three times for Army training evaluations with no desire to return. Mary wants to at least drive by the front gate of the <a href="https://burkecgi.com/wp-content/uploads/BurkeCGI_Projects_FortIrwin_003.webp" target="_blank" rel="noopener noreferrer">NTC</a> to see what everyone talks about. The entrance to the NTC at Barstow, CA is about 135 miles SW of Las Vegas (60 miles NW of Los Angeles).</span>
-</div><br>
-<span style="background-color: #FFFF00">[Day #6]</span> <a href="https://www.usbr.gov/lc/hooverdam/" target="_blank" rel="noopener noreferrer">Hoover Dam</a>, <a href="https://www.nps.gov/grca/index.htm" target="_blank" rel="noopener noreferrer">Grand Canyon South Rim</a><br>
-<span style="background-color: #FFFF00">[Day #7]</span> <a href="https://www.nps.gov/glca/planyourvisit/horseshoe-bend.htm" target="_blank" rel="noopener noreferrer">Horse Shoe Bend</a>, <a href="https://wereintherockies.com/antelope-canyon/" target="_blank" rel="noopener noreferrer">Antelope Canyon</a>, <a href="https://www.utah.com/destinations/recreation-areas/lake-powell/visitor-information/glen-canyon-dam-visitor-center/" target="_blank" rel="noopener noreferrer">Glen Canyon Dam</a> (Lake Powell), AZ<br>
-<span style="background-color: #FFFF00">[Day #8]</span> <a href="https://www.nps.gov/zion/index.htm" target="_blank" rel="noopener noreferrer">Zion NP</a> (South), UT<br>
-<span style="background-color: #FFFF00">[Day #9]</span> Zion NP (North/<a href="https://i0.wp.com/www.exploringnaturephotos.com/wp-content/uploads/2021/10/Kolob-Canyons-4.jpg?resize=1000%2C574&ssl=1" target="_blank" rel="noopener noreferrer">Kobol Canyon</a>)<br>
-<span style="background-color: #FFFF00">[Day #10]</span> <a href="https://www.nps.gov/brca/index.htm" target="_blank" rel="noopener noreferrer">Bryce Canyon NP</a> and <a href="https://www.nps.gov/care/index.htm" target="_blank" rel="noopener noreferrer">Capital Reef NP</a>, UT<br>
-<span style="background-color: #FFFF00">[Day #11]</span> <a href="https://www.nps.gov/arch/index.htm" target="_blank" rel="noopener noreferrer">Arches NP</a> and <a href="https://www.nps.gov/cany/index.htm" target="_blank" rel="noopener noreferrer">Canyonlands NP</a>, UT<br>
-<span style="background-color: #FFFF00">[Day #12]</span> To Salt Lake City to fly back to PDX<br><br>
+		<img border="0" src="images-vac/logo-nps.jpg" width="150" height="194" style="border: 0px solid black; box-shadow: 8px 8px 12px #999">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img border="0" src="images-vac/flag-ca.jpg" width="150" height="100" style="border: 0px solid black; box-shadow: 8px 8px 12px #999">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img border="0" src="images-vac/flag-az.jpg" width="150" height="100" style="border: 0px solid black; box-shadow: 8px 8px 12px #999">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img border="0" src="images-vac/flag-ut.jpg" width="150" height="100" style="border: 0px solid black; box-shadow: 8px 8px 12px #999"><br><br><br>
 
-<img border="0" src="images-vac/logo-nps.jpg" width="150" height="194" style="border: 0px solid black; box-shadow: 8px 8px 12px #999">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img border="0" src="images-vac/flag-ca.jpg" width="150" height="100" style="border: 0px solid black; box-shadow: 8px 8px 12px #999">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img border="0" src="images-vac/flag-az.jpg" width="150" height="100" style="border: 0px solid black; box-shadow: 8px 8px 12px #999">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img border="0" src="images-vac/flag-ut.jpg" width="150" height="100" style="border: 0px solid black; box-shadow: 8px 8px 12px #999"><br><br><br>
+		<!--
+		<font color="#0000FF"><a href="JavaScript:doExpand(PERSPECTIVEBox)">Perspective</a></font>
+			<div id="PERSPECTIVEBox" style="display: none">
+				<span style="text-align: left">XXXXXX<br></span>
+			</div><br><br>
 
-<!--
-<font color="#0000FF"><a href="JavaScript:doExpand(PERSPECTIVEBox)">Perspective</a></font>
-	<div id="PERSPECTIVEBox" style="display: none">
-		<span style="text-align: left">XXXXXX<br></span>
-	</div><br><br>
-
-<font color="#0000FF"><a href="JavaScript:doExpand(NARVIKBox)">Narvik</a></font>
-	<div id="NARVIKBox" style="display: none">
-		<span style="text-align: left">XXXXXX<br></span>
-	</div><br><br>
--->
-
+		<font color="#0000FF"><a href="JavaScript:doExpand(NARVIKBox)">Narvik</a></font>
+			<div id="NARVIKBox" style="display: none">
+				<span style="text-align: left">XXXXXX<br></span>
+			</div><br><br>
+		-->
+	</span>
+</div>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 </div>
 </body>
 </html>
