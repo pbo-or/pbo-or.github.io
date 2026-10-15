@@ -23,8 +23,8 @@ a:visited		{font-family: Tahoma; font-size: 10pt; color: #0000FF; text-decoratio
 	
 #Content        {margin-left: auto; margin-right: auto; text-align: justify; border: 0px solid #0066FF; padding: 25px; width: 780px; }
 
-#CULLODENBox		{border-radius: 8px; margin-left: auto; margin-right: auto; text-align: left; 
-					border: 1px solid #0066FF; padding: 4px; width: 768px; height: auto; }
+#CULLODENBox	{border-radius: 8px; margin-left: auto; margin-right: auto; text-align: left; 
+				border: 1px solid #0066FF; padding: 4px; width: 768px; height: auto; }
 
 #YACHTBox		{border-radius: 8px; margin-left: auto; margin-right: auto; text-align: left; 
 				border: 1px solid #0066FF; padding: 4px; width: 768px; height: auto; }
@@ -33,6 +33,9 @@ a:visited		{font-family: Tahoma; font-size: 10pt; color: #0000FF; text-decoratio
 				border: 1px solid #0066FF; padding: 4px; width: 768px; height: auto; }
 
 #CHAPELBox		{border-radius: 8px; margin-left: auto; margin-right: auto; text-align: left; 
+				border: 1px solid #0066FF; padding: 4px; width: 768px; height: auto; }
+
+#NTCBox			{border-radius: 8px; margin-left: auto; margin-right: auto; text-align: left; 
 				border: 1px solid #0066FF; padding: 4px; width: 768px; height: auto; }
 
 .site-header-txt	{text-align: center; font-size: 12pt; font-weight: bold; }
@@ -102,7 +105,7 @@ Last update: October 14, 2026</p><br>
 		<li><font color="#0000FF"><a href="JavaScript:doExpand(CHAPELBox)">The Italian Chapel</a></font>
 		<div id="CHAPELBox" style="display: none">
 			<span style="text-align: left">During World War II, Italian prisoners of war on Orkey Islands built this <a href="https://www.northlinkferries.co.uk/wp-content/uploads/2024/11/The-Italian-Chapel-in-Orkney.jpg" target="_blank" rel="noopener noreferrer">chapel</a>. Has become an attraction.<br></span>
-		</div></li>
+		</div><br></li>
 		<li><a href="https://www.thecastlesofscotland.co.uk/s/cc_images/teaserbox_2483664623.jpg?t=1568033592" target="_blank" rel="noopener noreferrer">Dunrobin Castle</a></li>
 	</ul>
 	
@@ -110,6 +113,7 @@ Last update: October 14, 2026</p><br>
 	<ul>
 		<li><a href="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/90/5e/ff/beautiful-view-of-loch.jpg?w=500&h=500&s=1" target="_blank" rel="noopener noreferrer">Loch Ness</a> Cruise</li>
 		<li><font color="#0000FF"><a href="JavaScript:doExpand(CULLODENBox)">Culloden Battlefield</a></font>
+		<li>Sheep farm (<a href="https://live.staticflickr.com/5792/21564692426_c3d8d28acc_b.jpg" target="_blank" rel="noopener noreferrer">sheepgdogs demonstation</a>)</li>
 		<div id="CULLODENBox" style="display: none">
 			<span style="text-align: left">This <a href="https://www.invernesscitysuites.com/wp-content/uploads/2021/07/culloden-battlefield2.jpg" target="_blank" rel="noopener noreferrer">site</a> of the Battle of Culloden in 1746, where the Jacobite cause was decisively defeated. This is an integral part of the Outlander TV series.<br></span>
 		</div></li>
@@ -126,8 +130,8 @@ Last update: October 14, 2026</p><br>
 <span style="background-color: #FFFF00">[Day #14]</span> Extra day in Edinburgh including 
 <font color="#0000FF"><a href="JavaScript:doExpand(YACHTBox)">Royal Yacht Britannia</a></font>
 <div id="YACHTBox" style="display: none">
-	<span style="text-align: left">Over the years I have heard glowing comments about Queen Elizabeth's yacht. Per a few lists, this is the #1 tourist attraction in the world. This turned into a must to <a href="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/33/b0/90/exterior-of-the-royal.jpg?w=900&h=500&s=1" target="_blank" rel="noopener noreferrer">visit</a>.<br></span>
-</div><br><br>
+	<span style="text-align: left">Over the years I have heard glowing comments about Queen Elizabeth's yacht. Per a few lists, this is the #1 tourist attraction in the world. This turned into a must to <a href="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/33/b0/90/exterior-of-the-royal.jpg?w=900&h=500&s=1" target="_blank" rel="noopener noreferrer">visit</a>.</span>
+</div><br>
 
 <span style="background-color: #FFFF00">[Day #15]</span> <a href="https://www.splitmyfare.co.uk/wp-content/uploads/2023/06/east-coast-main-line-map.jpg" target="_blank" rel="noopener noreferrer">Train from Edinburgh to London</a> (360 miles/5+ hours)&nbsp;[<b><span style="color: #0000FF; font-size: 19px;">&nbsp;- - - - -&nbsp;</span></b>]<br>
 
@@ -203,11 +207,15 @@ Last update: October 14, 2026</p><br>
 <span style="background-color: #FFFF00">[Day #2]</span> Kings Canyon NP and <a href="https://www.nps.gov/seki/index.htm" target="_blank" rel="noopener noreferrer">Sequoia NP</a><br>
 <span style="background-color: #FFFF00">[Day #3]</span> <a href="https://www.nps.gov/pinn/index.htm" target="_blank" rel="noopener noreferrer">Pinnacles NP</a><br>
 <span style="background-color: #FFFF00">[Day #4]</span> San Luis Obispo<br>
-<span style="background-color: #FFFF00">[Day #5]</span> Travel to Henderson, NV<br>
+<span style="background-color: #FFFF00">[Day #5]</span> Travel to Henderson, NV in the 
+<font color="#0000FF"><a href="JavaScript:doExpand(NTCBox)">Mojave Desert</a></font>
+<div id="NTCBox" style="display: none">
+	<span style="text-align: left">Been to the National Training Center at Fort Irwin three times for Army training evaluations with no desire to return. Mary wants to at least drive by the front gate of the <a href="https://burkecgi.com/wp-content/uploads/BurkeCGI_Projects_FortIrwin_003.webp" target="_blank" rel="noopener noreferrer">NTC</a> to see what everyone talks about. The entrance to the NTC at Barstow, CA is about 135 miles SW of Las Vegas (60 miles NW of Los Angeles).</span>
+</div><br>
 <span style="background-color: #FFFF00">[Day #6]</span> <a href="https://www.usbr.gov/lc/hooverdam/" target="_blank" rel="noopener noreferrer">Hoover Dam</a>, <a href="https://www.nps.gov/grca/index.htm" target="_blank" rel="noopener noreferrer">Grand Canyon South Rim</a><br>
 <span style="background-color: #FFFF00">[Day #7]</span> <a href="https://www.nps.gov/glca/planyourvisit/horseshoe-bend.htm" target="_blank" rel="noopener noreferrer">Horse Shoe Bend</a>, <a href="https://wereintherockies.com/antelope-canyon/" target="_blank" rel="noopener noreferrer">Antelope Canyon</a>, <a href="https://www.utah.com/destinations/recreation-areas/lake-powell/visitor-information/glen-canyon-dam-visitor-center/" target="_blank" rel="noopener noreferrer">Glen Canyon Dam</a> (Lake Powell), AZ<br>
 <span style="background-color: #FFFF00">[Day #8]</span> <a href="https://www.nps.gov/zion/index.htm" target="_blank" rel="noopener noreferrer">Zion NP</a> (South), UT<br>
-<span style="background-color: #FFFF00">[Day #9]</span> Zion NP (North/Kobol Canyon)<br>
+<span style="background-color: #FFFF00">[Day #9]</span> Zion NP (North/<a href="https://i0.wp.com/www.exploringnaturephotos.com/wp-content/uploads/2021/10/Kolob-Canyons-4.jpg?resize=1000%2C574&ssl=1" target="_blank" rel="noopener noreferrer">Kobol Canyon</a>)<br>
 <span style="background-color: #FFFF00">[Day #10]</span> <a href="https://www.nps.gov/brca/index.htm" target="_blank" rel="noopener noreferrer">Bryce Canyon NP</a> and <a href="https://www.nps.gov/care/index.htm" target="_blank" rel="noopener noreferrer">Capital Reef NP</a>, UT<br>
 <span style="background-color: #FFFF00">[Day #11]</span> <a href="https://www.nps.gov/arch/index.htm" target="_blank" rel="noopener noreferrer">Arches NP</a> and <a href="https://www.nps.gov/cany/index.htm" target="_blank" rel="noopener noreferrer">Canyonlands NP</a>, UT<br>
 <span style="background-color: #FFFF00">[Day #12]</span> To Salt Lake City to fly back to PDX<br><br>
