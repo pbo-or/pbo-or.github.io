@@ -1,0 +1,80 @@
+<html>
+
+<head>
+<title>Lift/Recliner Chair</title>
+<link rel="stylesheet" type="text/css" href="s[1]tyle.css">
+<script type="text/javascript">
+   function doExpand(DivName) {
+   if (DivName.style.display="none") { DivName.style.display=""; }
+   else { DivName.style.display="none"; }}
+</script>
+</head>
+
+<style type="text/css">
+<!--
+body			{margin-left: auto; margin-right: auto; font-family: Tahoma; font-size: 10pt; text-align: left; margin: 0; 
+				padding: 25; background-color: #ffffff; background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100' height='100' viewBox='0 0 100 100'%3E%3Cg fill-rule='evenodd'%3E%3Cg fill='%239C92AC' fill-opacity='0.4'%3E%3Cpath opacity='.5' d='M96 95h4v1h-4v4h-1v-4h-9v4h-1v-4h-9v4h-1v-4h-9v4h-1v-4h-9v4h-1v-4h-9v4h-1v-4h-9v4h-1v-4h-9v4h-1v-4h-9v4h-1v-4H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15V0h1v15h9V0h1v15h9V0h1v15h9V0h1v15h9V0h1v15h9V0h1v15h9V0h1v15h9V0h1v15h9V0h1v15h4v1h-4v9h4v1h-4v9h4v1h-4v9h4v1h-4v9h4v1h-4v9h4v1h-4v9h4v1h-4v9h4v1h-4v9zm-1 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-9-10h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm9-10v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-9-10h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm9-10v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-9-10h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm9-10v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-9-10h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9z'/%3E%3Cpath d='M6 5V0H5v5H0v1h5v94h1V6h94V5H6z'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E"); }
+
+a				{font-family: Tahoma; font-size: 10pt; }
+
+a:link			{font-family: Tahoma; font-size: 10pt; color: #0000FF; text-decoration: none; font-weight: bold; }
+               
+a:visited		{font-family: Tahoma; font-size: 10pt; color: #0000FF; text-decoration: none; font-weight: normal; }
+	
+#Content        {margin-left: auto; margin-right: auto; text-align: justify; border: 0px solid #0066FF; padding: 25px; width: 780px; }
+
+.site-header-txt	{text-align: center; font-size: 12pt; font-weight: bold; }
+
+.f1 			{font-size: 14pt; font-weight: bold; color: red; }
+
+.f2				{font-size: 11pt; font-weight: bold; color: red; }
+-->
+</style>
+
+<body>
+<div id="Content">
+<p style="text-align: center"><b>Lift/Recliner Chair</b><br><br>
+
+Last update: October 16, 2026</p><br><br>
+
+I will soon be posting the below chair on Craigslist. But we thought that we would first present it to any interested neighbors first.<br><br>
+
+The chair is in decent condition and is likely worth more than the offering price. So, who ever ends up with it probably has a bargain.<br><br>
+
+For any interested neighbor, our contact info: Pat Oakes, 3220 SW 98th Ave, Cell: 503-956-2880<br><br>
+
+<b>Pending details for Craigslist:</b><br><br><br>
+
+Pride Electric Recline and Lift Chair&nbsp;&nbsp;&nbsp;<b>$150</b><br><br>
+				
+Clean, like-new upholstery.<br>
+Dimensions: 42"W x 53"D x 48"H (fully extended 81")<br>
+Functions smoothly. Side pocket.<br>
+Purchased new in 2007. Used for several years, then stored.<br><br>
+
+No need nor room for the chair in our house.<br>
+Sorry. No Instruction Manual.<br>
+Cash only. Located in NE Beaverton.<br>
+At least a 2-person carry so bring someone with you to lift it to your vehicle.<br><br>
+
+<img border="0" src="chair.jpg" width="420" height="750" style="border: 0px solid black; box-shadow: 8px 8px 12px #999"><br><br>
+
+<img border="0" src="chair-recline.jpg" width="500" height="346" style="border: 0px solid black; box-shadow: 8px 8px 12px #999"><br><br>
+
+<img border="0" src="chair-up.jpg" width="420" height="750" style="border: 0px solid black; box-shadow: 8px 8px 12px #999"><br><br>
+
+Power converter box:<br>
+<img border="0" src="chair-electric-box.jpg" width="500" height="346" style="border: 0px solid black; box-shadow: 8px 8px 12px #999"><br>
+</div>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+</div>
+</body>
+</html>

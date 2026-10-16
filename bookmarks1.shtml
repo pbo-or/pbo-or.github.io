@@ -97,165 +97,162 @@ a:visited		{font-family: Tahoma; font-size: 10pt; text-decoration: none; color: 
 
 <body>
 <br>  
-<b><font size="4"><img border="0" src="images-general/checker.gif" width="16" height="16">&nbsp;&nbsp;BOOKMARKS&nbsp;&nbsp;<img border="0" src="images-general/checker.gif" width="16" height="16"></font></b><p>
-
+<b><font size="4"><img border="0" src="images-general/checker.gif" width="16" height="16">&nbsp;&nbsp;BOOKMARKS&nbsp;&nbsp;<img border="0" src="images-general/checker.gif" width="16" height="16"></font></b>
 
 <p><span style="background-color: #FFFF00">
 <a href="JavaScript:doExpand(AnyDivIdName)">SEARCH ENGINES, PEOPLE SEARCHES, REFERENCES, NEWS, WEATHER</a></span><br></p>
 <div id="AnyDivIdName" style="display: none; width:800px;">
+
 <table border="0" width="100%"><tbody><tr>
+				<td valign="top" width="25%">
+				<span class="black-bold-title">SEARCH ENGINES</span><br><br>
 
-<td valign="top" width="25%">
-<span class="black-bold-title">SEARCH ENGINES</span><br><br>
+				Google (below)<br>
+				<a href="https://www.bing.com/images">Bing</a><br>
+				<a href="https://www.search.com/">search.com</a><br>
+				<a href="https://www.dogpile.com/">Dogpile</a><br>
+				<a href="https://www.webcrawler.com/">Webcrawler</a><br>
+				<a href="https://duckduckgo.com/">DuckDuckGo</a><br>
+				<a href="https://www.firstgov.gov/">FirstGov</a> (Fed Govt)<br>
+				<a href="https://archive.org/">Internet Archive</a><br>
+				<a href="https://www.wolframalpha.com/">WolframAlpha</a><br>
+				<a href="https://neuskool.com/">Neuskool</a><br></td>
+			<td valign="top" width="24%">
+			<span class="black-bold-title">PEOPLE SEARCHES</span><br><br>
 
-Google (below)<br>
-<a href="https://www.bing.com/images">Bing</a><br>
-<a href="https://www.search.com/">search.com</a><br>
-<a href="https://www.dogpile.com/">Dogpile</a><br>
-<a href="https://www.webcrawler.com/">Webcrawler</a><br>
-<a href="https://duckduckgo.com/">DuckDuckGo</a><br>
-<a href="https://www.firstgov.gov/">FirstGov</a> (Fed Govt)<br>
-<a href="https://archive.org/">Internet Archive</a><br>
-<a href="https://www.wolframalpha.com/">WolframAlpha</a><br>
-<a href="https://neuskool.com/">Neuskool</a><br></td>
+			<a href="https://www.truepeoplesearch.com/">TruePeopleSearch</a><br>
+			<a href="https://www.fastpeoplesearch.com/">Fast People Search</a><br>
+			<a href="https://www.spokeo.com/">Spokeo</a><br>
+			<a href="https://www.whitepages.com/">Whitepages.com</a> (phone)<br><br>
 
-<td valign="top" width="24%">
-<span class="black-bold-title">PEOPLE SEARCHES</span><br><br>
+			<span class="black-bold-title">REFERENCES</span><br><br>
 
-<a href="https://www.truepeoplesearch.com/">TruePeopleSearch</a><br>
-<a href="https://www.fastpeoplesearch.com/">Fast People Search</a><br>
-<a href="https://www.spokeo.com/">Spokeo</a><br>
-<a href="https://www.whitepages.com/">Whitepages.com</a> (phone)<br><br>
+			<a href="https://www.infoplease.com/alphabeticalindex.html">www.infoplease.com</a><br>
+			<a href="https://www.melissadata.com/lookups/MapCartS.asp">Postal Carrier Routes</a><br>
+			<a href="https://maps.huge.info/zip.htm">Zip Code Boundary Maps</a><br>
+			<a href="https://apps.nationalmap.gov/downloader/#/">USGS Maps</a></td>
 
-<span class="black-bold-title">REFERENCES</span><br><br>
+		<td valign="top" width="25%">
+		<span class="black-bold-title">NEWS</span><br><br>
 
-<a href="https://www.infoplease.com/alphabeticalindex.html">www.infoplease.com</a><br>
-<a href="https://www.melissadata.com/lookups/MapCartS.asp">Postal Carrier Routes</a><br>
-<a href="https://maps.huge.info/zip.htm">Zip Code Boundary Maps</a><br>
-<a href="https://apps.nationalmap.gov/downloader/#/">USGS Maps</a></td>
+		<a href="https://abcnews.go.com/">ABCnews.com</a><br>
+		<a href="https://www.cbsnews.com/">CBSnews.com</a><br>
+		<a href="https://www.ms.now/">MS Now</a><br>
+		<a href="https://www.usnews.com/usnews/home.htm">USnews.com</a><br>
+		<a href="https://www.foxnews.com/">FoxNews.com</a><br>
+		<a href="https://www.katu.com/">KATU</a><br>
+		<a href="https://www.koin.com/">KOIN</a><br>
+		<a href="https://www.kgw.com/">KGW</a><br><br>
+		<a href="https://www.oregonlive.com/">oregonlive</a><br>
+		<a href="https://www.nytimes.com/">New York Times</a><br></td>
 
-<td valign="top" width="25%">
-<span class="black-bold-title">NEWS</span><br><br>
+	<td valign="top" width="25%">
+	<span class="black-bold-title">WEATHER</span><br><br>
 
-<a href="https://abcnews.go.com/">ABCnews.com</a><br>
-<a href="https://www.cbsnews.com/">CBSnews.com</a><br>
-<a href="https://www.ms.now/">MS Now</a><br>
-<a href="https://www.usnews.com/usnews/home.htm">USnews.com</a><br>
-<a href="https://www.foxnews.com/">FoxNews.com</a><br>
-<a href="https://www.katu.com/">KATU</a><br>
-<a href="https://www.koin.com/">KOIN</a><br>
-<a href="https://www.kgw.com/">KGW</a><br><br>
-<a href="https://www.oregonlive.com/">oregonlive</a><br>
-<a href="https://www.nytimes.com/">New York Times</a><br></td>
+	<a href="https://www.weather.com/weather/local/97229?lswe=97229&lwsa=WeatherLocalUndeclared&from=whatwhere">www.weather.com</a><br>
+	<a href="https://www.wunderground.com">wunderground</a><br>
+	<a href="https://www.almanac.com/">Farmer's Almanac</a><br>
+	<a href="https://forecast.weather.gov/MapClick.php?lat=45.4966&lon=-122.7775&unit=0&lg=english&FcstType=graphical">weather.gov</a><br><br>
 
-<td valign="top" width="25%">
-<span class="black-bold-title">WEATHER</span><br><br>
+	<span class="black-bold-title">OTHER</span><br><br>
 
-<a href="https://www.weather.com/weather/local/97229?lswe=97229&lwsa=WeatherLocalUndeclared&from=whatwhere">www.weather.com</a><br>
-<a href="https://www.wunderground.com">wunderground</a><br>
-<a href="https://www.almanac.com/">Farmer's Almanac</a><br>
-<a href="https://forecast.weather.gov/MapClick.php?lat=45.4966&lon=-122.7775&unit=0&lg=english&FcstType=graphical">weather.gov</a><br><br>
-
-<span class="black-bold-title">OTHER</span><br><br>
-
-<a href="https://www.ups.com/content/us/en/index.jsx">UPS</a><br>
-<a href="https://www.usps.com/">USPS</a></td>
+	<a href="https://www.ups.com/content/us/en/index.jsx">UPS</a><br>
+	<a href="https://www.usps.com/">USPS</a></td>
 </tr></tbody></table></div><br>
 
 <div align="center">
 <table border="0" cellpadding="0" cellspacing="0" width="880"><table class="center"><tbody><tbody style="margin: auto"><tr>
 
-<td align="center" valign="top" width="170">
-<div id="box"><b>Web Sites</b><br><br>
-<div id="text-box">
-<a href="https://duckduckgo.com/">DuckDuckGo</a><br><br>
-<a href="https://www.google.com/">Google</a><br><br>
-<a href="https://www.google.com/maps/d/">Google MyMaps</a><br><br>
-<a href="https://www.google.com/android/find/">Find Hub</a><br><br>
-<a href="https://github.com/pbo-or/pbo-or.github.io">GitHub</a><br>(/pbo-or)<br><br>
-<a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia</a><br><br>
-<a href="https://wikivisually.com/">WikiVisually</a><br>
-<a href="https://www.refdesk.com/">RefDesk</a><br>
-<a href="https://www.timeanddate.com/calendar/">Perpetual Calendar</a><br>
-<a href="https://web2.0calc.com/">WebCalc</a>
-</div></div></td>
+				<td align="center" valign="top" width="170">
+				<div id="box"><b>Web Sites</b><br><br>
+				<div id="text-box">
+					<a href="https://duckduckgo.com/">DuckDuckGo</a><br><br>
+					<a href="https://www.google.com/">Google</a><br><br>
+					<a href="https://www.google.com/maps/d/">Google MyMaps</a><br><br>
+					<a href="https://www.google.com/android/find/">Find Hub</a><br><br>
+					<a href="https://github.com/pbo-or/pbo-or.github.io">GitHub</a><br>(/pbo-or)<br><br>
+					<a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia</a><br><br>
+					<a href="https://wikivisually.com/">WikiVisually</a><br>
+					<a href="https://www.refdesk.com/">RefDesk</a><br>
+					<a href="https://www.timeanddate.com/calendar/">Perpetual Calendar</a><br>
+					<a href="https://web2.0calc.com/">WebCalc</a>
+				</div></div></td>
 
-<td align="center" valign="top" width="170">
-<div id="box"><b>Books &amp; Stores</b><br><br>
-<div id="text-box">
-<a href="https://www.wellsfargo.com">Wells Fargo</a><br><br>
-<a href="https://www.amazon.com">Amazon</a><br><br>
-<a href="https://www.powells.com/">Powells</a><br><br>
-<a href="https://www.barnesandnoble.com/">Barnes &amp; Noble</a><br>
-<a href="https://www.abebooks.com/">AbeBooks</a><br>
-<a href="https://books.google.com/bkshp?hl=en&tab=wp">Google Books</a><br>
-<a href="https://www.hamiltonbook.com/">HamiltonBooks</a><br>
-<a href="https://www.biblio.com/">Biblio.com</a><br>
-<a href="https://www.bookfinder.com/?ref=bf_alp_hd_1">BookFinder</a><br>
-<a href="https://www.addall.com/">AddALL (books)</a><br>
-<a href="https://www.kisselburgmilitarybooks.com/">Kisselburg Mil Books</a><br>
-<a href="https://www.robertsbookshop.com/">Robert's Book Shop</a><br>
-<a href="https://portland.craigslist.org/wsc/">Craigslist</a><br>
-<a href="https://www.ebay.com/">Ebay</a><br>
-</div></div></td>
+			<td align="center" valign="top" width="170">
+			<div id="box"><b>Books &amp; Stores</b><br><br>
+			<div id="text-box">
+				<a href="https://www.wellsfargo.com">Wells Fargo</a><br><br>
+				<a href="https://www.amazon.com">Amazon</a><br><br>
+				<a href="https://www.powells.com/">Powells</a><br><br>
+				<a href="https://www.barnesandnoble.com/">Barnes &amp; Noble</a><br>
+				<a href="https://www.abebooks.com/">AbeBooks</a><br>
+				<a href="https://books.google.com/bkshp?hl=en&tab=wp">Google Books</a><br>
+				<a href="https://www.hamiltonbook.com/">HamiltonBooks</a><br>
+				<a href="https://www.biblio.com/">Biblio.com</a><br>
+				<a href="https://www.bookfinder.com/?ref=bf_alp_hd_1">BookFinder</a><br>
+				<a href="https://www.addall.com/">AddALL (books)</a><br>
+				<a href="https://www.kisselburgmilitarybooks.com/">Kisselburg Mil Books</a><br>
+				<a href="https://www.robertsbookshop.com/">Robert's Book Shop</a><br>
+				<a href="https://portland.craigslist.org/wsc/">Craigslist</a><br>
+				<a href="https://www.ebay.com/">Ebay</a><br>
+			</div></div></td>
 
-<td align="center" valign="top" width="170">
-<div id="box"><b>Web Sites</b><br><br>
-<div id="text-box">
-<a href="https://www.librarything.com/profile/usma83">LibraryThing</a><br>(profile)<br><br>
-<a href="https://www.zillow.com/homes/for_sale/97225_rb/">Zillow.com</a><br>
-<a href="https://www.redfin.com/city/1432/OR/Beaverton/filter/property-type=house,min-price=650k,max-price=950k,min-sqft=2.5k-sqft,viewport=45.50552:45.49461:-122.76909:-122.78975,no-outline">Redfin</a><br>
-<a href="https://www.realtor.com/realestateandhomes-search/Washington-County_OR?pos=45.4814,-122.809839,45.521405,-122.737741,14">Realtor.com</a><br>
-<a href="https://www.trulia.com/for_sale/97225_zip/3p_beds/2p_baths/700000-1000000_price/2500p_sqft/SINGLE-FAMILY_HOME_type/">Trulia</a><br><br>
-<a href="https://www.reddit.com/r/dayz/new/">Reddit</a><br>
-<a href="https://www.linkedin.com/">Linkedin</a><br>
-<a href="https://sallyport.westpointaog.org/">Sallyport</a><br><br>
-<a href="https://facts.randomhistory.com/">RandomHistory</a><br><br>
-<a href="https://www.estatesale-finder.com/">Estate Sale-Finder</a><br><br>
-<a href="https://www.asus.com/us/support/">ASUS</a><br><br>
-<a href="https://www.hillsboro-oregon.gov/our-city/departments/library/about-the-library/volunteer">Volunteer</a>
-</div></div></td>
+		<td align="center" valign="top" width="170">
+		<div id="box"><b>Web Sites</b><br><br>
+		<div id="text-box">
+			<a href="https://www.librarything.com/profile/usma83">LibraryThing</a><br>(profile)<br><br>
+			<a href="https://www.zillow.com/homes/for_sale/97225_rb/">Zillow.com</a><br>
+			<a href="https://www.redfin.com/city/1432/OR/Beaverton/filter/property-type=house,min-price=650k,max-price=950k,min-sqft=2.5k-sqft,viewport=45.50552:45.49461:-122.76909:-122.78975,no-outline">Redfin</a><br>
+			<a href="https://www.realtor.com/realestateandhomes-search/Washington-County_OR?pos=45.4814,-122.809839,45.521405,-122.737741,14">Realtor.com</a><br>
+			<a href="https://www.trulia.com/for_sale/97225_zip/3p_beds/2p_baths/700000-1000000_price/2500p_sqft/SINGLE-FAMILY_HOME_type/">Trulia</a><br><br>
+			<a href="https://www.reddit.com/r/dayz/new/">Reddit</a><br>
+			<a href="https://www.linkedin.com/">Linkedin</a><br>
+			<a href="https://sallyport.westpointaog.org/">Sallyport</a><br><br>
+			<a href="https://facts.randomhistory.com/">RandomHistory</a><br><br>
+			<a href="https://www.estatesale-finder.com/">Estate Sale-Finder</a><br><br>
+			<a href="https://www.asus.com/us/support/">ASUS</a><br><br>
+			<a href="https://www.hillsboro-oregon.gov/our-city/departments/library/about-the-library/volunteer">Volunteer</a>
+		</div></div></td>
 
-<td align="center" valign="top" width="170">
-<div id="box"><b>Web Sites</b><br><br>
-<div id="text-box">
-<a href="http://mail.google.com/mail">Gmail</a><br><br>
-<a href="https://www.cnn.com/">CNN</a><br>
-<a href="https://theweek.com/">The Week</a><br><br>
-<a href="https://www.axios.com/newsletters/axios-am">Axios</a><br>
-<a href="https://www.newsweek.com/">Newsweek</a><br>
-<a href="https://www.usnews.com/">US News & WR</a><br>
-<a href="https://apnews.com/">AP News</a><br>
-<a href="https://www.kadaza.com/news">News Site</a><br>
-<a href="https://forecast.weather.gov/MapClick.php?lat=45.4966&lon=-122.7775&unit=0&lg=english&FcstType=graphical">Local Weather.gov</a><br><br>
-<a href="https://www.oregonlottery.org/games/">Lottery</a><br>
-<a href="https://www.usamega.com/powerball/statistics/5/2/2">Powerball Freq</a><br>
-<a href="https://www.trimet.org">TriMet</a><br>
-<a href="https://myhopcard.com/home">My Hop Card</a><br><br>
-<a href="https://www.wgt.com/">WGT</a><br>
-<a href="https://www.pinterest.com/">Pinterest</a><br>
-</div></div></td>
+	<td align="center" valign="top" width="170">
+	<div id="box"><b>Web Sites</b><br><br>
+	<div id="text-box">
+		<a href="http://mail.google.com/mail">Gmail</a><br><br>
+		<a href="https://www.cnn.com/">CNN</a><br>
+		<a href="https://theweek.com/">The Week</a><br><br>
+		<a href="https://www.axios.com/newsletters/axios-am">Axios</a><br>
+		<a href="https://www.newsweek.com/">Newsweek</a><br>
+		<a href="https://www.usnews.com/">US News & WR</a><br>
+		<a href="https://apnews.com/">AP News</a><br>
+		<a href="https://www.kadaza.com/news">News Site</a><br>
+		<a href="https://forecast.weather.gov/MapClick.php?lat=45.4966&lon=-122.7775&unit=0&lg=english&FcstType=graphical">Local Weather.gov</a><br><br>
+		<a href="https://www.oregonlottery.org/games/">Lottery</a><br>
+		<a href="https://www.usamega.com/powerball/statistics/5/2/2">Powerball Freq</a><br>
+		<a href="https://www.trimet.org">TriMet</a><br>
+		<a href="https://myhopcard.com/home">My Hop Card</a><br><br>
+		<a href="https://www.wgt.com/">WGT</a><br>
+		<a href="https://www.pinterest.com/">Pinterest</a><br>
+	</div></div></td>
 
 <td align="center" valign="top" width="170">
 <div id="box"><b>Music/Radio/Video</b><br><br>
 <div id="text-box">
-<a href="https://www.netflix-codes.com/">Netflix Codes</a><br>
-<a href="images-general/netflix-codes.jpg">Screenshot</a><br><br>
-<a href="https://www.justwatch.com/">JustWatch</a><br>
-<a href="https://www.kanopy.com/">Kanopy</a><br>
-<a href="https://www.music-map.com/">Music Map</a><br>
-<a href="https://www.secondhandsongs.com/topic/3653">SecondHandSongs</a><br>
-<a href="https://www.songfacts.com/">SongFacts</a><br>
-<a href="https://www.tunefind.com/">TuneFind</a><br><br>
-<a href="https://www.allmovie.com/">AllMovie.com</a><br>
-<a href="https://www.comingsoon.net/">ComingSoon.net</a><br><br>
-
-<a href="https://1067theeagle.iheart.com/schedule/">Eagle 106.7</a><br>
-<a href="https://www.imdb.com/">IMDB</a><br>
-<a href="https://www.sling.com/">Sling TV</a> (Chrome)<br>
-<a href="https://www.netflix.com/">Netflix</a><br>
-<a href="https://www.youtube.com/">YouTube</a><br><br>
-<span style="font-weight: bold; background-color: #ffff00">yout-ube.com/...</span><br> for ad free
+	<a href="https://www.netflix-codes.com/">Netflix Codes</a><br>
+	<a href="images-general/netflix-codes.jpg">Screenshot</a><br><br>
+	<a href="https://www.justwatch.com/">JustWatch</a><br>
+	<a href="https://www.kanopy.com/">Kanopy</a><br>
+	<a href="https://www.music-map.com/">Music Map</a><br>
+	<a href="https://www.secondhandsongs.com/topic/3653">SecondHandSongs</a><br>
+	<a href="https://www.songfacts.com/">SongFacts</a><br>
+	<a href="https://www.tunefind.com/">TuneFind</a><br><br>
+	<a href="https://www.allmovie.com/">AllMovie.com</a><br>
+	<a href="https://www.comingsoon.net/">ComingSoon.net</a><br><br>
+	<a href="https://1067theeagle.iheart.com/schedule/">Eagle 106.7</a><br>
+	<a href="https://www.imdb.com/">IMDB</a><br>
+	<a href="https://www.sling.com/">Sling TV</a> (Chrome)<br>
+	<a href="https://www.netflix.com/">Netflix</a><br>
+	<a href="https://www.youtube.com/">YouTube</a><br><br>
+	<span style="font-weight: bold; background-color: #ffff00">yout-ube.com/...</span><br> for ad free
 </div></div></td>
 </tr></tbody></tbody></table></table></div>
 
@@ -511,7 +508,7 @@ Google (below)<br>
 
 	<a href="https://www.howtogeek.com/keyboard-macros-arent-just-for-programmers-heres-how-i-use-them/">Keyboard Macros</a><br>
 	<a href="https://www.slashgear.com/1605366/snapseed-smartphone-photos-pop/">Make photos pop</a><br></td>
-	</tr></tbody></table></div>
+</tr></tbody></table></div>
 
 	
 <p><span style="background-color: #FFFF00">
@@ -541,6 +538,7 @@ Google (below)<br>
 
 	<td valign="top" width="50%">
 	<b><span style="background-color: #FFFF00">Desktop Software</span></b><br><br>
+
 	<a href="https://4k-video-downloader.en.softonic.com/download">4K Video Downloader+</a> (online)<br>
 	<a href="https://www.7-zip.org/download.html">7-Zip File Manager</a> (online)<br>
 	<a href="https://www.audacityteam.org/">Audacity</a> (online)<br>
@@ -861,6 +859,8 @@ Google (below)<br>
 		<a href="future-trips.shtml">Future Trips</a> GitHub<br><br>
 		
 		<a href="jan24-storm2.shtml">Jan 2024 Storm</a> GitHub<br><br>
+
+		<a href="chair.shtml">Lift/Recliner Chair</a> GitHub<br><br>
 
 		<a href="index.html">Index Page</a> GitHub<br>
 		<s><a href="https://myplace.frontier.com/~pboakes/bookmarks1.shtml">BM Page</a> Frontier</s><br><br>
@@ -1469,11 +1469,11 @@ Flamingo sings &quot;Go Your Own Way&quot; by Fleetwood Mac | THE MASKED SINGER 
 <a href="https://www.amazon.com/gp/profile/amzn1.account.AGKVDZ6FGH4SR75ZJMWZMTKJST7Q?ie=UTF8&amp;ref_=ya_d_l_profile">Amazon Reviews - Profile</a><br>
 <a href="https://www.cruisecritic.com/memberreviews/memberreview.cfm?EntryID=594371">CruiseCritic - review</a><br><br>
 
-<span class="black-bold-title">SEARCH</span></font></b><br><br>
+<span class="black-bold-title">SEARCH</span><br><br>
 
 <a href="https://www.makeuseof.com/tag/10-search-engines-explore-deep-invisible-web/">Deep web searches</a><br><br>
 
-<b><font color="#FFFFFF"><span style="font-weight: 700; background-color: #000000">SOFTWARE</span></font></b><br><br>
+<span class="black-bold-title">SOFTWARE</span><br><br>
 
 <a href="https://www.rd.com/article/word-shortcuts/">50 Microsoft Word Shortcuts — Word Keyboard Shortcuts with Printables!</a><br>
 <a href="https://excel.tips.net/T007727_An_Average_that_Excludes_Zero_Values.html">An Average that Excludes Zero Values (Microsoft Excel)</a><br>
