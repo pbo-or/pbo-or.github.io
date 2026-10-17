@@ -37,6 +37,8 @@ a:visited		{font-family: Tahoma; font-size: 10pt; color: #0000FF; text-decoratio
 
 .site-header-txt	{text-align: center; font-size: 12pt; font-weight: bold; }
 
+.static-icon {width: 12px; height: 12px; }
+
 .f1 			{font-size: 14pt; font-weight: bold; color: red; }
 
 .f2				{font-size: 11pt; font-weight: bold; color: red; }
@@ -57,7 +59,7 @@ The <span style="background-color: #FFFF00">Day #'s</span> below correspond with
 
 My brother, Greg, and his wife, Renee, joined Mary and I for this vacation trip.<br><br>
 
-<font color="#0000FF"><a href="JavaScript:doExpand(PERSPECTIVEBox)">Some perspective</a></font>
+<font color="#0000FF"><a href="JavaScript:doExpand(PERSPECTIVEBox)">Some perspective</a></font> <img src="images-general/down-arrow.svg" class="static-icon" />
 <div id="PERSPECTIVEBox" style="display: none">
 	<span style="text-align: left">To appreciate traveling above the Arctic Circle, a few clarifications...<br><br>
 
@@ -96,7 +98,7 @@ My brother, Greg, and his wife, Renee, joined Mary and I for this vacation trip.
 	View of the our balancy:<br><a href="images-2026-cruise/07.cruise-ship-balcony.jpg" target="_blank" rel="noopener noreferrer">07.cruise-ship-balcony.jpg</a><br><br>
 
 	The entire cruise was an imersion in 
-	<font color="#0000FF"><a href="JavaScript:doExpand(HISTORYBox)">history</a></font>.
+	<font color="#0000FF"><a href="JavaScript:doExpand(HISTORYBox)">history</a></font>. <img src="images-general/down-arrow.svg" class="static-icon" />
 	<div id="HISTORYBox" style="display: none">
 		<span style="text-align: left">Various lectures and tour escorts filled our heads with facts. While the Vikings are the most obvious and well known history of Norway and Scandanavia, did you know Norway itself was established as a sovereign country only in <b>1905</b>. This was after the peaceful separation of Norway from Sweden. By a national refereendum, the people confirmed their preference for a monarchy over a republic. Because none of Norway's noble families could claim royal descent, the government ultimately offered the throne of Norway to the Prince Carl of Denmark (a distant relative of Norway's medieval kings). His great-grandson, King Harald V, passed away on August 28, 2026 (shortly after our trip). The new king, Haakon VIII, subsequently took over the throne. So Norway is a relatively new country on the world stage!</span>
 	</div><br><br>
@@ -122,13 +124,13 @@ My brother, Greg, and his wife, Renee, joined Mary and I for this vacation trip.
 	<a href="images-2026-cruise/11.cruise-honningsvag-troll-072526 (2).jpg" target="_blank" rel="noopener noreferrer">11.cruise-honningsvag-troll-072526 (2).jpg</a><br><br>
 
 	Some geography and 
-	<font color="#0000FF"><a href="JavaScript:doExpand(CLIMATEBox)">climate</a></font>...
+	<font color="#0000FF"><a href="JavaScript:doExpand(CLIMATEBox)">climate</a></font>... <img src="images-general/down-arrow.svg" class="static-icon" />
 	<div id="CLIMATEBox" style="display: none">
 		<span style="text-align: left">While it can get very cold in Norway during the Winter, the ports and fjord waterways in Norway up to Svalbard actually do not freeze over. This is due to the Gulf Stream coming up from the Caribbean Sea. This makes their ports accessible year-round.</span>
 	</div><br><br>
 
 	Why 
-	<font color="#0000FF"><a href="JavaScript:doExpand(NARVIKBox)">Narvik</a></font>?
+	<font color="#0000FF"><a href="JavaScript:doExpand(NARVIKBox)">Narvik</a></font>? <img src="images-general/down-arrow.svg" class="static-icon" />
 	<div id="NARVIKBox" style="display: none">
 		<span style="text-align: left">I was initially puzzled on why the city of Narvik was a scheduled stop? After getting the bus tour guide's history presentation, its signficance became evident. Above I describe how Norway has year-round accessible ports. On the flip side, Sweden's cities and ports face the interior Baltic Sea. Thus many of those ports face freezing ice conditions making them inaccessible during the Winter. Here is the twist: Sweden has iron ore as a natural resource. Its export is a life line to their economy. The only way to keep the iron ore industry a year business is to transport it by rail to Narvik for ocean shipping to customers. This became a key factor in why the Germans invaded Norway at the start of World War II (in addition to its proximity to Great Britain and the North Atlantic). The railway ore trains snake 25 miles through Norwegian mountains from Narkiv to the Swedish border.<br><br>
 		This is one of the first iron ore locomotives built in 1882. It stayed in active use until 1942:<br>

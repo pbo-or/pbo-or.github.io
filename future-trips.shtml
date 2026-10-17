@@ -44,7 +44,7 @@ a:visited		{font-family: Tahoma; font-size: 10pt; color: #0000FF; text-decoratio
 
 .site-header-txt	{text-align: center; font-size: 12pt; font-weight: bold; }
 
-.static-icon {width: 15px; height: 15px; }
+.static-icon {width: 12px; height: 12px; }
 
 .f1 			{font-size: 14pt; font-weight: bold; color: red; }
 

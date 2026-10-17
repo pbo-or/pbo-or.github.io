@@ -61,6 +61,8 @@ td				{margin-left: auto; margin-right: auto; font-size: 10pt; border: 0px solid
 
 .area-header-txt	{font-size: 11pt; font-weight: bold; }
 
+.static-icon {width: 12px; height: 12px; }
+
 .f1 			{font-size: 14pt; font-weight: bold; color: red; }
 
 .f2				{font-size: 11pt; font-weight: bold; color: red; }
@@ -83,7 +85,7 @@ td				{margin-left: auto; margin-right: auto; font-size: 10pt; border: 0px solid
 <span class="area-header-txt">Northwest Travel Sites</span></a><br></p>
 
 <p style="text-align: center">
-Last update: October 14, 2026</p>
+Last update: October 17, 2026</p>
 
 <p style="text-align: center"><img border="0" src="images-nw/map-nw-general.jpg" width="608" height="591" 
 style="border: 0px solid black; box-shadow: 8px 8px 12px #999"></p><br>
@@ -126,6 +128,8 @@ Something about timed use permits. They are increasingly being used to control t
 	<img border="0" src="images-nw/symbol-subway.gif" width="21" height="20">&nbsp;&nbsp;&nbsp;=&nbsp; Accessible by MAX Light Rail and/or Portland Streetcar<br><br>
 	<img border="0" src="images-nw/symbol-stopwatch.gif" width="20" height="22">&nbsp;&nbsp;&nbsp;=&nbsp; Not a destination, but worth a quick stop if traveling near<br><br>
 	<img border="0" src="images-nw/symbol-ticket.gif" width="21" height="21">&nbsp;&nbsp;&nbsp;=&nbsp; Various state parks charge a parking fee. We can obtain an annual or daily OR State Parks cover parking pass. If we know you would like to visit various State Parks, us buying one pass or the other is a big cost saver. We got a National Parks Lifetime Pass that provides free car entry to NPs and other national monuments, etc. Already recouped half of the Pass cost during a recent road trip.<br><br>
+	<img src="images-general/down-arrow.svg" class="static-icon" />&nbsp;&nbsp;&nbsp;=&nbsp; The link before this arrow is a dropdown box. Click on the link to expand the box. Refresh browser to collapse the box(es).<br><br>
+
 
 	I found a few online articles that compliment content on this web page. Some times the content either expires or is locked at the source. So, for more simple viewing and access to the content, I converted them to simple PDF documents.<br><br> 
 	
@@ -134,9 +138,9 @@ Something about timed use permits. They are increasingly being used to control t
 	Click on a photo to go to a larger online version of the same photo.<br><br></p>
 </blockquote>
 
-<p style="text-align: center">Open the below dropdowns for supplemental information. Refresh browser to collapse the boxes.</p>
+<p style="text-align: center">Open the below dropdowns for supplemental information.</p>
 
-<p style="text-align: center"><span style="background-color: #FFFF00"><font color="#000000"><a href="JavaScript:doExpand(WeatherBox)">LOCAL WEATHER</a></font></span></p>
+<p style="text-align: center"><span style="background-color: #FFFF00"><font color="#000000"><a href="JavaScript:doExpand(WeatherBox)">LOCAL WEATHER</a></font></span> <img src="images-general/down-arrow.svg" class="static-icon" /></p>
 
    <div id="WeatherBox" style="display: none">
    Oregon weather can be hit and miss. Generally summer is decent but, that comes with crowds and lines. Visiting Oregon during  off-prime  weather season does have benefits: fewer crowds and lines. Just  increased risk of rain and clouds.<br>
@@ -145,7 +149,7 @@ Something about timed use permits. They are increasingly being used to control t
    <a href="https://weatherspark.com/y/721/Aerage-Weather-in-Beaverton-Oregon-United-States-Year-Round">weatherspark.com/y/721/Average-Weather-in-Beaverton-Oregon-United-States-Year-Round</a></div>
 
 <p style="text-align: center"><span style="background-color: #FFFF00"><font color="#000000">
-<a href="JavaScript:doExpand(TravelBox)">TRAVEL RESOURCES</a></font></span></p>
+<a href="JavaScript:doExpand(TravelBox)">TRAVEL RESOURCES</a></font></span> <img src="images-general/down-arrow.svg" class="static-icon" /></p>
 
 	<div id="TravelBox" style="display: none">
 	Travel Oregon Visitor Guide:<a href="https://issuu.com/traveloregon2019/docs/2023tovg">issuu.com/traveloregon2019/docs/2023tovg</a><br>
@@ -158,10 +162,10 @@ Something about timed use permits. They are increasingly being used to control t
 	After I worked up the below list of Portland sites, I found this web page. Again reaffirms many of my site choices:<br>
 	<a href="https://citybop.com/things-to-do-in-portland-oregon">citybop.com/things-to-do-in-portland-oregon</a><br><br>
 	I thought this map with some exaggerated relief really helped define the topography in the Northwest:<br>
-	<a href="images-nw/map-relief.JPG">NW Relief Map</a><br></div>
+	<a href="images-nw/map-relief.JPG">NW Relief Map</a> <img src="images-general/down-arrow.svg" class="static-icon" /><br></div>
 
 <p style="text-align: center"><span style="background-color: #FFFF00"><font color="#000000">
-<a href="JavaScript:doExpand(MAXBox)">What is the MAX?</a></font></span></p>
+<a href="JavaScript:doExpand(MAXBox)">What is the MAX?</a></font></span> <img src="images-general/down-arrow.svg" class="static-icon" /></p>
 
 	<div id="MAXBox" style="display: none">
 	<p style="text-align: center">MAX is the light rail transportation system that serves the Portland Metro Area including Beaverton (left).<br>
@@ -170,7 +174,7 @@ Something about timed use permits. They are increasingly being used to control t
 	<a href="https://okcfox.com/resources/media2/16x9/full/1015/center/80/9f43ffce-1630-4057-aa54-4ea9417d2de6-large16x9_PortlandStreetcarGNUImageMGN.jpg"><img border="0" src="images-nw/pdx-streetcar.JPG" width="399" height="280"></a></p></div>
 
 <p style="text-align: center"><span style="background-color: #FFFF00"><font color="#000000">
-<a href="JavaScript:doExpand(StateParksBox)">Oregon and Washington State Parks</a></font></span></p>
+<a href="JavaScript:doExpand(StateParksBox)">Oregon and Washington State Parks</a></font></span> <img src="images-general/down-arrow.svg" class="static-icon" /></p>
 
 	<div id="StateParksBox" style="display: none">
 	<p style="text-align: center">Links to state parks in both Oregon and Washington. Many are mentioned below in the travel boxes. Here I tried to create a custom map with sites but it got too complex.<br><br> 
@@ -666,8 +670,7 @@ Many of the Portland and Beaverton sites shown on a single map: <a href="images-
 </table></div>
 
 <p style="text-align: center"><span style="background-color: #FFFF00"><font color="#000000">
-<a href="JavaScript:doExpand(Hwy101Box)">NORTH OREGON COAST - Beaches, Viewpoints and Waysides</a></font></span><br>
-(dropdown box)</p>
+<a href="JavaScript:doExpand(Hwy101Box)">NORTH OREGON COAST - Beaches, Viewpoints and Waysides</a></font></span> <img src="images-general/down-arrow.svg" class="static-icon" /></p>
 
 	<div id="Hwy101Box" style="display: none">
 	Area C - 60-90 miles West of Beaverton
@@ -758,8 +761,7 @@ Many of the Portland and Beaverton sites shown on a single map: <a href="images-
 </div>
 
 <p style="text-align: center"><span style="background-color: #FFFF00"><font color="#000000">
-<a href="JavaScript:doExpand(LighthouseBox)">OREGON LIGHTHOUSES</a></font></span><br>
-(dropdown box)</p>
+<a href="JavaScript:doExpand(LighthouseBox)">OREGON LIGHTHOUSES</a></font></span> <img src="images-general/down-arrow.svg" class="static-icon" /></p>
 
 	<div id="LighthouseBox" style="display: none">
 	Area C - 50-200 miles West/Southwest of Beaverton <img border="0" src="images-nw/symbol-binos.gif" width="20" height="20"><br><br>
@@ -1874,8 +1876,7 @@ link rel="stylesheet" type="text/css" href="XXXX.css"
 Was kind of unsure where to put the Waterfalls dropdown. Finally decided at the end (here).<br>
 
 <p style="text-align: center"><span style="background-color: #FFFF00"><font color="#000000">
-<a href="JavaScript:doExpand(WaterfallBox)">PACIFIC NORTHWEST WATERFALLS</a></font></span><br>
-(dropdown box)</p>
+<a href="JavaScript:doExpand(WaterfallBox)">PACIFIC NORTHWEST WATERFALLS</a></font></span> <img src="images-general/down-arrow.svg" class="static-icon" /></p>
 
 	<div id="WaterfallBox" style="display: none">
 	<img border="0" src="images-nw/symbol-binos.gif" width="20" height="20"> <img border="0" src="images-nw/boot-print.gif" width="20" height="20"><br><br>
