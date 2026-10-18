@@ -21,13 +21,14 @@ a:link		{font-family: Tahoma; font-size: 10pt; color: #0000FF; text-decoration: 
                
 a:visited	{font-family: Tahoma; font-size: 10pt; color: #0000FF; text-decoration: none; font-weight: normal; }
 	
-#Content    {margin-left: auto; margin-right: auto; text-align: justify; border: 0px solid #0066FF; padding: 25px; width: 780px; }
-
-.site-header-txt	{text-align: center; font-size: 12pt; font-weight: bold; }
+#Content    {margin-left: auto; margin-right: auto; text-align: justify; border: 0px solid #0066FF; padding: 25px; width: 520px; }
 
 .f1 			{font-size: 14pt; font-weight: bold; color: red; }
 
 .f2			{font-size: 11pt; font-weight: bold; color: red; }
+
+.site-header-txt	{text-align: center; font-size: 12pt; font-weight: bold; }
+
 -->
 </style>
 
@@ -35,7 +36,7 @@ a:visited	{font-family: Tahoma; font-size: 10pt; color: #0000FF; text-decoration
 <div id="Content">
 <p style="text-align: center"><b>Electric Lift/Recliner Chair</b><br><br>
 
-Last update: October 17, 2026</p><br>
+Last update: October 18, 2026</p><br>
 
 We will soon be posting the below chair on Craigslist. But we thought that we would first present it to any interested neighbors.<br><br>
 
