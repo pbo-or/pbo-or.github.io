@@ -57,11 +57,11 @@ td				{margin-left: auto; margin-right: auto; font-size: 10pt; border: 0px solid
 
 .site-header-txt	{text-align: center; font-size: 11pt; font-weight: bold; }
 
-.area-table		{background-color: #1ad531; }
+.area-table			{background-color: #1ad531; }
 
 .area-header-txt	{font-size: 11pt; font-weight: bold; }
 
-.static-icon {width: 12px; height: 12px; }
+.static-icon 	{width: 12px; height: 12px; }
 
 .f1 			{font-size: 14pt; font-weight: bold; color: red; }
 
