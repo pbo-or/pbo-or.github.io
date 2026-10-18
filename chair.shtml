@@ -21,14 +21,13 @@ a:link		{font-family: Tahoma; font-size: 10pt; color: #0000FF; text-decoration: 
                
 a:visited	{font-family: Tahoma; font-size: 10pt; color: #0000FF; text-decoration: none; font-weight: normal; }
 	
-#Content    {margin-left: auto; margin-right: auto; text-align: justify; border: 0px solid #0066FF; padding: 25px; width: 520px; }
+#Content    {margin-left: auto; margin-right: auto; text-align: justify; border: 0px solid #0066FF; padding: 15px; width: 510px; }
+
+.site-header-txt	{text-align: center; font-size: 12pt; font-weight: bold; }
 
 .f1 			{font-size: 14pt; font-weight: bold; color: red; }
 
 .f2			{font-size: 11pt; font-weight: bold; color: red; }
-
-.site-header-txt	{text-align: center; font-size: 12pt; font-weight: bold; }
-
 -->
 </style>
 
