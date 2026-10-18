@@ -128,17 +128,17 @@ Something about timed use permits. They are increasingly being used to control t
 	<img border="0" src="images-nw/symbol-subway.gif" width="21" height="20">&nbsp;&nbsp;&nbsp;=&nbsp; Accessible by MAX Light Rail and/or Portland Streetcar<br><br>
 	<img border="0" src="images-nw/symbol-stopwatch.gif" width="20" height="22">&nbsp;&nbsp;&nbsp;=&nbsp; Not a destination, but worth a quick stop if traveling near<br><br>
 	<img border="0" src="images-nw/symbol-ticket.gif" width="21" height="21">&nbsp;&nbsp;&nbsp;=&nbsp; Various state parks charge a parking fee. We can obtain an annual or daily OR State Parks cover parking pass. If we know you would like to visit various State Parks, us buying one pass or the other is a big cost saver. We got a National Parks Lifetime Pass that provides free car entry to NPs and other national monuments, etc. Already recouped half of the Pass cost during a recent road trip.<br><br>
-	<img src="images-general/down-arrow.svg" class="static-icon" />&nbsp;&nbsp;&nbsp;=&nbsp; The link before this arrow is a dropdown box. Click on the link to expand the box. Refresh browser to collapse box(es).<br><br>
+	&nbsp;&nbsp;<img src="images-general/down-arrow.svg" class="static-icon" />&nbsp;&nbsp;&nbsp;=&nbsp; The link before this arrow is a dropdown box. Click on the link to expand the box. Refresh browser to collapse box(es).<br><br>
 
 
-	I found a few online articles that compliment content on this web page. Some times the content either expires or is locked at the source. So, for more simple viewing and access to the content, I converted them to simple PDF documents.<br><br> 
+	I found a few online articles that compliment content on this web page. Sometimes the content either expires or is locked at the source. So, for more simple viewing and access to the content, I converted them to simple PDF documents.<br><br> 
 	
-	If links do not function, they worked when I set the page up. It is the source that changes their link locations. Thus, breaking my previously valid links. Contact me if you find a broken or incorrect link and I will try to resolve.<br><br>
+	If external links do not function, they worked when I set the page up. It is the source that changes their link locations. Thus, breaking my previously valid links. Contact me if you find a broken or incorrect link and I will try to resolve.<br><br>
 	
-	Click on a photo to go to a larger online version of the same photo. To return to this page in Edge and Firefox, click the browswer Back arrow or Alt+Left Arrow.<br><br></p>
+	Click on a photo to go to a larger online version of the same photo. To close the phone and return to this page in Edge and Firefox, click the browser Back Arrow or Alt+Left Arrow.<br><br></p>
 </blockquote>
 
-<p style="text-align: center">Open the below dropdowns for supplemental information.</p>
+<p style="text-align: center">Supplemental information:</p>
 
 <p style="text-align: center"><span style="background-color: #FFFF00"><font color="#000000"><a href="JavaScript:doExpand(WeatherBox)">LOCAL WEATHER</a></font></span> <img src="images-general/down-arrow.svg" class="static-icon" /></p>
 <div id="WeatherBox" style="display: none">
