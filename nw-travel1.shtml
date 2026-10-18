@@ -128,30 +128,29 @@ Something about timed use permits. They are increasingly being used to control t
 	<img border="0" src="images-nw/symbol-subway.gif" width="21" height="20">&nbsp;&nbsp;&nbsp;=&nbsp; Accessible by MAX Light Rail and/or Portland Streetcar<br><br>
 	<img border="0" src="images-nw/symbol-stopwatch.gif" width="20" height="22">&nbsp;&nbsp;&nbsp;=&nbsp; Not a destination, but worth a quick stop if traveling near<br><br>
 	<img border="0" src="images-nw/symbol-ticket.gif" width="21" height="21">&nbsp;&nbsp;&nbsp;=&nbsp; Various state parks charge a parking fee. We can obtain an annual or daily OR State Parks cover parking pass. If we know you would like to visit various State Parks, us buying one pass or the other is a big cost saver. We got a National Parks Lifetime Pass that provides free car entry to NPs and other national monuments, etc. Already recouped half of the Pass cost during a recent road trip.<br><br>
-	<img src="images-general/down-arrow.svg" class="static-icon" />&nbsp;&nbsp;&nbsp;=&nbsp; The link before this arrow is a dropdown box. Click on the link to expand the box. Refresh browser to collapse the box(es).<br><br>
+	<img src="images-general/down-arrow.svg" class="static-icon" />&nbsp;&nbsp;&nbsp;=&nbsp; The link before this arrow is a dropdown box. Click on the link to expand the box. Refresh browser to collapse box(es).<br><br>
 
 
 	I found a few online articles that compliment content on this web page. Some times the content either expires or is locked at the source. So, for more simple viewing and access to the content, I converted them to simple PDF documents.<br><br> 
 	
 	If links do not function, they worked when I set the page up. It is the source that changes their link locations. Thus, breaking my previously valid links. Contact me if you find a broken or incorrect link and I will try to resolve.<br><br>
 	
-	Click on a photo to go to a larger online version of the same photo.<br><br></p>
+	Click on a photo to go to a larger online version of the same photo. To return to this page in Edge and Firefox, click the browswer Back arrow or Alt+Left Arrow.<br><br></p>
 </blockquote>
 
 <p style="text-align: center">Open the below dropdowns for supplemental information.</p>
 
 <p style="text-align: center"><span style="background-color: #FFFF00"><font color="#000000"><a href="JavaScript:doExpand(WeatherBox)">LOCAL WEATHER</a></font></span> <img src="images-general/down-arrow.svg" class="static-icon" /></p>
-
-   <div id="WeatherBox" style="display: none">
+<div id="WeatherBox" style="display: none">
    Oregon weather can be hit and miss. Generally summer is decent but, that comes with crowds and lines. Visiting Oregon during  off-prime  weather season does have benefits: fewer crowds and lines. Just  increased risk of rain and clouds.<br>
    <p style="text-align: center"><img border="0" src="images-nw/weather.jpg" width="802" height="288"></p>
    More weather information at:<br>
-   <a href="https://weatherspark.com/y/721/Aerage-Weather-in-Beaverton-Oregon-United-States-Year-Round">weatherspark.com/y/721/Average-Weather-in-Beaverton-Oregon-United-States-Year-Round</a></div>
+   <a href="https://weatherspark.com/y/721/Aerage-Weather-in-Beaverton-Oregon-United-States-Year-Round">weatherspark.com/y/721/Average-Weather-in-Beaverton-Oregon-United-States-Year-Round</a>
+</div>
 
 <p style="text-align: center"><span style="background-color: #FFFF00"><font color="#000000">
 <a href="JavaScript:doExpand(TravelBox)">TRAVEL RESOURCES</a></font></span> <img src="images-general/down-arrow.svg" class="static-icon" /></p>
-
-	<div id="TravelBox" style="display: none">
+<div id="TravelBox" style="display: none">
 	Travel Oregon Visitor Guide:<a href="https://issuu.com/traveloregon2019/docs/2023tovg">issuu.com/traveloregon2019/docs/2023tovg</a><br>
 	Includes many of the locations mentioned below and lots more.<br><br>
 	Oregon Scenic Byways:<a href="https://issuu.com/traveloregon2019/docs/scenicbywaysguide_english">issuu.com/traveloregon2019</a><br>
@@ -162,21 +161,21 @@ Something about timed use permits. They are increasingly being used to control t
 	After I worked up the below list of Portland sites, I found this web page. Again reaffirms many of my site choices:<br>
 	<a href="https://citybop.com/things-to-do-in-portland-oregon">citybop.com/things-to-do-in-portland-oregon</a><br><br>
 	I thought this map with some exaggerated relief really helped define the topography in the Northwest:<br>
-	<a href="images-nw/map-relief.JPG">NW Relief Map</a> <img src="images-general/down-arrow.svg" class="static-icon" /><br></div>
+	<a href="images-nw/map-relief.JPG">NW Relief Map</a> <img src="images-general/down-arrow.svg" class="static-icon" /><br>
+</div>
 
 <p style="text-align: center"><span style="background-color: #FFFF00"><font color="#000000">
 <a href="JavaScript:doExpand(MAXBox)">What is the MAX?</a></font></span> <img src="images-general/down-arrow.svg" class="static-icon" /></p>
-
-	<div id="MAXBox" style="display: none">
+<div id="MAXBox" style="display: none">
 	<p style="text-align: center">MAX is the light rail transportation system that serves the Portland Metro Area including Beaverton (left).<br>
 	The Portland Streetcars serve the downtown only (right).<br>
 	<a href="https://upload.wikimedia.org/wikipedia/commons/4/4f/Portland_MAX_train_of_Type_2_+_Type_1_cars_at_5th_&_Mill_(2015).jpg"><img border="0" src="images-nw/pdx-max.JPG" width="343" height="280"></a>
-	<a href="https://okcfox.com/resources/media2/16x9/full/1015/center/80/9f43ffce-1630-4057-aa54-4ea9417d2de6-large16x9_PortlandStreetcarGNUImageMGN.jpg"><img border="0" src="images-nw/pdx-streetcar.JPG" width="399" height="280"></a></p></div>
+	<a href="https://okcfox.com/resources/media2/16x9/full/1015/center/80/9f43ffce-1630-4057-aa54-4ea9417d2de6-large16x9_PortlandStreetcarGNUImageMGN.jpg"><img border="0" src="images-nw/pdx-streetcar.JPG" width="399" height="280"></a></p>
+</div>
 
 <p style="text-align: center"><span style="background-color: #FFFF00"><font color="#000000">
 <a href="JavaScript:doExpand(StateParksBox)">Oregon and Washington State Parks</a></font></span> <img src="images-general/down-arrow.svg" class="static-icon" /></p>
-
-	<div id="StateParksBox" style="display: none">
+<div id="StateParksBox" style="display: none">
 	<p style="text-align: center">Links to state parks in both Oregon and Washington. Many are mentioned below in the travel boxes. Here I tried to create a custom map with sites but it got too complex.<br><br> 
 	These are the best of web pages with lists and maps of the various state parks that I could find.<br><br>
 	Oregon State Parks:<br>
@@ -188,8 +187,9 @@ Something about timed use permits. They are increasingly being used to control t
 	Washington State Parks:<br>
 	<a href="https://stateparks.com/washington_parks_and_recreation_destinations.html">Washington State Parks</a><br>
 	<a href="https://en.wikipedia.org/wiki/List_of_Washington_state_parks">Wikipedia-List of Washington state parks</a><br>
-	<a href="https://waparks.org/interactive-state-park-map/">State Parks of Washington</a><br></p></div>
-	<p style="text-align: center"><a href="images-nw/NW-fall-festivals.pdf">NW Fall Festivals</a></span> (published Fall 2026)<br>
+	<a href="https://waparks.org/interactive-state-park-map/">State Parks of Washington</a><br>
+	<p style="text-align: center"><a href="images-nw/NW-fall-festivals.pdf">NW Fall Festivals</a></span> (PDF published Fall 2026)<br></p>
+</div>
 	
 &nbsp;<hr size="4" noshade color="#0000FF"><br>
 
@@ -413,7 +413,7 @@ aka Portland International Rose Test Garden<br></p>
 			Wildwood Trail</a> runs the length of the park with lots of zigzags.</li>
 			<li><a href="https://www.travelportland.com/attractions/oregon-zoo/">Oregon Zoo</a> (largest zoo in the State). This zoo has several unique distinctions making a visit worth consideration.</li>
 			<li><a href="https://en.wikipedia.org/wiki/Hoyt_Arboretum">Hoyt Arboretum</a> 
-			(smaller park within Forest Park includes 12 miles of trails thru preserved dense forest of Douglas-fir and other trees and wildlife). <a href="https://www.hoytarboretum.org/wp-content/uploads/2020/01/Hoyt_Map_Web.pdf">Map</a>.</li>
+			(smaller park within Forest Park includes 12 miles of trails thru preserved dense forest of Douglas-fir and other trees and wildlife). <a href="https://www.hoytarboretum.org/wp-content/uploads/2020/01/Hoyt_Map_Web.pdf">Map</a> (PDF).</li>
 			<li>The <a href="https://www.atlasobscura.com/places/the-witches-castle-portland-oregon">Witch's Castle</a>.</li>
 			<li>Various city viewpoints<br></li>
 		</ul>
@@ -475,9 +475,13 @@ aka Portland International Rose Test Garden<br></p>
 		</ul>
 		A relaxing experience overall. I would describe the refreshing affect of an afternoon wondering about the Monastery as roughly equivalent to visiting the Japanese Garden in the West Hills above downtown Portland (above).</td>
 	<td valign="top" width="50%"><a href="https://sdra.com/wp-content/uploads/2017/08/mt-angel-abbey-bell-tower-01.jpg"><img border="0" src="images-nw/pdx-mt-angel-abbey.JPG" width="440" height="293"></a><br><br>
+	
 	<a href="https://www.atomic-ranch.com/wp-content/uploads/2021/12/9541040204_d9f9e8dfdc_k.jpg"><img border="0" src="images-nw/pdx-mt-angel-library.JPG" width="440" height="293"></a><br><br>
+
 	<a href="https://www.mountangelabbey.org/library/the-aalto-architecture/">mountangelabbey.org/library</a><br><br>
+
 	<a href="https://www.islands.com/1911635/hidden-oregon-monastery-breathtaking-masterpiece-alvar-aalto-library-modern-architecture-free-visit/">Oregon's Free-To-Visit Architectural Masterpiece Is A Famous, Striking Library Hidden In A Monastery</a><br><br>
+
 	<a href="https://www.google.com/maps/place/Mount+Angel+Abbey/@45.0586134,-122.7723087,14.08z/data=!4m6!3m5!1s0x54bfe19e6cc33fed:0x10257e4e6666d82e!8m2!3d45.0571024!4d-122.7748125!16s%2Fg%2F11kqw5s_vy?entry=ttu&g_ep=EgoyMDI1MDgyNS4wIKXMDSoASAFQAw%3D%3D">Google Maps</a></td>
 </table></div>
 
@@ -647,11 +651,11 @@ Many of the Portland and Beaverton sites shown on a single map: <a href="images-
 	<a href="https://tualatinvalley.org/wp-content/uploads/2023/10/downtown-station-hillsboro.jpg"><img border="0" src="images-nw/bvtn-hillsboro-food-carts.JPG" width="440" height="296"></a><br><br>
 	Another option is sushi track. 2 decent local places we have been to:
 	<ul>
-			<li><a href="https://www.akirasushibeaverton.com/gallery">Akira Sushi</a>. Simple setting. Good selection. Decent prices.</li>
-			<li><a href="https://gosushitown.com/">Sushi Town</a>. A little further away. Very friendly service.</li>
-			<li>Of interest... for something completely different, there is a <a href="https://kurasushi.com/locations/beaverton-or">Kura Revolving Sushi Bar</a> also near our house. Very modern. Digital screen selection at your table or seats. Conveyor belt almost instantly shoots your food to your table. Drinks are served by robots rolling around the resturant. A little pricey for the smaller size selections, but definitely an interesting experience.</li></ul>
-			A new <a href="https://ajisaisushisteak.com/">Ajisai Sushi and Steak</a> restraurant has opened very close to the house. Appears to be a national chain. Looks tasty, but expensive.<br><br>
-			If you want to go upscale, we do have our own local <a href="https://www.benihana.com/locations/beaverton/">Benihana</a>. Expensive. Long lead time for reservations, but always an experience and really good food. In very high demand. Even with a reservation, we have waited nearly an hour multiple times for tables to open up.</td>
+		<li><a href="https://www.akirasushibeaverton.com/gallery">Akira Sushi</a>. Simple setting. Good selection. Decent prices.</li>
+		<li><a href="https://gosushitown.com/">Sushi Town</a>. A little further away. Very friendly service.</li>
+		<li>Of interest... for something completely different, there is a <a href="https://kurasushi.com/locations/beaverton-or">Kura Revolving Sushi Bar</a> also near our house. Very modern. Digital screen selection at your table or seats. Conveyor belt almost instantly shoots your food to your table. Drinks are served by robots rolling around the resturant. A little pricey for the smaller size selections, but definitely an interesting experience.</li></ul>
+	A new <a href="https://ajisaisushisteak.com/">Ajisai Sushi and Steak</a> restraurant has opened very close to the house. Appears to be a national chain. Looks tasty, but expensive.<br><br>
+	If you want to go upscale, we do have our own local <a href="https://www.benihana.com/locations/beaverton/">Benihana</a>. Expensive. Long lead time for reservations, but always an experience and really good food. In very high demand. Even with a reservation, we have waited nearly an hour multiple times for tables to open up.</td>
 </table></div>
 
 <h2 id="Coast"> </h2>
@@ -672,14 +676,18 @@ Many of the Portland and Beaverton sites shown on a single map: <a href="images-
 <p style="text-align: center"><span style="background-color: #FFFF00"><font color="#000000">
 <a href="JavaScript:doExpand(Hwy101Box)">NORTH OREGON COAST - Beaches, Viewpoints and Waysides</a></font></span> <img src="images-general/down-arrow.svg" class="static-icon" /></p>
 
-	<div id="Hwy101Box" style="display: none">
-	Area C - 60-90 miles West of Beaverton
-	<img border="0" src="images-nw/symbol-binos.gif" width="20" height="20"><br><br>
+<div id="Hwy101Box" style="display: none">
+	Area <span class="f1">C</span> - 60-90 miles West of Beaverton <img border="0" src="images-nw/symbol-binos.gif" width="20" height="20"><br><br>
+
 	This list has some overlaps with other site boxes in this coastal section. Driving from Astoria South toward Newport on Hwy 101 (about 100+ miles), there are numerous stop points for breaks, photos or to just hike/look around. All beaches are public property and free access.<br><br>
 	Not all beach accesses and viewpoints are listed. Just the most well known.<br><br>
+
 	Need to pray for good weather. Fog in the Summer is a thing on the Oregon Coast.<br><br>
+
 	<a href="https://www.ytravelblog.com/oregon-coast-road-trip-highway-101/">ytravelblog.com/oregon-coast-road-trip-highway-101</a><br><br>
+
 	<a href="https://www.thetravel.com/things-to-do-in-oregon-coast-complete-guide/">thetravel.com/things-to-do-in-oregon-coast-complete-guide</a><br><br>
+
 	Click on each pic below for a larger version online.<br><br>
 	
 	<hr noshade color="#0000FF" size="4">
@@ -763,7 +771,7 @@ Many of the Portland and Beaverton sites shown on a single map: <a href="images-
 <p style="text-align: center"><span style="background-color: #FFFF00"><font color="#000000">
 <a href="JavaScript:doExpand(LighthouseBox)">OREGON LIGHTHOUSES</a></font></span> <img src="images-general/down-arrow.svg" class="static-icon" /></p>
 
-	<div id="LighthouseBox" style="display: none">
+<div id="LighthouseBox" style="display: none">
 	Area C - 50-200 miles West/Southwest of Beaverton <img border="0" src="images-nw/symbol-binos.gif" width="20" height="20"><br><br>
 	This list has some overlaps with other site boxes in this coastal section.<br><br>
 	Back in the late 90's, we made a week long family trip of casually driving down the coast and visiting all of the Oregon lighthouses taking lots of photos.<br><br>
@@ -1092,7 +1100,7 @@ Former Tillamook Naval Air Station (aka Blimp Base)<br></p>
 		Hidden jewel used book store on the highway down to Newport. Always worth a stop to check out. During random past stops while traveling down the coast, I have found some great books for my collection.<br><br>
 		They have a fairly decent collection of local travel books.<br><br>
 		I think this is the best used bookstore along the Oregon coast.<br><br>
-		Recent newsaper <a href="images-nw/coast-roberts-bookshop.pdf">article</a>.<br><br>
+		Recent newsaper <a href="images-nw/coast-roberts-bookshop.pdf">article</a> (PDF).<br><br>
 		<a href="https://www.google.com/maps/place/Robert's+Bookshop/@44.9757992,-124.1579314,11.17z/data=!4m6!3m5!1s0x54ea8db48c4497b1:0x5ed2eb89dd7a2831!8m2!3d44.9417954!4d-124.0209268!16s/g/1vp6zxvb?hl=en&entry=ttu">Google Maps</a><br></td>
 	<td valign="top" width="50%"><p style="text-align: center"><a href="https://media-cdn.tripadvisor.com/media/photo-s/16/f0/bb/e9/romance-genre-friendly.jpg">
 	<img border="0" src="images-nw/coast-roberts-books.jpg" width="329" height="321"></a></p></td>
@@ -1676,7 +1684,7 @@ Former Tillamook Naval Air Station (aka Blimp Base)<br></p>
 		Be prepared to dress warmly.<br><br>
 		I have read about a few tour boat businesses that will refund the day trip cost if you don't see any orcas that day.<br><br>
 		There are some whale watching partial day trips available on the Oregon Coast. But that is mostly seasonal during the grey whale migrations.<br><br>
-		Comparison <a href="images-nw/wa-car-ferry-vs.whale-watching-boat-tour.pdf">article</a> of whale watching excursions versus the Washington State Ferry System.</td>
+		Comparison <a href="images-nw/wa-car-ferry-vs.whale-watching-boat-tour.pdf">article</a> (PDF) of whale watching excursions versus the Washington State Ferry System.</td>
 		<td valign="top" width="50%"><img border="0" src="images-nw/wa-whale-orca.jpg" width="412" height="331"></td>
 </table></div>
 
@@ -1790,7 +1798,7 @@ Former Tillamook Naval Air Station (aka Blimp Base)<br></p>
 <table width="100%"><td valign="top" width="50%">
 		Area <span class="f2">G</span> - 100 miles NW of Beaverton <img border="0" src="images-nw/boot-print.gif" width="20" height="20"> <img border="0" src="images-nw/symbol-binos.gif" width="20" height="20"><br><br>
 		$30 per vehicle for Summer months. No admission charge with America The Beautiful Park Pass. <img border="0" src="images-nw/symbol-ticket.gif" width="21" height="21"><br><br>
-		National Park Service <a href="https://www.nps.gov/mora/planyourvisit/upload/Mount-Rainier-Brochure-final_Combo_508_v2023.pdf">brochure</a><br><br>
+		National Park Service <a href="https://www.nps.gov/mora/planyourvisit/upload/Mount-Rainier-Brochure-final_Combo_508_v2023.pdf">brochure</a> (PDF)<br><br>
 		This is Mary's old stomping grounds when she was stationed in Washington State in the mid-80s. She can tell stories of various trails and viewpoints.<br><br>
 		<a href="https://www.google.com/maps/place/Mount+Rainier+National+Park/@47.0220579,-126.0614018,6.63z/data=!4m6!3m5!1s0x5490cde6eec94b87:0x5cf4a1fb4f91a418!8m2!3d46.8799663!4d-121.7269094!16zL20vMDFiNHM5?hl=en&entry=ttu">Google Maps</a><br><br></td>
 	<td valign="top" width="50%"><a href="https://upload.wikimedia.org/wikipedia/commons/3/32/Mount_Rainier_from_above_Myrtle_Falls_in_August.JPG"><img border="0" src="images-nw/wa-mt-ranier.jpg" width="440" height="311"></a></td>
@@ -1878,7 +1886,7 @@ Was kind of unsure where to put the Waterfalls dropdown. Finally decided at the 
 <p style="text-align: center"><span style="background-color: #FFFF00"><font color="#000000">
 <a href="JavaScript:doExpand(WaterfallBox)">PACIFIC NORTHWEST WATERFALLS</a></font></span> <img src="images-general/down-arrow.svg" class="static-icon" /></p>
 
-	<div id="WaterfallBox" style="display: none">
+<div id="WaterfallBox" style="display: none">
 	<img border="0" src="images-nw/symbol-binos.gif" width="20" height="20"> <img border="0" src="images-nw/boot-print.gif" width="20" height="20"><br><br>
 	I found a decent book reviewing waterfalls in the Northwest (A Waterfall Lover's Guide to the Pacific Northwest by Gregory Plumb). From this book I culled various waterfalls relatively close to home for possible visits or drive-bys. The list is pretty detailed, but lacks one of my new entries above entered in the above travel boxes (Abiqua Falls).<br><br>
 	<b>Index map to the below waterfalls areas and sites</b><br>
@@ -2047,7 +2055,7 @@ Was kind of unsure where to put the Waterfalls dropdown. Finally decided at the 
 	Refresh browser to collapse this box<br><br>
 	<i>Note: When this box collapses, you might have<br>
 	scroll up some to return to the cursor original location.</i>
-	</div>
+</div>
 
 A few interesting articles... I found these well after putting together this page. Lots of items covered on this web page. But, also includes some new items I have heard about or never heard of...<br>
 
@@ -2068,7 +2076,8 @@ A few interesting articles... I found these well after putting together this pag
 		</ul>
 		Either place will resolve your regret of not making that last minute purchase.
 		<ul>
-			<li>Or just order online</li></ul></td>
+			<li>Or just order online</li>
+		</ul></td>
 	<td valign="top" width="50%">
 	<a href="https://madeinoregon.com/cdn/shop/files/washington_square_location_600x600@2x.jpg"><img border="0" src="images-nw/pdx-madeinoregon-store.JPG" width="440" height="267"></a><br>
 	By chance I saw an interesting wine here made of Marion Berries. Nicely priced and not too bad. Good find.</td>
