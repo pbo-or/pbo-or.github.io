@@ -594,15 +594,15 @@ a:visited		{font-family: Tahoma; font-size: 10pt; text-decoration: none; color: 
 		
 		<span class="black-bold-title">LODGING</span> at Fresno, CA<br>
 		<a href="https://www.expedia.com/Fresno-Hotels-La-Quinta-Inn-Suites-By-Wyndham-Fresno-Northwest.h2964213.Hotel-Information">La Quinta Inn & Suites by Wyndham</a><br>
-		<a href="https://www.expedia.com/Fresno-Hotels-Courtyard-By-Marriott-Fresno.h22335.Hotel-Information">Courtyard by Marriott Fresno</a> (SW of DT)<br>
+		<s><a href="https://www.expedia.com/Fresno-Hotels-Courtyard-By-Marriott-Fresno.h22335.Hotel-Information">Courtyard by Marriott Fresno</a> (SW of DT)<br>
 		<a href="https://www.expedia.com/Fresno-Hotels-Fairfield-Inn-Suites-By-Marriott-Fresno-NorthShaw-Avenue.h32926769.Hotel-Information">Fairfield Inn & Suites by Marriott Frensco N/Shaw Ave</a><br>
-		<a href="https://www.bestwestern.com/en_US/book/hotel-rooms.05687.html">Best Western Plus Fresno Inn</a><br><br>
+		<a href="https://www.bestwestern.com/en_US/book/hotel-rooms.05687.html">Best Western Plus Fresno Inn</a></s><br><br>
 		
 		<span style="background-color: #00FF00"><a href="https://www.nps.gov/seki/index.htm">Sequoia NP, CA</a></span><br><br>
 		<span style="background-color: #00FF00"><a href="https://www.nps.gov/seki/index.htm">Kings Canyon NP, CA</a></span><br><br>
 		
 		<span class="black-bold-title">LODGING</span> at Visilia, CA<br>
-		<a href="https://www.nps.gov/seki/index.htm">Comfort Suites Visalia-Convention Center</a><br>
+		<s><a href="https://www.nps.gov/seki/index.htm">Comfort Suites Visalia-Convention Center</a></s><br>
 		<a href="https://www.ihg.com/holidayinnexpress/hotels/us/en/visalia/visex/hoteldetail">Holiday Inn Express Visalia-Sequoia</a><br>
 		<a href="https://">Hotel</a><br><br>
 		
@@ -619,8 +619,8 @@ a:visited		{font-family: Tahoma; font-size: 10pt; text-decoration: none; color: 
 		Travel to Henderson, NV<br><br>
 		
 		<span class="black-bold-title">LODGING</span> at Henderson, NV<br>
-		<a href="https://www.expedia.com/Las-Vegas-Hotels-Hampton-Inn-Suites-Las-Vegas-South.h1604634.Hotel-Information">Hampton Inn & Suites Las Vegas South</a><br>
-		<a href="https://www.expedia.com/Las-Vegas-Hotels-Residence-Inn-By-Marriott-Las-Vegas-SouthHenderson.h36438391.Hotel-Information">Residence Inn by Marriott Las Vegas South/Henderson</a><br>
+		<s><a href="https://www.expedia.com/Las-Vegas-Hotels-Hampton-Inn-Suites-Las-Vegas-South.h1604634.Hotel-Information">Hampton Inn & Suites Las Vegas South</a><br>
+		<a href="https://www.expedia.com/Las-Vegas-Hotels-Residence-Inn-By-Marriott-Las-Vegas-SouthHenderson.h36438391.Hotel-Information">Residence Inn by Marriott Las Vegas South/Henderson</a></s><br>
 		<a href="https://www.bestwestern.com/en_US/book/hotel-rooms.29088.html">Best Western Plus Las Vegas South</a><br><br>
 		
 		<span style="background-color: #00FF00"><a href="https://www.usbr.gov/lc/hooverdam/">Hoover Dam, CA/NV</a></span><br><br>
@@ -628,28 +628,27 @@ a:visited		{font-family: Tahoma; font-size: 10pt; text-decoration: none; color: 
 		<span style="background-color: #00FF00"><a href="https://www.nps.gov/grca/index.htm">Grand Canyon NP, AZ</a></span><br><br>
 		
 		<span class="black-bold-title">LODGING</span> at Page, NV<br>
-		<a href="https://www.expedia.com/Page-Hotels-Sleep-Inn-Suites-Page-At-Lake-Powell.h10118752.Hotel-Information">Sleep Inn & Suites Page at Lake Powell</a><br>
-		<a href="https://www.expedia.com/Page-Hotels-La-Quinta-Inn-Suites-By-Wyndham-Page-At-Lake-Powell.h15612848.Hotel-Information">La Quinta Inn & Suites by Wyndham Page at Lake Powell</a><br>
+		<s><a href="https://www.expedia.com/Page-Hotels-Sleep-Inn-Suites-Page-At-Lake-Powell.h10118752.Hotel-Information">Sleep Inn & Suites Page at Lake Powell</a><br>
+		<a href="https://www.expedia.com/Page-Hotels-La-Quinta-Inn-Suites-By-Wyndham-Page-At-Lake-Powell.h15612848.Hotel-Information">La Quinta Inn & Suites by Wyndham Page at Lake Powell</a></s><br>
 		<a href="https://www.expedia.com/Page-Hotels-Best-Western-View-Of-Lake-Powell-Hotel.h6422793.Hotel-Information">Best Western View of Lake Powell</a><br><br>
 		
 		<span style="background-color: #00FF00"><a href="https://www.nps.gov/glca/planyourvisit/horseshoe-bend.htm">Horseshoe Bend, AZ</a></span><br><br>
-		<span style="background-color: #00FF00"><a href="https://wereintherockies.com/antelope-canyon/">Antelope Canyon, AZ</a></span><br>
+		<span style="background-color: #00FF00"><a href="https://www.antelopecanyon.com/">Antelope Canyon Tours, AZ</a></span><br>
 		<span style="background-color: #00FF00"><a href="https://www.viator.com/Arizona-tourism/d271-r21198254531-s258477611">Antelope Canyon</a></span> Tickets and Tours<br><br>
 		<span style="background-color: #00FF00"><a href="https://www.utah.com/destinations/recreation-areas/lake-powell/visitor-information/glen-canyon-dam-visitor-center/">Glen Canyon Dam, UT</a></span><br><br>
 		
-		<span class="black-bold-title">LODGING</span> at Page, NV (above)<br><br>
+		<span class="black-bold-title">LODGING</span> at Springdale UT<br>
+		<a href="https://www.hyatt.com/hyatt-place/en-US/sguzz-hyatt-place-springdale-zion-national-park">Hyatt Place Springdale/Zion</a><br><br>
 		
 		<span style="background-color: #00FF00"><a href="https://www.nps.gov/zion/index.htm">Zion NP, UT</a> (initial)</span><br>
 		<a href="https://ourwanders.com/a-national-park-still-not-famous-enough-zion-utah/">7 Amazing Things To Do In Zion NP</a><br>
 		<a href="https://thefrugalgirls.com/2015/03/zion-national-park-travel-tips.html">30 Zion NP Travel Tips</a><br>
 		<a href="https://www.thetravel.com/skip-zion-and-arches-utah-state-parks-hikers-are-flocking-to-instead/">Skip Zion And Arches: 10 Utah State Parks Hikers Are Flocking To Instead</a><br><br>
 		
-		<span class="black-bold-title">LODGING</span> at Cedar City, UT *<br>
-		<span style="background-color: #FF7900">Consider 1st Zion night at: </span><a href="https://www.hyatt.com/hyatt-place/en-US/sguzz-
-		hyatt-place-springdale-zion-national-park">Hyatt Place Springdale/Zion</a><br>
+		<span class="black-bold-title">LODGING</span> at Cedar City, UT<br>
 		<a href="https://bigyellowinn.com/">Big Yellow Inn</a> 234 S 300W<br>
-		<a href="https://www.expedia.com/Cedar-City-Hotels-Abbey-Inn.h1608236.Hotel-Information">Abbey Inn</a><br>
-		<a href="https://www.expedia.com/Cedar-City-Hotels-Holiday-Inn-Express-Suites-Cedar-City.h1113166.Hotel-Information">Holiday Inn Express & Suites Cedar City</a><br><br>
+		<s><a href="https://www.expedia.com/Cedar-City-Hotels-Abbey-Inn.h1608236.Hotel-Information">Abbey Inn</a><br>
+		<a href="https://www.expedia.com/Cedar-City-Hotels-Holiday-Inn-Express-Suites-Cedar-City.h1113166.Hotel-Information">Holiday Inn Express & Suites Cedar City</a></s><br><br>
 
 		<span style="background-color: #00FF00"><a href="https://www.nps.gov/zion/index.htm">Zion (& Kobol Canyons) NP, UT</a></span> (continued)<br><br>
 		
@@ -660,8 +659,8 @@ a:visited		{font-family: Tahoma; font-size: 10pt; text-decoration: none; color: 
 		<span style="background-color: #00FF00"><a href="https://www.nps.gov/care/index.htm">Capitol Reef NP, UT</a></span><br><br>
 		
 		<span class="black-bold-title">LODGING</span> at Green River, UT<br>
-		<a href="https://www.ihg.com/holidayinnexpress/hotels/us/en/green-river/rvrgr/hoteldetail">Holiday Inn Express & Suites Green River</a><br>
-		<a href="https://www.expedia.com/Green-River-Hotels-First-Choice-Inns-At-The-Swell.h29851009.Hotel-Information">First Choice Inns At the Swell</a><br>
+		<s><a href="https://www.ihg.com/holidayinnexpress/hotels/us/en/green-river/rvrgr/hoteldetail">Holiday Inn Express & Suites Green River</a><br>
+		<a href="https://www.expedia.com/Green-River-Hotels-First-Choice-Inns-At-The-Swell.h29851009.Hotel-Information">First Choice Inns At the Swell</a></s><br>
 		<a href="https://www.expedia.com/Moab-Hotels-Comfort-Inn-Green-River-National-Park-Area.h16389.Hotel-Information">Comfort Inn Green River National Park Area</a><br><br>
 		
 		<span style="background-color: #00FF00"><a href="https://www.nps.gov/arch/index.htm">Arches NP, UT</a></span><br>
@@ -830,15 +829,16 @@ a:visited		{font-family: Tahoma; font-size: 10pt; text-decoration: none; color: 
 	IcelandAir <a href="https://www.icelandair.com/support/on-board/classes-of-service/">Fare types</a><br>
 	IcelandAir <a href="https://www.icelandair.com/support/terms-and-conditions/optional-service-and-fees/">Optional fees and services</a><br>
 	Cruise: <a href="https://www.thestreet.com/travel">ComeCruiseWithMe</a><br><br>
-	<a href="https://www.huffpost.com/entry/slow-travel-might-be-the-key-to-a-better-vacation-heres-what-it-is-goog_l_67c091d0e4b08e33534cd2b7">Slow Travel Might Be The Key To A Better Vacation</a><br>
-	<a href="https://www.makeuseof.com/prepare-phone-for-an-international-trip/">How I Prepare My Phone for an International Trip</a><br>
-	<a href="https://farandwide.com/s/50-years-of-travel-tips/">50 Years of Travel Tips</a><br>
-	<a href="https://www.gobankingrates.com/saving-money/travel/travel-items-retirees-should-always-pack-vacation-save-money/">9 Travel Items Retirees Should Always Pack on Vacation To Save Money</a><br>
-	<a href="https://www.xda-developers.com/tech-tools-every-traveler-needs-next-adventure/">8 tech tools every traveler needs on their next adventure</a><br>
-	<a href="https://www.buzzfeed.com/jenae_sitzes/ways-to-pack-light-for-international-trips-an">42 Ways To Pack Light.. For An International Trip</a><br>
+	<a href="https://www.thetravel.com/6-new-rules-for-americans-traveling-to-europe/">6 New Rules For Americans Traveling To Europe</a><br>
 	<a href="https://www.themanual.com/travel/travel-tips-for-packing/">7 travel tips for packing I swear by</a><br>
-	<a href="https://www.themanual.com/travel/european-travel-information-and-authorization-system-increased-price/">By 2026, you'll need this $23 travel document to visit most of Europe</a><br>
+	<a href="https://www.xda-developers.com/tech-tools-every-traveler-needs-next-adventure/">8 tech tools every traveler needs on their next adventure</a><br>
 	<a href="https://www.housebeautiful.com/lifestyle/organizing-tips/a69802647/post-vacation-home-reset-tips/">8 Things Experts Say You Should Do IMMEDIATELY When You Get Home From a Trip</a><br><br>
+	<a href="https://www.gobankingrates.com/saving-money/travel/travel-items-retirees-should-always-pack-vacation-save-money/">9 Travel Items Retirees Should Always Pack on Vacation To Save Money</a><br>
+	<a href="https://www.buzzfeed.com/jenae_sitzes/ways-to-pack-light-for-international-trips-an">42 Ways To Pack Light.. For An International Trip</a><br>
+	<a href="https://farandwide.com/s/50-years-of-travel-tips/">50 Years of Travel Tips</a><br>
+	<a href="https://www.themanual.com/travel/european-travel-information-and-authorization-system-increased-price/">By 2026, you'll need this $23 travel document to visit most of Europe</a><br>
+	<a href="https://www.makeuseof.com/prepare-phone-for-an-international-trip/">How I Prepare My Phone for an International Trip</a><br>
+	<a href="https://www.huffpost.com/entry/slow-travel-might-be-the-key-to-a-better-vacation-heres-what-it-is-goog_l_67c091d0e4b08e33534cd2b7">Slow Travel Might Be The Key To A Better Vacation</a><br>
 		
 	<a href="https://www.XXXXXX.com">XXXXXX</a><br><br></td>
 </tr></tbody></table></div>
@@ -1542,7 +1542,9 @@ Flamingo sings &quot;Go Your Own Way&quot; by Fleetwood Mac | THE MASKED SINGER 
 <a href="https://www.howtogeek.com/rebooting-your-router-doesnt-fix-your-wi-fi-but-these-things-will/">I stopped rebooting my router to fix Wi-Fi, and these 7 tricks worked instead</a><br>
 <a href="https://www.makeuseof.com/the-hash-symbol-in-excel/">There are only 3 things you should use your TV's USB port for</a><br>
 <a href="https://www.pocket-lint.com/only-three-things-you-should-use-your-tvs-usb-port-for/">Excel's # symbol looks like a typo - it's actually one of the most useful things in the app</a><br>
-<a href="https://www.fastcompany.com/91547553/youtube-no-ads-free">This official Google workaround gives you ad-free YouTube anytime</a><br><br>
+<a href="https://www.fastcompany.com/91547553/youtube-no-ads-free">This official Google workaround gives you ad-free YouTube anytime</a><br>
+<a href="https://www.makeuseof.com/open-source-file-converter/">This open-source file converter supports way more formats than you think</a><br><br>
+
 <a href="https://www.pcworld.com/article/2799680/i-turned-a-browser-tab-into-a-handy-notepad-its-easy.html">Browser tab into a handy notepad</a><br>
 Paste to address bar:  "<b>data:text/html, &lt;html contenteditable&gt;</b>" (without quotes)<br><br>
 
