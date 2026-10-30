@@ -12,8 +12,9 @@
 
 <style type="text/css">
 <!--
-body			{margin-left: auto; margin-right: auto; font-family: Tahoma; font-size: 10pt; text-align: left; margin: 0; 
-				padding: 25; background-color: #ffffff; background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100' height='100' viewBox='0 0 100 100'%3E%3Cg fill-rule='evenodd'%3E%3Cg fill='%239C92AC' fill-opacity='0.4'%3E%3Cpath opacity='.5' d='M96 95h4v1h-4v4h-1v-4h-9v4h-1v-4h-9v4h-1v-4h-9v4h-1v-4h-9v4h-1v-4h-9v4h-1v-4h-9v4h-1v-4h-9v4h-1v-4h-9v4h-1v-4H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15V0h1v15h9V0h1v15h9V0h1v15h9V0h1v15h9V0h1v15h9V0h1v15h9V0h1v15h9V0h1v15h9V0h1v15h4v1h-4v9h4v1h-4v9h4v1h-4v9h4v1h-4v9h4v1h-4v9h4v1h-4v9h4v1h-4v9h4v1h-4v9zm-1 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-9-10h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm9-10v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-9-10h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm9-10v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-9-10h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm9-10v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-9-10h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9z'/%3E%3Cpath d='M6 5V0H5v5H0v1h5v94h1V6h94V5H6z'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E"); }
+body			{margin-left: auto; margin-right: auto; font-family: Tahoma; font-size: 10pt; 
+				text-align: left; margin: 0; padding: 25; background-color: #ffffff; 
+				background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100' height='100' viewBox='0 0 100 100'%3E%3Cg fill-rule='evenodd'%3E%3Cg fill='%239C92AC' fill-opacity='0.4'%3E%3Cpath opacity='.5' d='M96 95h4v1h-4v4h-1v-4h-9v4h-1v-4h-9v4h-1v-4h-9v4h-1v-4h-9v4h-1v-4h-9v4h-1v-4h-9v4h-1v-4h-9v4h-1v-4h-9v4h-1v-4H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15V0h1v15h9V0h1v15h9V0h1v15h9V0h1v15h9V0h1v15h9V0h1v15h9V0h1v15h9V0h1v15h9V0h1v15h4v1h-4v9h4v1h-4v9h4v1h-4v9h4v1h-4v9h4v1h-4v9h4v1h-4v9h4v1h-4v9h4v1h-4v9zm-1 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-9-10h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm9-10v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-9-10h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm9-10v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-9-10h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm9-10v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-9-10h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9z'/%3E%3Cpath d='M6 5V0H5v5H0v1h5v94h1V6h94V5H6z'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E"); }
 
 a				{font-family: Tahoma; font-size: 10pt; }
 
@@ -41,14 +42,21 @@ a:visited		{font-family: Tahoma; font-size: 10pt; color: #0000FF; text-decoratio
 #NPROADTRIPBox	{border-radius: 8px; margin-left: auto; margin-right: auto; text-align: left; 
 				border: 1px solid #0066FF; padding: 4px; width: 768px; height: auto; }
 
+#TEST1Box		{border-radius: 8px; margin-left: auto; margin-right: auto; text-align: left; 
+				border: 1px solid #0066FF; padding: 4px; width: 768px; height: auto; }
+
+#TEST2Box		{border-radius: 8px; margin-left: auto; margin-right: auto; text-align: left; 
+				border: 1px solid #0066FF; padding: 4px; width: 768px; height: auto; }
 
 .site-header-txt	{text-align: center; font-size: 12pt; font-weight: bold; }
 
+.night-txt	{background-color: #c1c1c1; color: black; font-weight: bold; }
+
 .static-icon {width: 12px; height: 12px; }
 
-.f1 			{font-size: 14pt; font-weight: bold; color: red; }
+.f1 			{font-size: 10pt; font-weight: bold; color: red; }
 
-.f2				{font-size: 11pt; font-weight: bold; color: red; }
+.f2				{font-size: 10pt; font-weight: bold; color: red; }
 -->
 </style>
 
@@ -60,7 +68,7 @@ background-image: url('images-general/grid-standard.gif');
 <div id="Content">
 <p style="text-align: center"><span class="site-header-txt">Future Vacation Trips</span><br><br>
 
-Last update: October 28, 2026</p><br>
+Last update: October 30, 2026</p><br>
 
 <i>Each link below opens in a new browser window. To avoid filling up your memory capacity and slowing down your computer. I would recommend closing the photo browser window before moving onto the next photo ("<b>Control + W</b>" often saves time instead of using a mouse to close each browser photo). On a tablet or phone, in the browser, just click the Back button.</i><br><br><br>
 
@@ -79,24 +87,24 @@ Last update: October 28, 2026</p><br>
 <span style="background-color: #FFFF00">[Day #01]</span> <a href="https://www.britishairways.com/travel/home/public/en_us/">British Airways</a> flight departure from PDX<br>
 
 <blockquote>
-	<font color="#FFFFFF"><span style="font-weight: 700; background-color: #000000">Travel thru the night</span></font><br>
+	<span class="night-txt">Travel thru the night</span><br>
 </blockquote>
 
 <span style="background-color: #FFFF00">[Day #02]</span> Arrive Heathrow. Connecting flight to Glasgow.<br>
 
 <blockquote>
 	Arrival and transition day.<br>
-	<font color="#FFFFFF"><span style="font-weight: 700; background-color: #000000">A pre-night in Glasgow</span></font><br>
+	<span class="night-txt">A pre-night in Glasgow</span><br>
 </blockquote>
 
-[Days #03-13] Small group tour of Scotland with CEI<br>
+[Days #03-14] Small group tour of Scotland with CEI<br>
 
 <blockquote>
 	<span style="background-color: #FFFF00">[Day #03]</span> Glasgow<br>
 
 	<ul>
-		<li>1st day afternoon Walking Tour of <a href="https://www.visitglasgow.com/media/vf0b5ywz/top-10-reasons-to-visit-glasgow-header-george-square.jpg?width=1200&height=630&v=1dc4a47d2edb740" target="_blank" rel="noopener noreferrer">Glasgow</a></li>
-		<li><font color="#FFFFFF"><span style="font-weight: 700; background-color: #000000">Night in Glasgow</span></font></li>
+		<li>1st day afternoon walking Tour of <a href="https://www.visitglasgow.com/media/vf0b5ywz/top-10-reasons-to-visit-glasgow-header-george-square.jpg?width=1200&height=630&v=1dc4a47d2edb740" target="_blank" rel="noopener noreferrer">Glasgow</a></li>
+		<li><span class="night-txt">Night in Glasgow</span></li>
 	</ul>
 
 	<span style="background-color: #FFFF00">[Day #04]</span> Glasgow<br>
@@ -104,7 +112,7 @@ Last update: October 28, 2026</p><br>
 	<ul>
 		<li><a href="https://wandereroftheworld.co.uk/wp-content/uploads/2017/12/Dunnottar_Castle_-_Aberdeenshire_Coastal_Trail-1024x768.jpg" target="_blank" rel="noopener noreferrer">Isle of Bute</a> [<a href="https://en.wikipedia.org/wiki/Isle_of_Bute" target="_blank" rel="noopener noreferrer">info</a>], Town of <a href="https://www.adventuresaroundscotland.com/uploads/2/4/2/9/24290443/rothesay-castle-isle-of-bute-01_orig.jpeg" target="_blank" rel="noopener noreferrer">Rothesay</a></li>
 		<li><a href="https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Mount_Stuart_House_2018-08-25.jpg/1280px-Mount_Stuart_House_2018-08-25.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail" target="_blank" rel="noopener noreferrer">Mount Stuart House</a> [<a href="https://en.wikipedia.org/wiki/Mount_Stuart_House" target="_blank" rel="noopener noreferrer">info</a>]</li>
-		<li><font color="#FFFFFF"><span style="font-weight: 700; background-color: #000000">Night in Glasgow</span></font></li>
+		<li><span class="night-txt">Night in Glasgow</span></li>
 	</ul>
 
 	<span style="background-color: #FFFF00">[Day #05]</span> Travel to Kyle of Lochlash<br>
@@ -112,7 +120,7 @@ Last update: October 28, 2026</p><br>
 	<ul>
 		<li><a href="https://cdn.getyourguide.com/image/format=auto%2Cfit=crop%2Cgravity=auto%2Cquality=60%2Cwidth=400%2Cheight=265%2Cdpr=2/tour_img/0de5d87ae312a97bb554e8e229f486e6cdb76148cd508620bcc648990b94ec75.jpg" target="_blank" rel="noopener noreferrer">Loch Lomond</a> [<a href="https://en.wikipedia.org/wiki/Loch_Lomond" target="_blank" rel="noopener noreferrer">info</a>]</li>
 		<li><a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8q6bFN7SUYkkPMhHgvnbhoqVC5DrxHRQAAH2FGKMDSR8J8i6euZngAtEF&s=10" target="_blank" rel="noopener noreferrer">Eilean Donan Castle</a> [<a href="https://en.wikipedia.org/wiki/Eilean_Donan_Castle" target="_blank" rel="noopener noreferrer">info</a>]</li>
-		<li><font color="#FFFFFF"><span style="font-weight: 700; background-color: #000000">Night in Kyle of Lacklash</span></font></li>
+		<li><span class="night-txt">Night in Kyle of Lacklash</span></li>
 	</ul>
 	 
 	<span style="background-color: #FFFF00">[Day #06]</span> <a href="https://images.squarespace-cdn.com/content/v1/5feb5db26957d76ea855afa7/1692083539030-JJ2R20FTX7V04MDCGHOO/kyle-of-lochalsh-guide-eilean-donan-castle-scotland.jpg" target="_blank" rel="noopener noreferrer">Kyle of Lochlash</a> [<a href="https://en.wikipedia.org/wiki/Kyle_of_Lochalsh" target="_blank" rel="noopener noreferrer">info</a>]<br>
@@ -121,7 +129,7 @@ Last update: October 28, 2026</p><br>
 		<li><a href="https://aboveusonlyskies.com/wp-content/uploads/2025/02/Old-Man-Of-Storr-Skye-Scotland.webp" target="_blank" rel="noopener noreferrer">The Isle of Skye</a></li>
 		<li><a href="https://www.ambaile.org.uk/fe-cdn/highlifehighland/previews/99/29616/0cb309f35faf667de082db3b2c8f706f/5/7944306871d9081b935d09b77b8f4b50/29616.jpg" target="_blank" rel="noopener noreferrer">Dunvegan Castle</a> [<a href="https://en.wikipedia.org/wiki/Dunvegan_Castle" target="_blank" rel="noopener noreferrer">info</a>]</li>
 		<li><a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNFLlbLvM4ysR7P96EvF2JecHh4LKdLZHCpqH1MPEbM76SYHk0u24kd-RF&s=10" target="_blank" rel="noopener noreferrer">Portree</a> [<a href="https://en.wikipedia.org/wiki/Portree" target="_blank" rel="noopener noreferrer">info</a>]</li>
-		<li><font color="#FFFFFF"><span style="font-weight: 700; background-color: #000000">Night in Kyle of Lochlash</span></font></li>
+		<li><span class="night-txt">Night in Kyle of Lochlash</span></li>
 	
 	</ul>
 	
@@ -130,7 +138,7 @@ Last update: October 28, 2026</p><br>
 	<ul>
 		<li><a href="https://i0.wp.com/www.anglotopia.net/wp-content/uploads/2015/07/inverewe_garden_1124_jpg_original.jpg" target="_blank" rel="noopener noreferrer">Inerewe Garden</a> [<a href="https://en.wikipedia.org/wiki/Inverewe_Garden" target="_blank" rel="noopener noreferrer">info</a>]</li>
 		 <li><a href="https://static.wixstatic.com/media/27e765_13944a01d7e242efb9d7625fe7b39f89~mv2.jpg/v1/fill/w_1000,h_562,al_c,q_85,usm_0.66_1.00_0.01/27e765_13944a01d7e242efb9d7625fe7b39f89~mv2.jpg" target="_blank" rel="noopener noreferrer">Gairloch</a> [<a href="https://en.wikipedia.org/wiki/Gairloch" target="_blank" rel="noopener noreferrer">info</a>]</li>
-		 <li><font color="#FFFFFF"><span style="font-weight: 700; background-color: #000000">Night in Gairloch</span></font></li>
+		 <li><span class="night-txt">Night in Gairloch</span></li>
 	</ul>
 
 	<span style="background-color: #FFFF00">[Day #08]</span> Travel to Kirkwall<br>
@@ -139,7 +147,7 @@ Last update: October 28, 2026</p><br>
 		<li><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjdhaNXeE89nj9L_2zOROzqykEGOKFnnajGzP8mQ7zgdp0461onxtz4LZdtEn0C3yMbLySIux8oh8gtU0qTFO4NSu8d60g5KSm6JPt7MW3V9ZWmVJvCVoKleGuGbvRQQavQ-thNzBbNsM/s1600/2003+%25282019+0615+800%2529+%2528Internet%2529+Ullapool.jpg" target="_blank" rel="noopener noreferrer">Ullapool</a> [<a href="https://en.wikipedia.org/wiki/Ullapool" target="_blank" rel="noopener noreferrer">info</a>]</li>
 		<li><a href="https://upload.wikimedia.org/wikipedia/commons/b/be/Le_pont_de_Kylesku.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" target="_blank" rel="noopener noreferrer">Kylesku</a></li>
 		<li>Ferry to Kirkwall</li>
-		<li><font color="#FFFFFF"><span style="font-weight: 700; background-color: #000000">Night in Kirkwall</span></font></li>
+		<li><span class="night-txt">Night in Kirkwall</span></li>
 	</ul>
 
 	<span style="background-color: #FFFF00">[Day #09]</span> <a href="https://a0.muscache.com/im/pictures/INTERNAL/INTERNAL-ImageByPlaceId-ChIJGwS8KR7-mkgR6OhpT5NnI_I-large_background/original/d4d89b33-f434-45e3-b4cf-30018f0b31f5.jpeg" target="_blank" rel="noopener noreferrer">Kirkwall</a> [<a href="https://en.wikipedia.org/wiki/Kirkwall" target="_blank" rel="noopener noreferrer">info</a>] including:<br>
@@ -149,7 +157,7 @@ Last update: October 28, 2026</p><br>
 		<li><a href="https://cdn.eagle-eye.com/wp-content/uploads/2023/03/Ring-Brodgar-dreamstime.jpg" target="_blank" rel="noopener noreferrer">Ring of Brodgar</a> [<a href="https://en.wikipedia.org/wiki/Ring_of_Brodgar" target="_blank" rel="noopener noreferrer">info</a>]</li>
 		<li><a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwoYU-Qkvc_hAi2OFBtRdrrsmOivZRTcxAyzUpK_652rqjWZUkhnKCjk0&s=10" target="_blank" rel="noopener noreferrer">Skara Brea</a> [<a href="https://www.orkney.com/listings/skara-brae-skaill-house" target="_blank" rel="noopener noreferrer">info</a>]</li>
 		<li><a href="https://thehazeltree.co.uk/wp-content/uploads/2023/11/St-Magnus-1-15-683x1024.jpg" target="_blank" rel="noopener noreferrer">St Magnus Cathedral</a> [<a href="https://www.stmagnus.org/" target="_blank" rel="noopener noreferrer">info</a>]</li>
-		<li><font color="#FFFFFF"><span style="font-weight: 700; background-color: #000000">Night in Kirkwall</span></font></li>
+		<li><span class="night-txt">Night in Kirkwall</span></li>
 	</ul>
 
 <span style="background-color: #FFFF00">[Day #10]</span> Travel to Strathpeffer<br>
@@ -160,7 +168,7 @@ Last update: October 28, 2026</p><br>
 			<span style="text-align: left">During World War II, Italian prisoners of war on Orkey Islands built this <a href="https://www.northlinkferries.co.uk/wp-content/uploads/2024/11/The-Italian-Chapel-in-Orkney.jpg" target="_blank" rel="noopener noreferrer">chapel</a>. Has become an attraction [<a href="https://www.orkney.com/listings/the-italian-chapel" target="_blank" rel="noopener noreferrer">info</a>].<br></span>
 		</div><br></li>
 		<li><a href="https://www.thecastlesofscotland.co.uk/s/cc_images/teaserbox_2483664623.jpg?t=1568033592" target="_blank" rel="noopener noreferrer">Dunrobin Castle</a> [<a href="https://www.thecastlesofscotland.co.uk/the-castles/dunrobin-castle/" target="_blank" rel="noopener noreferrer">info</a>]</li>
-		<li><font color="#FFFFFF"><span style="font-weight: 700; background-color: #000000">Night in Strathpeffer</span></font></li>
+		<li><span class="night-txt">Night in Strathpeffer</span></li>
 	</ul>
 	
 	<span style="background-color: #FFFF00">[Day #11]</span> Travel to Crieff<br>
@@ -172,21 +180,21 @@ Last update: October 28, 2026</p><br>
 			<span style="text-align: left">This <a href="https://www.invernesscitysuites.com/wp-content/uploads/2021/07/culloden-battlefield2.jpg" target="_blank" rel="noopener noreferrer">site</a> of the Battle of Culloden in 1746, where the Jacobite cause was decisively defeated. This is an integral part of the Outlander TV series. [<a href="https://www.nts.org.uk/visit/places/culloden" target="_blank" rel="noopener noreferrer">info</a>]<br></span>
 		</div></li>
 		<li>Sheep farm (<a href="https://live.staticflickr.com/5792/21564692426_c3d8d28acc_b.jpg" target="_blank" rel="noopener noreferrer">sheepgdogs demonstation</a>)</li>
-		<li><font color="#FFFFFF"><span style="font-weight: 700; background-color: #000000">Night in Crieff</span></font></li>
+		<li><span class="night-txt">Night in Crieff</span></li>
 	</ul>
 		
 	<span style="background-color: #FFFF00">[Day #12]</span> <a href="https://files.holidaycottages.co.uk/assets/images/towns/Crieff%20Castle%20SSP%2001.jpg" target="_blank" rel="noopener noreferrer">Crieff</a> [<a href="https://en.wikipedia.org/wiki/Crieff" target="_blank" rel="noopener noreferrer">info</a>]
 	
 	<ul>
 		<li><a href="https://d1km7u9ubck4j.cloudfront.net/production-upgrade-2024/fcf059b3a04a642eca4c21bd3fa5e9e3/conversions/5e85c38812fe7-HD.jpg" target="_blank" rel="noopener noreferrer">Whiskey Distillery Tour</a> & <a href="https://www.scandinavianabroad.com/wp-content/uploads/2022/03/DSC_1303-1024x683.jpg" target="_blank" rel="noopener noreferrer">Tasting</a></li>
-		<li><font color="#FFFFFF"><span style="font-weight: 700; background-color: #000000">Night in Edinburgh</span></font></li>
+		<li><span class="night-txt">Night in Edinburgh</span></li>
 	</ul>
 	
 	<span style="background-color: #FFFF00">[Day #13]</span> <a href="https://littlelamberton.co.uk/uploads/0000005749/website/1000/Edinburgh.jpg" target="_blank" rel="noopener noreferrer">Edinburgh</a><br>
 
 	<ul>
-		<li>Panoramic Tour: <a href="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/ff/32/2a/edinburgh-castle.jpg?w=500&h=500&s=1" target="_blank" rel="noopener noreferrer">Edinburgh Castle</a>, the <a href="https://blog.edinburghcastle.scot/wp-content/uploads/2023/11/008-000-091-967-R-1024x683.jpg" target="_blank" rel="noopener noreferrer">Scottish Crown Jewels</a>, the <a href="https://ewh.org.uk/wp-content/uploads/2023/11/Royal-Mile.png" target="_blank" rel="noopener noreferrer">Royal Mile</a></li>
-		<li><font color="#FFFFFF"><span style="font-weight: 700; background-color: #000000">Night in Edinburgh</span></font></li>
+		<li>Panoramic Tour: <a href="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/ff/32/2a/edinburgh-castle.jpg?w=500&h=500&s=1" target="_blank" rel="noopener noreferrer">Edinburgh Castle</a>, <a href="https://blog.edinburghcastle.scot/wp-content/uploads/2023/11/008-000-091-967-R-1024x683.jpg" target="_blank" rel="noopener noreferrer">Scottish Crown Jewels</a>, <a href="https://ewh.org.uk/wp-content/uploads/2023/11/Royal-Mile.png" target="_blank" rel="noopener noreferrer">Royal Mile</a></li>
+		<li><span class="night-txt">Night in Edinburgh</span></li>
 	</ul>
 
 <span style="background-color: #FFFF00">[Day #14]</span> Edinburgh
@@ -197,13 +205,14 @@ Last update: October 28, 2026</p><br>
 	<div id="YACHTBox" style="display: none">
 		<span style="text-align: left">Over the years I have heard glowing comments about Queen Elizabeth's yacht. Per a few lists, this is the #1 tourist attraction in the world. This turned into a must to <a href="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/33/b0/90/exterior-of-the-royal.jpg?w=900&h=500&s=1" target="_blank" rel="noopener noreferrer">visit</a> [<a href="https://www.royalyachtbritannia.co.uk/visit/" target="_blank" rel="noopener noreferrer">info</a>].</span>
 	</div><br>
-	<font color="#FFFFFF"><span style="font-weight: 700; background-color: #000000">Extra night in Edinburgh</span></font><br>
+	<span class="night-txt">Extra night in Edinburgh</span><br>
+</blockquote>
 </blockquote>
 
 <span style="background-color: #FFFF00">[Day #15]</span> <a href="https://www.splitmyfare.co.uk/wp-content/uploads/2023/06/east-coast-main-line-map.jpg" target="_blank" rel="noopener noreferrer">Train from Edinburgh to London</a> (360 miles/5+ hours) [<span style="color: #0000FF; font-weight: bold; font-size: xx-large; word-spacing: 0.01em">&nbsp;- - - - -&nbsp;</span>]<br>
 
 <blockquote>
-	<font color="#FFFFFF"><span style="font-weight: 700; background-color: #000000">6 nights</span></font> at <a href="https://cf.bstatic.com/xdata/images/hotel/max1024x768/74766985.jpg?k=7d96ad7dffa2f68a502380fe85832c64217be44d810cbd905268a9857250d585&o=" target="_blank" rel="noopener noreferrer">The Grand at Trafalgar Square</a> in London<br>
+	<span class="night-txt">6 nights</span> at <a href="https://cf.bstatic.com/xdata/images/hotel/max1024x768/74766985.jpg?k=7d96ad7dffa2f68a502380fe85832c64217be44d810cbd905268a9857250d585&o=" target="_blank" rel="noopener noreferrer">The Grand at Trafalgar Square</a> in London<br>
 </blockquote>
 
 <span style="background-color: #FFFF00">[Day #16]</span> London Introduction including:<br>
@@ -256,43 +265,44 @@ Last update: October 28, 2026</p><br>
 
 <span style="background-color: #FFFF00">[Day #20]</span> <a href="https://www.p.city-walks.info/London/British-Museum.jpg" target="_blank" rel="noopener noreferrer">British Museum</a> (walking) [<a href="https://en.wikipedia.org/wiki/British_Museum" target="_blank" rel="noopener noreferrer">info</a>]<br><br>
 
-<span style="background-color: #FFFF00">[Day #21]</span> Flight departure from Heathrow to PDX<br><br>
+<span style="background-color: #FFFF00">[Day #21]</span> Return flight from Heathrow to PDX<br><br>
 
 <p><img border="0" src="/images-vac/flag-scotland.jpg" width="150" height="100" style="border: 0px solid black; box-shadow: 8px 8px 12px #999">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img border="0" src="/images-vac/flag-england.jpg" width="150" height="100" style="border: 0px solid black; box-shadow: 8px 8px 12px #999"></p><br>
 
 <!--  -->
 
-<hr size="4" noshade color="#0000FF"><br><br><br>
+<hr size="4" noshade color="#0000FF"><br><br>
 
 
 
 
-<font color="#0000FF"><a href="JavaScript:doExpand(NPROADTRIPpBox)">National Parks Road Trip (CA, AZ, UT)</a></font>
+
+<font color="#0000FF"><a href="JavaScript:doExpand(NPROADTRIPpBox)">National Parks Road Trip (CA, AZ, UT)</a> <img src="images-general/down-arrow.svg" class="static-icon" /></font>
 <div id="NPROADTRIPpBox" style="display: none">
 	<span style="text-align: left"><p style="text-align: center"><img border="0" src="images-vac/map-roadtrip.jpg" width="773" height="525" style="border: 0px solid black; box-shadow: 8px 8px 12px #999"></p><br>
 
-	<span style="background-color: #FFFF00">[Day #1]</span> Fly to Sacramento, CA. Rent car. <a href="https://www.nps.gov/yose/index.htm" target="_blank" rel="noopener noreferrer">Yosemite NP</a>.<br>
+	<span style="background-color: #FFFF00">[Day #1]</span> <a href="https://www.alaskaair.com/">Alaska Airlines</a> Fly from PDX to Sacramento, CA. Rent car. <a href="https://www.nps.gov/yose/index.htm" target="_blank" rel="noopener noreferrer">Yosemite NP</a>.<br>
 		
 	<blockquote>
-		<font color="#FFFFFF"><span style="font-weight: 700; background-color: #000000">Night in Fresno</span></font><br>
+		<span class="night-txt">Night in Fresno</span><br>
 	</blockquote>
 				
 	<span style="background-color: #FFFF00">[Day #2]</span> Kings Canyon NP and <a href="https://www.nps.gov/seki/index.htm" target="_blank" rel="noopener noreferrer">Sequoia NP</a><br>
 		
 	<blockquote>
-		<font color="#FFFFFF"><span style="font-weight: 700; background-color: #000000">Night in Visalia</span></font><br>
+		<span class="night-txt">Night in Visalia</span><br>
 	</blockquote>
 		
 	<span style="background-color: #FFFF00">[Day #3]</span> <a href="https://www.nps.gov/pinn/index.htm" target="_blank" rel="noopener noreferrer">Pinnacles NP</a><br>
 		
 	<blockquote>
-		<font color="#FFFFFF"><span style="font-weight: 700; background-color: #000000">Night in San Luis Obispo</span></font><br>
+		<span class="night-txt">Night in San Luis Obispo</span><br>
 	</blockquote>
 		
 	<span style="background-color: #FFFF00">[Day #4]</span> San Luis Obispo<br>
 		
 	<blockquote>
-		<font color="#FFFFFF"><span style="font-weight: 700; background-color: #000000">Night in San Luis Obispo</span></font><br>
+		<span class="night-txt">Night in San Luis Obispo</span><br>
 	</blockquote>
 
 	<span style="background-color: #FFFF00">[Day #5]</span> Travel to Henderson, NV through the 
@@ -302,60 +312,61 @@ Last update: October 28, 2026</p><br>
 		</div><br>
 		
 	<blockquote>
-		<font color="#FFFFFF"><span style="font-weight: 700; background-color: #000000">Night in Henderson, NV</span></font><br>
+		<span class="night-txt">Night in Henderson, NV</span><br>
 	</blockquote>
 		
 	<span style="background-color: #FFFF00">[Day #6]</span> <a href="https://www.usbr.gov/lc/hooverdam/" target="_blank" rel="noopener noreferrer">Hoover Dam</a>, <a href="https://www.nps.gov/grca/index.htm" target="_blank" rel="noopener noreferrer">Grand Canyon South Rim</a><br>
 		
 	<blockquote>
-		<font color="#FFFFFF"><span style="font-weight: 700; background-color: #000000">Night in Page, AZ</span></font><br>
+		<span class="night-txt">Night in Page, AZ</span><br>
 	</blockquote>
 
 	<span style="background-color: #FFFF00">[Day #7]</span> <a href="https://www.nps.gov/glca/planyourvisit/horseshoe-bend.htm" target="_blank" rel="noopener noreferrer">Horse Shoe Bend</a>, <a href="https://wereintherockies.com/antelope-canyon/" target="_blank" rel="noopener noreferrer">Antelope Canyon</a>, <a href="https://www.utah.com/destinations/recreation-areas/lake-powell/visitor-information/glen-canyon-dam-visitor-center/" target="_blank" rel="noopener noreferrer">Glen Canyon Dam</a> (Lake Powell), AZ<br>
 		
 	<blockquote>
-		<font color="#FFFFFF"><span style="font-weight: 700; background-color: #000000">Night in Springdale, UT</span></font><br>
+		<span class="night-txt">Night in Springdale, UT</span><br>
 	</blockquote>
 		
 	<span style="background-color: #FFFF00">[Day #8]</span> <a href="https://www.nps.gov/zion/index.htm" target="_blank" rel="noopener noreferrer">Zion NP</a> (South), UT<br>
 
 	<blockquote>
-		<font color="#FFFFFF"><span style="font-weight: 700; background-color: #000000">Night in Cedar City, UT</span></font><br>
+		<span class="night-txt">Night in Cedar City, UT</span><br>
 	</blockquote>
 
 	<span style="background-color: #FFFF00">[Day #9]</span> Zion NP (North/<a href="https://i0.wp.com/www.exploringnaturephotos.com/wp-content/uploads/2021/10/Kolob-Canyons-4.jpg?resize=1000%2C574&ssl=1" target="_blank" rel="noopener noreferrer">Kobol Canyon</a>)<br>
 
 	<blockquote>
-		<font color="#FFFFFF"><span style="font-weight: 700; background-color: #000000">Night in Cedar City, UT</span></font><br>
+		<span class="night-txt">Night in Cedar City, UT</span><br>
 	</blockquote>
 
 	<span style="background-color: #FFFF00">[Day #10]</span> <a href="https://www.nps.gov/brca/index.htm" target="_blank" rel="noopener noreferrer">Bryce Canyon NP</a> and <a href="https://www.nps.gov/care/index.htm" target="_blank" rel="noopener noreferrer">Capital Reef NP</a>, UT<br>
 
 	<blockquote>
-		<font color="#FFFFFF"><span style="font-weight: 700; background-color: #000000">Night in Green River, UT</span></font><br>
+		<span class="night-txt">Night in Green River, UT</span><br>
 	</blockquote>
 
 	<span style="background-color: #FFFF00">[Day #11]</span> <a href="https://www.nps.gov/arch/index.htm" target="_blank" rel="noopener noreferrer">Arches NP</a> and <a href="https://www.nps.gov/cany/index.htm" target="_blank" rel="noopener noreferrer">Canyonlands NP</a>, UT<br>
 	
 		<blockquote>
-		<font color="#FFFFFF"><span style="font-weight: 700; background-color: #000000">Night in Green River, UT</span></font><br>
+		<span class="night-txt">Night in Green River, UT</span><br>
 	</blockquote>
 	
-	<span style="background-color: #FFFF00">[Day #12]</span> To Salt Lake City to fly back to PDX<br><br>
+	<span style="background-color: #FFFF00">[Day #12]</span> Return flight from Salt Lake City to PDX<br><br>
 
 	<img border="0" src="images-vac/logo-nps.jpg" width="150" height="194" style="border: 0px solid black; box-shadow: 8px 8px 12px #999">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img border="0" src="images-vac/flag-ca.jpg" width="150" height="100" style="border: 0px solid black; box-shadow: 8px 8px 12px #999">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img border="0" src="images-vac/flag-az.jpg" width="150" height="100" style="border: 0px solid black; box-shadow: 8px 8px 12px #999">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img border="0" src="images-vac/flag-ut.jpg" width="150" height="100" style="border: 0px solid black; box-shadow: 8px 8px 12px #999"><br><br><br>
 
 	<!--
-	<a href="JavaScript:doExpand(PERSPECTIVEBox)">Perspective</a>
-		<div id="PERSPECTIVEBox" style="display: none">
+	<a href="JavaScript:doExpand(TEST1Box)">TEST1</a>
+		<div id="TEST1Box" style="display: none">
 			<span style="text-align: left">XXXXXX<br></span>
 		</div><br><br>
 
-	<a href="JavaScript:doExpand(NARVIKBox)">Narvik</a>
-		<div id="NARVIKBox" style="display: none">
+	<a href="JavaScript:doExpand(TEST2Box)">TEST2</a>
+		<div id="TEST2Box" style="display: none">
 			<span style="text-align: left">XXXXXX<br></span>
 		</div><br><br>
 	-->
+
 </div>
 <br>
 <br>
