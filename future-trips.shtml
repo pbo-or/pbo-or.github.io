@@ -50,9 +50,9 @@ a:visited		{font-family: Tahoma; font-size: 10pt; color: #0000FF; text-decoratio
 
 .site-header-txt	{text-align: center; font-size: 12pt; font-weight: bold; }
 
-.night-txt	{background-color: #c1c1c1; color: black; font-weight: bold; }
+.night-txt		{background-color: #c1c1c1; color: black; font-weight: bold; }
 
-.static-icon {width: 12px; height: 12px; }
+.static-icon 	{width: 12px; height: 12px; }
 
 .f1 			{font-size: 10pt; font-weight: bold; color: red; }
 
@@ -84,7 +84,7 @@ Last update: October 30, 2026</p><br>
 
 <i>Re: links below: first link is a photo, [info] is related information</i><br><br>
 
-<span style="background-color: #FFFF00">[Day #01]</span> <a href="https://www.britishairways.com/travel/home/public/en_us/">British Airways</a> flight departure from PDX<br>
+<span style="background-color: #FFFF00">[Day #01]</span> <a href="https://www.britishairways.com/travel/home/public/en_us/" target="_blank" rel="noopener noreferrer">British Airways</a> flight departure from PDX<br>
 
 <blockquote>
 	<span class="night-txt">Travel thru the night</span><br>
@@ -93,7 +93,7 @@ Last update: October 30, 2026</p><br>
 <span style="background-color: #FFFF00">[Day #02]</span> Arrive Heathrow. Connecting flight to Glasgow.<br>
 
 <blockquote>
-	Arrival and transition day.<br>
+	Arrival and transition day<br>
 	<span class="night-txt">A pre-night in Glasgow</span><br>
 </blockquote>
 
@@ -119,6 +119,8 @@ Last update: October 30, 2026</p><br>
 
 	<ul>
 		<li><a href="https://cdn.getyourguide.com/image/format=auto%2Cfit=crop%2Cgravity=auto%2Cquality=60%2Cwidth=400%2Cheight=265%2Cdpr=2/tour_img/0de5d87ae312a97bb554e8e229f486e6cdb76148cd508620bcc648990b94ec75.jpg" target="_blank" rel="noopener noreferrer">Loch Lomond</a> [<a href="https://en.wikipedia.org/wiki/Loch_Lomond" target="_blank" rel="noopener noreferrer">info</a>]</li>
+		<li><a href="https://www.lovefromscotland.co.uk/wp-content/uploads/2016/10/Glencoe-wee-white-house.jpg" target="_blank" rel="noopener noreferrer">Glencoe</a></li>
+		<li><a href="https://images.ctfassets.net/5dlg82ljiq56/7ePdcWVvzcA17JjTrzO0AZ/d74a1d1384b72f3f8b55abbb4de08659/AdobeStock_227612242.jpg?w=800&fm=webp&q=80" target="_blank" rel="noopener noreferrer">Fort William</a></li>
 		<li><a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8q6bFN7SUYkkPMhHgvnbhoqVC5DrxHRQAAH2FGKMDSR8J8i6euZngAtEF&s=10" target="_blank" rel="noopener noreferrer">Eilean Donan Castle</a> [<a href="https://en.wikipedia.org/wiki/Eilean_Donan_Castle" target="_blank" rel="noopener noreferrer">info</a>]</li>
 		<li><span class="night-txt">Night in Kyle of Lacklash</span></li>
 	</ul>
@@ -281,7 +283,7 @@ Last update: October 30, 2026</p><br>
 <div id="NPROADTRIPpBox" style="display: none">
 	<span style="text-align: left"><p style="text-align: center"><img border="0" src="images-vac/map-roadtrip.jpg" width="773" height="525" style="border: 0px solid black; box-shadow: 8px 8px 12px #999"></p><br>
 
-	<span style="background-color: #FFFF00">[Day #1]</span> <a href="https://www.alaskaair.com/">Alaska Airlines</a> Fly from PDX to Sacramento, CA. Rent car. <a href="https://www.nps.gov/yose/index.htm" target="_blank" rel="noopener noreferrer">Yosemite NP</a>.<br>
+	<span style="background-color: #FFFF00">[Day #1]</span> <a href="https://www.alaskaair.com/" target="_blank" rel="noopener noreferrer">Alaska Airlines</a> Fly from PDX to Sacramento, CA. Rent car. <a href="https://www.nps.gov/yose/index.htm" target="_blank" rel="noopener noreferrer">Yosemite NP</a>.<br>
 		
 	<blockquote>
 		<span class="night-txt">Night in Fresno</span><br>
