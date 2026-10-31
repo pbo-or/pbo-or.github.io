@@ -136,7 +136,6 @@ Something about timed use permits. They are increasingly being used to control t
 
 	&nbsp;<img src="images-general/down-arrow.svg" class="static-icon" />&nbsp;&nbsp;&nbsp;&nbsp;=&nbsp; The link before this arrow is a dropdown box. Click on the link to expand the box. Refresh browser to collapse box(es).<br><br>
 
-
 	I found a few online articles that compliment content on this web page. Sometimes the content either expires or is locked at the source. So, for more simple viewing and access to the content, I converted them to simple PDF documents.<br><br> 
 	
 	If external links do not function, they worked when I set the page up. It is the source that changes their link locations. Thus, breaking my previously valid links. Contact me if you find a broken or incorrect link and I will try to resolve.<br><br>
@@ -1722,7 +1721,6 @@ Former Tillamook Naval Air Station (aka Blimp Base)</p>
 		Area <span class="f2">E</span> - 40 miles East of Beaverton<br><br>
 
 		<a href="https://www.travelportland.com/region/bonneville-dam">travelportland.com/region/bonneville-dam</a><br><br>
-
 		
 		Perfect distance to take a stretch break on the first leg to a Mount Hood loop trip.<br><br>
 		The fish hatchery is interesting in the vast quantities of fish in the spawning pools. Also there are huge, very old sturgeon fish in the nearby ponds.<br><br>
@@ -2483,7 +2481,6 @@ To create External Styles insert the following (between <>)
 in the HTLM section where XXXX = name of the CSS page:
 link rel="stylesheet" type="text/css" href="XXXX.css"
 -->
-
 
 <!--
 <div id="site-table"><table width="100%">
