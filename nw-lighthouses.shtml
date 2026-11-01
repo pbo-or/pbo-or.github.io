@@ -1,0 +1,105 @@
+<html>
+
+<head>
+<title>Oregon Lighthouses</title>
+<link rel="stylesheet" type="text/css" href="s[1]tyle.css">
+<script type="text/javascript">
+   function doExpand(DivName) {
+   if (DivName.style.display="none") { DivName.style.display=""; }
+   else { DivName.style.display="none"; }}
+</script>
+</head>
+
+<style type="text/css">
+<!--
+body			{margin-left: auto; margin-right: auto; font-family: Tahoma; font-size: 10pt; text-align: left; margin: 0; 
+				padding: 25; background-image: url('images-general/grid-standard.gif'); }
+
+a				{font-family: Tahoma; font-size: 10pt; }
+
+a:link		{font-family: Tahoma; font-size: 10pt; color: #0000FF; text-decoration: none; font-weight: bold; }
+               
+a:visited	{font-family: Tahoma; font-size: 10pt; color: #0000FF; text-decoration: none; font-weight: normal; }
+	
+#Content    {border-radius: 8px; margin-left: auto; margin-right: auto; text-align: center; 
+				border: 1px solid #0066FF; padding: 14px; width: 350px; height: auto; }
+
+.site-header-txt	{text-align: center; font-size: 12pt; font-weight: bold; }
+
+.static-icon {width: 12px; height: 12px; }
+
+.f1 			{font-size: 14pt; font-weight: bold; color: red; }
+
+.f2			{font-size: 11pt; font-weight: bold; color: red; }
+-->
+</style>
+
+<body>
+<div id="Content">
+<p style="text-align: center"><span class="site-header-txt">Oregon Lighthouses</span><br><br>
+
+Last update: November 1, 2026</p>
+
+This list has some overlaps with other site boxes in the main travel page.<br><br>
+	
+Back in the late 90's, we made a week long family trip of casually driving down the coast and visiting all of the Oregon lighthouses taking lots of photos.<br><br>
+	
+<img border="0" src="images-nw/coast-lh-map.JPG" width="330" height="auto"><br><br>
+	
+All the above lighthouses are public owned except for Cleft of the Rock (not listed below)<br><br>
+		
+<hr noshade color="#0000FF" size="4">
+
+Cape Disappointment<br>
+Technically in Washington State<br>
+(See <b>Lewis &amp; Clark Interpretive <br>
+Center</b> site box below)<br>
+<a href="https://upload.wikimedia.org/wikipedia/commons/b/bf/North_Head_Lighthouse_at_Cape_Disappointment.jpg"><img border="0" src="images-nw/coast-small-lh-01cape-disappointment.JPG" width="200" height="auto"></a><br><br>
+
+Columbia Lightship<br>
+is a retired &quot;floating&quot; light house.<br>
+(See <b>Astoria Maritime Museum</b> site box below)<br>
+<a href="https://img-aws.ehowcdn.com/1280x/www.onlyinyourstate.com/wp-content/uploads/2020/10/117655873_10158688181773189_325802792861320919_o-1.jpg"><img border="0" src="images-nw/coast-small-lh-02columbia-lightship.JPG" width="200" height="auto"></a><br><br>
+
+Warrior Rock<br>
+Located up the Columbia River closer to Portland.<br>
+<a href="https://mediaim.expedia.com/destination/2/6a439a381f825f395f368747d1896338.jpg"><img border="0" src="images-nw/coast-small-lh-03warrior-rock.JPG" width="200" height="auto"></a><br><br>
+
+Tillamook Rock<br>
+(see <b>Cannon Beach</b> site box below)<br>
+<a href="https://i.ytimg.com/vi/WBQ7NMKzmWM/maxresdefault.jpg"><img border="0" src="images-nw/coast-small-lh-04till-rock.JPG" width="200" height="auto"></a><br><br>
+
+Cape Meares<br>
+(see site box below)<br>
+<a href="https://oregonisforadventure.com/wp-content/uploads/2021/02/lighthouse-cape-meares-1024x683.jpg"><img border="0" src="images-nw/coast-small-lh-05cape-meares.JPG" width="200" height="auto"></a><br><br>
+
+Yaquina Head<br>
+(see <b>Newport</b> site box below)<br>
+<a href="https://images.squarespace-cdn.com/content/v1/61eb640f60360a71b6ced4e7/85f071f6-45e2-432c-acfd-86f3c17feea5/IMG_8861.jpg"><img border="0" src="images-nw/coast-small-lh-07yaquina-head.JPG" width="200" height="auto"></a><br><br>
+
+Yaquina Bay<br>
+(see <b>Newport</b> site box below)<br>
+<a href="https://storage.googleapis.com/wzukusers/user-31563038/images/c7dbfa48adc945ae8c418c648fa61e7a/Copyright-Kristy-Mcmorlan-Photography-Yaquina-Bay-Lighthouse-With-Name.jpg">
+<img border="0" src="images-nw/coast-small-lh-06yaquina-bay.JPG" width="200" height="auto"></a><br><br>
+
+Heceta Head<br>
+(see site box below)<br>
+<a href="https://www.hecetalighthouse.com/wp-content/uploads/2020/10/Scenic-Viewpoint.jpeg"><img border="0" src="images-nw/coast-small-lh-08heceta-head.JPG" width="200" height="auto"></a><br><br>
+
+Umpqua River<br>
+<a href="https://www.statesmanjournal.com/gcdn/-mm-/a5076e7a43a0cec6129489319d0fb728e2cd1814/c=0-264-5184-3193/local/-/media/2018/01/17/Salem/Salem/636517943133850922-Umpqua-Lighthouse3.jpg"><img border="0" src="images-nw/coast-small-lh-09umpqua-river.JPG" width="200" height="auto"></a><br><br>
+
+Cape Arago<br>
+<img border="0" src="images-nw/coast-small-lh-10capearago.JPG" width="200" height="auto"><br><br>
+
+Coquille River<br>
+<a href="https://images.fineartamerica.com/images/artworkimages/mediumlarge/2/coquille-river-lighthouse-jerry-fornarotto.jpg">
+<img border="0" src="images-nw/coast-small-lh-11coquille-river.JPG" width="200" height="auto"></a><br><br>
+
+Cape Blanco<br>
+<img border="0" src="images-nw/coast-small-lh-12cape-blanco.JPG" width="200" height="auto"><br><br>
+
+
+<p><img border="0" src="images-nw/flag-oregon.jpg" width="150" height="100" style="border: 0px solid black; box-shadow: 8px 8px 12px #999"></p>
+
+</div></body></html>

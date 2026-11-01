@@ -34,6 +34,12 @@ a:visited		{font-family: Tahoma; font-size: 10pt; text-decoration: none; color: 
 td				{margin-left: auto; margin-right: auto; font-size: 10pt; border: 0px solid #0066FF; 
 				text-align: left; margin: 0; padding: 4; }
 
+#ABOUTBox		{border-radius: 8px; margin-left: auto; margin-right: auto; text-align: left; 
+				border: 1px solid #0066FF; padding: 4px; width: 768px; height: auto; }
+
+#NAVBox			{border-radius: 8px; margin-left: auto; margin-right: auto; text-align: left; 
+				border: 1px solid #0066FF; padding: 4px; width: 768px; height: auto; }
+
 #WeatherBox		{border-radius: 8px; margin-left: auto; margin-right: auto; text-align: left; 
 				border: 1px solid #0066FF; padding: 8px; width: 812px; height: auto; }
 
@@ -43,21 +49,8 @@ td				{margin-left: auto; margin-right: auto; font-size: 10pt; border: 0px solid
 #MAXBox			{border-radius: 8px; margin-left: auto; margin-right: auto; text-align: left; 
 				border: 1px solid #0066FF; padding: 4px; width: 768px; height: auto; }
 
-#Hwy101Box		{border-radius: 8px; margin-left: auto; margin-right: auto; text-align: center; 
-				border: 1px solid #0066FF; padding: 14px; width: 350px; height: auto; }
-
-#LighthouseBox	{border-radius: 8px; margin-left: auto; margin-right: auto; text-align: center; 
-				border: 1px solid #0066FF; padding: 14px; width: 350px; height: auto; }
-
-#WaterfallBox	{border-radius: 8px; margin-left: auto; margin-right: auto; text-align: center; 
-				border: 1px solid #0066FF; padding: 14px; width: 830px; height: auto; }
-
 #StateParksBox	{border-radius: 8px; margin-left: auto; margin-right: auto; text-align: left; 
 				border: 1px solid #0066FF; padding: 4px; width: 768px; height: auto; }
-
-#NAVBox			{border-radius: 8px; margin-left: auto; margin-right: auto; text-align: left; 
-				border: 1px solid #0066FF; padding: 4px; width: 768px; height: auto; }
-
 
 .site-header-txt	{text-align: center; font-size: 11pt; font-weight: bold; }
 
@@ -88,7 +81,7 @@ td				{margin-left: auto; margin-right: auto; font-size: 10pt; border: 0px solid
 <p class="site-header-txt"><a href="https://pbo-or.github.io/nw-travel1.shtml">
 <span class="area-header-txt">Northwest Travel Sites</span></a></p> 
 
-<p style="text-align: center">Last update: October 31, 2026</p>
+<p style="text-align: center">Last update: November 1, 2026</p>
 
 <p style="text-align: center"><img border="0" src="images-nw/map-nw-general.jpg" width="608" height="auto" style="border: 0px solid black; box-shadow: 8px 8px 12px #999"></p><br>
 
@@ -109,22 +102,24 @@ style="border: 0px solid black; box-shadow: 8px 8px 12px #999" Modify variables
 Control+Home will return you to the top of the page<br>
 <i>I have read that in some browsers that these Quick Links may not work.</i></p><br>
 
-I put together this web page to give travel ideas for a Pacific Northwest visit. It is for personal use only (friends and family). If shared, please make sure the receiver understands this. I am not running a tourist busines or profiting from my interest in collecting and sharing information. If you spot errors or page problems, don't hesitate to send me an email so I can make any needed updates. PBO<br><br><br>
+I put together this web page to give travel ideas for a Pacific Northwest visit. It is for personal use only (friends and family). If shared, please make sure the receiver understands this. I am not running a tourist busines or profiting from my interest in collecting and sharing information. If you spot errors or page problems, don't hesitate to send me an email so I can make any needed updates. PBO<br><br>
 
-Below are more 100 unique site boxes corresponding with the above map areas. Another <a href="images-nw/map-or-boxes.JPG">map</a> with specific sites.<br><br>
+<p style="text-align: center"><span style="background-color: #FFFF00"><a href="JavaScript:doExpand(ABOUTBox)">About This Web Page</a></span> <img src="images-general/down-arrow.svg" class="static-icon" /></p>
+<div id="ABOUTBox" style="display: none">
+	Below are more 100 unique site boxes corresponding with the above map areas. Another <a href="images-nw/map-or-boxes.JPG">map</a> with specific sites.<br><br>
 
-During a week long visit to Oregon, there is obviously no way to see all of these sites. So by refining your preferences and interests, we can tailor a more focused causal week of visiting desired sites in the Portland area or the Northwest in general.<br><br>
+	During a week long visit to Oregon, there is obviously no way to see all of these sites. So by refining your preferences and interests, we can tailor a more focused causal week of visiting desired sites in the Portland area or the Northwest in general.<br><br>
 
-There is much more to see than listed below. These are just many of the classic sites that I grew up with and am familiar with.<br><br>
+	There is much more to see than listed below. These are just many of the classic sites that I grew up with and am familiar with.<br><br>
 
-If you have heard about other sites or find others mentioned in the links below, just ask for details.<br>
+	If you have heard about other sites or find others mentioned in the links below, just ask for details.<br><br>
 
-I list admission or parking costs below. Not to make you shy away from any specific location. Just so you aware. Some sites are no charge, but not many.<br><br>
+	I list admission or parking costs below. Not to make you shy away from any specific location. Just so you aware. Some sites are no charge, but not many.<br><br>
 
-Something about timed use permits. They are increasingly being used to control traffic and peak time visitors. Including Fern Canyon, Lava Cave at Newberry National Volcanic Monument, Columbia River Gorge Hwy, Pittock Mansion and the Space Needle.<br><br>
+	Something about timed use permits. They are increasingly being used to control traffic and peak time visitors. Including Fern Canyon, Lava Cave at Newberry National Volcanic Monument, Columbia River Gorge Hwy, Pittock Mansion and the Space Needle.
+</div>
 
-
-<p style="text-align: center"><span style="background-color: #FFFF00"><a href="JavaScript:doExpand(NAVBox)">Navigation Tips For This Web Page</a></span> <img src="images-general/down-arrow.svg" class="static-icon" /></p>
+<p style="text-align: center"><span style="background-color: #FFFF00"><a href="JavaScript:doExpand(NAVBox)">Navigation Tips For This  Page</a></span> <img src="images-general/down-arrow.svg" class="static-icon" /></p>
 <div id="NAVBox" style="display: none">
 	This web page uses HTML CSS coding. I have not mastered various aspects of the language so page functionality is pretty basic. I have not yet figured out to make it friendly to all Smart phones and some tablet browsers. So it is best viewed with a laptop or PC screen with a mainstream browser.<br>
 	
@@ -147,8 +142,7 @@ Something about timed use permits. They are increasingly being used to control t
 	If external links do not function, they worked when I set the page up. It is the source that changes their link locations. Thus, breaking my previously valid links. Contact me if you find a broken or incorrect link and I will try to resolve.<br><br>
 	
 	Click on a photo to go to a larger online version of the same photo. To close the photo and return to this page in Edge and Firefox, click the browser Back Arrow or Alt+Left Arrow.
-</div>
-
+</div><br>
 
 <p style="text-align: center">Supplemental information:</p>
 
@@ -853,169 +847,11 @@ Many of the Portland and Beaverton sites shown on a single map: <a href="images-
 	The arrows correspond with the next dropdown box (<b>Beaches, Viewpoints and Waysides</b>).</td>
 </table></div>
 
-<p style="text-align: center"><span style="background-color: #FFFF00"><a href="JavaScript:doExpand(Hwy101Box)">NORTH OREGON COAST - Beaches, Viewpoints and Waysides</a></span> <img src="images-general/down-arrow.svg" class="static-icon" /></p>
+<p style="text-align: center"><span style="background-color: #FFFF00"><a href="nw-beaches.shtml" target="_blank" rel="noopener noreferrer">North Oregon Coast: Beaches, Viewpoints and Waysides</a></span><br>
+<i>(this link opens to a new browser page)</i></p>
 
-<div id="Hwy101Box" style="display: none">
-	Area <span class="f1">C</span> - 60-90 miles West of Beaverton <img border="0" src="images-nw/symbol-binos.gif" width="19" height="19"><br><br>
-
-	This list has some overlaps with other site boxes in this coastal section. Driving from Astoria South toward Newport on Hwy 101 (about 100+ miles), there are numerous stop points for breaks, photos or to just hike/look around. All beaches are public property and free access.<br><br>
-	
-	Not all beach accesses and viewpoints are listed. Just the most well known.<br><br>
-
-	Need to pray for good weather. Fog in the Summer is a thing on the Oregon Coast.<br><br>
-
-	<a href="https://www.ytravelblog.com/oregon-coast-road-trip-highway-101/">ytravelblog.com/oregon-coast-road-trip-highway-101</a><br><br>
-
-	<a href="https://www.thetravel.com/things-to-do-in-oregon-coast-complete-guide/">thetravel.com/things-to-do-in-oregon-coast-complete-guide</a><br><br>
-
-	Click on each pic below for a larger version online.<br><br>
-	
-	<hr noshade color="#0000FF" size="4">
-
-	<p style="text-align: center">South Jetty of the Mouth of the Columbia River. See the <b>Fort Stevens State Park</b> site box below.<br>
-	<a href="http://www.dickndebbietravels.com/wp-content/uploads/2016/07/South-Jetty-at-the-Mouth-of-the-Columbia-River-b-Fort-Stevens-State-Park-Hammond-OR-2016-07-27.jpg">
-	<img border="0" src="images-nw/coast-small-fort-stevens-jetty.JPG" width="200" height="auto"></a><br><br>
-
-	All of the parking areas at Fort Stevens each lead to beach access.<br>
-	<a href="https://wracklineblog.com/images/beaches_ft_stevens_view_jetty_area_c.jpg"><img border="0" src="images-nw/coast-small-fort-stevens-viewstand.JPG" width="200" height="auto"></a><br><br>
-
-	Seaside is a decent tourist town. The main street turnaround at the beach is well known. The promenade along the beach is over a mile long.<br>
-	<a href="https://cloudfront.traillink.com/photos/seaside-promenade_53488_sc.jpg"><img border="0" src="images-nw/coast-small-seaside-promenade.JPG" width="200" height="auto"></a><br><br>
-
-	Ecola Point. Great post card viewpoint of the beach. Winding road to get there from Hwy 101. See the <b>Cannon Beach</b> site box below.<br>
-	<a href="https://images.squarespace-cdn.com/content/v1/50f189dde4b07e77c464e9f3/1514820900691-0DQ7Z1FW5TCWN4HY4N6M/Cannon+Beach+View.jpg"><img border="0" src="images-nw/coast-small-ecola.JPG" width="200" height="auto"></a><br><br>
-
-	Cannon Beach is a folksy small town with numerous shops to attract you.	See the site box below.<br>
-	<a href="https://sfstrawberrylee.files.wordpress.com/2022/11/img_1387.jpg"><img border="0" src="images-nw/coast-small-haystack.JPG" width="200" height="auto"></a><br><br>
-
-	Arcadia State Park. Decent highway wayside with beach access.<br>
-	<a href="https://mikeandlauratravel.com/wp-content/uploads/2021/10/oregon-coast-towns-9.webp"><img border="0" src="images-nw/coast-small-arcadia.JPG" width="200" height="auto"></a><br><br>
-
-	Hug Point State Park. Small park with beach access. At low tide, you can see the wagon wheel ruts in the exposed beach rock from when the beach was used as the local highway.<br>
-	<a href="https://img-aws.ehowcdn.com/1280x/www.onlyinyourstate.com/wp-content/uploads/2021/06/GettyImages-1280581674.jpg"><img border="0" src="images-nw/coast-small-hug-point.JPG" width="200" height="auto"></a><br><br>
-
-	Oswald West State Park<br>Couple mile downhill hike down to the beach.<br>
-	<a href="https://www.outdoorproject.com/sites/default/files/styles/hero_image_desktop/public/features/DSC_0392.JPG?itok=JSdxGd1Y"><img border="0" src="images-nw/coast-small-oswald-west.JPG" width="200" height="auto"></a><br><br>
-
-	Neahkahnie Mountain<br>
-	See the site box below.<br>
-	<a href="https://wp.inews.co.uk/wp-content/uploads/2021/04/SEI_76801587.jpg"><img border="0" src="images-nw/coast-small-nkn-mtn.JPG" width="200" height="auto"></a><br><br>
-
-	Manzanita. Small town in northern Tillamook County. Nice shops. Well known beach <br>
-	adjacent at Nehalem Bay State Park. <img border="0" src="images-nw/symbol-ticket.gif" width="19" height="19"><br>
-	<a href="https://i.vimeocdn.com/video/938287819-2d01eef4ed577b7a8385f4bc538124e252e86ce80cefba8749d6155404790b27-d_640?f=webp"><img border="0" src="images-nw/coast-small-manzanita.JPG" width="200" height="auto"></a><br><br>
-
-	Rockaway Beach. Coast town spread along Hwy 101. Lots of stores. Beach access.<br>
-	<a href="https://www.worldbeachguide.com/photos/rockaway-beach-oregon.jpg"><img border="0" src="images-nw/coast-small-rockway-beach.JPG" width="200" height="auto"></a><br><br>
-
-	Barview Jetty County Campground. From here you can walk down the north side of the Barview Jetty and entry to Tillamook Bay.<img border="0" src="images-nw/boot-print.gif" width="19" height="19"><br>
-	<a href="https://www.oregonlive.com/resizer/zJtLExqGemT1R1fQ8B5s0nFk7uc=/1280x0/smart/advancelocal-adapter-image-uploads.s3.amazonaws.com/
-	image.oregonlive.com/home/olive-media/width2048/img/pacific-northwest-news/photo/jetty1jpg-8456bf80c081beff.jpg"><img border="0" src="images-nw/coast-small-barview-jetty.JPG" width="200" height="auto"></a><br><br>
-
-	Bayocean Peninsula Park is on the south side of the Barview Jetty. Location of a <a href="https://www.opb.org/news/article/oregon-bayocean-ghost-town-resort-tillamook-bay/">former community of Bayocean</a>. Lots of nice homes. When the state built the jetty entrance to Tillamook Bay, it completely changed the tidal impact in the area. A few years later, the entire	town of Bayocean succumbed to coastal erosion and disappeared. <a href="https://en.wikipedia.org/wiki/	Bayocean,_Oregon">Wikipedia</a>. Three mile hike from the last parking lot to the jetty. This access road was the site of a lot of road damage from the 1996 flood event.<img border="0" src="images-nw/boot-print.gif" width="19" height="19"><br>
-	<a href="https://upload.travelawaits.com/ta/uploads/2021/04/aerial-view-of-bayocean-penin3ed98b.jpg"><img border="0" src="images-nw/coast-small-bayocean.JPG" width="200" height="auto"></a><br><br>
-
-	3 Capes Scenic Loop is comprised of a windy road with great beach views passing by Cape Meares (see the site box below), Cape Lookout (couple mile hike to nice coastal panorama to the south) and Cape Kiwanda at Pacific City.<br>
-	<a href="https://images.squarespace-cdn.com/content/v1/5f21e241ada24a4943158fdc/1602890375687-FWWP69I4P9USXXFSYLHS/DSC_0237+(2).JPG"><img border="0" src="images-nw/coast-small-3capes.JPG" width="200" height="auto"></a><br><br>
-
-	Neskowin is a small community of beach vacation homes in Southern Tillamook County. The beach is very nice and picturesque.<br>
-	<a href="https://tripsaroundme.com/wp-content/uploads/2023/05/2019-07-19_09-29-18_024_R-scaled.jpeg"><img border="0" src="images-nw/coast-small-newskowin.JPG" width="200" height="auto"></a><br><br>
-
-	Lincoln City is a well known tourist town.<br>
-	See the site box below.<br>
-	<a href="https://1.bp.blogspot.com/-b2pPQfO2vdw/Ui-xwabfwYI/AAAAAAAAAa4/7l5nwDIKzsU/s1600/64511_10151495029816324_1671456495_n.jpg"><img border="0" src="images-nw/coast-small-lincoln-city.JPG" width="200" height="auto"></a><br><br>
-
-	Depoe Bay is a small town spread along Hwy 101. Known for the smallest navigable bay in the world. Also called the "whale watch capital of the Oregon Coast".<br>
-	<a href="https://jetsetway.com/wp-content/uploads/2021/05/Depoe-bridge.jpg"><img border="0" src="images-nw/coast-small-depoe-bay.JPG" width="200" height="auto"></a><br><br>
-
-	Devil's Punchbowl is small rest area just south<br>
-	of Depoe Bay. See the site box below.<br>
-	<a href="https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/devils-punchbowl-oregon-shannon-louder.jpg"><img border="0" src="images-nw/coast-small-devils-punchbowl.jpg" width="200" height="auto"></a></a><br><br>
-
-	Beverly Beach State Park. Beach access. Known for the "ghost forest": stumps of trees that were consumed by sand preventing their decay. Periodically strong winds and storms move the sand around revealing remnants of the ancient trees that are from 1000 to 7000 years old.<br>
-	<a href="https://yachatsnews.com/wp-content/uploads/2021/11/51069150061_ea88188c78_k-1024x342.jpg"><img border="0" src="images-nw/coast-small-beverly-beach.JPG" width="200" height="auto"></a><br><br>
-
-	Then you pass through Newport.<br>
-	See the site box below.<br><br>
-	
-	Yachats State Park. See the site box below.<a href="https://www.onlyinyourstate.com/wp-content/uploads/2022/07/15676535_10154736704495396_6364813896884982597_o.jpg"><img border="0" src="images-nw/coast-small-yachats.jpg" width="200" height="auto"></a></a><br><br>
-
-	Thor's Well. See the site box below.
-	<a href="https://hips.hearstapps.com/housebeautiful/assets/17/11/1489593643-index-thors-well-final.jpg"><img border="0" src="images-nw/coast-small-thors-well.jpg" width="200" height="auto"></a><br><br>
-
-	Refresh browser to collapse this box<br><br>
-	<i>Note: When this box collapses, you might have to	scroll up some to return to the cursor original location.</i>
-</div>
-
-<p style="text-align: center"><span style="background-color: #FFFF00"><a href="JavaScript:doExpand(LighthouseBox)">OREGON LIGHTHOUSES</a></span> <img src="images-general/down-arrow.svg" class="static-icon" /></p>
-
-<div id="LighthouseBox" style="display: none">
-	Area <span class="f1">C</span> - 50-200 miles West/Southwest of Beaverton <img border="0" src="images-nw/symbol-binos.gif" width="19" height="19"><br><br>
-
-	This list has some overlaps with other site boxes in this coastal section.<br><br>
-	
-	Back in the late 90's, we made a week long family trip of casually driving down the coast and visiting all of the Oregon lighthouses taking lots of photos.<br><br>
-	
-	<img border="0" src="images-nw/coast-lh-map.JPG" width="330" height="auto"><br><br>
-	
-	All the above lighthouses are public owned except for Cleft of the Rock (not listed below)<br><br>
-		
-	<hr noshade color="#0000FF" size="4">
-
-	Cape Disappointment<br>
-	Technically in Washington State<br>
-	(See <b>Lewis &amp; Clark Interpretive <br>
-	Center</b> site box below)<br>
-	<a href="https://upload.wikimedia.org/wikipedia/commons/b/bf/North_Head_Lighthouse_at_Cape_Disappointment.jpg"><img border="0" src="images-nw/coast-small-lh-01cape-disappointment.JPG" width="200" height="auto"></a><br><br>
-
-	Columbia Lightship<br>
-	is a retired &quot;floating&quot; light house.<br>
-	(See <b>Astoria Maritime Museum</b> site box below)<br>
-	<a href="https://img-aws.ehowcdn.com/1280x/www.onlyinyourstate.com/wp-content/uploads/2020/10/117655873_10158688181773189_325802792861320919_o-1.jpg"><img border="0" src="images-nw/coast-small-lh-02columbia-lightship.JPG" width="200" height="auto"></a><br><br>
-
-	Warrior Rock<br>
-	Located up the Columbia River closer to Portland.<br>
-	<a href="https://mediaim.expedia.com/destination/2/6a439a381f825f395f368747d1896338.jpg"><img border="0" src="images-nw/coast-small-lh-03warrior-rock.JPG" width="200" height="auto"></a><br><br>
-
-	Tillamook Rock<br>
-	(see <b>Cannon Beach</b> site box below)<br>
-	<a href="https://i.ytimg.com/vi/WBQ7NMKzmWM/maxresdefault.jpg"><img border="0" src="images-nw/coast-small-lh-04till-rock.JPG" width="200" height="auto"></a><br><br>
-
-	Cape Meares<br>
-	(see site box below)<br>
-	<a href="https://oregonisforadventure.com/wp-content/uploads/2021/02/lighthouse-cape-meares-1024x683.jpg"><img border="0" src="images-nw/coast-small-lh-05cape-meares.JPG" width="200" height="auto"></a><br><br>
-
-	Yaquina Head<br>
-	(see <b>Newport</b> site box below)<br>
-	<a href="https://images.squarespace-cdn.com/content/v1/61eb640f60360a71b6ced4e7/85f071f6-45e2-432c-acfd-86f3c17feea5/IMG_8861.jpg"><img border="0" src="images-nw/coast-small-lh-07yaquina-head.JPG" width="200" height="auto"></a><br><br>
-
-	Yaquina Bay<br>
-	(see <b>Newport</b> site box below)<br>
-	<a href="https://storage.googleapis.com/wzukusers/user-31563038/images/c7dbfa48adc945ae8c418c648fa61e7a/Copyright-Kristy-Mcmorlan-Photography-Yaquina-Bay-Lighthouse-With-Name.jpg">
-	<img border="0" src="images-nw/coast-small-lh-06yaquina-bay.JPG" width="200" height="auto"></a><br><br>
-
-	Heceta Head<br>
-	(see site box below)<br>
-	<a href="https://www.hecetalighthouse.com/wp-content/uploads/2020/10/Scenic-Viewpoint.jpeg"><img border="0" src="images-nw/coast-small-lh-08heceta-head.JPG" width="200" height="auto"></a><br><br>
-
-	Umpqua River<br>
-	<a href="https://www.statesmanjournal.com/gcdn/-mm-/a5076e7a43a0cec6129489319d0fb728e2cd1814/c=0-264-5184-3193/local/-/media/2018/01/17/Salem/Salem/636517943133850922-Umpqua-Lighthouse3.jpg"><img border="0" src="images-nw/coast-small-lh-09umpqua-river.JPG" width="200" height="auto"></a><br><br>
-
-	Cape Arago<br>
-	<img border="0" src="images-nw/coast-small-lh-10capearago.JPG" width="200" height="auto"><br><br>
-
-	Coquille River<br>
-	<a href="https://images.fineartamerica.com/images/artworkimages/mediumlarge/2/coquille-river-lighthouse-jerry-fornarotto.jpg">
-	<img border="0" src="images-nw/coast-small-lh-11coquille-river.JPG" width="200" height="auto"></a><br><br>
-
-	Cape Blanco<br>
-	<img border="0" src="images-nw/coast-small-lh-12cape-blanco.JPG" width="200" height="auto"><br><br>
-
-	Refresh browser to collapse this box<br><br>
-
-	<i>Note: When this box collapses, you might have to	scroll up some to return to the cursor original location.</i><br>
-</div>
-<br>
+<p style="text-align: center"><span style="background-color: #FFFF00"><a href="nw-lighthouses.shtml" target="_blank" rel="noopener noreferrer">Oregon Lighthouses</a></span><br>
+<i>(this link opens to a new browser page)</i></p>
 
 <div id="site-table"><p class="site-header-txt">Astoria</p> 
 <table width="100%"><td valign="top" width="50%">
@@ -2536,186 +2372,9 @@ link rel="stylesheet" type="text/css" href="XXXX.css"
 </table></div>
 -->
 
-<br><br>
-Was kind of unsure where to put the Waterfalls dropdown. Finally decided at the end (here).<br>
-
-<p style="text-align: center"><span style="background-color: #FFFF00"><a href="JavaScript:doExpand(WaterfallBox)">PACIFIC NORTHWEST WATERFALLS</a></span> <img src="images-general/down-arrow.svg" class="static-icon" /></p>
-
-<div id="WaterfallBox" style="display: none">
-	<img border="0" src="images-nw/symbol-binos.gif" width="19" height="19"> <img border="0" src="images-nw/boot-print.gif" width="19" height="19"><br><br>
-
-	I found a decent book reviewing waterfalls in the Northwest (A Waterfall Lover's Guide to the Pacific Northwest by Gregory Plumb). From this book I culled various waterfalls relatively close to home for possible visits or drive-bys. The list is pretty detailed, but lacks one of my new entries above entered in the above travel boxes (Abiqua Falls).<br><br>
-
-	<b>Index map to the below waterfalls areas and sites</b><br>
-	<img border="0" src="images-nw/waterfall-index-map.JPG" width="600" height="auto"><br><br>
-
-	Area A - North Coast Range<br>
-	Area B - Columbia (River) Gorge<br>
-	Area C - Middle Cascades (North/Central OR)<br>
-	Area D - Columbia Plateau (Eastern OR)<br><br>
-	
-	<font color="blue"><b>Area A - North Coast Range Waterfalls</b></font>
-	<img style="border:7px solid blue;" src="images-nw/waterfalls-coast.JPG" width="600" height="auto" /><br><br>
-
-	1. <a href="http://www.oregonhikers.org/field_guide/Bonnie_Falls">Bonnie Falls</a> (Scappoose)<br>
-	2. <a href="http://www.oregonhikers.org/field_guide/Beaver_Falls_Hike">Beaver Falls</a> (Beaver Creek)<br>
-	3. <a href="http://www.nps.gov/places/youngs-river-falls.htm">Young River Falls</a> (Olney) (see above Coast/Beaches travel boxes)<br>
-	4. <a href="http://www.alltrails.com/trail/us/oregon/lee-wooden-fish-hawk-falls">Fishhawk Falls</a> (Jewell)<br>
-	5. <a href="http://www.alltrails.com/trail/us/oregon/little-falls">Little Falls and Nehalem Falls</a> (Nehalem River Road)<br>
-	6. <a href="https://stateparks.oregon.gov/index.cfm?do=park.profile&parkId=175">Munson Creek Falls</a> (Tillamook) (see above Coast/Beaches travel boxes)<br>
-	7. <a href="http://oregonwaterfalls.wordpress.com/2017/12/22/alder-glen-clarence-creek/">Clarence Creek Falls</a> (Blaine)<br>
-	8. <a href="http://oregonwaterfalls.wordpress.com/2017/01/04/gunaldo-falls/">Gunaldo Falls</a> (Dolph)<br>
-	9. <a href="http://www.oregonhikers.org/field_guide/Lee_Falls_Hike">Lee Falls</a> (Cherry Grove)<br>
-	10. <a href="http://waterfallrecord.com/2017/12/11/falls-city-falls-oregon/">Falls City Falls</a> (Falls City)<br><br>
-
-	<font color="red"><b>Area B - Columbia (River) Gorge Waterfalls</b></font>
-	<img style="border:7px solid red;" src="images-nw/waterfalls-gorge.JPG" width="800" height="auto" /><br><br>
-	1. Near Bridal Veil:<br>
-	   <a href="http://www.oregonhikers.org/field_guide/Latourell_Falls_Loop_Hike">Latourell Falls</a><br>
-	   <a href="http://www.world-of-waterfalls.com/waterfalls/pacific-northwest-upper-latourell-falls/">Upper Latourell Falls</a><br>
-	   <a href="http://stateparks.oregon.gov/index.cfm?do=park.profile&parkId=121">Sheppards Dell Falls</a><br>
-	   <a href="http://stateparks.oregon.gov/index.cfm?do=park.profile&parkId=107">Bridal Veil Falls</a><br>
-	   <a href="http://www.alltrails.com/trail/us/oregon/coopey-falls-trail">Coopey Falls</a><br>
-	2. Near Multnomah Falls:<br>
-	   <a href="http://www.oregonhikers.org/field_guide/Wahkeena_falls_hike">Wahkeena Falls</a><br>
-	   <a href="http://www.oregonhikers.org/field_guide/The_Necktie">Necktie Falls</a><br>
-	   <a href="http://www.oregonhikers.org/field_guide/Fairy_Falls_Loop_Hike">Fairy Falls</a><br>
-	   <a href="http://oregon.com/attractions/multnomah_falls">Multnomah Falls</a> (see above Columbia River Gorge travel boxes)<br>
-	   <a href="http://www.oregonhikers.org/field_guide/Dutchman_Falls">Dutchman Falls (3 sites)</a><br>
-	3. Oneonta Gorge:<br>
-	   <a href="http://www.world-of-waterfalls.com/waterfalls/pacific-northwest-lower-oneonta-falls/">Lower Oneonta Falls</a><br>
-	   <a href="http://gorgefriends.org/find-a-hike/oneonta-gorge-to-lower-oneonta-falls/">Oneonta Falls</a><br>
-	   <a href="http://gorgefriends.org/find-a-hike/triple-falls/">Triple Falls</a><br>
-	   <a href="http://www.oregonhikers.org/field_guide/horsetail_falls_loop_hike">Horsetail Falls</a><br>
-	   <a href="http://www.alltrails.com/trail/us/oregon/horsetail-falls-and-ponytail-falls">Ponytail Falls</a><br>
-	4. Yeon State Park:<br>
-	   <a href="http://gorgefriends.org/find-a-hike/elowah-falls/">Elowah Falls</a><br>
-	   <a href="http://gorgefriends.org/find-a-hike/upper-mccord-creek-falls/">Upper McCord Creek Falls</a><br>
-	5. Near Tanner Creek:<br>
-	   <a href="http://www.alltrails.com/poi/us/oregon/munra-falls">Mura Falls</a><br>
-	   <a href="http://gorgefriends.org/find-a-hike/wahclella-falls-loop/">Wahclella Falls</a><br>
-	6. Near Eagle Creek:<br>
-	   <a href="http://www.oregonhikers.org/field_guide/Wauna_Point_Hike">Wauna Falls</a><br>
-	   <a href="http://www.oregonhikers.org/field_guide/Metlako_falls">Metlako Falls</a><br>
-	   <a href="http://www.alltrails.com/trail/us/oregon/metlako-falls-via-eagle-creek-trail-440">Lower Punch Bowl Falls</a><br>
-	   <a href="http://gorgefriends.org/find-a-hike/eagle-creek-to-punch-bowl-falls/">Punch Bowl Falls</a><br>
-	   <a href="http://www.oregonhikers.org/field_guide/Loowit_Falls_(Eagle_Creek)">Loowit Falls</a><br>
-	   <a href="http://www.summitpost.org/skoonichuk-falls/1079038">Skoonichuk Falls</a><br>
-	   <a href="http://www.oregonhikers.org/field_guide/Wy%27East_Camp">Wy'East Falls</a><br>
-	   <a href="http://gorgefriends.org/find-a-hike/eagle-creek-to-tunnel-falls/">Tunnel Falls</a><br>
-	   <a href="http://gorgefriends.org/find-a-hike/eagle-creek-to-tunnel-falls/">Eagle Creek Falls</a><br>
-	7. <a href="http://www.oregonhikers.org/field_guide/dry_creek_falls_hike">Dry Creek Falls</a> (Cascade Locks)<br>
-	8. <a href="http://www.oregonhikers.org/field_guide/Gorton_Creek_Falls_Hike">Gorton Creek Falls</a> (Wyeth)<br>
-	   <a href="https://www.pinesnvines.com/adventures/hike-emerald-gorton-creek-falls">Emerald Falls</a> (Wyeth)<br>
-	9. Starvation Creek State Park:<br>
-	   <a href="https://gorgefriends.org/find-a-hike/starvation-creek-falls/">Starvation Creek Falls</a><br>
-	   <a href="http://www.oregonhikers.org/field_guide/Cabin_Creek_Falls">Cabin Creek Falls</a><br>
-	   <a href="http://gorgefriends.org/find-a-hike/hole-in-the-wall-falls/">Hole-in-the-Wall Falls</a><br>
-	   <a href="http://gorgefriends.org/find-a-hike/lancaster-falls/">Lancaster Falls</a><br>
-	10. Hood River Valley:<br>
-		<a href="http://wanderlog.com/place/details/4013250/wah-gwin-gwin-falls">Wah Gwin Falls</a><br>
-		<a href="http://gorgefriends.org/find-a-hike/eagle-creek-to-punch-bowl-falls/">Punchbowl Falls</a><br>
-		<a href="http://www.oregonhikers.org/field_guide/Dead_Point_Falls">Dead Point Creek Falls</a><br>
-	11. <a href="http://gorgefriends.org/find-a-hike/mosier-creek-falls/">Mosier Creek Falls</a> (Mosier)<br>
-	12. <a href="http://oregonwaterfalls.wordpress.com/2022/05/23/cushing-falls/">Cushing Falls</a> (The Dalles)<br>
-	13. <a href="http://gorgefriends.org/find-a-hike/dog-creek-falls/">Dog Creek Falls</a> (Dog Creek)<br>
-	14. <a href="http://www.oregonhikers.org/forum/viewtopic.php?t=4102">Shipherd Falls</a> (Carson)<br>
-	15. Near Rock Creek:<br>
-	    <a href="http://www.oregonhikers.org/field_guide/Hidden_Falls_(Rock_Creek)">Rock Creek Falls</a><br>
-		<a href="http://www.theoutbound.com/washington/photography/scramble-to-steep-creek-falls">Steep Creek Falls</a><br>
-	16. Beacon Rock State Park:<br>
-	    <a href="http://www.oregonhikers.org/field_guide/Rodney_Falls">Rodney Falls</a><br>
-		<a href="http://www.oregonhikers.org/field_guide/Hardy_Falls">Hardy Falls</a><br>
-	17. <a href="http://oregondiscovery.com/dougan-falls">Dougan Falls</a> (Dougan Camp)<br><br>
-
-	<font color="orange"><b>Area C- Upper/Central Oregon Waterfalls</b></font>
-	<img style="border:7px solid orange;" src="images-nw/waterfalls-upper-central.JPG" width="600" height="auto" /><br><br>
-	1. <a href="http://www.oregonhikers.org/field_guide/Ramona_Falls_Loop_Hike">Romona Falls</a> (Mt Hood Wilderness)<br>
-	2. Zigzag River Drainage:<br>
-	   <!-- Devil Canyon Falls<a href="https://www.XXXXXXX.com">XXXXXX</a><br> -->
-	   <a href="http://www.oregonhikers.org/field_guide/Yocum_ridge_hike">Yocum Falls</a><br>
-	   <a href="http://www.oregonhikers.org/field_guide/Little_Zigzag_Falls_Hike">Little Zigzag Falls</a><br>
-	3. Bennet Pass:<br>
-	   <a href="http://www.oregonhikers.org/field_guide/Sahalie_and_Koosah_Falls_Loop_Hike">Sahalie Falls</a><br>
-	   <a href="http://www.oregonhikers.org/field_guide/Umbrella_Falls_Loop_Hike">Umbrella Falls</a><br>
-	4. Northeast Mt Hood:<br>
-	   <a href="http://www.world-of-waterfalls.com/waterfalls/pacific-northwest-tamanawas-falls/">Tamanawas Falls</a><br>
-	   <a href="http://waterfallhikes.com/waterfalls/wallalute-falls-near-parkdale-in-or">Wallalute Falls</a><br>
-	5. <a href="http://www.oregonhikers.org/field_guide/Willamette_Falls">Willamette Falls</a> (Oregon City)<br>
-	6. <a href="http://www.oregonhikers.org/field_guide/middle_north_falls">Middle Falls</a> (Eagle Creek)<br>
-	7. Bagby Hot Springs:<br>
-	   <a href="http://sites.google.com/site/clackamasriverwaterfalls/clackamas-river-waterfalls/collawash-river">Pegleg Falls</a><br>
-	   <a href="http://www.oregonhikers.org/forum/viewtopic.php?t=19740">Blister Creek Falls</a><br>
-	8. Silver Falls State Park (see above Portland travel boxes):<br>
-	   <a href="http://www.oregonhikers.org/field_guide/Upper_north_falls">Upper North Falls</a><br>
-	   <a href="http://www.oregonhikers.org/field_guide/North_falls">North Falls</a><br>
-	   <a href="http://www.oregonhikers.org/field_guide/Twin_falls">Twin Falls</a><br>
-	   <a href="http://www.oregonhikers.org/field_guide/Middle_north_falls">Middle North Falls</a><br>
-	   <a href="http://www.oregonhikers.org/field_guide/Drake_falls">Drake Falls</a><br>
-	   <a href="http://www.oregonhikers.org/field_guide/Double_falls">Double Falls</a><br>
-	   <a href="http://www.oregonhikers.org/field_guide/Lower_north_falls">Lower North Falls</a><br>
-	   <a href="http://www.oregonhikers.org/field_guide/Winter_falls">Winter Falls</a><br>
-	   <a href="http://www.oregonhikers.org/field_guide/South_falls">South Falls</a><br>
-	   <a href="http://www.oregonhikers.org/field_guide/Lower_south_falls">Lower South Falls</a><br>
-	9. <a href="https://www.oregonhikers.org/field_guide/Butte_creek_falls">Butte Creek Falls</a> (Scotts Mills)<br>
-	10. Mehama:<br>
-	    <a href="https://www.oregonhikers.org/field_guide/Lower_shellburg_falls">Lower Shellburg Falls</a><br>
-	    <a href="https://www.oregonhikers.org/field_guide/Shellburg_falls">Shellburg Falls</a><br>
-	11. North Fork River:<br>
-	    <a href="https://www.alltrails.com/trail/us/oregon/salmon-creek-trail--2">Salmon Falls</a><br>
-	    <a href="https://www.oregonhikers.org/field_guide/Henline_Falls_Hike">Henline Falls</a><br>
-	12. <a href="https://www.oregonhikers.org/field_guide/Sevenmile_Falls">Sevenmile Creek Falls</a> (Niagara Park)<br>
-	13. Marion Forks:<br>
-	    <a href="https://waterfallhikes.com/waterfalls/gooch-falls-near-idanha-in-or">Gooch Falls</a><br>
-		<a href="https://www.oregonhikers.org/field_guide/Marion_falls">Marion Falls</a><br>
-	14. McKinzie River:<br>
-	    <a href="https://www.oregonhikers.org/field_guide/Sahalie_falls">Sahalie Falls</a><br>
-		<a href="https://www.oregonhikers.org/field_guide/Koosah_falls">Koosah Falls</a><br>
-		<a href="https://www.fs.usda.gov/r06/willamette/recreation/tamolitch-falls-blue-pool-3507">Tamolitch Falls</a><br>
-	15. <a href="https://www.oregonhikers.org/field_guide/House_Rock_Loop_Hike">House Rock</a><br>
-	16. Cascadia:<br>
-	    <a href="https://www.oregonhikers.org/field_guide/Lower_soda_falls">Lower Soda Falls</a><br>
-		<a href="https://www.oregonhikers.org/field_guide/Rainbow_Falls_Loop_Hike">Rainbox Falls</a><br>
-	17. McDowell Creek Falls County Park:<br>
-	    <a href="https://www.oregonhikers.org/field_guide/McDowell_Creek_Falls_Loop_Hike">Lower Falls</a><br>
-		<a href="https://www.oregonhikers.org/field_guide/Royal_terrace_falls">Royal Terrace Falls</a><br>
-		<a href="https://www.oregonhikers.org/field_guide/Majestic_falls">Majestic Falls</a><br>
-		<a href="https://oregonwaterfalls.wordpress.com/2016/03/04/coal-creek-falls/">Coal Creek Falls</a><br><br>
-
-	<font color="green"><b>Area D - Columbia Plateau (Eastern OR) Waterfalls</b></font>
-	<img style="border:7px solid green;" src="images-nw/waterfalls-ne-OR.JPG" width="600" height="auto" /><br><br>
-	1. Tygh Valley:<br>
-	   <a href="https://whatbeautifullight.com/2014/06/08/sherars-falls-oregon-a-historic-native-fishing-ground/">Sherars Falls</a><br>
-	   <a href="https://stateparks.oregon.gov/index.cfm?do=park.profile&parkId=28">White River Falls</a> 
-	   (see above Columbia River Gorge travel boxes)<br>
-	   <!-- <a href="https://www.XXXXXXX.com">Middle White River Falls</a><br> -->
-	   <a href="https://www.oregonhikers.org/field_guide/Lower_White_River_Falls">Lower White River Falls</a><br>
-	2. <a href="https://www.oregonhikers.org/field_guide/Cline_Falls_Hike">Cline Falls</a> (Redmond)<br>
-	3. Tumalo Creek (see above Coumbia River Gorge travel box):<br>
-	   <a href="https://www.oregonhikers.org/field_guide/Tumalo_falls">Tumalo Falls</a><br>
-	   <a href="https://www.oregonhikers.org/field_guide/Middle_tumalo_falls">Middle Tumalo Falls</a><br>
-	   <a href="https://www.oregonhikers.org/field_guide/Bridge_Creek_Falls_(Coast_Range)">Bridge Creek Falls</a><br>
-	<!-- 4. Canal Falls (Bend)<a href="https://www.XXXXXXX.com">XXXXXX</a><br> -->
-	5. Lava Butte Geological Area:<br>
-	   <a href="https://www.worldwaterfalldatabase.com/index.php/waterfall/Lava-Island-Falls-3696">Lava Island Falls</a><br>
-	   <a href="https://www.alltrails.com/poi/us/oregon/dillon-falls">Dillon Falls</a><br>
-	   <a href="https://www.thesavvysightseer.com/benham-falls.html">Benham Falls</a><br>
-	6. <a href="https://northshorevisitor.com/things-todo/fall-river-falls/">Fall River Falls</a> (La Pine)<br>
-	7. Newberry Crater:<br>
-	   <a href="https://hiiker.app/trails/oregon/deschutes-county/lower-paulina-falls-view-trail">Lower Paulina Creek Falls</a><br>
-	   <a href="https://www.world-of-waterfalls.com/waterfalls/pacific-northwest-paulina-falls/">Paulina Creek Falls</a><br><br>
-	<!-- 8. Wallowa Lake:<br>
-	   Wallowa Falls<a href="https://www.XXXXXXX.com">XXXXXX</a><br>
-	   Adam Creek Falls<a href="https://www.XXXXXXX.com">XXXXXX</a><br>
-	9. South Fork Falls (Ochoco)<a href="https://www.XXXXXXX.com">XXXXXX</a><br>
-	10. Deep Creek Falls (Adel)<a href="https://www.XXXXXXX.com">XXXXXX</a><br><br> 
-	-->
-	
-	Refresh browser to collapse this box<br><br>
-
-	<i>Note: When this box collapses, you might have<br>
-	scroll up some to return to the cursor original location.</i>
-</div>
+<br><p style="text-align: center"><span style="background-color: #FFFF00"><a href="nw-waterfalls.shtml" target="_blank" rel="noopener noreferrer">Pacific Northwest Waterfalls</a></span><br>
+<i>(this link opens to a new browser page)</i></p>
+<br>
 
 A few interesting articles... I found these well after putting together this page. Lots of items covered on this web page. But, also includes some new items I have heard about or never heard of...<br>
 
