@@ -67,6 +67,7 @@ td				{margin-left: auto; margin-right: auto; font-size: 10pt; border: 0px solid
 </style>
 
 <!-- link rel="stylesheet" type="text/css" href="n[1]w-travel.css" -->
+
 <link rel="shortcut icon" href="images-general/oregon.ico"/>
 <meta name="Microsoft Border" content="tl, default">
 <script type="text/javascript">
@@ -85,9 +86,7 @@ td				{margin-left: auto; margin-right: auto; font-size: 10pt; border: 0px solid
 
 <p style="text-align: center"><img border="0" src="images-nw/map-nw-general.jpg" width="608" height="auto" style="border: 0px solid black; box-shadow: 8px 8px 12px #999"></p><br>
 
-<!-- to create a shadow border to image: inside <img > add the following: 
-style="border: 0px solid black; box-shadow: 8px 8px 12px #999" Modify variables 
--->
+<!-- to create a shadow border to image: inside <img > add the following: style="border: 0px solid black; box-shadow: 8px 8px 12px #999" Modify variables -->
 
 I put together this web page to give travel ideas for a Pacific Northwest visit. It is for personal use only (friends and family). If shared, please make sure the receiver understands this. I am not running a tourist busines or profiting from my interest in collecting and sharing information. If you spot errors or page problems, don't hesitate to send me an email so I can make any needed updates. PBO<br><br>
 
@@ -391,8 +390,7 @@ aka Portland International Rose Test Garden</p>
 	<p style="text-align: center"><a href="https://cdn11.bigcommerce.com/s-7eepw5u9z2/product_images/uploaded_images/mox-portland-gallery.jpg"><img border="0" src="images-nw/pdx-mox.jpg" width="333" height="auto"></a></td>
 </table></div>
 
-<!--
-<div id="site-table"><p class="site-header-txt">Multnomah County Central Library</p> 
+<!-- <div id="site-table"><p class="site-header-txt">Multnomah County Central Library</p> 
 <table width="100%"><td valign="top" width="50%">
 		Area <span class="f2">A</span> - Downtown Portland <img border="0" src="images-nw/symbol-subway.gif" width="19" height="19"><img border="0" src="images-nw/symbol-stopwatch.gif" width="19" height="19"><br><br>
 
@@ -408,8 +406,7 @@ aka Portland International Rose Test Garden</p>
 	<td valign="top" width="50%">
 	<a href="https://upload.wikimedia.org/wikipedia/commons/e/e5/Central_Library_(Portland,_Oregon).jpg">
 	<img border="0" src="images-nw/pdx-library.jpg" width="440" height="auto"></a></td>
-</table></div>
--->
+</table></div> -->
 
 <div id="site-table"><p class="site-header-txt">Oregon Museum of Science and Industry (OMSI)</p> 
 <table width="100%"><td valign="top" width="50%">
@@ -512,8 +509,7 @@ aka Portland International Rose Test Garden</p>
 </table></div>
 
 
-<!--
-<div id="site-table"><p class="site-header-txt">Local Festivals and Events</p> 
+<!-- <div id="site-table"><p class="site-header-txt">Local Festivals and Events</p> 
 <table width="100%"><td valign="top" width="50%">
 		<a href="https://live.staticflickr.com/1628/24545696776_0b6c245f24_b.jpg">
 		<img border="0" src="images-nw/pdx-festivals.JPG" width="440" height="auto"></a></td>
@@ -533,8 +529,7 @@ aka Portland International Rose Test Garden</p>
 		<li>Portland Convention Center hold events throughout the year including: CoffeeFest, Chocolatefest, Wine and Seafood Fest, ScanFair (December Scandinavia Festival), Beer and Wine Fest and others</li>
 		<li>Astoria has a neat <a href="https://astoriascanfest.com/">Midsummer Scandinavian Festival</a></li>
 	</ul></td>
-</table></div>
--->
+</table></div> -->
  
 <div id="site-table"><p class="site-header-txt">Mount Angel</p> 
 <table width="100%"><td valign="top" width="50%">
@@ -737,9 +732,7 @@ Many of the Portland and Beaverton sites shown on a single map: <a href="images-
 
 		<a href="https://www.google.com/maps/place/Powell's+Books+at+Cedar+Hills+Crossing/@45.5190275,-122.8153003,12.33z/data=!4m6!3m5!1s0x5495af7000000001:0xd187b46859233ec!8m2!3d45.4955583!4d-122.8114583!16s/g/11h0b8chp?hl=en&entry=ttu">Google Maps</a><br><br>
 
-		<!--
-		<a href="https://images.contentstack.io/v3/assets/bltb207d0665725d072/bltbea4d489d35b270a/67c242d3938bf5bea7f9cef0/cedar_hills_1440x720.jpg"><img border="0" src="images-nw/bvtn-powells2.jpg" width="440" height="auto"></a>
-		-->
+		<!-- <a href="https://images.contentstack.io/v3/assets/bltb207d0665725d072/bltbea4d489d35b270a/67c242d3938bf5bea7f9cef0/cedar_hills_1440x720.jpg"><img border="0" src="images-nw/bvtn-powells2.jpg" width="440" height="auto"></a> -->
 	
 	</td>
 	<td valign="top" width="50%">
@@ -1856,8 +1849,7 @@ Former Tillamook Naval Air Station (aka Blimp Base)</p>
 	<a href="https://www.google.com/maps/place/Crater+Lake+National+Park/@44.1186908,-123.8770564,7.21z/data=!4m6!3m5!1s0x54c6170840e5e339:0x902bf2e1452fe3a3!8m2!3d42.9294762!4d-122.1279394!16zL20vMDE3eXk0?hl=en&entry=ttu">Google Maps</a></td>
 </table></div>
 
-<!--
-<div id="site-table"><p class="site-header-txt">Alfred A. Loeb State Park</p> 
+<!-- <div id="site-table"><p class="site-header-txt">Alfred A. Loeb State Park</p> 
 <table width="100%"><td valign="top" width="50%">
 		Area <span class="f2">F</span> - 250 miles South of Beaverton (in Oregon) <img border="0" src="images-nw/symbol-binos.gif" width="19" height="19"> <img border="0" src="images-nw/boot-print.gif" width="19" height="19"> <br><br>
 
@@ -1870,8 +1862,7 @@ Former Tillamook Naval Air Station (aka Blimp Base)</p>
 		<a href="https://www.google.com/maps/place/Alfred+A.+Loeb+State+Park/@44.0218395,-122.346049,7.38z/data=		!4m6!3m5!1s0x54daa449572bf0c9:0xb182ca475bab7fe1!8m2!3d42.1127554!4d-124.1877237!16s%2Fm%2F04q0g19?entry=ttu&g_ep=EgoyMDI2MDQyMi4wIKXMDSoASAFQAw%3D%3D">Google Maps</a><br><br></td>
 	<td valign="top" width="50%">
 	<a href="https://www.islands.com/img/gallery/oregons-northernmost-redwoods-thrive-in-this-idyllic-state-park-near-the-coast-and-california-border/intro-1776484267.jpg"><img border="0" src="images-nw/south-OR-redwoods.jpg" width="440" height="auto"></a></td>
-</table></div>
--->
+</table></div> -->
 
 <div id="site-table"><p class="site-header-txt">Redwood National Park</p>
 <table width="100%"><td valign="top" width="50%">
@@ -2319,14 +2310,9 @@ Former Tillamook Naval Air Station (aka Blimp Base)</p>
 	<a href="https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/downtown-leavenworth-washington-spencer-mcdonald.jpg"><img border="0" src="images-nw/wa-leavenworth.JPG" width="440" height="auto"></a></td>
 </table></div>
 
-<!--
-To create External Styles insert the following (between <>) 
-in the HTLM section where XXXX = name of the CSS page:
-link rel="stylesheet" type="text/css" href="XXXX.css"
--->
+<!-- To create External Styles insert the following (between <>) in the HTLM section where XXXX = name of the CSS page: link rel="stylesheet" type="text/css" href="XXXX.css" -->
 
-<!--
-<div id="site-table"><table width="100%">
+<!-- <div id="site-table"><table width="100%">
 	<td valign="top" width="50%">
 		Where to take a selfie with Bigfoot:<br><br>
 
@@ -2369,8 +2355,7 @@ link rel="stylesheet" type="text/css" href="XXXX.css"
 		<li><a href="https://madehereonline.com/">madehereonline.com</a></li>
 		<li><a href="https://hellofromportland.net/">hellofromportland.net</a></li>
 	</ul></td>
-</table></div>
--->
+</table></div> -->
 
 <br><p style="text-align: center"><span style="background-color: #FFFF00"><a href="nw-waterfalls.shtml" target="_blank" rel="noopener noreferrer">Pacific Northwest Waterfalls</a></span><br>
 <i>(this link opens to a new browser page)</i></p>
