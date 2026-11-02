@@ -34,13 +34,15 @@ a:visited	{font-family: Tahoma; font-size: 10pt; color: #0000FF; text-decoration
 -->
 </style>
 
+<link rel="shortcut icon" href="images-general/oregon.ico"/>
+
 <body>
 <div id="Content">
 <p style="text-align: center"><span class="site-header-txt">Oregon Lighthouses</span><br><br>
 
-Last update: November 1, 2026</p>
+Last update: November 2, 2026</p>
 
-This list has some overlaps with other site boxes in the main travel page.<br><br>
+This list has some overlaps with other site boxes on the main travel page.<br><br>
 	
 Back in the late 90's, we made a week long family trip of casually driving down the coast and visiting all of the Oregon lighthouses taking lots of photos.<br><br>
 	
@@ -97,9 +99,10 @@ Coquille River<br>
 <img border="0" src="images-nw/coast-small-lh-11coquille-river.JPG" width="200" height="auto"></a><br><br>
 
 Cape Blanco<br>
-<img border="0" src="images-nw/coast-small-lh-12cape-blanco.JPG" width="200" height="auto"><br><br>
+<img border="0" src="images-nw/coast-small-lh-12cape-blanco.JPG" width="200" height="auto">
 
-
+<!--
 <p><img border="0" src="/images-nw/flag-oregon.jpg" width="150" height="100" style="border: 0px solid black; box-shadow: 8px 8px 12px #999"></p>
+-->
 
 </div></body></html>
