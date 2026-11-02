@@ -81,13 +81,15 @@ td				{margin-left: auto; margin-right: auto; font-size: 10pt; border: 0px solid
 <p class="site-header-txt"><a href="https://pbo-or.github.io/nw-travel1.shtml">
 <span class="area-header-txt">Northwest Travel Sites</span></a></p> 
 
-<p style="text-align: center">Last update: November 1, 2026</p>
+<p style="text-align: center">Last update: November 2, 2026</p>
 
 <p style="text-align: center"><img border="0" src="images-nw/map-nw-general.jpg" width="608" height="auto" style="border: 0px solid black; box-shadow: 8px 8px 12px #999"></p><br>
 
 <!-- to create a shadow border to image: inside <img > add the following: 
 style="border: 0px solid black; box-shadow: 8px 8px 12px #999" Modify variables 
 -->
+
+I put together this web page to give travel ideas for a Pacific Northwest visit. It is for personal use only (friends and family). If shared, please make sure the receiver understands this. I am not running a tourist busines or profiting from my interest in collecting and sharing information. If you spot errors or page problems, don't hesitate to send me an email so I can make any needed updates. PBO<br><br>
 
 <p style="text-align: center"><b>Quick Navigation Links</b>:<br><br>
 
@@ -101,8 +103,6 @@ style="border: 0px solid black; box-shadow: 8px 8px 12px #999" Modify variables
  
 Control+Home will return you to the top of the page<br>
 <i>I have read that in some browsers that these Quick Links may not work.</i></p><br>
-
-I put together this web page to give travel ideas for a Pacific Northwest visit. It is for personal use only (friends and family). If shared, please make sure the receiver understands this. I am not running a tourist busines or profiting from my interest in collecting and sharing information. If you spot errors or page problems, don't hesitate to send me an email so I can make any needed updates. PBO<br><br>
 
 <p style="text-align: center"><span style="background-color: #FFFF00"><a href="JavaScript:doExpand(ABOUTBox)">About This Web Page</a></span> <img src="images-general/down-arrow.svg" class="static-icon" /></p>
 <div id="ABOUTBox" style="display: none">
@@ -821,7 +821,7 @@ Many of the Portland and Beaverton sites shown on a single map: <a href="images-
 		<li>Of interest... for something completely different, there is a <a href="https://kurasushi.com/locations/beaverton-or">Kura Revolving Sushi Bar</a> also near our house. Very modern. Digital screen selection at your table or seats. Conveyor belt almost instantly shoots your food to your table. Drinks are served by robots rolling around the resturant. A little pricey for the smaller size selections, but definitely an interesting experience.</li>
 	</ul>
 
-	A new <a href="https://ajisaisushisteak.com/">Ajisai Sushi and Steak</a> restraurant has opened very close to the house. Appears to be a national chain. Looks tasty, but expensive.<br><br>
+	A new <a href="https://ajisaisushisteak.com/">Ajisai Sushi and Steak</a> restraurant has opened very close to the house. Appears to be a national chain. Tasty, but expensive.<br><br>
 
 	If you want to go upscale, we do have our own local <a href="https://www.benihana.com/locations/beaverton/">Benihana</a>. Expensive. Long lead time for reservations, but always an experience and really good food. In very high demand. Even with a reservation, we have waited nearly an hour multiple times for tables to open up.</td>
 </table></div>
@@ -844,7 +844,7 @@ Many of the Portland and Beaverton sites shown on a single map: <a href="images-
 
 	Example breakdown is direct trip to Lincoln City and Newport and returning the same route.<br><br>
 
-	The arrows correspond with the next dropdown box (<b>Beaches, Viewpoints and Waysides</b>).</td>
+	The yellow arrows correspond with the next link below (<b>Beaches, Viewpoints and Waysides</b>).</td>
 </table></div>
 
 <p style="text-align: center"><span style="background-color: #FFFF00"><a href="nw-beaches.shtml" target="_blank" rel="noopener noreferrer">North Oregon Coast: Beaches, Viewpoints and Waysides</a></span><br>
