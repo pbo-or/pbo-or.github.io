@@ -7,23 +7,23 @@
 <!--
 body, td			{margin-left: auto; margin-right: auto; font-family: Tahoma; font-size: 10pt; background-color: #C6C691; text-align: center; margin: 0; padding: 0; }
 
-black-bold			{font-family: Tahoma; font-size: 10pt; text-decoration: none; font-weight: bold; color:#000000 }
+black-bold		{font-family: Tahoma; font-size: 10pt; text-decoration: none; font-weight: bold; color:#000000; }
 
-white-bold			{font-family: Tahoma; font-size: 10pt; text-decoration: none; font-weight: bold; color:#FFFFFF }
+white-bold		{font-family: Tahoma; font-size: 10pt; text-decoration: none; font-weight: bold; color:#FFFFFF; }
 
-small-text			{font-family: Tahoma; font-size: 7pt; text-decoration: none; margin-top:-20px }
+small-text		{font-family: Tahoma; font-size: 7pt; text-decoration: none; margin-top:-20px; }
 
-a					{font-family: Tahoma; font-size: 10pt }
+a				{font-family: Tahoma; font-size: 10pt; }
 
-a:link				{font-family: Tahoma; font-size: 10pt; color: #0000FF; text-decoration: none; font-weight: bold }
+a:link			{font-family: Tahoma; font-size: 10pt; color: #0000FF; text-decoration: none; font-weight: bold; }
                
-a:visited			{font-family: Tahoma; font-size: 10pt; text-decoration: none; color: #0000FF; font-weight: bold }
+a:visited			{font-family: Tahoma; font-size: 10pt; text-decoration: none; color: #0000FF; font-weight: bold; }
 
 .black-bold-title	{font-family: Tahoma; font-size: 10pt; text-decoration: none; font-weight: bold; color:#ffffff; background-color:#000000; }
 
-#Content			{margin-left: auto; margin-right: auto; text-align: center; border: 0px solid #0066FF; padding: 5px; width: 650px; }
+.night-txt		{background-color: #9e9d9d; color: black; font-weight: bold; }
 
-#TableContainer		{margin-left: auto; margin-right: auto; border: 0px solid #0066FF; padding: 5px; width: 890px; }
+#Content			{margin-left: auto; margin-right: auto; text-align: center; border: 0px solid #0066FF; padding: 5px; width: 650px; }
 
 #AnyDivIdName		{margin-left: auto; margin-right: auto; border: 1px solid #0066FF; padding: 5px; width: 800px; }
 
@@ -45,36 +45,37 @@ a:visited			{font-family: Tahoma; font-size: 10pt; text-decoration: none; color:
 
 #AnyDivIdName9		{margin-left: auto; margin-right: auto; border: 1px solid #0066FF; padding: 5px; width: 800px; }
 
-#AnyDivIdName10		{margin-left: auto; margin-right: auto; border: 1px solid #0066FF; padding: 5px; width: 800px; }
+#AnyDivIdName10	{margin-left: auto; margin-right: auto; border: 1px solid #0066FF; padding: 5px; width: 800px; }
 
-#AnyDivIdName11		{margin-left: auto; margin-right: auto; border: 1px solid #0066FF; padding: 5px; width: 800px; }
+#AnyDivIdName11	{margin-left: auto; margin-right: auto; border: 1px solid #0066FF; padding: 5px; width: 800px; }
 
-#AnyDivIdName12		{margin-left: auto; margin-right: auto; border: 1px solid #0066FF; padding: 5px; width: 800px; }
+#AnyDivIdName12	{margin-left: auto; margin-right: auto; border: 1px solid #0066FF; padding: 5px; width: 800px; }
 
-#AnyDivIdName13		{margin-left: auto; margin-right: auto; border: 1px solid #0066FF; padding: 5px; width: 800px; }
+#AnyDivIdName13	{margin-left: auto; margin-right: auto; border: 1px solid #0066FF; padding: 5px; width: 800px; }
 
-#AnyDivIdName14		{margin-left: auto; margin-right: auto; border: 1px solid #0066FF; padding: 5px; width: 800px; }
+#AnyDivIdName14	{margin-left: auto; margin-right: auto; border: 1px solid #0066FF; padding: 5px; width: 800px; }
 
-#AnyDivIdName15		{margin-left: auto; margin-right: auto; border: 1px solid #0066FF; padding: 5px; width: 800px; }
+#AnyDivIdName15	{margin-left: auto; margin-right: auto; border: 1px solid #0066FF; padding: 5px; width: 800px; }
 
-#AnyDivIdName16		{margin-left: auto; margin-right: auto; border: 1px solid #0066FF; padding: 5px; width: 800px; }
+#AnyDivIdName16	{margin-left: auto; margin-right: auto; border: 1px solid #0066FF; padding: 5px; width: 800px; }
 
-#AnyDivIdName17		{margin-left: auto; margin-right: auto; border: 1px solid #0066FF; padding: 5px; width: 800px; }
+#AnyDivIdName17	{margin-left: auto; margin-right: auto; border: 1px solid #0066FF; padding: 5px; width: 800px; }
 
-#AnyDivIdName18		{margin-left: auto; margin-right: auto; border: 1px solid #0066FF; padding: 5px; width: 800px; }
+#AnyDivIdName18	{margin-left: auto; margin-right: auto; border: 1px solid #0066FF; padding: 5px; width: 800px; }
 
-#AnyDivIdName19		{margin-left: auto; margin-right: auto; border: 1px solid #0066FF; padding: 5px; width: 800px; }
+#AnyDivIdName19	{margin-left: auto; margin-right: auto; border: 1px solid #0066FF; padding: 5px; width: 800px; }
 
-#AnyDivIdName20		{margin-left: auto; margin-right: auto; border: 1px solid #0066FF; padding: 5px; width: 800px; }
+#AnyDivIdName20	{margin-left: auto; margin-right: auto; border: 1px solid #0066FF; padding: 5px; width: 800px; }
 
-#AnyDivIdName21		{margin-left: auto; margin-right: auto; border: 1px solid #0066FF; padding: 5px; width: 800px; }
+#AnyDivIdName21	{margin-left: auto; margin-right: auto; border: 1px solid #0066FF; padding: 5px; width: 800px; }
 
-#AnyDivIdName22		{margin-left: auto; margin-right: auto; border: 1px solid #0066FF; padding: 5px; width: 800px; }
+#AnyDivIdName22	{margin-left: auto; margin-right: auto; border: 1px solid #0066FF; padding: 5px; width: 800px; }
 
-#box				{position: relative; width: 150px; text-align: center; font-family: Tahoma; font-size: 10pt; border-style: solid; border-width: 1px; padding-left: 0px; padding-right: 0px; padding-top: 0px; padding-bottom: 0px; background-color: #C0C0C0}
+#box				{position: relative; width: 150px; text-align: center; font-family: Tahoma; font-size: 10pt; border-style: solid; border-width: 1px; padding-left: 0px; padding-right: 0px; padding-top: 0px; padding-bottom: 0px; background-color: #C0C0C0; }
 
-#text-box			{position: relative; width: 150px;	font-family: Tahoma; font-size: 10pt; border-style: solid; border-width: 0px; padding-left: 0px; padding-right: 0px; padding-top: 0px; padding-bottom: 10px; background-color: #C0C0C0}
+#text-box			{position: relative; width: 150px;	font-family: Tahoma; font-size: 10pt; border-style: solid; border-width: 0px; padding-left: 0px; padding-right: 0px; padding-top: 0px; padding-bottom: 10px; background-color: #C0C0C0; }
 -->
+
 </style>
 
 <!-- link rel="stylesheet" type="text/css" href="p[1]w.css" NOT USED WITH THIS PAGE. CSS DATA ABOVE WITHIN THIS PAGE. -->
@@ -88,22 +89,22 @@ a:visited			{font-family: Tahoma; font-size: 10pt; text-decoration: none; color:
 
 <body>
 <br>  
-<b><font size="4"><img border="0" src="images-general/checker.gif" width="16" height="16">&nbsp;&nbsp;BOOKMARKS&nbsp;&nbsp;<img border="0" src="images-general/checker.gif" width="16" height="16"></font></b>
+<img border="0" src="images-general/checker.gif" width="16" height="16">&nbsp;&nbsp;<b><font size="4">BOOKMARKS</font></b>&nbsp;&nbsp;<img border="0" src="images-general/checker.gif" width="16" height="16">
 
 <p><span style="background-color: #FFFF00">
 <a href="JavaScript:doExpand(AnyDivIdName)">SEARCH ENGINES, PEOPLE SEARCHES, REFERENCES, NEWS, WEATHER</a></span><br></p>
-<div id="AnyDivIdName" style="display: none; width:800px;">
+<div id="AnyDivIdName" style="display: none;">
 
 <table border="0" width="100%"><tbody><tr>
 				<td valign="top" width="25%">
 				<span class="black-bold-title">SEARCH ENGINES</span><br><br>
 
 				Google (below)<br>
+				DuckDuckGo (below)<br>
 				<a href="https://www.bing.com/images">Bing</a><br>
 				<a href="https://www.search.com/">search.com</a><br>
 				<a href="https://www.dogpile.com/">Dogpile</a><br>
 				<a href="https://www.webcrawler.com/">Webcrawler</a><br>
-				<a href="https://duckduckgo.com/">DuckDuckGo</a><br>
 				<a href="https://www.firstgov.gov/">FirstGov</a> (Fed Govt)<br>
 				<a href="https://archive.org/">Internet Archive</a><br>
 				<a href="https://www.wolframalpha.com/">WolframAlpha</a><br>
@@ -129,7 +130,7 @@ a:visited			{font-family: Tahoma; font-size: 10pt; text-decoration: none; color:
 		<a href="https://abcnews.go.com/">ABCnews.com</a><br>
 		<a href="https://www.cbsnews.com/">CBSnews.com</a><br>
 		<a href="https://www.ms.now/">MS Now</a><br>
-		<a href="https://www.usnews.com/usnews/home.htm">USnews.com</a><br>
+		<a href="https://www.usnews.com/usnews/home.htm">USNews.com</a><br>
 		<a href="https://www.foxnews.com/">FoxNews.com</a><br>
 		<a href="https://www.katu.com/">KATU</a><br>
 		<a href="https://www.koin.com/">KOIN</a><br>
@@ -152,13 +153,13 @@ a:visited			{font-family: Tahoma; font-size: 10pt; text-decoration: none; color:
 </tr></tbody></table></div><br>
 
 <div align="center">
-<table border="0" cellpadding="0" cellspacing="0" width="880"><table class="center"><tbody><tbody style="margin: auto"><tr>
+<table border="0" cellpadding="0" cellspacing="0" width="800"><table class="center"><tbody style="margin: auto"><tr>
 
 				<td align="center" valign="top" width="170">
 				<div id="box"><b>Web Sites</b><br><br>
 				<div id="text-box">
-					<a href="https://duckduckgo.com/">DuckDuckGo</a><br><br>
 					<a href="https://www.google.com/">Google</a><br><br>
+					<a href="https://duckduckgo.com/">DuckDuckGo</a><br><br>
 					<a href="https://www.google.com/maps/d/">Google MyMaps</a><br><br>
 					<a href="https://www.google.com/android/find/">Find Hub</a><br><br>
 					<a href="https://github.com/pbo-or/pbo-or.github.io">GitHub</a><br>(/pbo-or)<br><br>
@@ -246,9 +247,7 @@ a:visited			{font-family: Tahoma; font-size: 10pt; text-decoration: none; color:
 	<b>yout-ube.com/...</b><br>
 	(for ad free)
 </div></div></td>
-</tr></tbody></tbody></table></table></div>
-
-
+</tr></tbody></table></table></div>
 
 
 
@@ -257,7 +256,7 @@ a:visited			{font-family: Tahoma; font-size: 10pt; text-decoration: none; color:
 <div id="AnyDivIdName1" style="display: none;">
 <table border="0" width="100%"><tbody><tr>
 
-		<td valign="top" width="43%">
+		<td valign="top" width="50%">
 		<b>UTILITIES (+)</b><br><br>
 
 		<a href="https://cleanwaterservices.org/community-home/stormwater/pay-bill/">Clean Water Services</a><br>
@@ -268,7 +267,7 @@ a:visited			{font-family: Tahoma; font-size: 10pt; text-decoration: none; color:
 		<a href="https://www.wswd.org/">West Slope Water</a><br><br>
 
 		<b>ACCOUNTS</b><br><br></td>
-	<td valign="top" width="56%">
+	<td valign="top" width="50%">
 	<b>HEALTH</b><br><br>
 
 	<b>OTHER</b><br><br>
@@ -277,8 +276,7 @@ a:visited			{font-family: Tahoma; font-size: 10pt; text-decoration: none; color:
 	<a href="https://billygoatlandscapingllc.com/">Billygoat Landscaping</a><br>
 	(irrigation, sprinklers, landscaping)<br>
 	<a href="https://wmspdx.com/">Westside Mechanical Services</a><br>
-	(furnace, air conditioning)<br>
-	<td valign="top" width="56%"><br></td>
+	(furnace, air conditioning)<br></td>
 </tr></tbody></table></div>
 
 
@@ -573,7 +571,7 @@ a:visited			{font-family: Tahoma; font-size: 10pt; text-decoration: none; color:
 		<td valign="top" width="50%">
 		<span class="black-bold-title">2027 WESTERN USA ROAD TRIP/ITINERARY</span><br><br>
 		
-		<a href="https://www.google.com/maps/d/">Google My Maps</a> (sign-in)<br><br>
+		<a href="https://www.google.com/maps/d/" target="_blank" rel="noopener noreferrer">Google My Maps</a> (sign-in)<br><br>
 		
 		<span style="background-color: #FFA500"><a href="https://www.google.com/maps/dir/45.4951492,-122.7779545/Sacramento+International+Airport,+6900+Airport+Blvd,+Sacramento,+CA+95837/Yosemite+Valley+Welcome+Center,+9007+Village+Dr,+YOSEMITE+NATIONAL+PARK,+CA+95389/Best+Western+Plus+Fresno+Inn,+480+E+Shaw+Ave,+Fresno,+CA+93710/Foothills+Visitor+Center,+47050+Generals+Hwy,+Three+Rivers,+CA+93271/Santa+Rosa+Park,+1050+Oak+St,+San+Luis+Obispo,+CA+93405/@36.2920057,-122.4790421,8.08z/data=!4m53!4m52!1m0!1m10!1m1!1s0x809b2b73ce6a70ad:0xa460901228ef4232!2m2!1d-121.5888116!2d38.694402!3m4!1m2!1d-121.4447985!2d38.2462615!3s0x809ab0780a1598ff:0xeaa98321af74fb4!1m5!1m1!1s0x8096f21ec13dfe4f:0xfd6f0dcd0c7fd2b9!2m2!1d-119.5842598!2d37.7465139!1m10!1m1!1s0x80945d6522230803:0xa385990228d7fea8!2m2!1d-119.7802449!2d36.8091945!3m4!1m2!1d-118.8497034!2d36.6728127!3s0x809566187d812289:0x15a65cdfcbe9da51!1m15!1m1!1s0x80955aeffa88799d:0xbd2497e7eef50702!2m2!1d-118.8255293!2d36.4909974!3m4!1m2!1d-121.1366834!2d36.5153163!3s0x80924439d8064975:0x52d36592a0eabbf6!3m4!1m2!1d-121.1461765!2d36.4949745!3s0x8092445e8ce9e09b:0x8525bbeaa19fa39f!1m5!1m1!1s0x80ecf1ab3de0104b:0x9142ba9dee8ec8db!2m2!1d-120.6641398!2d35.2900576!3e0?entry=ttu&g_ep=EgoyMDI2MDkxNC4wIKXMDSoASAFQAw%3D%3D">MAP (Beaverton-San Luis Obispo)</a></span><br>
 		<span style="background-color: #FFA500"><a href="https://www.google.com/maps/dir/Santa+Rosa+Park,+1050+Oak+St,+San+Luis+Obispo,+CA+93405/Best+Western+Plus+Las+Vegas+South+Henderson,+3041+St+Rose+Pkwy,+Henderson,+NV+89052/Hoover+Dam+Visitor+Center+%26+Tours,+81+Hoover+Dam+Access+Rd,+Boulder+City,+NV+89005/36.0588544,-112.1087439/@36.0349471,-112.1060402,14z/data=!4m31!4m30!1m15!1m1!1s0x80ecf1ab3de0104b:0x9142ba9dee8ec8db!2m2!1d-120.6641398!2d35.2900576!3m4!1m2!1d-119.791024!2d34.985907!3s0x80ebe9e08e2985f7:0xc20550b81905f5e9!3m4!1m2!1d-118.9892004!2d35.0593679!3s0x80ea192d0ecd2bd9:0xa31c528709c1ec14!1m5!1m1!1s0x80c8ce724f131ffd:0xe256a846d57c6729!2m2!1d-115.1217783!2d36.0000406!1m5!1m1!1s0x80c92d159e975ed7:0xa7d9d4b003dc555e!2m2!1d-114.7395923!2d36.0162072!1m0!3e0?entry=ttu&g_ep=EgoyMDI2MDgxMC4wIKXMDSoASAFQAw%3D%3D">MAP (San Luis Obispo-Grand Canyon NP)</a></span><br>
@@ -583,83 +581,83 @@ a:visited			{font-family: Tahoma; font-size: 10pt; text-decoration: none; color:
 		<span style="background-color: #FFFF00"><b>Day 1</b></span><br>
 		Fly from PDX to Sacramento. Pickup rental car.<br><br>
 		
-		<a href="https://www.animalsaroundtheglobe.com/the-25-national-parks-rangers-say-reward-an-early-start-more-than-anywhere-else-1-409392/">25 NP Rangers Say Reward an Early Start More Than Anywhere Else</a><br>
 		<a href="https://travelbinger.com/8-u-s-national-parks-facing-overcrowding-issues">8 U.S. NPs Facing Overcrowding Issues</a><br>
-		<a href="https://travelbinger.com/7-u-s-national-parks-that-have-become-dangerously-overcrowded">7 U.S. NPs That Have Become Dangerously Overcrowded</a><br><br>
+		<a href="https://travelbinger.com/7-u-s-national-parks-that-have-become-dangerously-overcrowded">7 U.S. NPs That Have Become Dangerously Overcrowded</a><br>
+		<a href="https://www.animalsaroundtheglobe.com/the-25-national-parks-rangers-say-reward-an-early-start-more-than-anywhere-else-1-409392/">25 NP Rangers Say Reward an Early Start More Than Anywhere Else</a><br><br>
 		
 		<span style="background-color: #00FF00"><a href="https://www.nps.gov/yose/index.htm">Yosemite NP, CA</a></span><br><br>
-		
-		<span class="black-bold-title">LODGING</span> at Fresno, CA<br>
+
+		<span class="night-txt">LODGING</span> at Fresno, CA<br>
 		<a href="https://www.expedia.com/Fresno-Hotels-La-Quinta-Inn-Suites-By-Wyndham-Fresno-Northwest.h2964213.Hotel-Information">La Quinta Inn & Suites Clovis</a>, 1508 Clovis Ave, Clovis<br><br>
 		
 		<span style="background-color: #FFFF00"><b>Day 2</b></span><br>
 		<span style="background-color: #00FF00"><a href="https://www.nps.gov/seki/index.htm">Sequoia NP, CA</a></span><br>
 		<span style="background-color: #00FF00"><a href="https://www.nps.gov/seki/index.htm">Kings Canyon NP, CA</a></span><br><br>
-		
-		<span class="black-bold-title">LODGING</span> at Visilia, CA<br>
+
+		<span class="night-txt">LODGING</span> at Visilia, CA<br>
 		<a href="https://www.ihg.com/holidayinnexpress/hotels/us/en/visalia/visex/hoteldetail">Holiday Inn Express Visalia-Sequoia</a>, 5625 W. Cypress Ave<br><br>
 		
 		<span style="background-color: #FFFF00"><b>Day 3</b></span><br>
 		<span style="background-color: #00FF00"><a href="https://www.nps.gov/pinn/index.htm">Pinnacles NP, CA</a></span><br><br>
-		
-		<span class="black-bold-title">LODGING</span> at San Luis Obispo, CA<br>
+
+		<span class="night-txt">LODGING</span> at San Luis Obispo, CA<br>
 		<a href="https://www.expedia.com/San-Luis-Obispo-Hotels-La-Cuesta-Inn.h14372.Hotel-Information">La Cuesta Inn Best Western</a>, 2074 Monterey Street<br><br>
 
 		<span style="background-color: #FFFF00"><b>Day 4</b></span><br>
 		<span style="background-color: #ff0000"><b>Wedding</b></span>at 1150 Farmhouse Ln, San Luis Obispo, CA<br>
 		<a href="https://www.travelandleisure.com/guide-san-luis-obispo-california-11944754">San Luis Obispo</a><br><br>
-		
-		<span class="black-bold-title">LODGING</span> at San Luis Obispo, CA (above)<br><br>
+
+		<span class="night-txt">LODGING</span> at San Luis Obispo, CA (above)<br><br>
 		
 		<span style="background-color: #FFFF00"><b>Day 5</b></span><br>
 		Travel to Henderson, NV<br><br>
-		
-		<span class="black-bold-title">LODGING</span> at Henderson, NV<br>
+
+		<span class="night-txt">LODGING</span> at Henderson, NV<br>
 		<a href="https://www.bestwestern.com/en_US/book/hotel-rooms.29088.html">Best Western Plus Las Vegas South</a>, 3041 St Rose Pkwy<br><br>
 		
 		<span style="background-color: #FFFF00"><b>Day 6</b></span><br>
 				<span style="background-color: #00FF00"><a href="https://www.usbr.gov/lc/hooverdam/">Hoover Dam, CA/NV</a></span><br>		
 		<span style="background-color: #00FF00"><a href="https://www.nps.gov/grca/index.htm">Grand Canyon NP, AZ</a></span><br><br>
-		
-		<span class="black-bold-title">LODGING</span> at Page, NV<br>
+
+		<span class="night-txt">LODGING</span> at Page, NV<br>
 		<a href="https://www.expedia.com/Page-Hotels-Best-Western-View-Of-Lake-Powell-Hotel.h6422793.Hotel-Information">Best Western View of Lake Powell</a>, 208 N Lake Powell Blvd<br><br>
 		
 		<span style="background-color: #FFFF00"><b>Day 7</b></span><br>				
 		<span style="background-color: #00FF00"><a href="https://www.nps.gov/glca/planyourvisit/horseshoe-bend.htm">Horseshoe Bend, AZ</a></span><br>
 		<span style="background-color: #00FF00"><a href="https://www.antelopecanyon.com/upper-antelope-canyon-tour/">Upper Antelope Canyon Tour, AZ</a></span><br>
 		<span style="background-color: #00FF00"><a href="https://www.utah.com/destinations/recreation-areas/lake-powell/visitor-information/glen-canyon-dam-visitor-center/">Glen Canyon Dam, UT</a></span><br><br>
-		
-		<span class="black-bold-title">LODGING</span> at Springdale UT<br>
+
+		<span class="night-txt">LODGING</span> at Springdale UT<br>
 		<a href="https://www.hyatt.com/hyatt-place/en-US/sguzz-hyatt-place-springdale-zion-national-park">Hyatt Place Springdale/Zion</a>, 1215 Zion Park Blvd<br><br>
 		
 		<span style="background-color: #FFFF00"><b>Day 8</b></span><br>
 		<span style="background-color: #00FF00"><a href="https://www.nps.gov/zion/index.htm">Zion NP, UT</a> (initial)</span><br>
 		<a href="https://ourwanders.com/a-national-park-still-not-famous-enough-zion-utah/">7 Amazing Things To Do In Zion NP</a><br>
+		<a href="https://www.islands.com/2237725/tips-from-park-rangers-enjoying-zion-national-park/">11 Tips from Park Ranger for Enjoying Zion Zion</a><br>
 		<a href="https://thefrugalgirls.com/2015/03/zion-national-park-travel-tips.html">30 Zion NP Travel Tips</a><br>
-		<a href="https://www.thetravel.com/skip-zion-and-arches-utah-state-parks-hikers-are-flocking-to-instead/">Skip Zion And Arches: 10 Utah State Parks Hikers Are Flocking To Instead</a><br>
-		<a href="https://www.islands.com/2237725/tips-from-park-rangers-enjoying-zion-national-park/">11 Tips from Park Ranger for Enjoying Zion Zion</a><br><br>
+		<a href="https://www.thetravel.com/skip-zion-and-arches-utah-state-parks-hikers-are-flocking-to-instead/">Skip Zion And Arches: 10 Utah State Parks Hikers Are Flocking To Instead</a><br><br>
 		
-		<span class="black-bold-title">LODGING</span> at Cedar City, UT<br>
+		<span class="night-txt">LODGING</span> at Cedar City, UT<br>
 		<a href="https://bigyellowinn.com/">Big Yellow Inn</a>, 234 S 300W<br><br>
 
 		<span style="background-color: #FFFF00"><b>Day 9</b></span><br>
 		<span style="background-color: #00FF00"><a href="https://www.nps.gov/zion/index.htm">Zion (& Kobol Canyons) NP, UT</a></span> (continued)<br><br>
-		
-		<span class="black-bold-title">LODGING</span> at Cedar City, UT (above)<br><br>
+
+		<span class="night-txt">LODGING</span> at Cedar City, UT (above)<br><br>
 		
 		<span style="background-color: #FFFF00"><b>Day 10</b></span><br>
 		<span style="background-color: #00FF00"><a href="https://www.nps.gov/brca/index.htm">Bryce Canyon NP, UT</a></span><br>		
 		<span style="background-color: #00FF00"><a href="https://www.nps.gov/care/index.htm">Capitol Reef NP, UT</a></span><br><br>
-		
-		<span class="black-bold-title">LODGING</span> at Green River, UT<br>
+
+		<span class="night-txt">LODGING</span> at Green River, UT<br>
 		<a href="https://www.expedia.com/Moab-Hotels-Comfort-Inn-Green-River-National-Park-Area.h16389.Hotel-Information">Comfort Inn Green River National Park Area</a>, 1975 E. Main St<br><br>
 		
 		<span style="background-color: #FFFF00"><b>Day 11</b></span><br>
 		<span style="background-color: #00FF00"><a href="https://www.nps.gov/arch/index.htm">Arches NP, UT</a></span><br>
 		<a href="https://www.mensjournal.com/news/arches-national-parks-free-shuttle-lets-visitors-skip-the-entrance-line">Arches Free Shuttle Lets Visitors Skip The Entrance Line</a><br>		
 		<span style="background-color: #00FF00"><a href="https://www.nps.gov/cany/index.htm">Canyonlands NP, UT</a></span><br><br>
-		
-		<span class="black-bold-title">LODGING</span> at Green River, UT (above)<br><br>
+
+		<span class="night-txt">LODGING</span> at Green River, UT (above)<br><br>
 		
 		<span style="background-color: #FFFF00"><b>Day 12</b></span><br>
 		Turn-in rental car at Salt Lake City. Fly from SLC to PDX.<br><br></td>
@@ -800,23 +798,18 @@ a:visited			{font-family: Tahoma; font-size: 10pt; text-decoration: none; color:
 
 		<a href="future-trips.shtml">Future Trips</a> GitHub<br><br>
 		
-		<a href="jan24-storm2.shtml">Jan 2024 Storm</a> GitHub<br><br>
-	
-		<a href="https://www.XXXXXX.com">XXXXXX</a><br><br></td>
+		<a href="jan24-storm2.shtml">Jan 2024 Storm</a> GitHub<br></td>
 	<td valign="top" width="50%">
 	<a href="index.html">Index Page</a> GitHub<br>
-	<a href="x-current-news.shtml">Current News</a> GitHub<br>
-	<a href="images-nw/flag-oregon.jpg">Oregon Flag</a> GitHub<br>
-	<a href="images-nw/flag-washington.jpg">Washington Flag</a> GitHub<br><br>
+	<a href="x-current-news.shtml">Current News</a> GitHub<br><br>
 
-	<s><a href="https://myplace.frontier.com/~pboakes/bookmarks1.shtml">BM Page</a> Frontier</s><br><br>
-	
 	<a href="images-fern-canyon-travel/map-travel-iceland.jpg">Iceland Map</a><br>
 	<a href="images-fern-canyon-travel/map-travel-svalbard.jpg">Svalbard Map</a><br>
 	<a href="images-fern-canyon-travel/map-travel-norway.JPG">Norway Map</a><br><br>
 
-	<a href="https://maxoakes.github.io/photography/">Max's Photo Web Site</a><br><br></td>
-</tr></tbody></table>
+	<a href="https://maxoakes.github.io/photography/">Max's Photo Web Site</a><br><br>
+	<a href="https://www.XXXXXX.com">XXXXXX</a><br></td>
+</tr></table>
 
 
 
@@ -845,8 +838,10 @@ Instructions/Manuals at: E:\current\electronics-related\home-hardware-tech\EcoFl
 <a href="https://www.howtogeek.com/i-ditched-my-gas-generator-for-battery-backup-and-im-never-looking-back/">Battery BU Article</a><br>
 <a href="https://www.makeuseof.com/this-device-is-quietly-replacing-generators/">Another Battery Article</a><br>
 <a href="https://www.youtube.com/watch?app=desktop&v=iwxPkxdv8s8&t=191s">Generator-YouTube</a><br>
+<a href="https://www.howtogeek.com/ive-started-charging-all-of-my-devices-with-solar-heres-how/">I've Started Charging All of My Devices for Free with Solar</a><br>
 <a href="https://www.construct101.com/simple-diy-2x4-bench-free-plans/">Simple DIY 2×4 Bench – Free Plans</a></td>
 </tr></tbody></table></div>
+
 
 <p><span style="background-color: #FFFF00">
 <a href="JavaScript:doExpand(AnyDivIdName11)">ADVICE/TIPS/IDEAS - ARCHITECTURE - BEER</a></span><br></p>
@@ -1296,9 +1291,8 @@ Flamingo sings &quot;Go Your Own Way&quot; by Fleetwood Mac | THE MASKED SINGER 
 
 <span class="black-bold-title">POLITICS/ECONOMY</span><br><br>
 
-<a href="https://www.cnn.com/interactive/2019/business/stock-market-by-president/">Stock market performance by president</a><br>
-<a href="https://www.theguardian.com/us-news/2021/jan/29/trump-russia-asset-claims-former-kgb-spy-new-book">The perfect target: Russia cultivated Trump as asset for 40 years - ex-KGB spy</a><br>
-<a href="https://financebuzz.com/news/struggling-companies-facing-closure-2?pid=1692">14 Companies That Could Be Gone by the End of 2026</a><br><br>
+<a href="https://financebuzz.com/news/struggling-companies-facing-closure-2?pid=1692">14 Companies That Could Be Gone by the End of 2026</a><br><a href="https://www.cnn.com/interactive/2019/business/stock-market-by-president/">Stock market performance by president</a><br>
+<a href="https://www.theguardian.com/us-news/2021/jan/29/trump-russia-asset-claims-former-kgb-spy-new-book">The perfect target: Russia cultivated Trump as asset for 40 years - ex-KGB spy</a><br><br>
 
 <span class="black-bold-title">PURCHASES</span><br><br>
 
@@ -1355,13 +1349,13 @@ Flamingo sings &quot;Go Your Own Way&quot; by Fleetwood Mac | THE MASKED SINGER 
 
 <span class="black-bold-title">SOFTWARE</span><br><br>
 
+<a href="https://www.makeuseof.com/tag/more-useful-websites/">30 Insanely Useful Websites</a><br>
 <a href="https://www.rd.com/article/word-shortcuts/">50 Microsoft Word Shortcuts — Word Keyboard Shortcuts with Printables!</a><br>
 <a href="https://excel.tips.net/T007727_An_Average_that_Excludes_Zero_Values.html">An Average that Excludes Zero Values (Microsoft Excel)</a><br>
 <a href="https://www.pcworld.com/article/443089/best-free-software-for-pc.html">Best free software for your PC</a><br>
 <a href="https://www.antennasdirect.com/transmitter-locator.html">Digital stations</a><br>
 <a href="https://erase.bg/">EraseBG</a><br>
 <a href="https://www341.lunapic.com/editor/?action=tilt-shift">Free Online Photo Editor | Tilt Shift</a><br>
-<a href="https://www.makeuseof.com/tag/more-useful-websites/">30 Insanely Useful Websites</a><br>
 <a href="https://www.pcmag.com/picks/best-free-software">Best Free Software for 2024</a><br>
 <a href="https://www.xda-developers.com/classic-windows-feature-bring-back-free-tools/">8 Class Windows Features You Can Bring Back</a><br>
 <a href="https://www.makeuseof.com/make-photos-professional-with-filters/">This One Simple Edit Makes Any Photo Look Professional</a><br>
@@ -1389,11 +1383,14 @@ Flamingo sings &quot;Go Your Own Way&quot; by Fleetwood Mac | THE MASKED SINGER 
 <a href="https://www.xda-developers.com/windows-features-save-time/">8 Windows Features That Will Save You Time</a><br>
 <a href="https://www.makeuseof.com/tag/8-nifty-windows-folder-tricks-know/">9 Nifty Windows Folder Tricks You Have to Know</a><br>
 <a href="https://www.foxnews.com/tech/10-tricks-doing-effective-google-search">10 Tricks for Effective Google Search</a><br>
+<a href="https://www.xda-developers.com/windows-built-in-tools-you-have-never-used/">10 useful Windows built-in tools you've never used</a><br>
 <a href="https://www.geeky-gadgets.com/10-best-free-streaming-websites-for-2023-09-01-2023/">10 Best free streaming websites</a><br>
 <a href="https://www.usatoday.com/story/tech/columnist/komando/2018/02/16/10-incredibly-useful-online-sites-you-didnt-know/344504002/">10 incredibly useful online sites you did not know about</a><br>
 <a href="http://mentalfloss.com/article/532910/14-hacks-improve-your-google-searches">14 Hacks to Improve Your Google Searches...</a><br>
 <a href="https://bestlifeonline.com/surprising-smartphone-features/">20 Things You Did not Know Your Smartphone Could Do</a><br>
 <a href="https://www.buzzfeed.com/hannahmarder/useful-underrated-websites">39 Actually Useful Websites That You Probably Have Never Heard Of</a><br>
+<a href="https://thoughtcatalog.com/nikhil-charan/2014/06/40-awesome-websites-that-will-totally-ruin-your-productivity/">40 Awesome Websites That Will Totally Ruin Your Productivity</a><br>
+<a href="https://www.pcmag.com/explainers/microsoft-excel-spreadsheet-tips-tricks">47 Expert Excel Tricks Will Transform You Into a Power User</a><br>
 <a href="https://www.xda-developers.com/run-commands-work-efficiently-windows/">100+ run commands that can help you work efficiently on Windows</a><br>
 <a href="https://onehack.us/t/the-101-most-useful-websites-on-the-internet/31927">101 Most Useful Websites on the Internet</a><br>
 <a href="https://duckduckgo.com/?q=how+to+download+youtube+videos&amp;t=hd&amp;va=u&amp;ia=web">How to download videos at DuckDuckGo</a><br>
@@ -1421,23 +1418,20 @@ Flamingo sings &quot;Go Your Own Way&quot; by Fleetwood Mac | THE MASKED SINGER 
 <a href="https://www.xda-developers.com/creative-ways-to-use-powerpoint-beyond-presentations/">Creative Ways to Use PowerPoint</a><br>
 <a href="https://dev.to/coffmans/beyond-file-explorer-alternatives-for-windows-file-explorer-46c0">Alternatives for Windows File Explorer</a><br>
 <a href="https://www.makeuseof.com/this-free-windows-mod-tool-unlocks-a-ton-of-new-functions/">Free Windows Mod Tool Unlocks a Ton of New Functions</a><br>
-<a href="https://thoughtcatalog.com/nikhil-charan/2014/06/40-awesome-websites-that-will-totally-ruin-your-productivity/">40 Awesome Websites That Will Totally Ruin Your Productivity</a><br>
 <a href="https://www.pcworld.com/article/2658977/speed-up-your-windows-11-pc-12-must-do-tweaks-and-tips.html">Speed up your Windows 11 PC: 12 must-do tweaks</a><br>
 <a href="https://www.xda-developers.com/stop-trusting-windows-update-heres-why/">I don't trust Windows Update anymore, and you shouldn't either - here's why</a><br>
 <a href="https://www.howtogeek.com/how-to-automatically-clear-temporary-files-on-windows-11/">How to Automatically Clear Temporary Files on Windows 11</a><br>
 <a href="https://www.howtogeek.com/how-to-hide-your-windows-folders-behind-a-secret-keyboard-shortcut/">How to Hide Your Windows Folders Behind a Secret Keyboard Shortcut</a><br>
 <a href="https://www.xda-developers.com/tried-self-hosting-apps-cant-live-without-them/">I tried these self-hosting apps and now I can't live without them</a><br>
 <a href="https://www.xda-developers.com/free-tool-find-edit-registrey-values-windows/">This free tool is the best way to find and edit registry values on Windows</a><br>
-<a href="https://www.xda-developers.com/windows-built-in-tools-you-have-never-used/">10 useful Windows built-in tools you've never used</a><br>
 <a href="https://www.makeuseof.com/tag/free-storage-space-android-device/">How to Free Up Storage Space on Your Android Device</a><br>
 <a href="https://tv.garden/us">TV Garden</a><br>
-<a href="https://www.pcmag.com/explainers/microsoft-excel-spreadsheet-tips-tricks">47 Expert Excel Tricks Will Transform You Into a Power User</a><br>
 <a href="https://www.howtogeek.com/how-to-turn-your-phone-into-a-security-camera-for-free/">Don't let your old phones rot in a drawer, turn them into free security cameras</a><br>
 <a href="https://www.makeuseof.com/hidden-android-setting-blocks-ads-across-without-vpn/">This hidden Android setting blocks ads across every single app without a VPN</a><br>
 <a href="https://www.pcmag.com/explainers/become-spreadsheet-pro-50-top-microsoft-excel-tips-tricks">Try My 50 Favorite Excel Tricks</a><br>
 <a href="https://www.howtogeek.com/microsoft-excel-shortcuts-jump-through-massive-datasets/">I stopped scrolling in Excel once I learned these 4 shortcuts</a><br>
 <a href="https://www.makeuseof.com/i-turned-my-old-tablet-into-a-second-monitor-using-this-free-app/">I turned my old tablet into a second monitor using this free app</a><br>
-<a href="https://www.howtogeek.com/your-wi-fi-router-is-secretly-a-nas-dns-filter-and-vpn-server/">Your router isn't just for Wi-Fi—here's everything else it can do</a><br>
+<a href="https://www.howtogeek.com/your-wi-fi-router-is-secretly-a-nas-dns-filter-and-vpn-server/">Your router isn't just for Wi-Fi-here's everything else it can do</a><br>
 <a href="https://www.howtogeek.com/rebooting-your-router-doesnt-fix-your-wi-fi-but-these-things-will/">I stopped rebooting my router to fix Wi-Fi, and these 7 tricks worked instead</a><br>
 <a href="https://www.makeuseof.com/the-hash-symbol-in-excel/">There are only 3 things you should use your TV's USB port for</a><br>
 <a href="https://www.pocket-lint.com/only-three-things-you-should-use-your-tvs-usb-port-for/">Excel's # symbol looks like a typo - it's actually one of the most useful things in the app</a><br>
@@ -1521,7 +1515,7 @@ Paste to address bar:  "<b>data:text/html, &lt;html contenteditable&gt;</b>" (wi
 
 <a href="https://www.travelawaits.com/2561445/small-towns-along-the-oregon-coast/">5 Charming Small Towns To Visit Along The Oregon Coast</a><br>
 <a href="https://www.travelawaits.com/2485110/beautiful-towns-in-the-alps/">7 Most Beautiful Cities And Towns In The Alps</a><br>
-<a href="https://blog.cheapism.com/best-bookstores/">20 Best Independent Bookstores in America</a><br>
+<a href="https://theweek.com/arts-life/travel/960922/rail-travel-the-worlds-best-train-journeys">16 World's Best Train Journeys</a><br><a href="https://blog.cheapism.com/best-bookstores/">20 Best Independent Bookstores in America</a><br>
 <a href="https://guessingheadlights.com/most-beautiful-places-in-europe-that-look-too-good-to-be-real/">20 Most Beautiful Places in Europe That Look Too Good to Be Real</a><br>
 <a href="https://guessingheadlights.com/most-beautiful-places-in-america-you-need-to-see-before-you-die/">25 Most Beautiful Places in America You Need to See Before You Die</a><br>
 <a href="https://bestlifeonline.com/surreal-american-places/">30 Places So Surreal You Won&#39;t Believe They&#39;re in the U.S.</a><br>
@@ -1540,8 +1534,7 @@ Paste to address bar:  "<b>data:text/html, &lt;html contenteditable&gt;</b>" (wi
 <a href="https://lifehacker.com/how-to-create-the-ultimate-travel-spreadsheet-and-why-1848623260">Travel spreadsheets</a><br>
 <a href="https://www.islands.com/1739627/best-must-visit-destination-only-time-one-area-switzerland-alps-mountains-rick-steves-lauterbrunnen-valley/">Most Must-Visit Destinations</a><br>
 <a href="https://canadarail.ca/via-rail/">VIA Rail Information</a><br>
-<a href="https://theweek.com/culture-life/travel/a-sleeper-train-across-canada">The Canadian (The Week)</a><br>
-<a href="https://theweek.com/arts-life/travel/960922/rail-travel-the-worlds-best-train-journeys">16 World's Best Train Journeys</a><br><br>
+<a href="https://theweek.com/culture-life/travel/a-sleeper-train-across-canada">The Canadian (The Week)</a><br><br>
 
 <span class="black-bold-title">CARS RENTALS</span><br><br>
 
