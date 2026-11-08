@@ -2,6 +2,8 @@
 <html><head><title>Bookmarks</title>
 
 <link rel="shortcut icon" href="images-general/checker.ico"/>
+<!-- link rel="stylesheet" type="text/css" href="p[1]w.css" NOT USED WITH THIS PAGE. CSS DATA ABOVE WITHIN THIS PAGE. -->
+
 <style type="text/css">
 
 <!--
@@ -77,8 +79,6 @@ a:visited			{font-family: Tahoma; font-size: 10pt; text-decoration: none; color:
 -->
 
 </style>
-
-<!-- link rel="stylesheet" type="text/css" href="p[1]w.css" NOT USED WITH THIS PAGE. CSS DATA ABOVE WITHIN THIS PAGE. -->
 
 <script type="text/javascript">
    function doExpand(DivName) {
