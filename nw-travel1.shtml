@@ -7,7 +7,7 @@ XXXX = name of the CSS page: link rel="stylesheet" type="text/css" href="XXXX.cs
 
 <head>
 <title>Northwest Travel Sites</title>
-
+ 
 <style type="text/css">
 <!--
 body				{margin-left: auto; margin-right: auto; font-family: Tahoma; font-size: 10pt; text-align: left; margin: 0; padding: 25; background-image: url('images-general/grid-standard.gif'); }
@@ -85,7 +85,7 @@ I put together this web page to give travel ideas for a Pacific Northwest visit.
 <a href="#ColumbiaRiver">Columbia River+ - Area E</a><br>
 <a href="#SOregon">S. Oregon/N. California - Area F </a><br>
 <a href="#NWashington">Seattle/N. Washington - Area G</a><br><br>
- 
+
 Control+Home will return you to the top of the page<br>
 <i>I have read that in some browsers that these Quick Links may not work.</i></p><br>
 
@@ -133,10 +133,10 @@ Control+Home will return you to the top of the page<br>
 
 <p style="text-align: center"><span style="background-color: #FFFF00"><a href="JavaScript:doExpand(WeatherBox)">Local Weather</a></span> <img src="images-general/down-arrow.svg" class="static-icon" /></p>
 <div id="WeatherBox" style="display: none">
-   Oregon weather can be hit and miss. Generally summer is decent but, that comes with crowds and lines. Visiting Oregon during  off-prime  weather season does have benefits: fewer crowds and lines. Just  increased risk of rain and clouds.<br>
-   <p style="text-align: center"><img border="0" src="images-nw/weather.jpg" width="802" height="auto"></p>
-   More weather information at:<br>
-   <a href="https://weatherspark.com/y/721/Aerage-Weather-in-Beaverton-Oregon-United-States-Year-Round">weatherspark.com/y/721/Average-Weather-in-Beaverton-Oregon-United-States-Year-Round</a>
+Oregon weather can be hit and miss. Generally summer is decent but, that comes with crowds and lines. Visiting Oregon during  off-prime  weather season does have benefits: fewer crowds and lines. Just  increased risk of rain and clouds.<br>
+<p style="text-align: center"><img border="0" src="images-nw/weather.jpg" width="802" height="auto"></p>
+More weather information at:<br>
+<a href="https://weatherspark.com/y/721/Aerage-Weather-in-Beaverton-Oregon-United-States-Year-Round">weatherspark.com/y/721/Average-Weather-in-Beaverton-Oregon-United-States-Year-Round</a>
 </div>
 
 <p style="text-align: center"><span style="background-color: #FFFF00"><a href="JavaScript:doExpand(TravelBox)">Travel Resources</a></span> <img src="images-general/down-arrow.svg" class="static-icon" /></p>
@@ -154,7 +154,7 @@ Control+Home will return you to the top of the page<br>
 	<a href="https://citybop.com/things-to-do-in-portland-oregon">citybop.com/things-to-do-in-portland-oregon</a><br><br>
 
 	I thought this map with some exaggerated relief really helped define the topography in the Northwest:<br>
-	<a href="images-nw/map-relief.JPG">NW Relief Map</a> <img src="images-general/down-arrow.svg" class="static-icon" /><br>
+	<a href="images-nw/map-relief.JPG">NW Relief Map</a><br>
 </div>
 
 <p style="text-align: center"><span style="background-color: #FFFF00"><a href="JavaScript:doExpand(MAXBox)">What is the MAX?</a></span> <img src="images-general/down-arrow.svg" class="static-icon" /></p>
@@ -494,7 +494,6 @@ aka Portland International Rose Test Garden</p>
 	<a href="https://images.squarespace-cdn.com/content/v1/57ab97d4bebafb5f25bea357/1559338031984-I2S5WC5YQKFY9E9IAG7U/FP_04.jpg?format=1000w"><img border="0" src="images-nw/pdx-forest-park.jpg" width="440" height="auto"></a></td>
 </table></div>
 
-
 <!-- <div id="site-table"><p class="site-header-txt">Local Festivals and Events</p> 
 <table width="100%"><td valign="top" width="50%">
 		<a href="https://live.staticflickr.com/1628/24545696776_0b6c245f24_b.jpg">
@@ -516,7 +515,7 @@ aka Portland International Rose Test Garden</p>
 		<li>Astoria has a neat <a href="https://astoriascanfest.com/">Midsummer Scandinavian Festival</a></li>
 	</ul></td>
 </table></div> -->
- 
+
 <div id="site-table"><p class="site-header-txt">Mount Angel</p> 
 <table width="100%"><td valign="top" width="50%">
 		Area <span class="f2">A</span> - 32 miles South of Beaverton<br><br>
@@ -745,8 +744,8 @@ Many of the Portland and Beaverton sites shown on a single map: <a href="images-
 	<a href="https://thatoregonlife.com/wp-content/uploads/2024/01/Interior-John-Warren-Google-Local-1024x771.jpeg"><img border="0" src="images-nw/bvtn-rice-museum.jpg" width="440" height="auto"></a></td>
 </table></div>
 
-<div id="site-table"><p class="site-header-txt">Evergreen Aviation and Space Museum<br>
-</p>
+<div id="site-table"><p class="site-header-txt">Evergreen Aviation and Space Museum<br></p>
+	
 <table width="100%"><td valign="top" width="50%">
 		Area <span class="f2">B</span> - McMinnville. 28 miles SE of Beaverton<br><br>
 

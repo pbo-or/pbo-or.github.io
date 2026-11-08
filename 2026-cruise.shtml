@@ -3,6 +3,7 @@
 <head>
 <title>Our July 2026 Cruise</title>
 <link rel="stylesheet" type="text/css" href="s[1]tyle.css">
+
 <script type="text/javascript">
    function doExpand(DivName) {
    if (DivName.style.display="none") { DivName.style.display=""; }
