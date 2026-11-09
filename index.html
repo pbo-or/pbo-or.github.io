@@ -3,7 +3,12 @@
 <head>
 <title>Our Home Page</title>
 <link rel="stylesheet" type="text/css" href="s[1]tyle.css">
-</head>
+
+<script type="text/javascript">
+   function doExpand(DivName) {
+   if (DivName.style.display="none") { DivName.style.display=""; }
+   else { DivName.style.display="none"; }}
+</script>
 
 <style type="text/css">
 <!--
@@ -17,15 +22,11 @@ a:visited			{font-family: Tahoma; font-size: 10pt; color: #0000FF; text-decorati
 	
 #Content        	{margin-left: auto; margin-right: auto; text-align: justify; border: 0px solid #0066FF; padding: 25px; width: 780px; }
 
-#CULLODENBox		{border-radius: 8px; margin-left: auto; margin-right: auto; text-align: left; border: 1px solid #0066FF; padding: 4px; width: 768px; height: auto; }
-
-#YACHTBox			{border-radius: 8px; margin-left: auto; margin-right: auto; text-align: left; border: 1px solid #0066FF; padding: 4px; width: 768px; height: auto; }
-
-#MUSEUMBox		{border-radius: 8px; margin-left: auto; margin-right: auto; text-align: left; border: 1px solid #0066FF; padding: 4px; width: 768px; height: auto; }
-
-#CHAPELBox		{border-radius: 8px; margin-left: auto; margin-right: auto; text-align: left; border: 1px solid #0066FF; padding: 4px; width: 768px; height: auto; }
+#XXXXXXBox		{border-radius: 8px; margin-left: auto; margin-right: auto; text-align: left; border: 1px solid #0066FF; padding: 4px; width: 768px; height: auto; }
 
 .site-header-txt	{text-align: center; font-size: 12pt; font-weight: bold; }
+
+.static-icon		{width: 12px; height: 12px; }
 
 .pattern-bg		{background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='20' height='20' viewBox='0 0 20 20'%3E%3Cdefs%3E%3Cpattern id='p' width='20' height='20' patternUnits='userSpaceOnUse'%3E%3Cpath d='M 20 0 L 0 0 0 20' fill='none' stroke='%239d9dff' stroke-width='2'/%3E%3C/pattern%3E%3C/defs%3E%3Crect width='20' height='20' fill='%23ffffff'/%3E%3Crect width='20' height='20' fill='url(%23p)' opacity='0.3'/%3E%3C/svg%3E"); background-repeat: repeat; }
 
@@ -35,15 +36,11 @@ a:visited			{font-family: Tahoma; font-size: 10pt; color: #0000FF; text-decorati
 -->
 </style>
 
-<!--
-background-image: url('images-general/grid-standard.gif'); 
--->
+<!-- background-image: url('images-general/grid-standard.gif'); -->
+
+</head>
 
 <body>
-
-<!--
-body bgcolor="#FFFFFF"
--->
 
 <div id="content">&nbsp;
 	<p>&nbsp;</p>
@@ -51,4 +48,13 @@ body bgcolor="#FFFFFF"
 	<p>Welcome to this blank page...</p>
 	<p>&nbsp;</p>
     
+<a href="JavaScript:doExpand(XXXXXXBox)">Test Dropdown Box</a> <img src="images-general/down-arrow.svg" class="static-icon" />
+	<div id="XXXXXXBox" style="display: none">
+		<span style="text-align: left">Test dropdown box</span>
+	</div>
+<br><br>
+
+<hr size="6" color="#0000FF">
+
+
 </div></body></html>
