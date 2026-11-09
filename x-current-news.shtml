@@ -3,8 +3,41 @@
 <head>
 <meta name="GENERATOR" content="Microsoft FrontPage 6.0">
 <title>Current News</title>
-<link rel="stylesheet" type="text/css" href="style.css">
-<meta name="Microsoft Border" content="tl, default">
+
+<style type="text/css">
+
+<!--
+body				{margin-left: auto; margin-right: auto; font-family: Tahoma; font-size: 10pt; text-align: left; margin: 0; padding: 25; background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='20' height='20' viewBox='0 0 20 20'%3E%3Cdefs%3E%3Cpattern id='p' width='20' height='20' patternUnits='userSpaceOnUse'%3E%3Cpath d='M 20 0 L 0 0 0 20' fill='none' stroke='%239d9dff' stroke-width='2'/%3E%3C/pattern%3E%3C/defs%3E%3Crect width='20' height='20' fill='%23ffffff'/%3E%3Crect width='20' height='20' fill='url(%23p)' opacity='0.3'/%3E%3C/svg%3E"); background-repeat: repeat; }
+
+a				{font-family: Tahoma; font-size: 10pt; }
+
+a:link			{font-family: Tahoma; font-size: 10pt; color: #0000FF; text-decoration: none; font-weight: bold; }
+               
+a:visited			{font-family: Tahoma; font-size: 10pt; text-decoration: none; color: #0000FF; font-weight: bold; }
+				
+#Content       	{margin-left: auto; margin-right: auto; text-align: justify; border: 0px solid #0066FF; padding: 5px; width: 800px; }
+
+#area-table		{border-radius: 10px; margin-left: auto; margin-right: auto; text-align: left; border: 0px solid #0066FF; padding: 13px; width: 800px; }
+
+td				{margin-left: auto; margin-right: auto; font-size: 10pt; border: 0px solid #0066FF; text-align: left; margin: 0; padding: 4; }
+
+#XXXXXBox			{border-radius: 8px; margin-left: auto; margin-right: auto; text-align: left; border: 1px solid #0066FF; padding: 4px; width: 768px; height: auto; }
+
+.site-header-txt	{text-align: center; font-size: 11pt; font-weight: bold; }
+
+.area-header-txt	{font-size: 11pt; font-weight: bold; }
+
+.static-icon 		{width: 12px; height: 12px; }
+
+.static-nav-icon 	{width: 19px; height: 19px; }
+
+.f1 				{font-size: 14pt; font-weight: bold; color: red; }
+
+.f2				{font-size: 11pt; font-weight: bold; color: red; }
+-->
+</style>
+
+<!-- link rel="stylesheet" type="text/css" href="s[1]tyle.css" -->
 </head>
 
 <div id="content">

@@ -21,7 +21,7 @@ a:link			{font-family: Tahoma; font-size: 10pt; color: #0000FF; text-decoration:
                
 a:visited			{font-family: Tahoma; font-size: 10pt; color: #0000FF; text-decoration: none; font-weight: normal; }
 	
-#Content			{margin-left: auto; margin-right: auto; text-align: justify; border: 0px solid #0066FF; padding: 25px; width: 904px; }
+#Content			{margin-left: auto; margin-right: auto; text-align: justify; border: 0px solid #0066FF; padding: 25px; width: 810px; }
 
 #PERSPECTIVEBox	{border-radius: 8px; margin-left: auto; margin-right: auto; text-align: left; border: 1px solid #0066FF; padding: 4px; width: 768px; height: auto; }
 
@@ -45,9 +45,9 @@ a:visited			{font-family: Tahoma; font-size: 10pt; color: #0000FF; text-decorati
 <div id="Content">
 <p style="text-align: center"><span class="site-header-txt">Our July 2026 Viking Ocean Cruise to Iceland-Svalbard-Norway</span><br><br>
 
-Last update: November 4, 2026</p>
+Last update: November 9, 2026</p>
 
-<p style="text-align: center"><img border="0" src="images-2026-cruise/00-map-2026-viking-cruise.jpg" width="903" height="482" style="border: 0px solid black; box-shadow: 8px 8px 12px #999"></p><br>
+<p style="text-align: center"><img border="0" src="images-2026-cruise/00-map-2026-viking-cruise.jpg" width="800" height="auto" style="border: 0px solid black; box-shadow: 8px 8px 12px #999"></p><br>
 
 The <span style="background-color: #FFFF00">Day #'s</span> below correspond with the Trip Day #'s indicated on the map. These #'s also correspond with # listed in the photo file names.<br><br>
 
