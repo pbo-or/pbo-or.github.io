@@ -2,6 +2,7 @@
 
 <head>
 <title>Pacific Northwest Waterfalls</title>
+
 <link rel="stylesheet" type="text/css" href="s[1]tyle.css">
 <script type="text/javascript">
    function doExpand(DivName) {
