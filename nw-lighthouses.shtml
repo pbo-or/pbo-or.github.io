@@ -26,6 +26,8 @@ a:visited			{font-family: Tahoma; font-size: 10pt; color: #0000FF; text-decorati
 
 .static-icon 		{width: 12px; height: 12px; }
 
+.responsive-img	{max-width: 300px; height: auto; display: block; }
+
 .f1 				{font-size: 14pt; font-weight: bold; color: red; }
 
 .f2				{font-size: 11pt; font-weight: bold; color: red; }
@@ -54,50 +56,50 @@ Cape Disappointment<br>
 Technically in Washington State<br>
 (See <b>Lewis &amp; Clark Interpretive <br>
 Center</b> site box on the NW Travel page)<br>
-<a href="https://upload.wikimedia.org/wikipedia/commons/b/bf/North_Head_Lighthouse_at_Cape_Disappointment.jpg"><img border="0" src="images-nw/coast-small-lh-01cape-disappointment.JPG" width="200" height="auto"></a><br><br>
+<a href="https://upload.wikimedia.org/wikipedia/commons/b/bf/North_Head_Lighthouse_at_Cape_Disappointment.jpg"><img border="0" src="https://upload.wikimedia.org/wikipedia/commons/b/bf/North_Head_Lighthouse_at_Cape_Disappointment.jpg" width="300" height="auto"></a><br><br>
 
 Columbia Lightship<br>
 is a retired &quot;floating&quot; light house.<br>
 (See <b>Astoria Maritime Museum</b> site box on the NW Travel page)<br>
-<a href="https://img-aws.ehowcdn.com/1280x/www.onlyinyourstate.com/wp-content/uploads/2020/10/117655873_10158688181773189_325802792861320919_o-1.jpg"><img border="0" src="images-nw/coast-small-lh-02columbia-lightship.JPG" width="200" height="auto"></a><br><br>
+<a href="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/33/53/28/19/caption.jpg?w=1200&h=1200&s=1"><img border="0" src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/33/53/28/19/caption.jpg?w=1200&h=1200&s=1" width="300" height="auto"></a><br><br>
 
 Warrior Rock<br>
 Located up the Columbia River closer to Portland.<br>
-<a href="https://mediaim.expedia.com/destination/2/6a439a381f825f395f368747d1896338.jpg"><img border="0" src="images-nw/coast-small-lh-03warrior-rock.JPG" width="200" height="auto"></a><br><br>
+<a href="https://mediaim.expedia.com/destination/2/6a439a381f825f395f368747d1896338.jpg"><img border="0" src="https://mediaim.expedia.com/destination/2/6a439a381f825f395f368747d1896338.jpg" width="300" height="auto"></a><br><br>
 
 Tillamook Rock<br>
 (see <b>Cannon Beach</b> site box on the NW Travel page)<br>
-<a href="https://i.ytimg.com/vi/WBQ7NMKzmWM/maxresdefault.jpg"><img border="0" src="images-nw/coast-small-lh-04till-rock.JPG" width="200" height="auto"></a><br><br>
+<a href="https://i.ytimg.com/vi/WBQ7NMKzmWM/maxresdefault.jpg"><img border="0" src="https://i.ytimg.com/vi/WBQ7NMKzmWM/maxresdefault.jpg" width="300" height="auto"></a><br><br>
 
 Cape Meares<br>
 (see site box on the NW Travel page)<br>
-<a href="https://oregonisforadventure.com/wp-content/uploads/2021/02/lighthouse-cape-meares-1024x683.jpg"><img border="0" src="images-nw/coast-small-lh-05cape-meares.JPG" width="200" height="auto"></a><br><br>
+<a href="https://oregonisforadventure.com/wp-content/uploads/2021/02/lighthouse-cape-meares-1024x683.jpg"><img border="0" src="https://oregonisforadventure.com/wp-content/uploads/2021/02/lighthouse-cape-meares-1024x683.jpg" width="300" height="auto"></a><br><br>
 
 Yaquina Head<br>
 (see <b>Newport</b> site box on the NW Travel page)<br>
-<a href="https://images.squarespace-cdn.com/content/v1/61eb640f60360a71b6ced4e7/85f071f6-45e2-432c-acfd-86f3c17feea5/IMG_8861.jpg"><img border="0" src="images-nw/coast-small-lh-07yaquina-head.JPG" width="200" height="auto"></a><br><br>
+<a href="https://images.squarespace-cdn.com/content/v1/61eb640f60360a71b6ced4e7/85f071f6-45e2-432c-acfd-86f3c17feea5/IMG_8861.jpg"><img border="0" src="https://images.squarespace-cdn.com/content/v1/61eb640f60360a71b6ced4e7/85f071f6-45e2-432c-acfd-86f3c17feea5/IMG_8861.jpg" width="300" height="auto"></a><br><br>
 
 Yaquina Bay<br>
 (see <b>Newport</b> site box on the NW Travel page)<br>
 <a href="https://storage.googleapis.com/wzukusers/user-31563038/images/c7dbfa48adc945ae8c418c648fa61e7a/Copyright-Kristy-Mcmorlan-Photography-Yaquina-Bay-Lighthouse-With-Name.jpg">
-<img border="0" src="images-nw/coast-small-lh-06yaquina-bay.JPG" width="200" height="auto"></a><br><br>
+<img border="0" src="https://storage.googleapis.com/wzukusers/user-31563038/images/c7dbfa48adc945ae8c418c648fa61e7a/Copyright-Kristy-Mcmorlan-Photography-Yaquina-Bay-Lighthouse-With-Name.jpg" width="300" height="auto"></a><br><br>
 
 Heceta Head<br>
 (see site box on the NW Travel page)<br>
-<a href="https://www.hecetalighthouse.com/wp-content/uploads/2020/10/Scenic-Viewpoint.jpeg"><img border="0" src="images-nw/coast-small-lh-08heceta-head.JPG" width="200" height="auto"></a><br><br>
+<a href="https://www.overleaflodge.com/wp-content/uploads/2024/04/Heceta-Head-Lighthouse-2220X1469-1024x678.jpg"><img border="0" src="https://www.overleaflodge.com/wp-content/uploads/2024/04/Heceta-Head-Lighthouse-2220X1469-1024x678.jpg" width="300" height="auto"></a><br><br>
 
 Umpqua River<br>
-<a href="https://www.statesmanjournal.com/gcdn/-mm-/a5076e7a43a0cec6129489319d0fb728e2cd1814/c=0-264-5184-3193/local/-/media/2018/01/17/Salem/Salem/636517943133850922-Umpqua-Lighthouse3.jpg"><img border="0" src="images-nw/coast-small-lh-09umpqua-river.JPG" width="200" height="auto"></a><br><br>
+<a href="https://www.statesmanjournal.com/gcdn/-mm-/a5076e7a43a0cec6129489319d0fb728e2cd1814/c=0-264-5184-3193/local/-/media/2018/01/17/Salem/Salem/636517943133850922-Umpqua-Lighthouse3.jpg"><img border="0" src="https://www.statesmanjournal.com/gcdn/-mm-/a5076e7a43a0cec6129489319d0fb728e2cd1814/c=0-264-5184-3193/local/-/media/2018/01/17/Salem/Salem/636517943133850922-Umpqua-Lighthouse3.jpg" width="300" height="auto"></a><br><br>
 
 Cape Arago<br>
-<img border="0" src="images-nw/coast-small-lh-10capearago.JPG" width="200" height="auto"><br><br>
+<a href="https://www.statesmanjournal.com/gcdn/-mm-/a5076e7a43a0cec6129489319d0fb728e2cd1814/c=0-264-5184-3193/local/-/media/2018/01/17/Salem/Salem/636517943133850922-Umpqua-Lighthouse3.jpg"><img border="0" src="https://www.statesmanjournal.com/gcdn/-mm-/a5076e7a43a0cec6129489319d0fb728e2cd1814/c=0-264-5184-3193/local/-/media/2018/01/17/Salem/Salem/636517943133850922-Umpqua-Lighthouse3.jpg" width="300" height="auto"></a><br><br>
 
 Coquille River<br>
 <a href="https://images.fineartamerica.com/images/artworkimages/mediumlarge/2/coquille-river-lighthouse-jerry-fornarotto.jpg">
-<img border="0" src="images-nw/coast-small-lh-11coquille-river.JPG" width="200" height="auto"></a><br><br>
+<img border="0" src="https://images.fineartamerica.com/images/artworkimages/mediumlarge/2/coquille-river-lighthouse-jerry-fornarotto.jpg" width="300" height="auto"></a><br><br>
 
 Cape Blanco<br>
-<img border="0" src="images-nw/coast-small-lh-12cape-blanco.JPG" width="200" height="auto"><br><br>
+<a href="https://cdn.prod.website-files.com/67b79d873e4417418a18d238/6a6a301bb5bc02f7032341cf_po.jpeg"><img border="0" src="https://cdn.prod.website-files.com/67b79d873e4417418a18d238/6a6a301bb5bc02f7032341cf_po.jpeg" width="300" height="auto"></a><br><br>
 
 <p><img border="0" src="/images-nw/flag-oregon.jpg" width="150" height="100" style="border: 0px solid black; box-shadow: 8px 8px 12px #999"></p>
 
