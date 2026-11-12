@@ -49,13 +49,9 @@ a:visited			{font-family: Tahoma; font-size: 10pt; color: #0000FF; text-decorati
 
 .static-icon 		{width: 12px; height: 12px; }
 
-.responsive-img{
-  max-width: 100%;
-  height: auto;
-  display: block;
-}
-.grid-background	{width: 100%; min-height: 100vh; background-color: #ffffff; 
-				background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='40' height='40'%3E%3Crect width='40' height='40' fill='none' stroke='%23e2e8f0' stroke-width='1'/%3E%3C/svg%3E"); background-repeat: repeat; }
+.responsive-img	{max-width: 100%; height: auto; display: block; }
+
+.grid-background	{width: 100%; min-height: 100vh; background-color: #ffffff; background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='40' height='40'%3E%3Crect width='40' height='40' fill='none' stroke='%23e2e8f0' stroke-width='1'/%3E%3C/svg%3E"); background-repeat: repeat; }
 
 .f1				{font-size: 10pt; font-weight: bold; color: red; }
 
@@ -67,9 +63,10 @@ a:visited			{font-family: Tahoma; font-size: 10pt; color: #0000FF; text-decorati
 
 <body>
 <div id="Content">
+
 <p style="text-align: center"><span class="site-header-txt">Future Vacation Trips</span><br><br>
 
-Last update: November 9, 2026</p><br>
+Last update: November 12, 2026</p><br>
 
 <i>Each link below opens in a new browser window. To avoid filling up your memory capacity and slowing down your computer, I would recommend closing the photo browser window before moving onto the next photo ("<b>Control + W</b>" often saves time instead of using a mouse to close each browser photo). On a tablet or phone, in the browser, just click the Back button.</i><br><br><br>
 
@@ -308,11 +305,9 @@ Here is what our future trip is starting to look like:<br><br>
 	15 miles from London to Heathrow<br>
 	4:30pm Flight from Heathrow to PDX<br>
 	6:35pm Arrive PDX<br>
-</blockquote><br><br>
+</blockquote><br>
 
-<img border="0" src="/images-vac/flag-scotland.jpg" width="150" height="100" style="border: 0px solid black; box-shadow: 8px 8px 12px #999">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img border="0" src="/images-vac/flag-england.jpg" width="150" height="100" style="border: 0px solid black; box-shadow: 8px 8px 12px #999"><br><br>
-
-<!--  -->
+<img border="0" src="/images-vac/image-flag-scotland.jpg" width="150" height="100" style="border: 0px solid black; box-shadow: 8px 8px 12px #999">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img border="0" src="/images-vac/image-flag-england.jpg" width="150" height="100" style="border: 0px solid black; box-shadow: 8px 8px 12px #999"><br><br>
 
 <hr size="4" noshade color="#0000FF"><br><br>
 
@@ -412,7 +407,7 @@ Here is what our future trip is starting to look like:<br><br>
 	
 	<span style="background-color: #FFFF00">[Day #12]</span> Travel to Salt Lake City Intl Airport. Drop off car. Return flight to PDX.<br><br><br>
 
-	<img border="0" src="images-vac/logo-nps.jpg" width="150" height="194" style="border: 0px solid black; box-shadow: 8px 8px 12px #999">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img border="0" src="images-vac/flag-ca.jpg" width="150" height="100" style="border: 0px solid black; box-shadow: 8px 8px 12px #999">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img border="0" src="images-vac/flag-az.jpg" width="150" height="100" style="border: 0px solid black; box-shadow: 8px 8px 12px #999">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img border="0" src="images-vac/flag-ut.jpg" width="150" height="100" style="border: 0px solid black; box-shadow: 8px 8px 12px #999"><br><br>
+	<img border="0" src="images-vac/image-logo-nps.jpg" width="150" height="194" style="border: 0px solid black; box-shadow: 8px 8px 12px #999">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img border="0" src="images-vac/image-flag-ca.jpg" width="150" height="100" style="border: 0px solid black; box-shadow: 8px 8px 12px #999">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img border="0" src="images-vac/image-flag-az.jpg" width="150" height="100" style="border: 0px solid black; box-shadow: 8px 8px 12px #999">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img border="0" src="images-vac/image-flag-ut.jpg" width="150" height="100" style="border: 0px solid black; box-shadow: 8px 8px 12px #999"><br><br>
 
 	<!-- <a href="JavaScript:doExpand(TEST1Box)">TEST1</a>
 		<div id="TEST1Box" style="display: none">
