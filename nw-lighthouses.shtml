@@ -3,7 +3,7 @@
 <head>
 <title>Oregon Lighthouses</title>
 
-<link rel="stylesheet" type="text/css" href="s[1]tyle.css">
+<link rel="stylesheet" type="text/css" href="s[1]tyle-main.css">
 <script type="text/javascript">
    function doExpand(DivName) {
    if (DivName.style.display="none") { DivName.style.display=""; }
@@ -100,7 +100,7 @@ Coquille River<br>
 <img border="0" src="https://images.fineartamerica.com/images/artworkimages/mediumlarge/2/coquille-river-lighthouse-jerry-fornarotto.jpg" width="330" height="auto"></a><br><br>
 
 Cape Blanco<br>
-<a href="https://cdn.prod.website-files.com/67b79d873e4417418a18d238/6a6a301bb5bc02f7032341cf_po.jpeg"><img border="0" src="https://cdn.prod.website-files.com/67b79d873e4417418a18d238/6a6a301bb5bc02f7032341cf_po.jpeg" width="330" height="auto"></a><br><br>
+<a href="https://cdn.prod.website-files.com/67b79d873e4417418a18d238/6a6a301bb5bc02f7032341cf_po.jpeg"><img border="0" src="https://cdn.prod.website-files.com/67b79d873e4417418a18d238/6a6a301bb5bc02f7032341cf_po.jpeg" width="330" height="auto"></a><br>
 
 <p><img border="0" src="/images-nw/image-flag-oregon.jpg" width="150" height="100" style="border: 0px solid black; box-shadow: 8px 8px 12px #999"></p>
 

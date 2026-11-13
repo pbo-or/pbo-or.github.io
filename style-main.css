@@ -1,0 +1,22 @@
+body, td     { margin: 0px; padding: 0px; background: rgb(11,7,255); /* Old browsers */
+background: -moz-linear-gradient(left, #0b07ff 0%, #5e59ff 40%, #ffffff 100%); /* FFox */ }
+
+a            { font-family: Tahoma; font-size: 10pt }
+
+a:active     { font-family: Tahoma; font-size: 10pt; font-weight: bold; color: #0000FF; text-decoration: none }
+
+a:visited    { font-family: Tahoma; font-size: 10pt; font-weight: bold; color: #0000FF; text-decoration: none }
+
+a:link       { font-family: Tahoma; font-size: 10pt; font-weight: bold; color: #0000FF; text-decoration: none }    
+
+p            { font-family: Tahoma; font-size: 10pt }
+
+h1           { font-family: Tahoma; font-size: 10pt; font-weight: bold; text-shadow: 3px 2px 2px #41f705; filter: dropshadow(color=#41f705, offx=3, offy=2); }
+
+li           { font-family: Tahoma; font-size: 10pt }
+
+#top         { position: fixed; text-align: center; width: 100%; border: 0px; background-color: green; top: 40px; z-index: 2; }
+
+#content     { position: absolute; top: 50px; left: 10%; width: 50%; text-align: justify; z-index: 1; }
+
+#links       { position: fixed; top: 115px; left: 7%; width: 130px; text-align: center; background-color: white; border: 1px; border-color: black; padding: 0px 10px 0px 10px; }

@@ -2,14 +2,14 @@
 
 <head>
 <title>Our July 2026 Cruise</title>
-<link rel="stylesheet" type="text/css" href="s[1]tyle.css">
 
+<link rel="stylesheet" type="text/css" href="s[1]tyle-main.css">
 <script type="text/javascript">
    function doExpand(DivName) {
    if (DivName.style.display="none") { DivName.style.display=""; }
    else { DivName.style.display="none"; }}
 </script>
-</head>
+
 
 <style type="text/css">
 <!--
@@ -41,11 +41,13 @@ a:visited			{font-family: Tahoma; font-size: 10pt; color: #0000FF; text-decorati
 -->
 </style>
 
+</head>
+
 <body>
 <div id="Content">
 <p style="text-align: center"><span class="site-header-txt">Our July 2026 Viking Ocean Cruise to Iceland-Svalbard-Norway</span><br><br>
 
-Last update: November 9, 2026</p>
+Last update: November 12, 2026</p>
 
 <p style="text-align: center"><img border="0" src="images-2026-cruise/00-map-2026-viking-cruise.jpg" width="800" height="auto" style="border: 0px solid black; box-shadow: 8px 8px 12px #999"></p><br>
 
@@ -63,7 +65,7 @@ My brother, Greg, and his wife, Renee, joined Mary and I for this vacation trip.
 	
 	Longyearbeyn, the largest settlement in Svalbard and the Spitsberg archipelago, is the furtherest North year-round population center in the world. It has a population of about 2,500 representing over 50 nationalities.<br><br>
 	
-	Lonyearbeyn is named after the American, John Munroe Longyear, who started a mining camp at the site. The last mine closed in 2025. Since then Svalbard has	became a remoute hub for Arctic studies by various countries, tourism (like our cruise) and home of the Svalbard Global Seed Vault.<br><br>
+	Lonyearbeyn is named after the American, John Munroe Longyear, who started a mining camp at the site. The last mine closed in 2025. Since then Svalbard has became a remoute hub for Arctic studies by various countries, tourism (like our cruise) and home of the Svalbard Global Seed Vault.<br><br>
 		
 	BTW the Seed Vault is actually in one of the abandoned original mines.<br><br>
 	
@@ -187,7 +189,7 @@ My brother, Greg, and his wife, Renee, joined Mary and I for this vacation trip.
 </blockquote>
 <br>
 
-<p><img border="0" src="images-2026-cruise/19.flag-iceland.jpg" width="150" height="100" style="border: 0px solid black; box-shadow: 8px 8px 12px #999">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img border="0" src="images-2026-cruise/19.flag-norway.jpg" width="150" height="100" style="border: 0px solid black; box-shadow: 8px 8px 12px #999"></p>
+<img border="0" src="images-2026-cruise/19.flag-iceland.jpg" width="150" height="100" style="border: 0px solid black; box-shadow: 8px 8px 12px #999">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img border="0" src="images-2026-cruise/19.flag-norway.jpg" width="150" height="100" style="border: 0px solid black; box-shadow: 8px 8px 12px #999">
 
 
 </div></body></html>

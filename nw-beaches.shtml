@@ -3,7 +3,7 @@
 <head>
 <title>North Oregon Coast: Beaches, Veiwpoints and Waysides</title>
 
-<link rel="stylesheet" type="text/css" href="s[1]tyle.css">
+<link rel="stylesheet" type="text/css" href="s[1]tyle-main.css">
 <script type="text/javascript">
    function doExpand(DivName) {
    if (DivName.style.display="none") { DivName.style.display=""; }

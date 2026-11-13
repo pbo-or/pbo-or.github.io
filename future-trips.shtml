@@ -2,14 +2,12 @@
 
 <head>
 <title>Future Trips</title>
-<!-- link rel="stylesheet" type="text/css" href="s[1]tyle.css" NOT USED WITH THIS PAGE. CSS DATA ABOVE WITHIN THIS PAGE. -->
 
 <script type="text/javascript">
    function doExpand(DivName) {
    if (DivName.style.display="none") { DivName.style.display=""; }
    else { DivName.style.display="none"; }}
 </script>
-</head>
 
 <style type="text/css">
 <!--
@@ -60,6 +58,9 @@ a:visited			{font-family: Tahoma; font-size: 10pt; color: #0000FF; text-decorati
 </style>
 
 <!-- background-image: url('images-general/grid-standard.gif'); -->
+<!-- link rel="stylesheet" type="text/css" href="s[1]tyle-main.css" NOT USED WITH THIS PAGE. CSS DATA ABOVE WITHIN THIS PAGE. -->
+
+</head>
 
 <body>
 <div id="Content">
