@@ -10,7 +10,7 @@
    else { DivName.style.display="none"; }}
 </script>
 
-<style type="text/css">
+<<style type="text/css">
 <!--
 body				{margin-left: auto; margin-right: auto; font-family: Tahoma; font-size: 10pt; text-align: left; margin: 0; padding: 25; background-color: #ffffff; background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='20' height='20' viewBox='0 0 20 20'%3E%3Cdefs%3E%3Cpattern id='p' width='20' height='20' patternUnits='userSpaceOnUse'%3E%3Cpath d='M 20 0 L 0 0 0 20' fill='none' stroke='%239d9dff' stroke-width='2'/%3E%3C/pattern%3E%3C/defs%3E%3Crect width='20' height='20' fill='%23ffffff'/%3E%3Crect width='20' height='20' fill='url(%23p)' opacity='0.3'/%3E%3C/svg%3E"); background-repeat: repeat; }
 
@@ -20,13 +20,15 @@ a:link			{font-family: Tahoma; font-size: 10pt; color: #0000FF; text-decoration:
                
 a:visited			{font-family: Tahoma; font-size: 10pt; color: #0000FF; text-decoration: none; font-weight: normal; }
 	
-#Content        	{margin-left: auto; margin-right: auto; text-align: justify; border: 0px solid #0066FF; padding: 25px; width: 780px; }
+#Content        	{margin-left: auto; margin-right: auto; text-align: justify; border: 0px solid #0066FF; padding: 25px; width: 600px; }
 
 #XXXXXXBox		{border-radius: 8px; margin-left: auto; margin-right: auto; text-align: left; border: 1px solid #0066FF; padding: 4px; width: 768px; height: auto; }
 
 .site-header-txt	{text-align: center; font-size: 12pt; font-weight: bold; }
 
 .static-icon		{width: 12px; height: 12px; }
+
+.responsive-img	{max-width: 100%; height: auto; display: block; }
 
 .pattern-bg		{background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='20' height='20' viewBox='0 0 20 20'%3E%3Cdefs%3E%3Cpattern id='p' width='20' height='20' patternUnits='userSpaceOnUse'%3E%3Cpath d='M 20 0 L 0 0 0 20' fill='none' stroke='%239d9dff' stroke-width='2'/%3E%3C/pattern%3E%3C/defs%3E%3Crect width='20' height='20' fill='%23ffffff'/%3E%3Crect width='20' height='20' fill='url(%23p)' opacity='0.3'/%3E%3C/svg%3E"); background-repeat: repeat; }
 
@@ -36,8 +38,6 @@ a:visited			{font-family: Tahoma; font-size: 10pt; color: #0000FF; text-decorati
 -->
 </style>
 
-<!-- background-image: url('images-general/grid-standard.gif'); -->
- 
 </head>
 
 <body>
@@ -46,8 +46,11 @@ a:visited			{font-family: Tahoma; font-size: 10pt; color: #0000FF; text-decorati
 	<p>&nbsp;</p>
 	<p>&nbsp;</p>
 	<p>Welcome to this blank page...</p>
-	<p>&nbsp;</p>
-    
+	
+<a href="https://truthpraiseandhelp.files.wordpress.com/2009/11/powells-map.jpg" class="single-url-img"><img alt="Description of image"></a><br><br>
+
+<a href="https://XXXXXX.com/XXXXXX.jpg" class="single-url-img"><img border="0"; alt="XXXXXX Placemark"; class="responsive-img"; ></a><br><br>
+
 <a href="JavaScript:doExpand(XXXXXXBox)">Test Dropdown Box</a> <img src="images-general/down-arrow.svg" class="static-icon" />
 	<div id="XXXXXXBox" style="display: none">
 		<span style="text-align: left">Test dropdown box</span>
@@ -56,5 +59,10 @@ a:visited			{font-family: Tahoma; font-size: 10pt; color: #0000FF; text-decorati
 
 <hr size="6" color="#0000FF">
 
+<script>
+	document.querySelectorAll('.single-url-img').forEach(link => {link.querySelector('img').src = link.href; });
+</script>
 
+<!-- background-image: url('images-general/grid-standard.gif'); -->
+ 
 </div></body></html>
