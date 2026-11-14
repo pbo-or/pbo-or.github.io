@@ -186,8 +186,10 @@ Control+Home will return you to the top of the page<br>
 	<a href="https://waparks.org/interactive-state-park-map/">State Parks of Washington</a><br>
 	<p style="text-align: center"><a href="images-nw/pdf-NW-fall-festivals.pdf">NW Fall Festivals</a></span> (PDF published Fall 2026)</p>
 </div>
-	
+
+
 &nbsp;<hr size="4" noshade color="#0000FF"><br>
+
 
 <h2 id="Portland"></h2>
 <div id="area-table" class="area-table">
@@ -398,8 +400,7 @@ aka Portland International Rose Test Garden</p>
 
 		<a href="https://www.google.com/maps/place/Multnomah+County+Central+Library/@45.5197837,-122.7045572,13.79z/data=!4m6!3m5!1s0x54950a1b354fc205:0xf7f0003ef2b65ad6!8m2!3d45.5191307!4d-122.6832264!16s/m/03wfzsm?hl=en&entry=ttu">Google Maps</a><br></td>
 	<td valign="top" width="50%">
-	<a href="https://upload.wikimedia.org/wikipedia/commons/e/e5/Central_Library_(Portland,_Oregon).jpg">
-	<img border="0" src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Central_Library_(Portland,_Oregon).jpg" class="responsive-img"></a></td>
+	<a href="https://upload.wikimedia.org/wikipedia/commons/e/e5/Central_Library_(Portland,_Oregon).jpg" class="single-url-img"><img border="0"; alt="XXXXXX Placemark"; class="responsive-img"; ></a></td>
 </table></div> -->
 
 
@@ -510,24 +511,23 @@ aka Portland International Rose Test Garden</p>
 
 <!-- <div id="site-table"><p class="site-header-txt">Local Festivals and Events</p> 
 <table width="100%"><td valign="top" width="50%">
-		<a href="https://live.staticflickr.com/1628/24545696776_0b6c245f24_b.jpg">
-		<img border="0" src="https://live.staticflickr.com/1628/24545696776_0b6c245f24_b.jpg" class="responsive-img"></a></td>
-		<td valign="top" width="50%">
-		Areas <span class="f2">A</span> &amp;<span class="f2">B</span> - Portland/Beaverton (and Astoria)<br><br>
-		There are various local festivals throughout the year around the Northwest including (but not limited to):
+		<a href="https://live.staticflickr.com/1628/24545696776_0b6c245f24_b.jpg" class="single-url-img"><img border="0"; alt="XXXXXX Placemark"; class="responsive-img"; ></a></td>
+	<td valign="top" width="50%">
+	Areas <span class="f2">A</span> &amp;<span class="f2">B</span> - Portland/Beaverton (and Astoria)<br><br>
+	There are various local festivals throughout the year around the Northwest including (but not limited to):
 
-		<ul>
-			<li>Portland Greek Festival in east Portland (September)</li>
-			<li>Mt Angel Oktoberfest. See the site box below.</li>
-			<li>If you like Oktoberfest events, during Sep/Oct time frame are various local fests in the Portland area to look into:<br>
-			<a href="https://www.portlandtribune.com/lifestyle/its-oktoberfest-time-here-are-7-places-in-portland-area-to-party-down-german-style/article_ffc68198-5287-11ee-b61c-3743924003de.html">www.portlandtribune.com/lifestyle/oktoberfests</a></li>
-			<li>Garlic Festival NW of Beaverton in North Plans (August)</li>
-			<li>Rose Festival/City Fair (see the Waterfront site box above)</li>
-			<li>Oregon Brewers Festival at the Willamette Waterfront May/Jun)</li>
-			<li>Chinese New Year Festival at Lan Su Garden (see the site box above)</li>
-			<li>Portland Convention Center hold events throughout the year including: CoffeeFest, Chocolatefest, Wine and Seafood Fest, ScanFair (December Scandinavia Festival), Beer and Wine Fest and others</li>
-			<li>Astoria has a neat <a href="https://astoriascanfest.com/">Midsummer Scandinavian Festival</a></li>
-		</ul></td>
+	<ul>
+		<li>Portland Greek Festival in east Portland (September)</li>
+		<li>Mt Angel Oktoberfest. See the site box below.</li>
+		<li>If you like Oktoberfest events, during Sep/Oct time frame are various local fests in the Portland area to look into:<br>
+		<a href="https://www.portlandtribune.com/lifestyle/its-oktoberfest-time-here-are-7-places-in-portland-area-to-party-down-german-style/article_ffc68198-5287-11ee-b61c-3743924003de.html">www.portlandtribune.com/lifestyle/oktoberfests</a></li>
+		<li>Garlic Festival NW of Beaverton in North Plans (August)</li>
+		<li>Rose Festival/City Fair (see the Waterfront site box above)</li>
+		<li>Oregon Brewers Festival at the Willamette Waterfront May/Jun)</li>
+		<li>Chinese New Year Festival at Lan Su Garden (see the site box above)</li>
+		<li>Portland Convention Center hold events throughout the year including: CoffeeFest, Chocolatefest, Wine and Seafood Fest, ScanFair (December Scandinavia Festival), Beer and Wine Fest and others</li>
+		<li>Astoria has a neat <a href="https://astoriascanfest.com/">Midsummer Scandinavian Festival</a></li>
+	</ul></td>
 </table></div> -->
 
 
@@ -1543,11 +1543,11 @@ Former Tillamook Naval Air Station (aka Blimp Base)</p>
 
 		State Park parking fee $10 day-use pass per car <img border="0" src="images-nw/symbol-tix.svg" class="static-nav-icon"><br>
 
-		<p style="text-align: center">Rooster Rock<br>
-		<a href="https://www.nps.gov/common/uploads/cropped_image/primary/BF70A694-ECA8-907C-7AD51B39E439FCB8.jpg?width=1600&quality=90&mode=crop" class="single-url-img"><img border="0"; alt="XXXXXX Placemark"; class="responsive-img"; ></a></p></td>
+		<p style="text-align: center">Vista House<br>
+		<a href="https://res.cloudinary.com/dragonspell/images/w_1440,h_864,c_scale,dpr_auto,fl_progressive:steep,f_auto/w_1440,h_864/v1571420631/www.travelportland.com/Vista-House-Columbia-River-Gorge-Photo-by-Travel-Oregon-aspect-ratio-5x3/Vista-House-Columbia-River-Gorg" class="single-url-img"><img border="0"; alt="XXXXXX Placemark"; class="responsive-img"; ></a></p></td>
 	<td valign="top" width="50%">
-	<p style="text-align: center">Vista House<br>
-	<a href="https://res.cloudinary.com/dragonspell/images/w_1440,h_864,c_scale,dpr_auto,fl_progressive:steep,f_auto/w_1440,h_864/v1571420631/www.travelportland.com/Vista-House-Columbia-River-Gorge-Photo-by-Travel-Oregon-aspect-ratio-5x3/Vista-House-Columbia-River-Gorg" class="single-url-img"><img border="0"; alt="XXXXXX Placemark"; class="responsive-img"; ></a></p>
+	<p style="text-align: center">Rooster Rock<br>
+	<a href="https://www.nps.gov/common/uploads/cropped_image/primary/BF70A694-ECA8-907C-7AD51B39E439FCB8.jpg?width=1600&quality=90&mode=crop" class="single-url-img"><img border="0"; alt="XXXXXX Placemark"; class="responsive-img"; ></a></p>
 	Near Vista House is Rooster Rock (left). In 1805 as Lewis and Clark were paddling down the Columbia River toward the Pacific, this is the point where they noticed that there was a tidal influence on the river meaning they were getting close to the ocean. The nearby beach is also known for being clothing optional.</p><br>
 	<a href="https://www.google.com/maps/place/Vista+House+at+Crown+Point/@45.5699883,-122.6903876,10.58z/data=!4m6!3m5!1s0x549595d331b13b2d:0x4c72a4fe3cf86bdb!8m2!3d45.5395694!4d-122.2443611!16s/m/06_5319?hl=en&entry=ttu">Google Maps</a></td>
 </table></div>
@@ -1931,7 +1931,7 @@ Former Tillamook Naval Air Station (aka Blimp Base)</p>
 
 		<a href="https://www.google.com/maps/place/Alfred+A.+Loeb+State+Park/@44.0218395,-122.346049,7.38z/data=		!4m6!3m5!1s0x54daa449572bf0c9:0xb182ca475bab7fe1!8m2!3d42.1127554!4d-124.1877237!16s%2Fm%2F04q0g19?entry=ttu&g_ep=EgoyMDI2MDQyMi4wIKXMDSoASAFQAw%3D%3D">Google Maps</a><br><br></td>
 	<td valign="top" width="50%">
-	<a href="https://www.islands.com/img/gallery/oregons-northernmost-redwoods-thrive-in-this-idyllic-state-park-near-the-coast-and-california-border/intro-1776484267.jpg"><img border="0" src="https://www.islands.com/img/gallery/oregons-northernmost-redwoods-thrive-in-this-idyllic-state-park-near-the-coast-and-california-border/intro-1776484267.jpg" class="responsive-img"></a></td>
+	<a href="https://www.islands.com/img/gallery/oregons-northernmost-redwoods-thrive-in-this-idyllic-state-park-near-the-coast-and-california-border/intro-1776484267.jpg" class="single-url-img"><img border="0"; alt="XXXXXX Placemark"; class="responsive-img"; ></a></td>
 </table></div> -->
 
 
@@ -2028,15 +2028,20 @@ Former Tillamook Naval Air Station (aka Blimp Base)</p>
 		Area <span class="f2">G</span> - 180 miles North of Beaverton <img border="0" src="images-nw/symbol-binos.svg" class="static-nav-icon"><br><br>
 		Puget Sound city, nice location, numerous Victorian houses, ferries to other locations. Most of the city is on a promontory ledge above the Puget Sound with nice views.<br><br>
 
+		<a href="https://i.pinimg.com/originals/68/d8/a0/68d8a0a8d6ea8598c9106c239833c0b2.jpg" class="single-url-img"><img border="0"; alt="XXXXXX Placemark"; class="responsive-img"; ></a><br>
+
 		The former coastal artillery post on the north side of Port Townsend (Fort Worden) was located to protect the entry of the Puget Sound from enemy subs during WWII. It includes a parade ground and officers' row housing, concrete bunkers.<br><br>
-		
-		<a href="https://www.realadventures.com/listingimages/1021/1021987/l_1021987d_1024.jpg" class="single-url-img"><img border="0"; alt="XXXXXX Placemark"; class="responsive-img"; ></a></td>
+	
+		Whidbey Island and Port Townsend are part of the movie Officer and a Gentleman.<br><br>
+
+		<a href="https://www.naturallyamazing.com/americasparks/428202185815PM.jpg" class="single-url-img"><img border="0"; alt="XXXXXX Placemark"; class="responsive-img"; ></a></td>
 	<td valign="top" width="50%">
-	<a href="https://i.pinimg.com/originals/68/d8/a0/68d8a0a8d6ea8598c9106c239833c0b2.jpg" class="single-url-img"><img border="0"; alt="XXXXXX Placemark"; class="responsive-img"; ></a><br>
 	
 	During one of our various trips, we stayed at the Manresa Castle in Port Townsend. Rumored to be haunted. Unusual experience. In reviewing photos afterwards, it seems we captured evidence of <a href="images-nw/photo-wa-port-townsend-manresa-orbs.jpg">orbs</a> while roaming the hallways.<br><br>
 
-	Whidbey Island and Port Townsend are part of the movie Officer and a Gentleman.<br><br>
+	<a href="https://www.van-tramp.com/wp/wp-content/uploads/2015/09/IMG_7092.jpg" class="single-url-img"><img border="0"; alt="XXXXXX Placemark"; class="responsive-img"; ></a><br>
+
+	<a href="https://www.realadventures.com/listingimages/1021/1021987/l_1021987d_1024.jpg" class="single-url-img"><img border="0"; alt="XXXXXX Placemark"; class="responsive-img"; ></a><br>
 
 	<a href="https://www.google.com/maps/place/Port+Townsend/@47.017466,-125.0772489,7.08z/data=!4m6!3m5!1s0x548feda05aaa909b:0x12796c904b4cea43!8m2!3d48.1103429!4d-122.7719676!16s/g/11frbg798p?hl=en&entry=ttu">Google Maps</a></td>
 </table></div>
@@ -2125,7 +2130,7 @@ Former Tillamook Naval Air Station (aka Blimp Base)</p>
 
 	<a href="https://www.google.com/maps/place/Space+Needle/@46.9831228,-124.1259522,7.58z/data=!4m6!3m5!1s0x5490151f4ed5b7f9:0xdb2ba8689ed0920d!8m2!3d47.6205063!4d-122.3492774!16zL20vMDFrN3Y3?hl=en&entry=ttu">Google Maps</a><br><br>
 
-	As a free alternative, I read that <a href="https://www.seattle.gov/parks/allparks/kerry-park">Kerry Park (Franklin Place)</a> has pretty comparable views.</td>
+	I have read a few articles talking about the area becoming filled with homeless camping the the base of the Needle. As a free alternative, I hear that <a href="https://www.seattle.gov/parks/allparks/kerry-park">Kerry Park (Franklin Place)</a> has pretty comparable views.</td>
 </table></div>
 
 
@@ -2144,7 +2149,7 @@ Former Tillamook Naval Air Station (aka Blimp Base)</p>
 
 		<a href="https://www.google.com/maps/place/2655+NW+Market+St,+Seattle,+WA+98107/@46.6278295,-121.8862663,8.25z/data=!4m6!3m5!1s0x549015c38f257459:0xc87e5fb097ece605!8m2!3d47.6684231!4d-122.3918345!16s%2Fg%2F11c10p24cn?entry=ttu&g_ep=EgoyMDI2MDcwOC4wIKXMDSoASAFQAw%3D%3D">Google Maps</a><br></td>
 	<td valign="top" width="50%">
-	<a href="https://i.ytimg.com/vi/8_cj8rHfZSE/maxresdefault.jpg" class="single-url-img"><img border="0"; alt="XXXXXX Placemark"; class="responsive-img"; ></a><br></td>
+	<a href="https://i0.wp.com/carltonautstraveltips.com/wp-content/uploads/2021/07/National-Nordic-Museum-norse-viking-ship-stone-Seattle-Carltonauts-travel-tips.jpg?resize=1024%2C683&ssl=1" class="single-url-img"><img border="0"; alt="XXXXXX Placemark"; class="responsive-img"; ></a><br></td>
 </table></div>
 
 
@@ -2426,7 +2431,7 @@ Former Tillamook Naval Air Station (aka Blimp Base)</p>
 			<li><a href="https://www.portlandspirit.com/cruise/bigfoot/">Bigfoot Adventure Cruise</a> (July-September, Portland, $62-70 tickets)</li>
 		</ul></td>
 	<td valign="top" width="50%">
-	<a href="https://lh3.googleusercontent.com/p/AF1QipMup2TnUvDj-78HsX5CVOdPqUJhIDYGi1FqAl0b=s680-w680-h510"><img border="0" src="https://lh3.googleusercontent.com/p/AF1QipMup2TnUvDj-78HsX5CVOdPqUJhIDYGi1FqAl0b=s680-w680-h510" class="responsive-img"></a></td>
+	<a href="https://lh3.googleusercontent.com/p/AF1QipMup2TnUvDj-78HsX5CVOdPqUJhIDYGi1FqAl0b=s680-w680-h510" class="single-url-img"><img border="0"; alt="XXXXXX Placemark"; class="responsive-img"; ></a></td>
 </table></div> -->
 
 
@@ -2435,8 +2440,7 @@ Former Tillamook Naval Air Station (aka Blimp Base)</p>
 
 A few interesting articles... I found these well after putting together this page. Lots of items covered on this web page. But, also includes some new items I have heard about or never heard of...<br>
 
-<p style="text-align: center">
-<a href="https://www.atlasobscura.com/things-to-do/oregon/places">All Places in Oregon</a><br>
+<p style="text-align: center"><a href="https://www.atlasobscura.com/things-to-do/oregon/places">All Places in Oregon</a><br>
 <a href="https://www.atlasobscura.com/things-to-do/washington/places">All Places in Washington</a><br>
 <a href="https://financebuzz.com/underrated-towns-pacific-northwest-4?pid=1692">15 Underrated Towns To Visit in the Pacific Northwest</a><br>
 <a href="https://www.islands.com/2098994/oregon-5-best-waterfall-hiking-trails-ranked/">5 best waterfall hiking trails in Oregon</a></p>
@@ -2476,15 +2480,25 @@ A few interesting articles... I found these well after putting together this pag
 
 This state park is a hidden jewel at the perimeter of the Redwood National Park. It is located right next to the beach. A couple mile drive West from Hwy 101 on a gravel road under <a href="images-fern-canyon-travel/photo-fern-canyon-2009e.jpg">heavy cover canopy</a>. Have to ford at least one small creek with your car. The 1+ mile hiking trail up Fern Canyon starts at the beach.<br><br>
 
-Watch out for the <a href="images-fern-canyon-travel/photo-fern-canyon-2002.jpg">wildlife</a> walking to the trailhead from the parking lot. Incredible. Well worth the 2-3 hour stopover visit while heading North from CA to OR.<br><br>
+Watch out for the <a href="images-fern-canyon-travel/photo-fern-canyon-2002.jpg">wildlife</a> walking to the trailhead from the parking lot. Incredible. <br><br>
 
-From the Hwy 101 turnoff to the last parking lot is about 7 miles. This access road has some very thick tree cover so relying on a Smartphone GPS for most of the road trip might not be reliable. The drive itself is worth a leisurely pace. Count on need for a car wash after the visit (dust).<br><br>
+<table width="100%"><td valign="top" width="40%">
+		<a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2_34oD5aynXgElK29QmU8reYj9q5t4v7hoFV3YRCF-sn5qfMfJH0VNkU&s=10" class="single-url-img"><img border="0"; alt="XXXXXX Placemark"; class="responsive-img"; ></a></td>
+	<td valign="top" width="60%">
+	Well worth the 2-3 hour stopover visit while heading North from CA to OR.<br><br>
 
-Admission to the park is now something like $8 (worth the admission). The canyon entrance is about 1/4 mile north of the last north beach parking lot.<br><br>
+	From the Hwy 101 turnoff to the last parking lot is about 7 miles. This access road has some very thick tree cover so relying on a Smartphone GPS for most of the road trip might not be reliable. The drive itself is worth a leisurely pace. Count on need for a car wash after the visit (dust).<br><br>
 
-Make sure to go on a mid-week day to avoid any crowds.<br><br>
+	Admission to the park is now something like $8 (worth the admission). The canyon entrance is about 1/4 mile north of the last north beach parking lot.<br><br>
 
-A late note: if you think I cherry picked my best pics of Fern Canyon for this web page, look over a <a href="https://www.google.com/search?q=fern+canyon&sca_esv=568381026&tbm=isch&source=lnms&sa=X&ved=2ahUKEwjo7a6ln8eBAxXFOn0KHesQDPsQ_AUoAnoECAYQBA&biw=1255&bih=936&dpr=0.9">Google pic search</a> of the location. Every pic is breathtaking.<br><br>
+	Make sure to go on a mid-week day to avoid any crowds.<br><br><br>
+
+	A late note: if you think I cherry picked my best pics of Fern Canyon for this web page, look over a <a href="https://www.google.com/search?q=fern+canyon&sca_esv=568381026&tbm=isch&source=lnms&sa=X&ved=2ahUKEwjo7a6ln8eBAxXFOn0KHesQDPsQ_AUoAnoECAYQBA&biw=1255&bih=936&dpr=0.9">Google pic search</a> of the location. Every pic is breathtaking.</td>
+</table>
+
+<br>
+
+&nbsp;<hr size="4" noshade color="#0000FF"><br>
 
 <p><img border="0" src="images-nw/image-dunagin03.gif" width="261" height="auto" style="border: 0px solid black; box-shadow: 8px 8px 12px #999"></p><br>
 
