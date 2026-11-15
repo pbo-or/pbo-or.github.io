@@ -33,6 +33,8 @@ td				{margin-left: auto; margin-right: auto; font-size: 10pt; border: 0px solid
 
 #StateParksBox		{border-radius: 8px; margin-left: auto; margin-right: auto; text-align: left; border: 1px solid #0066FF; padding: 4px; width: 768px; height: auto; }
 
+#ChinaDelightBox	{border-radius: 8px; margin-left: auto; margin-right: auto; text-align: left; border: 1px solid #0066FF; padding: 4px; width: 300px; height: auto; }
+
 .site-header-txt	{text-align: center; font-size: 11pt; font-weight: bold; }
 
 .area-table		{background-color: #1ad531; }
@@ -71,7 +73,7 @@ td				{margin-left: auto; margin-right: auto; font-size: 10pt; border: 0px solid
 <div id="Content">
 <p class="site-header-txt"><a href="https://pbo-or.github.io/nw-travel1.shtml"><span class="area-header-txt">Northwest Travel Sites</span></a></p> 
 
-<p style="text-align: center">Last update: November 14, 2026</p>
+<p style="text-align: center">Last update: November 15, 2026</p>
 
 <p style="text-align: center"><img border="0" src="images-nw/map-nw-general.jpg" width="608" height="auto" style="border: 0px solid black; box-shadow: 8px 8px 12px #999"></p><br>
 
@@ -118,6 +120,8 @@ Control+Home will return you to the top of the page<br>
 
 		<img border="0" src="images-nw/symbol-stopwatch.svg" class="static-nav-icon">&nbsp;&nbsp;&nbsp;=&nbsp; Not a destination, but worth a quick stop if traveling near<br><br>
 
+		<img border="0" src="images-nw/symbol-coffee.svg" class="static-nav-icon">&nbsp;&nbsp;&nbsp;=&nbsp; Have encountered some good coffee at this site<br><br>
+
 		<img border="0" src="images-nw/symbol-tix.svg" class="static-nav-icon">&nbsp;&nbsp;&nbsp;=&nbsp; Various state parks charge a parking fee. We can obtain an annual or daily OR State Parks cover parking pass. If we know you would like to visit various State Parks, us buying one pass or the other is a big cost saver. We got a National Parks Lifetime Pass that provides free car entry to NPs and other national monuments, etc. Already recouped half of the Pass cost during a recent road trip.<br><br>
 
 		&nbsp;<img src="images-general/down-arrow.svg" class="static-icon" />&nbsp;&nbsp;&nbsp;&nbsp;=&nbsp; The link before this arrow is a dropdown box. Click on the link to expand the box. Refresh browser to collapse box(es).
@@ -125,7 +129,7 @@ Control+Home will return you to the top of the page<br>
 
 	I found a few online articles that compliment content on this web page. Sometimes the content either expires or is locked at the source. So, for more simple viewing and access to the content, I converted them to simple PDF documents.<br><br> 
 	
-	If external links do not function, they worked when I set the page up. It is the source that changes their link locations. Thus, breaking my previously valid links. Contact me if you find a broken or incorrect link and I will try to resolve.<br><br>
+	If external links do not function, they worked the last time I updated the page. It is often the source that changes their link locations. Thus, breaking my previously valid link. Contact me if you find a broken or incorrect link and I will try to resolve.<br><br>
 	
 	Click on a photo to go to a larger online version of the same photo. To close the photo and return to this page in Edge and Firefox, click the browser Back Arrow or Alt+Left Arrow.
 </div><br>
@@ -159,12 +163,14 @@ Control+Home will return you to the top of the page<br>
 </div>
 
 <p style="text-align: center"><span style="background-color: #FFFF00"><a href="JavaScript:doExpand(MAXBox)">What is the MAX?</a></span> <img src="images-general/down-arrow.svg" class="static-icon" /></p>
-<div id="MAXBox" style="display: none">
-	<p style="text-align: center">MAX is the light rail transportation system that serves the Portland Metro Area including Beaverton (left).<br>
-	The Portland Streetcars serve the downtown only (right).<br>
-	<a href="https://upload.wikimedia.org/wikipedia/commons/4/4f/Portland_MAX_train_of_Type_2_+_Type_1_cars_at_5th_&_Mill_(2015).jpg"><img border="0" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Portland_MAX_train_of_Type_2_+_Type_1_cars_at_5th_&_Mill_(2015).jpg"  width="375" height="auto"></a>
-	<a href="https://okcfox.com/resources/media2/16x9/full/1015/center/80/9f43ffce-1630-4057-aa54-4ea9417d2de6-large16x9_PortlandStreetcarGNUImageMGN.jpg"><img border="0" src="https://okcfox.com/resources/media2/16x9/full/1015/center/80/9f43ffce-1630-4057-aa54-4ea9417d2de6-large16x9_PortlandStreetcarGNUImageMGN.jpg" width="375" height="auto"></a></p>
-</div>
+<div id="MAXBox" style="display: none"><table width="100%">
+		<td valign="top" width="50%">
+		<p style="text-align: center">MAX is the light rail transportation system that serves the Portland Metro Area including Beaverton.<br>	
+		<a href="https://upload.wikimedia.org/wikipedia/commons/4/4f/Portland_MAX_train_of_Type_2_+_Type_1_cars_at_5th_&_Mill_(2015).jpg" class="single-url-img"><img border="0"; alt="XXXXXX Placemark"; class="responsive-img"; ></a></p></td>
+	<td valign="top" width="50%">
+	<p style="text-align: center">The Portland Streetcars serve the downtown only.<br><br>
+	<a href="https://okcfox.com/resources/media2/16x9/full/1015/center/80/9f43ffce-1630-4057-aa54-4ea9417d2de6-large16x9_PortlandStreetcarGNUImageMGN.jpg" class="single-url-img"><img border="0"; alt="XXXXXX Placemark"; class="responsive-img"; ></a></p></td>
+</table></div>
 
 <p style="text-align: center"><span style="background-color: #FFFF00"><a href="JavaScript:doExpand(StateParksBox)">Oregon and Washington State Parks</a></span> <img src="images-general/down-arrow.svg" class="static-icon" /></p>
 <div id="StateParksBox" style="display: none">
@@ -201,7 +207,7 @@ This <a href="http://www.carolmendelmaps.com/mapor/or5.html">graphic map</a> sho
 
 <div id="site-table"><p class="site-header-txt">Powell's City of Books</p> 
 <table width="100%"><td valign="top" width="50%">
-		Area <span class="f2">A</span> - Downtown Portland <img border="0" src="images-nw/symbol-max.svg" class="static-nav-icon"><br><br>
+		Area <span class="f2">A</span> - Downtown Portland <img border="0" src="images-nw/symbol-max.svg" class="static-nav-icon"> <img border="0" src="images-nw/symbol-coffee.svg" class="static-nav-icon"><br><br>
 
 		<a href="https://www.powells.com/locations/powells-city-of-books">
 		powells.com/locations/powells-city-of-books</a><br><br>
@@ -570,7 +576,7 @@ aka Portland International Rose Test Garden</p>
 			<li>Did not see it, but there is a <a href="https://images.squarespace-cdn.com/content/v1/5f5a624a96e5374cbcece43b/9cc45b1d-e00d-49a6-bdc1-2f2b6c25311a/488952045_1459897595219299_3955537311407055452_n.jpg">brewery</a> somewhere near the site that sells beer to the public. I understand it is in the town itself (not on Abbey land). Worth another visit in the future to check this out.</li>
 		</ul>
 
-		A relaxing experience overall. I would describe the refreshing affect of an afternoon wondering about the Monastery as roughly equivalent to visiting the Japanese Garden in the West Hills above downtown Portland (above).</td>
+		A relaxing experience overall. I would describe the refreshing affect of an afternoon wondering about the Monastery as roughly equivalent to visiting the Japanese Garden in the West Hills above downtown Portland (above Travel Box).</td>
 	<td valign="top" width="50%">
 	<a href="https://sdra.com/wp-content/uploads/2017/08/mt-angel-abbey-bell-tower-01.jpg" class="single-url-img"><img border="0"; alt="XXXXXX Placemark"; class="responsive-img"; ></a><br>
 	
@@ -613,7 +619,7 @@ aka Portland International Rose Test Garden</p>
 
 		When we first toured The Oregon Garden it had just opened with multiple juvenile plantings. I understand now that it is more mature and diverse.<br><br>
 
-		Adjacent to the Gordon House (above), but separate admission.<br><br>
+		Adjacent to the Gordon House (above Travel Box), but separate admission.<br><br>
 
 		$12 per person<br>$10 retired<br><br>
 
@@ -673,20 +679,19 @@ aka Portland International Rose Test Garden</p>
 
 		<a href="https://bestofthenorthwest.com/12-covered-bridges-to-tour-in-autumn/">12 Covered Bridges to Tour in Autumn</a><br><br>
 
-		<img border="0" src="https://res.cloudinary.com/simpleview/image/upload/v1569012131/clients/lanecounty/goodpasturebridgebymelaniegriffin2_2_1b6776a5-d6a2-40a7-a012-51302fdf97ce.jpg" class="responsive-img"></td>
+		<img border="0" src="https://assets.simpleviewinc.com/simpleview/image/upload/c_fill,f_jpg,g_xy_center,h_809,q_65,w_639,x_599,y_316/v1/clients/lanecounty-redesign/Pengra_Covered_Bridge_a3782a52-4a38-4996-93b1-c0f0150c64be.jpg" class="responsive-img"></td>
 	<td valign="top" width="50%">
 	This web page is a collection of photographic bridges around Oregon and Washington:<br><br>
 
 	<a href="https://bestofthenorthwest.com/northwest-travel-ideas/15-of-the-most-beautiful-bridges-to-photograph-in-the-pacific-northwest/">15 of the Most Beautiful Bridges to Photograph in the Pacific Northwest</a><br><br>
 
-	<img border="0" src="https://i.pinimg.com/736x/54/91/ff/5491ff3a932b777bb9b6d5c18d9fe6d4.jpg" class="responsive-img"></td>
+	<img border="0" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoZtY7Jaq83gaPKuvrXvMHgdxv-RWXxS62X7MeWjUI27xZVt6fNHBRkgw&s=10" class="responsive-img"></td>
 </table></div>
 
 
 <h2 id="Beaverton"> </h2>
 <div id="area-table" class="area-table">
 <p><span class="area-header-txt">BEAVERTON-TUALATIN VALLEY AREA</span> - Area <span class="f1">B</span><br><br>
-
 
 Many of the Portland and Beaverton sites shown on a single map: <a href="images-nw/map-pdx.JPG">Portland/Beaverton Reference Map</a></p> </div>
 
@@ -770,7 +775,7 @@ Many of the Portland and Beaverton sites shown on a single map: <a href="images-
 
 <div id="site-table"><p class="site-header-txt">Evergreen Aviation and Space Museum<br></p>
 <table width="100%"><td valign="top" width="50%">
-		Area <span class="f2">B</span> - McMinnville. 28 miles SE of Beaverton<br><br>
+		Area <span class="f2">B</span> - McMinnville. 28 miles SE of Beaverton <img border="0" src="images-nw/symbol-coffee.svg" class="static-nav-icon"><br><br>
 
 		<a href="https://www.evergreenmuseum.org">evergreenmuseum.org</a><br><br>
 
@@ -824,8 +829,15 @@ Many of the Portland and Beaverton sites shown on a single map: <a href="images-
 	</ul>
 
 	A new <a href="https://ajisaisushisteak.com/">Ajisai Sushi and Steak</a> restraurant has opened very close to the house. Appears to be a national chain. Tasty, but expensive.<br><br>
+	
+	If you want to go upscale, we do have our own local <a href="https://www.benihana.com/locations/beaverton/">Benihana</a>. Expensive. Long lead time for reservations, but always an experience and really good food. In very high demand. Even with a reservation, we have waited nearly an hour multiple times for tables to open up.<br><br>
+		
+	By almost chance, we recently tried a nearby Chinese <span style="background-color: #FFFFFF"><a href="JavaScript:doExpand(ChinaDelightBox)">restaurant</span> <img src="images-general/down-arrow.svg" class="static-icon" /></a>. Good food. Worth a mention.  We would recommend China Delight for an evening when fixing a meal is not in the cards.
+	<div id="ChinaDelightBox" style="display: none">
+		<a href="https://welcomechinadelight.com/" target="_blank" rel="noopener noreferrer"><img border="0" src="images-nw/image-bc-chinadelight.jpg" width="300" height="auto"></a>
+	</div>	
 
-	If you want to go upscale, we do have our own local <a href="https://www.benihana.com/locations/beaverton/">Benihana</a>. Expensive. Long lead time for reservations, but always an experience and really good food. In very high demand. Even with a reservation, we have waited nearly an hour multiple times for tables to open up.</td>
+</td>
 </table></div>
 
 
@@ -952,7 +964,7 @@ Many of the Portland and Beaverton sites shown on a single map: <a href="images-
 
 <div id="site-table"><p class="site-header-txt">Coffee Girl</p> 
 <table width="100%"><td valign="top" width="50%">
-		Area <span class="f2">C</span> - Coffee shop (in Astoria) <img border="0" src="images-nw/symbol-stopwatch.svg" class="static-nav-icon"><br><br>
+		Area <span class="f2">C</span> - Coffee shop (in Astoria) <img border="0" src="images-nw/symbol-stopwatch.svg" class="static-nav-icon"> <img border="0" src="images-nw/symbol-coffee.svg" class="static-nav-icon"><br><br>
 		<a href="http://www.thecoffeegirl.com/">thecoffeegirl.com</a><br><br>
 
 		Nice place to stop for a break and coffee after driving. Located on piers on a former fish cannery dock on the Columbia River.<br><br>
@@ -1075,7 +1087,7 @@ Many of the Portland and Beaverton sites shown on a single map: <a href="images-
 
 		<a href="https://www.cannonbeach.org">cannonbeach.org</a><br><br>
 
-		Very picturesque tourist town. Very well known to Oregon residents. Haystack Rock (right) is 235 ft high and is the 3rd highest intertidal structure in the world.<br><br>
+		Very picturesque tourist town. Very well known to Oregon residents. Haystack Rock (the prominent rock feature off the beach) is 235 ft high and is the 3rd highest intertidal structure in the world.<br><br>
 
 		Shops, art galleries, food, beach access, nearby Ecola State Park (next travel box). Lots high end vacation homes.<br><br>
 
@@ -1547,7 +1559,7 @@ Former Tillamook Naval Air Station (aka Blimp Base)</p>
 	<td valign="top" width="50%">
 	<p style="text-align: center">Rooster Rock<br>
 	<a href="https://www.nps.gov/common/uploads/cropped_image/primary/BF70A694-ECA8-907C-7AD51B39E439FCB8.jpg?width=1600&quality=90&mode=crop" class="single-url-img"><img border="0"; alt="XXXXXX Placemark"; class="responsive-img"; ></a></p>
-	Near Vista House is Rooster Rock (left). In 1805 as Lewis and Clark were paddling down the Columbia River toward the Pacific, this is the point where they noticed that there was a tidal influence on the river meaning they were getting close to the ocean. The nearby beach is also known for being clothing optional.</p><br>
+	Near Vista House is Rooster Rock (above). In 1805 as Lewis and Clark were paddling down the Columbia River toward the Pacific, this is the point where they noticed that there was a tidal influence on the river meaning they were getting close to the ocean. The nearby beach is also known for being clothing optional.</p><br>
 	<a href="https://www.google.com/maps/place/Vista+House+at+Crown+Point/@45.5699883,-122.6903876,10.58z/data=!4m6!3m5!1s0x549595d331b13b2d:0x4c72a4fe3cf86bdb!8m2!3d45.5395694!4d-122.2443611!16s/m/06_5319?hl=en&entry=ttu">Google Maps</a></td>
 </table></div>
 
