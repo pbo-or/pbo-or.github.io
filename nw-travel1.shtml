@@ -122,7 +122,7 @@ Control+Home will return you to the top of the page<br>
 
 		<img border="0" src="images-nw/symbol-coffee.svg" class="static-nav-icon">&nbsp;&nbsp;&nbsp;=&nbsp; Have encountered some good coffee at this site<br><br>
 
-		<img border="0" src="images-nw/symbol-books.svg" class="static-nav-icon">&nbsp;&nbsp;&nbsp;=&nbsp; I can't help it. These sites bring out the military/navy history buff in me<br><br>
+		<img border="0" src="images-nw/symbol-books.svg" class="static-nav-icon">&nbsp;&nbsp;&nbsp;=&nbsp; I can't help it. These sites bring out the military/navy history buff in me.<br><br>
 
 		<img border="0" src="images-nw/symbol-tix.svg" class="static-nav-icon">&nbsp;&nbsp;&nbsp;=&nbsp; Various parks charge a parking or entrance fee. But we now have 2 park passes:
 		<ul><ul>
@@ -221,7 +221,7 @@ This <a href="http://www.carolmendelmaps.com/mapor/or5.html" target="_blank" rel
 
 <div id="site-table"><p class="site-header-txt">Powell's City of Books</p> 
 <table width="100%"><td valign="top" width="50%">
-		Area <span class="f2">A</span> - Downtown Portland <img border="0" src="images-nw/symbol-max.svg" class="static-nav-icon"> <img border="0" src="images-nw/symbol-coffee.svg" class="static-nav-icon"><br><br>
+		Area <span class="f2">A</span> - Downtown Portland <img border="0" src="images-nw/symbol-max.svg" class="static-nav-icon"> <img border="0" src="images-nw/symbol-coffee.svg" class="static-nav-icon"> <img border="0" src="images-nw/symbol-books.svg" class="static-nav-icon"><br><br>
 
 		<a href="https://www.powells.com/locations/powells-city-of-books" target="_blank" rel="noopener noreferrer">
 		powells.com/locations/powells-city-of-books</a><br><br>
@@ -753,17 +753,16 @@ Many of the Portland and Beaverton sites shown on a single map: <a href="images-
 
 <div id="site-table"><p class="site-header-txt">Beaverton Powell's Books</p> 
 <table width="100%"><td valign="top" width="50%">
-		Area <span class="f2">B</span> - Beaverton. About 10 minutes from our house by car.<br><br>
+		Area <span class="f2">B</span> - Beaverton. About 10 minutes from our house by car. <img border="0" src="images-nw/symbol-books.svg" class="static-nav-icon"><br><br>
 
 		<a href="https://www.powells.com/locations/powells-books-at-cedar-hills-crossing" target="_blank" rel="noopener noreferrer">powells.com/locations/powells-books-at-cedar-hills-crossing</a><br><br>
 
 		The Beaverton satellite store of the Portland main store. Still a very big selection.<br><br>
 
-		<a href="https://www.google.com/maps/place/Powell's+Books+at+Cedar+Hills+Crossing/@45.5190275,-122.8153003,12.33z/data=!4m6!3m5!1s0x5495af7000000001:0xd187b46859233ec!8m2!3d45.4955583!4d-122.8114583!16s/g/11h0b8chp?hl=en&entry=ttu" target="_blank" rel="noopener noreferrer">Google Maps</a><br><br>
-
 		<a href="https://images.contentstack.io/v3/assets/bltb207d0665725d072/bltbea4d489d35b270a/67c242d3938bf5bea7f9cef0/cedar_hills_1440x720.jpg" class="single-url-img" target="_blank" rel="noopener noreferrer"><img border="0"; alt="XXXXXX Placemark"; class="responsive-img"; ></a></td>
 	<td valign="top" width="50%">
-	<a href="https://images.squarespace-cdn.com/content/5ba3e3df1516ba05fbbe1801/1548130175757-MAO2QLA41012BIJ9WOP5/Z1A6520-1.jpg" class="single-url-img" target="_blank" rel="noopener noreferrer"><img border="0"; alt="XXXXXX Placemark"; class="responsive-img"; ></a></td>
+	<a href="https://images.squarespace-cdn.com/content/5ba3e3df1516ba05fbbe1801/1548130175757-MAO2QLA41012BIJ9WOP5/Z1A6520-1.jpg" class="single-url-img" target="_blank" rel="noopener noreferrer"><img border="0"; alt="XXXXXX Placemark"; class="responsive-img"; ></a><br>
+	<a href="https://www.google.com/maps/place/Powell's+Books+at+Cedar+Hills+Crossing/@45.5190275,-122.8153003,12.33z/data=!4m6!3m5!1s0x5495af7000000001:0xd187b46859233ec!8m2!3d45.4955583!4d-122.8114583!16s/g/11h0b8chp?hl=en&entry=ttu" target="_blank" rel="noopener noreferrer">Google Maps</a></td>
 </table></div>
 
 
@@ -2227,7 +2226,7 @@ Former Tillamook Naval Air Station (aka Blimp Base)</p>
 
 <div id="site-table"><p class="site-header-txt">Puget Sound Ferries</p>
 <table width="100%"><td valign="top" width="50%">
-		<img border="0" src="images-nw/symbol-binos.svg" class="static-nav-icon"><br><br>
+		Area <span class="f2">G</span> - 170+ miles North of Beaverton <img border="0" src="images-nw/symbol-binos.svg" class="static-nav-icon"><br><br>
 
 		The ferries criss cross all around the Puget Sound to the West of Seattle. Both for pedestrians and those taking their car along. We took a vacation about 20 years ago totally dedicated to riding the ferries to different sites/landings all around the Sound. Lots of different towns and natural environments to see.<br><br>
 
@@ -2243,7 +2242,8 @@ Former Tillamook Naval Air Station (aka Blimp Base)</p>
 
 <div id="site-table"><p class="site-header-txt">Whale Watching in the Puget Sound</p> 
 <table width="100%"><td valign="top" width="50%">
-		<img border="0" src="images-nw/symbol-binos.svg" class="static-nav-icon"><br><br>
+		Area <span class="f2">G</span> - 170+ miles North of Beaverton <img border="0" src="images-nw/symbol-binos.svg" class="static-nav-icon"><br><br>
+		
 		<a href="https://www.wainnsiders.com/a-guide-to-whale-watching-in-washington-state/" target="_blank" rel="noopener noreferrer">wainnsiders.com/a-guide-to-whale-watching-in-washington-state</a><br><br>
 
 		Have never tried it before. All sorts of opportunities for half day trips to view orcas in the wild in the Puget Sounds area.<br><br>
@@ -2264,7 +2264,7 @@ Former Tillamook Naval Air Station (aka Blimp Base)</p>
 
 <div id="site-table"><p class="site-header-txt">Whidbey Island in the Puget Sound</p> 
 <table width="100%"><td valign="top" width="50%">
-		Area <span class="f2">G</span> - 175 miles North of Beaverton <img border="0" src="images-nw/symbol-binos.svg" class="static-nav-icon"><br><br>
+		Area <span class="f2">G</span> - 190 miles North of Beaverton <img border="0" src="images-nw/symbol-binos.svg" class="static-nav-icon"><br><br>
 
 		Access by ferry and car<br><br>
 
@@ -2578,7 +2578,7 @@ Watch out for the <a href="images-fern-canyon-travel/photo-fern-canyon-2002.jpg"
 
 <a href="https://en.wikipedia.org/wiki/Cascadia_movement" target="_blank" rel="noopener noreferrer"><img border="0" src="images-nw/image-flag-cascadia.jpg" width="150" height="auto" style="border: 0px solid black; box-shadow: 8px 8px 12px #999"></a><br><br>
 
-Fin
+Fin<br><br><br><br><br><br><br><br><br><br>
 
 <script>
 	document.querySelectorAll('.single-url-img').forEach(link => {link.querySelector('img').src = link.href; });
