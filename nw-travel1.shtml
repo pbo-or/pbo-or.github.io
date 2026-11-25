@@ -13,7 +13,7 @@ a:link			{font-family: Tahoma; font-size: 10pt; color: #0000FF; text-decoration:
 
 a:visited			{font-family: Tahoma; font-size: 10pt; text-decoration: none; color: #0000FF; font-weight: bold; }
 				
-#Content	 	{margin-left: auto; margin-right: auto; text-align: justify; border: 0px solid #0066FF; padding: 5px; width: 940px; }
+#Content	 		{margin-left: auto; margin-right: auto; text-align: justify; border: 0px solid #0066FF; padding: 5px; width: 940px; }
 
 #area-table		{border-radius: 10px; margin-left: auto; margin-right: auto; text-align: left; border: 0px solid #0066FF; padding: 13px; width: 915px; }
 
@@ -73,7 +73,7 @@ td				{margin-left: auto; margin-right: auto; font-size: 10pt; border: 0px solid
 <div id="Content">
 <p class="site-header-txt"><a href="https://pbo-or.github.io/nw-travel1.shtml"><span class="area-header-txt">Northwest Travel Sites</span></a></p> 
 
-<p style="text-align: center">Last update: November 20, 2026</p>
+<p style="text-align: center">Last update: November 22, 2026</p>
 
 <p style="text-align: center"><img border="0" src="images-nw/map-nw-general.jpg" width="608" height="auto" style="border: 0px solid black; box-shadow: 8px 8px 12px #999"></p><br>
 
@@ -664,13 +664,13 @@ aka Portland International Rose Test Garden</p>
 
 <div id="site-table"><p class="site-header-txt">Silver Falls State Park</p> 
 <table width="100%"><td valign="top" width="50%">
-		Area <span class="f2">A</span> - 52 miles South of Beaverton <img border="0" src="images-nw/symbol-foot.svg" class="static-nav-icon"> <img border="0" src="images-nw/symbol-binos.svg" class="static-nav-icon"><br><br>
+		Area <span class="f2">A</span> - 52 miles South of Beaverton <img border="0" src="images-nw/symbol-foot.svg" class="static-nav-icon"> <img border="0" src="images-nw/symbol-binos.svg" class="static-nav-icon"> <img border="0" src="images-nw/symbol-tix.svg" class="static-nav-icon"><br><br>
 
 		<a href="https://stateparks.oregon.gov/index.cfm?do=park.profile&parkId=151" target="_blank" rel="noopener noreferrer">stateparks.oregon.gov</a><br><br>
 
 		<a href="https://www.alltrails.com/parks/us/oregon/silver-falls-state-park" target="_blank" rel="noopener noreferrer">alltrails.com/parks/us/oregon/silver-falls-state-park</a><br><br>
 
-		Free parking with State Park Pass <img border="0" src="images-nw/symbol-tix.svg" class="static-nav-icon"><br><br>
+		Free parking with State Park Pass<br><br>
 				
 		<a href="https://media.cntraveler.com/photos/627d6d9d711456a8bef300e0/16:9/w_1920,c_limit/Silver%2520Falls%2520State%2520Park_GettyImages-977850572.jpg" class="single-url-img" target="_blank" rel="noopener noreferrer"><img border="0"; alt="XXXXXX Placemark"; class="responsive-img"; ></a></td>
 	<td valign="top" width="50%">
@@ -839,7 +839,7 @@ Many of the Portland and Beaverton sites shown on a single map: <a href="images-
 <div id="site-table"><p class="site-header-txt">Saddle Mountain</p>
 <table width="100%"><td valign="top" width="50%">
 		Area <span class="f2">B</span> - between Beaverton and the beach. 55 miles NW of Beaverton<br>
-		<img border="0" src="images-nw/symbol-foot.svg" class="static-nav-icon"> <img border="0" src="images-nw/symbol-binos.svg" class="static-nav-icon"><br><br>
+		<img border="0" src="images-nw/symbol-foot.svg" class="static-nav-icon"> <img border="0" src="images-nw/symbol-binos.svg" class="static-nav-icon"> <img border="0" src="images-nw/symbol-tix.svg" class="static-nav-icon"><br><br>
 
 		<a href="https://stateparks.oregon.gov/index.cfm?do=park.profile&parkId=140" target="_blank" rel="noopener noreferrer">stateparks.oregon.gov</a><br><br>
 		
@@ -849,7 +849,7 @@ Many of the Portland and Beaverton sites shown on a single map: <a href="images-
 
 		I would call the 2nd half of the hike to the summit 'rigorous' if you are not already in condition for the exercise. You will want better than tennis shoes for the last part of the hike.<br><br> 
 		
-		Free parking with State Park Pass <img border="0" src="images-nw/symbol-tix.svg" class="static-nav-icon"><br><br>
+		Free parking with State Park Pass<br><br>
 		
 		Almost a 90 minute drive from Beaverton. Including the hike and return to Beaverton, visiting here is full day trip.<br><br>
 		
@@ -1058,7 +1058,7 @@ Many of the Portland and Beaverton sites shown on a single map: <a href="images-
 
 <div id="site-table"><p class="site-header-txt">Fort Clatsop National Historic Park</p> 
 <table width="100%"><td valign="top" width="50%">
-		Area <span class="f2">C</span> - 4 miles SW of Astoria <img border="0" src="images-nw/symbol-books.svg" class="static-nav-icon"><br><br>
+		Area <span class="f2">C</span> - 4 miles SW of Astoria <img border="0" src="images-nw/symbol-books.svg" class="static-nav-icon"> <img border="0" src="images-nw/symbol-tix.svg" class="static-nav-icon"><br><br>
 
 		<a href="https://www.nps.gov/places/fort-clatsop-or.htm" target="_blank" rel="noopener noreferrer">nps.gov/places/fort-clatsop-or</a><br><br>
 
@@ -1068,7 +1068,7 @@ Many of the Portland and Beaverton sites shown on a single map: <a href="images-
 
 		Some interesting historical displays<br><br>
 
-		Free entrance with NPS Pass <img border="0" src="images-nw/symbol-tix.svg" class="static-nav-icon"><br><br>
+		Free entrance with NPS Pass<br><br>
 
 		<a href="https://www.google.com/maps/place/Fort+Clatsop/@46.16796,-123.9498825,12.04z/data=!4m6!3m5!1s0x54ead8fdee7c0001:0x5fc1df035029d5a1!8m2!3d46.1366944!4d-123.8783871!16zL20vMDM5azYz?hl=en&entry=ttu" target="_blank" rel="noopener noreferrer">Google Maps</a></td>
 	<td valign="top" width="50%">
@@ -1078,13 +1078,13 @@ Many of the Portland and Beaverton sites shown on a single map: <a href="images-
 
 <div id="site-table"><p class="site-header-txt">Fort Stevens State Park</p> 
 <table width="100%"><td valign="top" width="50%">
-		Area <span class="f2">C</span> - 6 miles West of Astoria <img border="0" src="images-nw/symbol-foot.svg" class="static-nav-icon"> <img border="0" src="images-nw/symbol-binos.svg" class="static-nav-icon"> <img border="0" src="images-nw/symbol-books.svg" class="static-nav-icon"><br><br>
+		Area <span class="f2">C</span> - 6 miles West of Astoria <img border="0" src="images-nw/symbol-foot.svg" class="static-nav-icon"> <img border="0" src="images-nw/symbol-binos.svg" class="static-nav-icon"> <img border="0" src="images-nw/symbol-books.svg" class="static-nav-icon"> <img border="0" src="images-nw/symbol-tix.svg" class="static-nav-icon"><br><br>
 
 		<a href="https://stateparks.oregon.gov/index.cfm?do=park.profile&parkId=129" target="_blank" rel="noopener noreferrer">stateparks.oregon.gov</a><br><br>
 
 		State Park including campground, beach access, coastal and Columbia River viewpoints (below), museum, concrete bunkers and gun emplacements (right). Fort Stevens was a former fort defending the end of the Columbia River at the Pacific from Japanese submarines. In 1942 an enemy sub actually fired upon the fort. They missed their target a long ways off. They were aiming at a supposed submarine base on the other side of Astoria (that was never built) and hit ground 10 miles away. Good intelligence from High Command!<br><br>
 
-		Free parking with State Park Pass <img border="0" src="images-nw/symbol-tix.svg" class="static-nav-icon"><br><br>
+		Free parking with State Park Pass<br><br>
 
 		<a href="https://media.defense.gov/2021/Apr/07/2002615923/-1/-1/0/200831-A-ET715-0178.JPG" class="single-url-img" target="_blank" rel="noopener noreferrer"><img border="0"; alt="XXXXXX Placemark"; class="responsive-img"; ></a></td>
 	<td valign="top" width="50%">
@@ -1167,13 +1167,13 @@ Many of the Portland and Beaverton sites shown on a single map: <a href="images-
 
 <div id="site-table"><p class="site-header-txt">Ecola State Park</p> 
 <table width="100%"><td valign="top" width="50%">
-		Area <span class="f2">C</span> - 60 miles West of Beaverton <img border="0" src="images-nw/symbol-binos.svg" class="static-nav-icon"><br><br>
+		Area <span class="f2">C</span> - 60 miles West of Beaverton <img border="0" src="images-nw/symbol-binos.svg" class="static-nav-icon"> <img border="0" src="images-nw/symbol-tix.svg" class="static-nav-icon"><br><br>
 
 		<a href="https://stateparks.oregon.gov/index.cfm?do=park.profile&parkId=136" target="_blank" rel="noopener noreferrer">stateparks.oregon.gov</a><br><br>
 
 		Ecola State Park is as well known as Cannon Beach located several miles from the town on a very curvy road surrounded with lush green ferns and vegetation.<br><br>
 
-		Free parking with State Park Pass <img border="0" src="images-nw/symbol-tix.svg" class="static-nav-icon"><br><br>
+		Free parking with State Park Pass<br><br>
 
 		<a href="https://images.squarespace-cdn.com/content/v1/61eb640f60360a71b6ced4e7/b6dbce28-3cfa-4340-a7a8-d3852d1fc951/IMG_0608.jpg" class="single-url-img" target="_blank" rel="noopener noreferrer"><img border="0"; alt="XXXXXX Placemark"; class="responsive-img"; ></a></td>
 	<td valign="top" width="50%">
@@ -1203,13 +1203,13 @@ Many of the Portland and Beaverton sites shown on a single map: <a href="images-
 
 <div id="site-table"><p class="site-header-txt">Oswald West State Park</p> 
 <table width="100%"><td valign="top" width="50%">
-		Area <span class="f2">C</span> - 60 miles West of Beaverton <img border="0" src="images-nw/symbol-foot.svg" class="static-nav-icon"> <img border="0" src="images-nw/symbol-binos.svg" class="static-nav-icon"><br><br>
+		Area <span class="f2">C</span> - 60 miles West of Beaverton <img border="0" src="images-nw/symbol-foot.svg" class="static-nav-icon"> <img border="0" src="images-nw/symbol-binos.svg" class="static-nav-icon"> <img border="0" src="images-nw/symbol-tix.svg" class="static-nav-icon"><br><br>
 
 		<a href="https://stateparks.oregon.gov/index.cfm?do=park.profile&parkId=139" target="_blank" rel="noopener noreferrer">stateparks.oregon.gov</a><br><br>
 
 		About 10 miles south of Cannon Beach. This park appears to be just a coast highway wayside park. But there are actually some good activities and hikes available here.<br><br>
 
-		Free parking with State Park Pass <img border="0" src="images-nw/symbol-tix.svg" class="static-nav-icon"><br><br>
+		Free parking with State Park Pass<br><br>
 
 		This <a href="https://www.thetravel.com/oregons-most-underrated-state-park-is-better-than-olympic-national-park/" target="_blank" rel="noopener noreferrer">web page</a> gives a pretty description of the park.<br><br>
 
@@ -1292,7 +1292,7 @@ Former Tillamook Naval Air Station (aka Blimp Base)</p>
 
 
 <div id="site-table"><p class="site-header-txt">Munson Creek Falls State Natural Site</p> 
-<table width="100%"><td valign="top" width="50%">
+<table width="100%"><td valign="top" width="45%">
 		Area <span class="f2">C</span> - South the Tillamook Air Station about 3 miles. Then about 1.5 miles East of Hwy 101 <img border="0" src="images-nw/symbol-foot.svg" class="static-nav-icon"> <img border="0" src="images-nw/symbol-binos.svg" class="static-nav-icon"><br><br>
 
 		<a href="https://stateparks.oregon.gov/index.cfm?do=park.profile&parkId=175" target="_blank" rel="noopener noreferrer">stateparks.oregon.gov</a><br><br>
@@ -1304,20 +1304,20 @@ Former Tillamook Naval Air Station (aka Blimp Base)</p>
 		<a href="https://wandering-through-time-and-place.com/wp-content/uploads/2017/12/top-of-munson-creek-falls.jpg" class="single-url-img" target="_blank" rel="noopener noreferrer"><img border="0"; alt="XXXXXX Placemark"; class="responsive-img"; ></a><br>
 
 		<a href="https://www.iheartpacificnorthwest.com/wp-content/uploads/2023/03/Munson-Creek-Falls-March-2023-01.jpg" class="single-url-img" target="_blank" rel="noopener noreferrer"><img border="0"; alt="XXXXXX Placemark"; class="responsive-img"; ></a></td>
-	<td valign="top" width="50%">
+	<td valign="top" width="55%">
 	<a href="https://www.willhiteweb.com/oregon_travel/munson_creek_falls/munson-creek-oregon-coast.jpg" class="single-url-img" target="_blank" rel="noopener noreferrer"><img border="0"; alt="XXXXXX Placemark"; class="responsive-img"; ></a></td>
 </table></div>
 
 
 <div id="site-table"><p class="site-header-txt">Cape Meares Lighthouse</p> 
 <table width="100%"><td valign="top" width="50%">
-		Area <span class="f2">C</span> - 60 miles West of Beaverton (about 10 road miles West of Tillamook) <img border="0" src="images-nw/symbol-binos.svg" class="static-nav-icon"><br><br>
+		Area <span class="f2">C</span> - 60 miles West of Beaverton (about 10 road miles West of Tillamook) <img border="0" src="images-nw/symbol-binos.svg" class="static-nav-icon"> <img border="0" src="images-nw/symbol-tix.svg" class="static-nav-icon"><br><br>
 
 		<a href="https://stateparks.oregon.gov/index.cfm?do=park.profile&parkId=131" target="_blank" rel="noopener noreferrer">stateparks.oregon.gov</a><br><br>
 
 		Built/activated in 1890. The original lighthouse stayed in operation until 1963.<br><br>
 
-		Free parking with State Park Pass <img border="0" src="images-nw/symbol-tix.svg" class="static-nav-icon"><br><br>
+		Free parking with State Park Pass<br><br>
 
 		Nice <a href="https://img.marinas.com/v2/4feff5f82c741fdd84d453fdb9d1bbbfbe08a8ce9e353cbc42c0273440638b55.jpg" target="_blank" rel="noopener noreferrer">promontory and ocean viewpoint</a>.<br><br>
 
@@ -1337,11 +1337,16 @@ Former Tillamook Naval Air Station (aka Blimp Base)</p>
 <table width="100%"><td valign="top" width="50%">
 		Area <span class="f2">C</span> - 70 miles SE of Beaverton (north of Lincoln City)<br><br>
 
-		<a href="https://myhikes.org/trails/gods-thumb" target="_blank" rel="noopener noreferrer">myhikes.org/trails/gods-thumb</a> (including a map of the 1.6 mile trail)<br><br>
+		<a href="https://myhikes.org/trails/gods-thumb" target="_blank" rel="noopener noreferrer">myhikes.org/trails/gods-thumb</a> (including a map of the 1.6 mile trail)<br>
 
-		<a href="https://www.google.com/maps/place/The+Knoll+Open+Space+Trailhead/@45.0111016,-124.0113887,12.33z/data=!4m6!3m5!1s0x54eaed336259bd4d:0x8717af00672f47bc!8m2!3d45.0108678!4d-123.9976814!16s%2Fg%2F11fxw8kh75?entry=ttu&g_ep=EgoyMDI2MTExOC4xIKXMDSoASAFQAw%3D%3D" target="_blank" rel="noopener noreferrer">Google Maps</a> (trailhead start)</td>
+		<p style="text-align: center">Trail to the viewpoint<br>
+	
+		<a href="https://images.squarespace-cdn.com/content/v1/6226f62738f4f73d2b353e79/a647eaac-4078-4ec1-9f07-e22ae0fa0892/IMG_5278.JPG" class="single-url-img" target="_blank" rel="noopener noreferrer"><img border="0"; alt="XXXXXX Placemark"; class="responsive-img"; ></a></p></td>
 	<td valign="top" width="50%">
-	<a href="https://images.squarespace-cdn.com/content/v1/6226f62738f4f73d2b353e79/a647eaac-4078-4ec1-9f07-e22ae0fa0892/IMG_5278.JPG" class="single-url-img" target="_blank" rel="noopener noreferrer"><img border="0"; alt="XXXXXX Placemark"; class="responsive-img"; ></a></td>
+	<p style="text-align: center">View to the North<br>
+	<a href="https://static.wixstatic.com/media/35f303_f6807a780e7e460b85c62fdba650f30d~mv2.jpg/v1/fill/w_980,h_652,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/35f303_f6807a780e7e460b85c62fdba650f30d~mv2.jpg" class="single-url-img" target="_blank" rel="noopener noreferrer"><img border="0"; alt="XXXXXX Placemark"; class="responsive-img"; ></a></p>
+	
+	<a href="https://www.google.com/maps/place/The+Knoll+Open+Space+Trailhead/@45.0111016,-124.0113887,12.33z/data=!4m6!3m5!1s0x54eaed336259bd4d:0x8717af00672f47bc!8m2!3d45.0108678!4d-123.9976814!16s%2Fg%2F11fxw8kh75?entry=ttu&g_ep=EgoyMDI2MTExOC4xIKXMDSoASAFQAw%3D%3D" target="_blank" rel="noopener noreferrer">Google Maps</a> (trailhead start)</td>
 </table></div>
 
 
@@ -1384,11 +1389,11 @@ Former Tillamook Naval Air Station (aka Blimp Base)</p>
 
 <div id="site-table"><p class="site-header-txt">Drift Creek Falls Trail</p> 
 <table width="100%"><td valign="top" width="50%">
-		Area <span class="f2">C</span> - 8 miles East of Lincoln City <img border="0" src="images-nw/symbol-foot.svg" class="static-nav-icon"> <img border="0" src="images-nw/symbol-binos.svg" class="static-nav-icon"><br><br>
+		Area <span class="f2">C</span> - 8 miles East of Lincoln City <img border="0" src="images-nw/symbol-foot.svg" class="static-nav-icon"> <img border="0" src="images-nw/symbol-binos.svg" class="static-nav-icon"> <img border="0" src="images-nw/symbol-tix.svg" class="static-nav-icon"><br><br>
 
 		<a href="https://www.explorelincolncity.com/directory/hike-drift-creek-falls-trail/" target="_blank" rel="noopener noreferrer">Drift Creek Falls</a><br><br>
 
-		Free entrance with NPS Pass <img border="0" src="images-nw/symbol-tix.svg" class="static-nav-icon"><br><br>
+		Free entrance with NPS Pass<br><br>
 
 		The 3.1 mile roundtrip hike is considered moderately challenging (about 1.5 hrs). Neat suspension bridge along the trail.<br><br>
 
@@ -1400,10 +1405,11 @@ Former Tillamook Naval Air Station (aka Blimp Base)</p>
 
 <div id="site-table"><p class="site-header-txt">Devil's Punchbowl</p> 
 <table width="100%"><td valign="top" width="50%">
-		Area <span class="f2">C</span> - 15 miles South of Lincoln City <img border="0" src="images-nw/symbol-stopwatch.svg" class="static-nav-icon"><br><br>
+		Area <span class="f2">C</span> - 15 miles South of Lincoln City <img border="0" src="images-nw/symbol-stopwatch.svg" class="static-nav-icon"> <img border="0" src="images-nw/symbol-tix.svg" class="static-nav-icon"><br><br>
+
 		<a href="https://stateparks.oregon.gov/index.cfm?do=park.profile&parkId=156" target="_blank" rel="noopener noreferrer">stateparks.oregon.gov</a><br><br>
 
-		Free parking with State Park Pass <img border="0" src="images-nw/symbol-tix.svg" class="static-nav-icon"><br><br>
+		Free parking with State Park Pass<br><br>
 
 		<a href="https://i.ytimg.com/vi/vFhwPBfn-r8/maxresdefault.jpg" class="single-url-img" target="_blank" rel="noopener noreferrer"><img border="0"; alt="XXXXXX Placemark"; class="responsive-img"; ></a></td>
 	<td valign="top" width="50%">
@@ -1417,13 +1423,13 @@ Former Tillamook Naval Air Station (aka Blimp Base)</p>
 
 <div id="site-table"><p class="site-header-txt">Newport</p> 
 <table width="100%"><td valign="top" width="50%">
-		Area <span class="f2">C</span> - 85 miles southwest of Beaverton <img border="0" src="images-nw/symbol-binos.svg" class="static-nav-icon"><br><br>
+		Area <span class="f2">C</span> - 85 miles southwest of Beaverton <img border="0" src="images-nw/symbol-binos.svg" class="static-nav-icon"> <img border="0" src="images-nw/symbol-tix.svg" class="static-nav-icon"><br><br>
 
 		<a href="https://www.tripadvisor.com/Attractions-g51992-Activities-Newport_Oregon.html" target="_blank" rel="noopener noreferrer">tripadvisor.com/Attractions-g51992-Activities-Newport_Oregon</a><br><br>
 
 		No admission charge at the Yaquina Bay Lighthouse<br><br>
 		
-		Free entrance to Yaquina Head Lighthouse with NPS Pass <img border="0" src="images-nw/symbol-tix.svg" class="static-nav-icon"><br><br>
+		Free entrance to Yaquina Head Lighthouse with NPS Pass<br><br>
 
 		<a href="https://d3uw6f38ocgirn.cloudfront.net/media/up/189/f9f3d704d902e16146591affb29da982_2018lighthousesyaquinabay.jpg" class="single-url-img" target="_blank" rel="noopener noreferrer"><img border="0"; alt="XXXXXX Placemark"; class="responsive-img"; ></a></td>
 	<td valign="top" width="50%">
@@ -1498,13 +1504,13 @@ Former Tillamook Naval Air Station (aka Blimp Base)</p>
 
 <div id="site-table"><p class="site-header-txt">Heceta Lighthouse</p> 
 <table width="100%"><td valign="top" width="50%">
-		Area <span class="f2">C</span> - 125 miles SW of Beaverton <img border="0" src="images-nw/symbol-foot.svg" class="static-nav-icon"> <img border="0" src="images-nw/symbol-binos.svg" class="static-nav-icon"><br><br>
+		Area <span class="f2">C</span> - 125 miles SW of Beaverton <img border="0" src="images-nw/symbol-foot.svg" class="static-nav-icon"> <img border="0" src="images-nw/symbol-binos.svg" class="static-nav-icon"> <img border="0" src="images-nw/symbol-tix.svg" class="static-nav-icon"><br><br>
 
 		About 45 miles south of Newport<br><br>
 
 		<a href="https://stateparks.oregon.gov/index.cfm?do=park.profile&parkId=86" target="_blank" rel="noopener noreferrer">stateparks.oregon.gov</a><br><br>
 
-		Free parking with State Park Pass <img border="0" src="images-nw/symbol-tix.svg" class="static-nav-icon"><br><br>
+		Free parking with State Park Pass<br><br>
 
 		<p style="text-align: center">Lighthouse looking North from the highway<br>
 		<a href="https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Evening_Light_At_Heceta_Head_%2827770099658%29.jpg/1280px-Evening_Light_At_Heceta_Head_%2827770099658%29.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail" class="single-url-img" target="_blank" rel="noopener noreferrer"><img border="0"; alt="XXXXXX Placemark"; class="responsive-img"; ></a></td>
@@ -1519,7 +1525,7 @@ Former Tillamook Naval Air Station (aka Blimp Base)</p>
 </table></div>
 
 
-<div id="site-table"><p class="site-header-txt">Oregon Dunes</p> 
+<!-- <div id="site-table"><p class="site-header-txt">Oregon Dunes</p> 
 <table width="100%"><td valign="top" width="50%">
 		Area <span class="f2">	C</span> - 150 miles SW of Beaverton <img border="0" src="images-nw/symbol-binos.svg" class="static-nav-icon"><br><br>
 
@@ -1535,7 +1541,7 @@ Former Tillamook Naval Air Station (aka Blimp Base)</p>
 	The group dune tour rides are run by private businesses. Prices range from expensive to Expensive.<br><br>
 
 	<a href="https://www.google.com/maps/place/Oregon+Dunes+National+Recreation+Area+Siuslaw+National+Forest/@44.9336896,-124.2681716,7.96z/data=!4m6!3m5!1s0x54c3c6aa240bff39:0x7590e9c9e0b4eef4!8m2!3d43.7035323!4d-124.1059618!16zL20vMDVqbmJq?hl=en&entry=ttu" target="_blank" rel="noopener noreferrer">Google Maps</a></td>
-</table></div>
+</table></div> -->
 
 
 <h2 id="Vancouver"> </h2>
@@ -1560,7 +1566,7 @@ Former Tillamook Naval Air Station (aka Blimp Base)</p>
 
 <div id="site-table"><p class="site-header-txt">Fort Vancouver</p> 
 <table width="100%"><td valign="top" width="50%">
-		Area <span class="f2">D</span> - Downtown Vancouver <img border="0" src="images-nw/symbol-books.svg" class="static-nav-icon"><br><br>
+		Area <span class="f2">D</span> - Downtown Vancouver <img border="0" src="images-nw/symbol-books.svg" class="static-nav-icon"> <img border="0" src="images-nw/symbol-tix.svg" class="static-nav-icon"><br><br>
 
 		<a href="https://www.travel-experience-live.com/fort-vancouver-national-historic-site-travel-guide/" target="_blank" rel="noopener noreferrer">www.travel-experience-live.com/fort-vancouver-national-historic-site-travel-guide/</a><br><br>
 
@@ -1572,7 +1578,7 @@ Former Tillamook Naval Air Station (aka Blimp Base)</p>
 		
 		<a href="https://d3mqmy22owj503.cloudfront.net/05/500005/images/poi/fort-vancouver-national-historic-site/96-fort-vancouver-national-historic-site-1-1.jpg" class="single-url-img" target="_blank" rel="noopener noreferrer"><img border="0"; alt="XXXXXX Placemark"; class="responsive-img"; ></a></td>
 	<td valign="top" width="50%">
-	No entrance fees to the adjacent Pearson Air Museum, Fort Vancouver Visitor Center.	Free entrance to the Stockade with NPS Pass <img border="0" src="images-nw/symbol-tix.svg" class="static-nav-icon"><br><br>
+	No entrance fees to the adjacent Pearson Air Museum, Fort Vancouver Visitor Center.	Free entrance to the Stockade with NPS Pass<br><br>
 
 	I am a fan of the Officers Row. Picturesque walk. Includes residence of George Marshall when he was stationed there 1936-1938 prior to WWII (as the one star general in charge of the 5th Army Brigade based at Fort Vancouver). During this job he was also in charge of 35 CCC (Civilian Conservation Corps) camps in the Northwest.<br>
 	<p style="text-align: center">Officers Row<br>
@@ -1584,7 +1590,7 @@ Former Tillamook Naval Air Station (aka Blimp Base)</p>
 
 <div id="site-table"><p class="site-header-txt">Mount Saint Helens National Volcanic Monument Visitor Center </p> 
 <table width="100%"><td valign="top" width="49%">
-		Area <span class="f2">D</span> - 50 miles NE of Vancouver <img border="0" src="images-nw/symbol-binos.svg" class="static-nav-icon"><br><br>
+		Area <span class="f2">D</span> - 50 miles NE of Vancouver <img border="0" src="images-nw/symbol-binos.svg" class="static-nav-icon"> <img border="0" src="images-nw/symbol-tix.svg" class="static-nav-icon"><br><br>
 
 		<a href="https://www.usgs.gov/volcanoes/mount-st.-helens/mount-st-helens-national-volcanic-monument" target="_blank" rel="noopener noreferrer">usgs.gov/volcanoes/mount-st.-helens/
 		mount-st-helens-national-volcanic-monument</a><br><br>
@@ -1593,7 +1599,7 @@ Former Tillamook Naval Air Station (aka Blimp Base)</p>
 
 		The highway drive to the site is an achievement in civil engineering and recovery after the volcano blew in 1980.<br><br>
 
-		Free entrance with NPS Pass <img border="0" src="images-nw/symbol-tix.svg" class="static-nav-icon"><br>
+		Free entrance with NPS Pass<br>
 
 		<p style="text-align: center">May 1980<br>
 		<a href="https://www.oregonlive.com/projects/mount-st-helens/media/helens_page06_09.jpg" class="single-url-img" target="_blank" rel="noopener noreferrer"><img border="0"; alt="XXXXXX Placemark"; class="responsive-img"; ></a></p></td>
@@ -1625,7 +1631,7 @@ Former Tillamook Naval Air Station (aka Blimp Base)</p>
 
 <div id="site-table"><p class="site-header-txt">Vista House at Crown Point</p> 
 <table width="100%"><td valign="top" width="50%">
-		Area <span class="f2">E</span> - 26 miles East of Beaverton <img border="0" src="images-nw/symbol-stopwatch.svg" class="static-nav-icon"> <img border="0" src="images-nw/symbol-binos.svg" class="static-nav-icon"><br><br>
+		Area <span class="f2">E</span> - 26 miles East of Beaverton <img border="0" src="images-nw/symbol-stopwatch.svg" class="static-nav-icon"> <img border="0" src="images-nw/symbol-binos.svg" class="static-nav-icon"> <img border="0" src="images-nw/symbol-tix.svg" class="static-nav-icon"><br><br>
 
 		<a href="https://vistahouse.com" target="_blank" rel="noopener noreferrer">vistahouse.com</a><br><br>
 
@@ -1633,7 +1639,7 @@ Former Tillamook Naval Air Station (aka Blimp Base)</p>
 
 		The building itself is only open very limited hours.<br><br>
 
-		Free parking with State Park Pass <img border="0" src="images-nw/symbol-tix.svg" class="static-nav-icon"><br><br>
+		Free parking with State Park Pass<br><br>
 
 		<p style="text-align: center">Vista House<br>
 		<a href="https://res.cloudinary.com/dragonspell/images/w_1440,h_864,c_scale,dpr_auto,fl_progressive:steep,f_auto/w_1440,h_864/v1571420631/www.travelportland.com/Vista-House-Columbia-River-Gorge-Photo-by-Travel-Oregon-aspect-ratio-5x3/Vista-House-Columbia-River-Gorg" class="single-url-img" target="_blank" rel="noopener noreferrer"><img border="0"; alt="XXXXXX Placemark"; class="responsive-img"; ></a></p></td>
@@ -1778,13 +1784,13 @@ Former Tillamook Naval Air Station (aka Blimp Base)</p>
 
 <div id="site-table"><p class="site-header-txt">Tamanawas Falls</p> 
 <table width="100%"><td valign="top" width="50%">
-		Area <span class="f2">E</span> - 60 miles East of Beaverton <img border="0" src="images-nw/symbol-foot.svg" class="static-nav-icon"><br><br>
+		Area <span class="f2">E</span> - 60 miles East of Beaverton <img border="0" src="images-nw/symbol-foot.svg" class="static-nav-icon"> <img border="0" src="images-nw/symbol-tix.svg" class="static-nav-icon"><br><br>
 
 		<a href="https://www.oregonhikers.org/field_guide/tamanawas_falls_hike" target="_blank" rel="noopener noreferrer">oregonhikers.org/field_guide/tamanawas_falls_hike</a><br><br>
 
 		Nice hiking area between Hood River and Mt Hood. About a 3.4 mile hikes to the falls from the parking area.<br><br>
 
-		Free entrance with NPS Pass <img border="0" src="images-nw/symbol-tix.svg" class="static-nav-icon"><br><br>
+		Free entrance with NPS Pass<br><br>
 
 		<a href="https://images.world-of-waterfalls.com/Tamanawas_Falls_084_08182017.jpg" class="single-url-img" target="_blank" rel="noopener noreferrer"><img border="0"; alt="XXXXXX Placemark"; class="responsive-img"; ></a></td>
 	<td valign="top" width="50%">
@@ -1866,13 +1872,13 @@ Former Tillamook Naval Air Station (aka Blimp Base)</p>
 
 <div id="site-table"><p class="site-header-txt">Proxy Falls in the Willamette National Forest</p> 
 <table width="100%"><td valign="top" width="50%">
-		Area <span class="f2">E</span> - 100 miles SE of Beaverton <img border="0" src="images-nw/symbol-foot.svg" class="static-nav-icon"><br><br>
+		Area <span class="f2">E</span> - 100 miles SE of Beaverton <img border="0" src="images-nw/symbol-foot.svg" class="static-nav-icon"> <img border="0" src="images-nw/symbol-tix.svg" class="static-nav-icon"><br><br>
 
 		<a href="https://www.alltrails.com/trail/us/oregon/proxy-falls" target="_blank" rel="noopener noreferrer">www.alltrails.com/trail/us/oregon/proxy-falls</a><br><br>
 
 		Interesting looking park in the Willamette National Forest enroute to Bend. A 1.6 mile hike to view two of major waterfalls in the park.<br><br>
 
-		Free entrance with NPS Pass <img border="0" src="images-nw/symbol-tix.svg" class="static-nav-icon"><br><br>
+		Free entrance with NPS Pass<br><br>
 
 		<a href="https://www.google.com/maps/place/Proxy+Falls/@44.2559913,-122.2494107,9.17z/data=!4m6!3m5!1s0x54bf50d02df0ecff:0xb992ce5127b9d560!8m2!3d44.1617856!4d-121.9278256!16s/g/11dd_t8d7b?hl=en&entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw==">Google Maps</a></td>
 	<td valign="top" width="50%">
@@ -1882,7 +1888,7 @@ Former Tillamook Naval Air Station (aka Blimp Base)</p>
 
 <div id="site-table"><p class="site-header-txt">Scout Lake in the Deschutes National Forest</p> 
 <table width="100%"><td valign="top" width="50%">
-		Area <span class="f2">E</span> - 150 miles SE of Beaverton <img border="0" src="images-nw/symbol-foot.svg" class="static-nav-icon"> <img border="0" src="images-nw/symbol-binos.svg" class="static-nav-icon"><br><br>
+		Area <span class="f2">E</span> - 150 miles SE of Beaverton <img border="0" src="images-nw/symbol-foot.svg" class="static-nav-icon"> <img border="0" src="images-nw/symbol-binos.svg" class="static-nav-icon"> <img border="0" src="images-nw/symbol-tix.svg" class="static-nav-icon"><br><br>
 
 		<a href="https://oregondiscovery.com/scout-lake" target="_blank" rel="noopener noreferrer">oregondiscovery.com/scout-lake</a><br><br>
 
@@ -1890,7 +1896,7 @@ Former Tillamook Naval Air Station (aka Blimp Base)</p>
 
 		<a href="https://travel.yahoo.com/guides/united-states/oregon/articles/oregon-hike-rivals-zion-dont-190456762.html" target="_blank" rel="noopener noreferrer">Scout Camp Trail</a> article<br><br>
 
-		Free entrance with NPS Pass <img border="0" src="images-nw/symbol-tix.svg" class="static-nav-icon"><br><br>
+		Free entrance with NPS Pass<br><br>
 
 		<a href="https://www.google.com/maps/place/Scout+Lake+Campground/@44.7694278,-121.95524,8.37z/data=!4m6!3m5!1s0x54bf3e27e4f1ebb3:0x9ba3fa962c199cc3!8m2!3d44.41095!4d-121.7472778!16s%2Fg%2F11bw_6h01v?entry=ttu&g_ep=EgoyMDI2MDYwMy4xIKXMDSoASAFQAw%3D%3D" target="_blank" rel="noopener noreferrer">Google Maps</a></td>
 	<td valign="top" width="50%">
@@ -1934,7 +1940,7 @@ Former Tillamook Naval Air Station (aka Blimp Base)</p>
 
 <div id="site-table"><p class="site-header-txt">Tumalo Falls</p>
 <table width="100%"><td valign="top" width="50%">
-		Area <span class="f2">E</span> - 120 miles SE of Beaverton <img border="0" src="images-nw/symbol-foot.svg" class="static-nav-icon"> <br><br>
+		Area <span class="f2">E</span> - 120 miles SE of Beaverton <img border="0" src="images-nw/symbol-foot.svg" class="static-nav-icon"> <img border="0" src="images-nw/symbol-tix.svg" class="static-nav-icon"><br><br>
 
 		<a href="https://gowanderwild.com/tumalo-falls-hike/" target="_blank" rel="noopener noreferrer">gowanderwild.com/tumalo-falls-hike</a><br><br>
 
@@ -1944,7 +1950,7 @@ Former Tillamook Naval Air Station (aka Blimp Base)</p>
 
 		In the Deschutes National Forest. Short hikes from parking lot for views of the Falls.<br><br>
 
-		Free entrance with NPS Pass <img border="0" src="images-nw/symbol-tix.svg" class="static-nav-icon"><br><br>
+		Free entrance with NPS Pass<br><br>
 
 		<a href="https://www.oregonlive.com/resizer/kTpM7mmZeRP0VNNCVwTMdOoDVKk=/800x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/G4MCHORKMJHRXPBNAEJXOWZIKE.jpg" class="single-url-img" target="_blank" rel="noopener noreferrer"><img border="0"; alt="XXXXXX Placemark"; class="responsive-img"; ></a></td>
 	<td valign="top" width="50%">
@@ -1956,13 +1962,13 @@ Former Tillamook Naval Air Station (aka Blimp Base)</p>
 
 <div id="site-table"><p class="site-header-txt">Newberry National Volcanic Monument</p> 
 <table width="100%"><td valign="top" width="50%">
-		Area <span class="f2">E</span> - 130 miles SE of Beaverton <img border="0" src="images-nw/symbol-foot.svg" class="static-nav-icon"> <img border="0" src="images-nw/symbol-binos.svg" class="static-nav-icon"> <br><br>
+		Area <span class="f2">E</span> - 130 miles SE of Beaverton <img border="0" src="images-nw/symbol-foot.svg" class="static-nav-icon"> <img border="0" src="images-nw/symbol-binos.svg" class="static-nav-icon"> <img border="0" src="images-nw/symbol-tix.svg" class="static-nav-icon"><br><br>
 
 		<a href="https://www.fs.usda.gov/r06/deschutes/recreation/newberry-national-volcanic-monument-deschutes-nf" target="_blank" rel="noopener noreferrer">www.fs.usda.gov/visit/destination/newberry-national-volcanic-monument-0</a><br><br>
 
 		About 25 minutes South of Bend. Within the Deschutes National Forest.<br><br>
 
-		Free entrance with NPS Pass <img border="0" src="images-nw/symbol-tix.svg" class="static-nav-icon"><br><br>
+		Free entrance with NPS Pass<br><br>
 
 		<a href="https://sos.oregon.gov/blue-book/explore/PublishingImages/Newberrypage318.jpg" class="single-url-img" target="_blank" rel="noopener noreferrer"><img border="0"; alt="XXXXXX Placemark"; class="responsive-img"; ></a><br>
 
@@ -1973,16 +1979,16 @@ Former Tillamook Naval Air Station (aka Blimp Base)</p>
 			<li><a href="https://www.pinesnvines.com/adventures/lava-river-cave" target="_blank" rel="noopener noreferrer">Lava River Cave</a>. So popular that it now requires time reservations. No access after 2:30pm.</li>
 			<li>The Paulina Visitor Center, Pauline Lake, East Lake and Newberry Caldera (above). Slave to snow removal. Best seen in the summer.</li
 			<li>Big Obsidian Flow. Hard to describe. Biggest collection of obsidian rock(s) you will find. Fairly easy hike to reach the edge of the flow. You can see part of the flow on the right side of the above photo along with the two lakes.</li>
-		</ul></td>
+		</ul>
+	
+		* The Newberry National Volcanic Monumnet is probably the <b>distance limit</b> for a comfortable day round trip from Beaverton. Any further south and you should consider a place for the night or a very long day (and night time return to Beaverton).</td>
 	<td valign="top" width="50%">
 	<a href="https://www.trekwithus.com/wp-content/uploads/2015/11/red-rock-mr-pepper.jpg" class="single-url-img" target="_blank" rel="noopener noreferrer"><img border="0"; alt="XXXXXX Placemark"; class="responsive-img"; ></a><br>
 
 	These are several of the rocks I picked up at the site. I am sure there is even more variety present:<br>
 	<a href="images-nw/photo-east-rocks.jpg" class="single-url-img" target="_blank" rel="noopener noreferrer"><img border="0"; alt="XXXXXX Placemark"; class="responsive-img"; ></a><br>
 
-	<a href="https://www.google.com/maps/place/Newberry+National+Volcanic+Monument/@43.8164453,-121.3313318,11.17z/data=!4m6!3m5!1s0x54b8910feb09419f:0x80f9c3d2a5c2e38a!8m2!3d43.9098549!4d-121.3568955!16zL20vMDFuNWZq?hl=en&entry=ttu" target="_blank" rel="noopener noreferrer">Google Maps</a><br><br>
-
-	* The Newberry National Volcanic Monumnet is probably the <b>distance limit</b> for a comfortable day round trip from Beaverton. Any further south and you should consider a place for the night or a very long day (and night time return to Beaverton).</td>
+	<a href="https://www.google.com/maps/place/Newberry+National+Volcanic+Monument/@43.8164453,-121.3313318,11.17z/data=!4m6!3m5!1s0x54b8910feb09419f:0x80f9c3d2a5c2e38a!8m2!3d43.9098549!4d-121.3568955!16zL20vMDFuNWZq?hl=en&entry=ttu" target="_blank" rel="noopener noreferrer">Google Maps</a></td>
 </table></div>
 
 
@@ -1993,7 +1999,7 @@ Former Tillamook Naval Air Station (aka Blimp Base)</p>
 
 <div id="site-table"><p class="site-header-txt">Crater Lake National Park</p> 
 <table width="100%"><td valign="top" width="50%">
-		Area <span class="f2">F</span> - 180 miles South of Beaverton <img border="0" src="images-nw/symbol-binos.svg" class="static-nav-icon">	<img border="0" src="images-nw/symbol-foot.svg" class="static-nav-icon"><br><br>
+		Area <span class="f2">F</span> - 180 miles South of Beaverton <img border="0" src="images-nw/symbol-binos.svg" class="static-nav-icon">	<img border="0" src="images-nw/symbol-foot.svg" class="static-nav-icon"> <img border="0" src="images-nw/symbol-tix.svg" class="static-nav-icon"><br><br>
 
 		<a href="https://www.nps.gov/crla/index.htm" target="_blank" rel="noopener noreferrer">nps.gov/crla</a><br><br>
 
@@ -2019,7 +2025,7 @@ Former Tillamook Naval Air Station (aka Blimp Base)</p>
 
 	<a href="https://www.kuhl.com/borninthemountains/things-to-do-crater-lake-national-park" target="_blank" rel="noopener noreferrer">Best things To Do At Crater Lake</a><br><br>
 
-	Free entrance with NPS Pass <img border="0" src="images-nw/symbol-tix.svg" class="static-nav-icon"><br><br>
+	Free entrance with NPS Pass<br><br>
 
 	<a href="https://www.google.com/maps/place/Crater+Lake+National+Park/@44.1186908,-123.8770564,7.21z/data=!4m6!3m5!1s0x54c6170840e5e339:0x902bf2e1452fe3a3!8m2!3d42.9294762!4d-122.1279394!16zL20vMDE3eXk0?hl=en&entry=ttu" target="_blank" rel="noopener noreferrer">Google Maps</a></td>
 </table></div>
@@ -2027,13 +2033,13 @@ Former Tillamook Naval Air Station (aka Blimp Base)</p>
 
 <!-- <div id="site-table"><p class="site-header-txt">Alfred A. Loeb State Park</p> 
 <table width="100%"><td valign="top" width="50%">
-		Area <span class="f2">F</span> - 250 miles South of Beaverton (in Oregon) <img border="0" src="images-nw/symbol-binos.svg" class="static-nav-icon"> <img border="0" src="images-nw/symbol-foot.svg" class="static-nav-icon"> <br><br>
+		Area <span class="f2">F</span> - 250 miles South of Beaverton (in Oregon) <img border="0" src="images-nw/symbol-binos.svg" class="static-nav-icon"> <img border="0" src="images-nw/symbol-foot.svg" class="static-nav-icon"> <img border="0" src="images-nw/symbol-tix.svg" class="static-nav-icon"><br><br>
 
 		<a href="https://stateparks.oregon.gov/index.cfm?do=park.profile&parkId=51" target="_blank" rel="noopener noreferrer">Oregon State Park page</a><br><br>
 
 		Found this site by chance on the web. This park is the only stand of redwoods in Oregon. About 8 miles north of the Oregon/California border. The redwoods are not as tall as those in California, but it looks like a nice park to visit if near the southern Oregon coast.<br><br>
 
-		Free parking with State Park Pass <img border="0" src="images-nw/symbol-tix.svg" class="static-nav-icon"><br><br>
+		Free parking with State Park Pass<br><br>
 
 		<a href="https://www.google.com/maps/place/Alfred+A.+Loeb+State+Park/@44.0218395,-122.346049,7.38z/data=		!4m6!3m5!1s0x54daa449572bf0c9:0xb182ca475bab7fe1!8m2!3d42.1127554!4d-124.1877237!16s%2Fm%2F04q0g19?entry=ttu&g_ep=EgoyMDI2MDQyMi4wIKXMDSoASAFQAw%3D%3D" target="_blank" rel="noopener noreferrer">Google Maps</a><br></td>
 	<td valign="top" width="50%">
@@ -2331,13 +2337,13 @@ Former Tillamook Naval Air Station (aka Blimp Base)</p>
 
 <div id="site-table"><p class="site-header-txt">Dungeness National Wildlife Refuge</p> 
 <table width="100%"><td valign="top" width="50%">
-		Area <span class="f2">G</span> - 185 miles North of Beaverton <img border="0" src="images-nw/symbol-foot.svg" class="static-nav-icon"> <img border="0" src="images-nw/symbol-binos.svg" class="static-nav-icon"><br><br>
+		Area <span class="f2">G</span> - 185 miles North of Beaverton <img border="0" src="images-nw/symbol-foot.svg" class="static-nav-icon"> <img border="0" src="images-nw/symbol-binos.svg" class="static-nav-icon"> <img border="0" src="images-nw/symbol-tix.svg" class="static-nav-icon"><br><br>
 
 		<a href="https://www.wta.org/go-hiking/hikes/dungeness-recreation-area" target="_blank" rel="noopener noreferrer">wta.org/go-hiking/hikes/dungeness-recreation-area</a><br><br>
 
 		Walk the spit to the New Dungeness Lighthouse (about 4.5 miles).<br><br>
 
-		$3 per group <img border="0" src="images-nw/symbol-tix.svg" class="static-nav-icon"><br><br>
+		$3 per group<br><br>
 
 	<a href="https://dungenessbaycottages.com/wp-content/uploads/2021/01/bigstock-Wooden-Pier-Washington-State-F-363488755-1024x683.jpg.webp" class="single-url-img" target="_blank" rel="noopener noreferrer"><img border="0"; alt="XXXXXX Placemark"; class="responsive-img"; ></a></td>
 	<td valign="top" width="50%">
@@ -2348,7 +2354,7 @@ Former Tillamook Naval Air Station (aka Blimp Base)</p>
 
 <div id="site-table"><p class="site-header-txt">Olympic National Park</p> 
 <table width="100%"><td valign="top" width="50%">
-		Area <span class="f2">G</span> - 175 miles North of Beaverton <img border="0" src="images-nw/symbol-foot.svg" class="static-nav-icon"> <br><br>
+		Area <span class="f2">G</span> - 175 miles North of Beaverton <img border="0" src="images-nw/symbol-foot.svg" class="static-nav-icon"> <img border="0" src="images-nw/symbol-tix.svg" class="static-nav-icon"><br><br>
 
 		<a href="https://www.nps.gov/olym/planyourvisit/park-overview-three-parks-in-one.htm" target="_blank" rel="noopener noreferrer">nps.gov/olym</a><br><br>
 
@@ -2358,7 +2364,7 @@ Former Tillamook Naval Air Station (aka Blimp Base)</p>
 
 		Unfortunately the main lodge at Hurricane Ridge burned to the ground May 2023. The site has been closed for a while.<br><br>
 
-		Free entrance with NPS Pass <img border="0" src="images-nw/symbol-tix.svg" class="static-nav-icon"><br><br>
+		Free entrance with NPS Pass<br><br>
 
 		<a href="https://www.oregonlive.com/resizer/dZnOMIa8pcQ9nJCrVNK_m9CtkqA=/800x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/TXQ7VXMIIVC2ZOT6RGLDTM2HJI.jpg" class="single-url-img" target="_blank" rel="noopener noreferrer"><img border="0"; alt="XXXXXX Placemark"; class="responsive-img"; ></a></td>
 	<td valign="top" width="50%">
@@ -2462,9 +2468,9 @@ Former Tillamook Naval Air Station (aka Blimp Base)</p>
 
 <div id="site-table"><p class="site-header-txt">Mount Rainier National Park</p> 
 <table width="100%"><td valign="top" width="50%">
-		Area <span class="f2">G</span> - 100 miles NW of Beaverton <img border="0" src="images-nw/symbol-foot.svg" class="static-nav-icon"> <img border="0" src="images-nw/symbol-binos.svg" class="static-nav-icon"><br><br>
+		Area <span class="f2">G</span> - 100 miles NW of Beaverton <img border="0" src="images-nw/symbol-foot.svg" class="static-nav-icon"> <img border="0" src="images-nw/symbol-binos.svg" class="static-nav-icon"> <img border="0" src="images-nw/symbol-tix.svg" class="static-nav-icon"><br><br>
 
-		Free entrance with NPS Pass <img border="0" src="images-nw/symbol-tix.svg" class="static-nav-icon"><br><br>
+		Free entrance with NPS Pass<br><br>
 
 		National Park Service <a href="https://www.nps.gov/mora/planyourvisit/upload/Mount-Rainier-Brochure-final_Combo_508_v2023.pdf">brochure</a> (PDF)<br><br>
 
@@ -2476,7 +2482,7 @@ Former Tillamook Naval Air Station (aka Blimp Base)</p>
 </table></div>
 
 
-<div id="site-table"><p class="site-header-txt">North Cascades Towns/Sites</p> 
+<!-- <div id="site-table"><p class="site-header-txt">North Cascades Towns/Sites</p> 
 <table width="100%"><td valign="top" width="50%">
 		North and East of Seattle <img border="0" src="images-nw/symbol-foot.svg" class="static-nav-icon"> <img border="0" src="images-nw/symbol-binos.svg" class="static-nav-icon"><br><br>
 
@@ -2496,7 +2502,7 @@ Former Tillamook Naval Air Station (aka Blimp Base)</p>
 	<td valign="top" width="50%">
 	View near North Bend:<br>
 	<a href="https://static1.thetravelimages.com/wordpress/wp-content/uploads/2024/03/shutterstock_2261940865.jpg?q=70&fit=contain&w=735&h=480&dpr=1" class="single-url-img" target="_blank" rel="noopener noreferrer"><img border="0"; alt="XXXXXX Placemark"; class="responsive-img"; ></a></td>
-</table></div>
+</table></div> -->
 
 
 <div id="site-table"><p class="site-header-txt">Leavenworth</p> 
@@ -2590,20 +2596,23 @@ This state park is a hidden jewel at the perimeter of the Redwood National Park.
 
 Watch out for the <a href="images-fern-canyon-travel/photo-fern-canyon-2002.jpg" target="_blank" rel="noopener noreferrer">wildlife</a> walking to the trailhead from the parking lot. Incredible. <br><br>
 
-<table width="100%"><td valign="top" width="40%">
-		<a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2_34oD5aynXgElK29QmU8reYj9q5t4v7hoFV3YRCF-sn5qfMfJH0VNkU&s=10" class="single-url-img" target="_blank" rel="noopener noreferrer"><img border="0"; alt="XXXXXX Placemark"; class="responsive-img"; ></a></td>
-	<td valign="top" width="60%">
-	Well worth the 2-3 hour stopover visit while heading North from CA to OR.<br><br>
+<table width="100%"><td valign="top" width="55%">
+		Well worth the 2-3 hour stopover visit while heading North from CA to OR.<br><br>
 
-	From the Hwy 101 turnoff to the last parking lot is about 7 miles. This access road has some very thick tree cover so relying on a Smartphone GPS for most of the road trip might not be reliable. The drive itself is worth a leisurely pace. Count on need for a car wash after the visit (dust).<br><br>
+		From the Hwy 101 turnoff to the last parking lot is about 7 miles. This access road has some very thick tree cover so relying on a Smartphone GPS for most of the road trip might not be reliable. The drive itself is worth a leisurely pace. Count on need for a car wash after the visit (dust).<br><br>
 
-	The canyon entrance is about 1/4 mile north of the last north beach parking lot.<br><br>
+		The canyon entrance is about 1/4 mile north of the last north beach parking lot.<br><br>
 
-	Make sure to go on a mid-week day to avoid any crowds.<br><br>
+		Make sure to go on a mid-week day to avoid any crowds.<br><br>
 	
-	Parking costs has increased over the years to the current $12/vehicle. I remember during our first visit to Fern Canyon parking was only $2. But at the current price, it is still worth it.<br><br><br>
+		Parking costs has increased over the years to the current $12/vehicle. I remember during our first visit to Fern Canyon parking was only $2. But at the current price, it is still worth it.<br><br>
 
-	A late note: if you think I cherry picked my best pics of Fern Canyon for this web page, look over a <a href="https://www.google.com/search?q=fern+canyon&sca_esv=568381026&tbm=isch&source=lnms&sa=X&ved=2ahUKEwjo7a6ln8eBAxXFOn0KHesQDPsQ_AUoAnoECAYQBA&biw=1255&bih=936&dpr=0.9" target="_blank" rel="noopener noreferrer">Google pic search</a> of the location. Every pic is breathtaking.</td>
+		<a href="https://www.themandagies.com/wp-content/uploads/2020/10/Fern-Canyon-Redwoods-National-Park-Northern-California-Road-Trip-The-Mandagies-58-scaled.jpg" class="single-url-img" target="_blank" rel="noopener noreferrer"><img border="0"; alt="XXXXXX Placemark"; class="responsive-img"; ></a></td>
+	<td valign="top" width="45%">
+	<a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2_34oD5aynXgElK29QmU8reYj9q5t4v7hoFV3YRCF-sn5qfMfJH0VNkU&s=10" class="single-url-img" target="_blank" rel="noopener noreferrer"><img border="0"; alt="XXXXXX Placemark"; class="responsive-img"; ></a><br>
+	
+	A late note: if you think I cherry picked the best pics of Fern Canyon for this web page, look over a <a href="https://www.google.com/search?q=fern+canyon&sca_esv=568381026&tbm=isch&source=lnms&sa=X&ved=2ahUKEwjo7a6ln8eBAxXFOn0KHesQDPsQ_AUoAnoECAYQBA&biw=1255&bih=936&dpr=0.9" target="_blank" rel="noopener noreferrer">Google pic search</a> of the location. Every pic is breathtaking.</td>
+	
 </table>
 
 <br>
