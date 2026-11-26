@@ -57,7 +57,7 @@ td				{margin-left: auto; margin-right: auto; font-size: 10pt; border: 0px solid
 
 <!-- to create a shadow border to image: inside <img > add the following: style="border: 0px solid black; box-shadow: 8px 8px 12px #999" Modify variables -->
 
-<!-- To create External Styles insert the following (between <>) in the HTLM section where XXXX = name of the CSS page: link rel="stylesheet" type="text/css" href="XXXX.css" -->
+<!-- To create External Styles insert the following (between <>) in the HTML section where XXXX = name of the CSS page: link rel="stylesheet" type="text/css" href="XXXX.css" -->
 
 <link rel="shortcut icon" href="images-general/oregon.ico"/>
 <meta name="Microsoft Border" content="tl, default">
@@ -73,11 +73,11 @@ td				{margin-left: auto; margin-right: auto; font-size: 10pt; border: 0px solid
 <div id="Content">
 <p class="site-header-txt"><a href="https://pbo-or.github.io/nw-travel1.shtml"><span class="area-header-txt">Northwest Travel Sites</span></a></p> 
 
-<p style="text-align: center">Last update: November 22, 2026</p>
+<p style="text-align: center">Last update: November 25, 2026</p>
 
 <p style="text-align: center"><img border="0" src="images-nw/map-nw-general.jpg" width="608" height="auto" style="border: 0px solid black; box-shadow: 8px 8px 12px #999"></p><br>
 
-I put together this web page to give travel ideas for a Pacific Northwest visit. It is for personal use only (friends and family). If shared, please make sure the receiver understands this. I am not running a tourist busines or profiting from my interest in collecting and sharing information. If you spot errors or page problems, don't hesitate to send me an email so I can make any needed updates. PBO<br><br>
+I put together this web page to give travel ideas for a Pacific Northwest visit. It is for personal use only (friends and family). If shared, please make sure the receiver understands this. I am not running a tourist business or profiting from my interest in collecting and sharing information. If you spot errors or page problems, don't hesitate to send me an email so I can make any needed updates. PBO<br><br>
 
 <p style="text-align: center"><b>Quick Navigation Links</b>:<br><br>
 
@@ -705,7 +705,7 @@ aka Portland International Rose Test Garden</p>
 	<td valign="top" width="50%">
 	<a href="https://www.splintercat.org/PortlandHikers/140613AbiquaButteCreek05.jpg" class="single-url-img" target="_blank" rel="noopener noreferrer"><img border="0"; alt="XXXXXX Placemark"; class="responsive-img"; ></a><br>
 	
-	At this time I cannot fully endorse this park. However, there is a rumor of the state will possibly acquire Abique Falls. If they ever improve the access road, we might try another visit.<br><br>
+	At this time I cannot fully endorse this park. However, there is a rumor of the state will possibly acquire Abiqua Falls. If they ever improve the access road, we might try another visit.<br><br>
 
 	If waterfalls intrigue you, we have a lot of them here. Check out the Waterfalls page link near the bottom of this page.<br><br>
 	
@@ -772,7 +772,7 @@ Many of the Portland and Beaverton sites shown on a single map: <a href="images-
 
 	<a href="https://traveloregon.com/wp-content/uploads/2014/08/02_Wine_Slideshow_davidhill_large.jpg" class="single-url-img" target="_blank" rel="noopener noreferrer"><img border="0"; alt="XXXXXX Placemark"; class="responsive-img"; ></a><br>
 
-	* Looked all over for a detailed vinyard list online. Most published lists ask the vineyards to pay for their name to be on the list. The really good vineyards don't need to advertise (they are always busy). The lesser known and small (but sometimes the most interesting) vineyards don't have the big budget to be added to every list. So every published vineyard list is flawed and incomplete.<br><br>
+	* Looked all over for a detailed vineyard list online. Most published lists ask the vineyards to pay for their name to be on the list. The really good vineyards don't need to advertise (they are always busy). The lesser known and small (but sometimes the most interesting) vineyards don't have the big budget to be added to every list. So every published vineyard list is flawed and incomplete.<br><br>
 
 	I have since found this <a href="https://digitalcommons.linfield.edu/owha_owb_maps/10/" target="_blank" rel="noopener noreferrer">web page</a> to include a decent map of local vineyards. Does not include newer vineyards, but still decent. Click on the Download Original link to get a map of the entire Willamette Valley.</td>
 </table></div>
@@ -826,9 +826,9 @@ Many of the Portland and Beaverton sites shown on a single map: <a href="images-
 
 		Yes, that is the Howard Hughes Spruce Goose in the photo. Massive.<br><br>
 
-		Visited the Evergreen Air and Space Museum 25 years ago with the boys after the Spuce Goose had arrived. They had a variety of aircraft at the time. Now they have 3 times the number of aircraft in 2 huge buildings.<br><br>
+		Visited the Evergreen Air and Space Museum 25 years ago with the boys after the Spruce Goose had arrived. They had a variety of aircraft at the time. Now they have 3 times the number of aircraft in 2 huge buildings.<br><br>
 
-		A retired friend of mine (the former city engineer for Sherwood) is now a volunteer docent giving tours. His speciality area is the Spruce Goose. But, he knows plenty about the rest of the museum. He has offered to provide a guided tour to our guests (max of 3 persons at a time).<br><br>
+		A retired friend of mine (the former city engineer for Sherwood) is now a volunteer docent giving tours. His specialty area is the Spruce Goose. But, he knows plenty about the rest of the museum. He has offered to provide a guided tour to our guests (max of 3 persons at a time).<br><br>
 
 		Adults $28+<br>
 		Seniors and Veterans $24+ (my friend may be able to provide free entry)<br><br>
@@ -891,10 +891,10 @@ Many of the Portland and Beaverton sites shown on a single map: <a href="images-
 	<ul>
 		<li><a href="https://www.akirasushibeaverton.com/gallery" target="_blank" rel="noopener noreferrer">Akira Sushi</a>. Simple setting. Good selection. Decent prices.</li>
 		<li><a href="https://gosushitown.com/" target="_blank" rel="noopener noreferrer">Sushi Town</a>. A little further away. Very friendly service.</li>
-		<li>Of interest... for something completely different, there is a <a href="https://kurasushi.com/locations/beaverton-or" target="_blank" rel="noopener noreferrer">Kura Revolving Sushi Bar</a> also near our house. Very modern. Digital screen selection at your table or seats. Conveyor belt almost instantly shoots your food to your table. Drinks are served by robots rolling around the resturant. A little pricey for the smaller size selections, but definitely an interesting experience. </li>
+		<li>Of interest... for something completely different, there is a <a href="https://kurasushi.com/locations/beaverton-or" target="_blank" rel="noopener noreferrer">Kura Revolving Sushi Bar</a> also near our house. Very modern. Digital screen selection at your table or seats. Conveyor belt almost instantly shoots your food to your table. Drinks are served by robots rolling around the restaurant. A little pricey for the smaller size selections, but definitely an interesting experience. </li>
 	</ul>
 
-	A new <a href="https://ajisaisushisteak.com/" target="_blank" rel="noopener noreferrer">Ajisai Sushi and Steak</a> restraurant has opened very close to the house. Appears to be a national chain. Tasty, but expensive.<br><br>
+	A new <a href="https://ajisaisushisteak.com/" target="_blank" rel="noopener noreferrer">Ajisai Sushi and Steak</a> restaurant has opened very close to the house. Appears to be a national chain. Tasty, but expensive.<br><br>
 	
 	If you want to go upscale, we do have our own local <a href="https://www.benihana.com/locations/beaverton/" target="_blank" rel="noopener noreferrer">Benihana</a>. Expensive. Long lead time for reservations, but always an experience and really good food. In very high demand. Even with a reservation, we have waited nearly an hour multiple times for tables to open up.<br><br>
 	By almost chance, we recently tried a nearby Chinese <span style="background-color: #FFFFFF"><a href="JavaScript:doExpand(ChinaDelightBox)">restaurant</span> <img src="images-general/down-arrow.svg" class="static-icon" /></a>. Good food. Worth a mention. We would recommend China Delight for an evening when fixing a meal is not in the cards.
