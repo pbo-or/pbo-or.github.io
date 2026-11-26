@@ -59,6 +59,8 @@ td				{margin-left: auto; margin-right: auto; font-size: 10pt; border: 0px solid
 
 <!-- To create External Styles insert the following (between <>) in the HTML section where XXXX = name of the CSS page: link rel="stylesheet" type="text/css" href="XXXX.css" -->
 
+<!-- cSpell:ignoreRegExp Urls -->
+
 <link rel="shortcut icon" href="images-general/oregon.ico"/>
 <meta name="Microsoft Border" content="tl, default">
 
@@ -73,7 +75,7 @@ td				{margin-left: auto; margin-right: auto; font-size: 10pt; border: 0px solid
 <div id="Content">
 <p class="site-header-txt"><a href="https://pbo-or.github.io/nw-travel1.shtml"><span class="area-header-txt">Northwest Travel Sites</span></a></p> 
 
-<p style="text-align: center">Last update: November 25, 2026</p>
+<p style="text-align: center">Last update: November 26, 2026</p>
 
 <p style="text-align: center"><img border="0" src="images-nw/map-nw-general.jpg" width="608" height="auto" style="border: 0px solid black; box-shadow: 8px 8px 12px #999"></p><br>
 
@@ -145,7 +147,7 @@ Control+Home will return you to the top of the page<br>
 	
 	Click on a photo to go to a larger online version of the same photo. To close the photo and return to this page in Edge and Firefox, click the browser Back Arrow or Alt+Left Arrow.<br><br>
 
-	I recently did external link updates. Most images on this page are uploaded from Internet. If you have a less than 100% full speed Internet connection, you might see a placemark reading, "<b>XXXXXX Placemark</b>" instead of a photo. This can occur if you are trying to view the page on your phone. If you click Refresh, the missing photo should appear. If the photo does not appear on this page, just click the <b>XXXXXX Placement</b> link and you can view the full sized photo.
+	I recently did external link updates. Most images on this page are uploaded from Internet. If you have a less than 100% full speed Internet connection, you might see a placemark reading, "<b>XXXXXX Placemark</b>" instead of a photo. This can occur if you are trying to view the page on your phone. If you click Refresh, the missing photo should appear. If the photo does not appear on this page, just click the <b>XXXXXX Placemark</b> link and you can view the full sized photo.
 </div><br>
 
 <p style="text-align: center">Supplemental information:</p>
@@ -445,7 +447,7 @@ aka Portland International Rose Test Garden</p>
 		Senior (63+) $19.50</ul>
 		
 		Separate admission for submarine tour: Senior (63+) $7.50<br>
-		Submarine technical tours by reservation. Adult $20. This technical tour last 3 hours!<br><br>
+		Submarine technical tours by reservation. Adult $20. This technical tour lasts 3 hours!<br><br>
 
 		Parking $5+<br><br>
 
@@ -697,7 +699,7 @@ aka Portland International Rose Test Garden</p>
 
 		Private park owned by the Mount Angel Abbey (above).<br><br>
 
-		This falls is a challenge to get to. About 15 road miles from the Abbey (part gravel road). It is a moreless native park facility. We understand there is a rope guide to assist down the steep trail slope to the falls.<br><br>
+		This falls is a challenge to get to. About 15 road miles from the Abbey (part gravel road). It is a more or less native park facility. We understand there is a rope guide to assist down the steep trail slope to the falls.<br><br>
 		
 		This last Fall we "tried" to visit Abiqua Falls. The gravel access road went from average to downright impossible. We finally pulled the car over and hiked the remainder of the access to the park entry (more than 2 miles). And we never made to the entry. Gave up and turned around back to the car. It was later that I discovered my bumper got damaged by the rutted gravel road. Over $1000 to recently repair!<br><br>
 
@@ -1353,7 +1355,7 @@ Former Tillamook Naval Air Station (aka Blimp Base)</p>
 	<p style="text-align: center">View to the North<br>
 	<a href="https://static.wixstatic.com/media/35f303_f6807a780e7e460b85c62fdba650f30d~mv2.jpg/v1/fill/w_980,h_652,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/35f303_f6807a780e7e460b85c62fdba650f30d~mv2.jpg" class="single-url-img" target="_blank" rel="noopener noreferrer"><img border="0"; alt="XXXXXX Placemark"; class="responsive-img"; ></a></p>
 	
-	<a href="https://www.google.com/maps/place/The+Knoll+Open+Space+Trailhead/@45.0111016,-124.0113887,12.33z/data=!4m6!3m5!1s0x54eaed336259bd4d:0x8717af00672f47bc!8m2!3d45.0108678!4d-123.9976814!16s%2Fg%2F11fxw8kh75?entry=ttu&g_ep=EgoyMDI2MTExOC4xIKXMDSoASAFQAw%3D%3D" target="_blank" rel="noopener noreferrer">Google Maps</a> (trailhead start)</td>
+	<a href="https://www.google.com/maps/place/The+Knoll+Open+Space+Trailhead/@45.0111016,-124.0113887,12.33z/data=!4m6!3m5!1s0x54eaed336259bd4d:0x8717af00672f47bc!8m2!3d45.0108678!4d-123.9976814!16s%2Fg%2F11fxw8kh75?entry=ttu&g_ep=EgoyMDI2MTExOC4xIKXMDSoASAFQAw%3D%3D" target="_blank" rel="noopener noreferrer">Google Maps</a> (trail head start)</td>
 </table></div>
 
 
@@ -1386,7 +1388,7 @@ Former Tillamook Naval Air Station (aka Blimp Base)</p>
 
 		I think this is the best used bookstore along the Oregon coast.<br><br>
 
-		Recent newsaper <a href="images-nw/coast-roberts-bookshop.pdf">article</a> (PDF).<br><br>
+		Recent newspaper <a href="images-nw/coast-roberts-bookshop.pdf">article</a> (PDF).<br><br>
 
 		<a href="https://www.google.com/maps/place/Robert's+Bookshop/@44.9757992,-124.1579314,11.17z/data=!4m6!3m5!1s0x54ea8db48c4497b1:0x5ed2eb89dd7a2831!8m2!3d44.9417954!4d-124.0209268!16s/g/1vp6zxvb?hl=en&entry=ttu" target="_blank" rel="noopener noreferrer">Google Maps</a></td>
 	<td valign="top" width="50%">
@@ -1837,7 +1839,7 @@ Former Tillamook Naval Air Station (aka Blimp Base)</p>
 
 		<a href="https://www.thecraftsmanbungalow.com/wp-content/uploads/2013/09/IMG_4775a1.jpg" class="single-url-img" target="_blank" rel="noopener noreferrer"><img border="0"; alt="XXXXXX Placemark"; class="responsive-img"; ></a><br>
 
-		Everytime I visit Timberline, I aways found the entry road from the State Highway up to the lodge to be impressive with huge light colored boulders along the roadway and mountain off in the distance. It is like you are getting clues that you are approaching a different kind of place.<br><br>
+		Every time I visit Timberline, I always found the entry road from the State Highway up to the lodge to be impressive with huge light colored boulders along the roadway and mountain off in the distance. It is like you are getting clues that you are approaching a different kind of place.<br><br>
 
 		From the front ledge over the entrance is an excellent view to the southwest Cascade Mountain Range. Bring binos for the best experience.</td>
 	<td valign="top" width="50%">
@@ -1988,7 +1990,7 @@ Former Tillamook Naval Air Station (aka Blimp Base)</p>
 			<li>Big Obsidian Flow. Hard to describe. Biggest collection of obsidian rock(s) you will find. Fairly easy hike to reach the edge of the flow. You can see part of the flow on the right side of the above photo along with the two lakes.</li>
 		</ul>
 	
-		* The Newberry National Volcanic Monumnet is probably the <b>distance limit</b> for a comfortable day round trip from Beaverton. Any further south and you should consider a place for the night or a very long day (and night time return to Beaverton).</td>
+		* The Newberry National Volcanic Monument is probably the <b>distance limit</b> for a comfortable day round trip from Beaverton. Any further south and you should consider a place for the night or a very long day (and night time return to Beaverton).</td>
 	<td valign="top" width="50%">
 	<a href="https://www.trekwithus.com/wp-content/uploads/2015/11/red-rock-mr-pepper.jpg" class="single-url-img" target="_blank" rel="noopener noreferrer"><img border="0"; alt="XXXXXX Placemark"; class="responsive-img"; ></a><br>
 
@@ -2173,7 +2175,7 @@ Former Tillamook Naval Air Station (aka Blimp Base)</p>
 
 		An <a href="https://travelbinger.com/sea-glass-beaches/" target="_blank" rel="noopener noreferrer">article</a> with more info.<br><br>
 
-		An unusual location with a variety of glass washed up on the beach of the Straight of Juan de Fuca. You might think the glass from a natural resource. But, alas, years ago the community dumped their trash along this coast. This is the remants of that trash.<br><br>
+		An unusual location with a variety of glass washed up on the beach of the Straight of Juan de Fuca. You might think the glass from a natural resource. But, alas, years ago the community dumped their trash along this coast. This is the remnants of that trash.<br><br>
 
 		On a clear day you can see Vancouver Island in Canada across the Straight.<br><br>
 
@@ -2463,7 +2465,7 @@ Former Tillamook Naval Air Station (aka Blimp Base)</p>
 <table width="100%"><td valign="top" width="50%">
 		Area <span class="f2">G</span> - 150 miles NW of Beaverton <img border="0" src="images-nw/symbol-foot.svg" class="static-nav-icon"> <img border="0" src="images-nw/symbol-binos.svg" class="static-nav-icon"><br><br>
 
-		Snoqualmie Falls <a href="https://www.snoqualmiefalls.com/" target="_blank" rel="noopener noreferrer">web site</a><br><br>
+		<a href="https://www.snoqualmiefalls.com/" target="_blank" rel="noopener noreferrer">snoqualmiefalls.com</a><br><br>
 
 		This site is about 20 miles East of downtown Seattle. Worth a stop over if heading East of Seattle. The scenic view of the falls is shown in the TV mini-series, Twin Peaks.<br><br>
 
